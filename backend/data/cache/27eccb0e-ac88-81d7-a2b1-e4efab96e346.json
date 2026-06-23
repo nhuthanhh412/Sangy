@@ -1,0 +1,780 @@
+[
+  {
+    "id": "284ccb0e-ac88-81ce-b698-d8c1148fb42d",
+    "created_time": "2025-10-06T02:26:00.000Z",
+    "last_edited_time": "2025-10-14T07:19:00.000Z",
+    "properties": {
+      "Product ": [
+        "284ccb0e-ac88-8073-a6cd-eefc0a040278"
+      ],
+      "Task main": "1",
+      "Task QC": "1/3",
+      "Run n8n": true,
+      "TP giả định": 17.24,
+      "Trọng số TP": 1,
+      "Product Type": [
+        "Layout"
+      ],
+      "[Dev] Total main": 1,
+      "Task type": "Main",
+      "Product Status": [
+        "QC Approved"
+      ],
+      "Task Status": "Done",
+      "Episode": null,
+      "Done Date": null,
+      "Product Point": [
+        25
+      ],
+      "Assignee": [
+        {
+          "id": "1fc365a3-6caf-4a7b-9866-0e7b43858917",
+          "name": "Lộc Nguyễn",
+          "email": "locng@sangygroup.com"
+        }
+      ],
+      "TP thực tế": 17.24,
+      "Task fix": "1/3",
+      "Created time": null,
+      "Tasks": "LO 040 ver1",
+      "Sprint": []
+    },
+    "_title": "LO 040 ver1",
+    "database_name": "[Harben] Tasks ",
+    "project_name": "[Harben] Tasks",
+    "database_id": "27eccb0e-ac88-81d7-a2b1-e4efab96e346"
+  },
+  {
+    "id": "287ccb0e-ac88-818b-9ca3-d6945dd8fbd5",
+    "created_time": "2025-10-09T07:42:00.000Z",
+    "last_edited_time": "2025-10-14T07:19:00.000Z",
+    "properties": {
+      "Product ": [
+        "284ccb0e-ac88-8073-a6cd-eefc0a040278"
+      ],
+      "Task main": "1",
+      "Task QC": "1/3",
+      "Run n8n": false,
+      "TP giả định": 3,
+      "Trọng số TP": 0.3,
+      "Product Type": [
+        "Layout"
+      ],
+      "[Dev] Total main": 0,
+      "Task type": "Fix",
+      "Product Status": [
+        "QC Approved"
+      ],
+      "Task Status": "Done QC",
+      "Episode": null,
+      "Done Date": null,
+      "Product Point": [
+        25
+      ],
+      "Assignee": [
+        {
+          "id": "1fc365a3-6caf-4a7b-9866-0e7b43858917",
+          "name": "Lộc Nguyễn",
+          "email": "locng@sangygroup.com"
+        }
+      ],
+      "TP thực tế": 5.17,
+      "Task fix": "1/3",
+      "Created time": null,
+      "Tasks": "LO 040 ver2",
+      "Sprint": []
+    },
+    "_title": "LO 040 ver2",
+    "database_name": "[Harben] Tasks ",
+    "project_name": "[Harben] Tasks",
+    "database_id": "27eccb0e-ac88-81d7-a2b1-e4efab96e346"
+  },
+  {
+    "id": "287ccb0e-ac88-81d0-80fa-d44f421b2c13",
+    "created_time": "2025-10-09T07:42:00.000Z",
+    "last_edited_time": "2025-10-14T07:19:00.000Z",
+    "properties": {
+      "Product ": [
+        "284ccb0e-ac88-80b1-a5d3-da7bb446aa7f"
+      ],
+      "Task main": "1",
+      "Task QC": "2/3",
+      "Run n8n": false,
+      "TP giả định": 19.23,
+      "Trọng số TP": 1,
+      "Product Type": [
+        "Background"
+      ],
+      "[Dev] Total main": 1,
+      "Task type": "Main",
+      "Product Status": [
+        "QC Approved"
+      ],
+      "Task Status": "Done QC",
+      "Episode": null,
+      "Done Date": null,
+      "Product Point": [
+        25
+      ],
+      "Assignee": [
+        {
+          "id": "1fc365a3-6caf-4a7b-9866-0e7b43858917",
+          "name": "Lộc Nguyễn",
+          "email": "locng@sangygroup.com"
+        }
+      ],
+      "TP thực tế": 19.23,
+      "Task fix": "0/3",
+      "Created time": null,
+      "Tasks": "BG 040 ver1",
+      "Sprint": []
+    },
+    "_title": "BG 040 ver1",
+    "database_name": "[Harben] Tasks ",
+    "project_name": "[Harben] Tasks",
+    "database_id": "27eccb0e-ac88-81d7-a2b1-e4efab96e346"
+  },
+  {
+    "id": "28cccb0e-ac88-8093-8a18-fd813ee5c483",
+    "created_time": "2025-10-14T07:18:00.000Z",
+    "last_edited_time": "2025-10-14T07:18:00.000Z",
+    "properties": {
+      "Product ": [
+        "284ccb0e-ac88-8016-b6e4-fd800622f834"
+      ],
+      "Task main": "1",
+      "Task QC": "0/1",
+      "Run n8n": false,
+      "TP giả định": 35,
+      "Trọng số TP": 1,
+      "Product Type": [
+        "Cut-out"
+      ],
+      "[Dev] Total main": 1,
+      "Task type": "Main",
+      "Product Status": [
+        "Need Fix Client"
+      ],
+      "Task Status": "Not started",
+      "Episode": null,
+      "Done Date": null,
+      "Product Point": [
+        35
+      ],
+      "Assignee": [
+        {
+          "id": "cc427545-583b-4bbc-8f17-5b0e498d3b91",
+          "name": "Unknown User",
+          "email": null
+        }
+      ],
+      "TP thực tế": 35,
+      "Task fix": "0/1",
+      "Created time": null,
+      "Tasks": "Anim 040 ver1",
+      "Sprint": [
+        "27eccb0e-ac88-81f5-a770-db6339d40f4d"
+      ]
+    },
+    "_title": "Anim 040 ver1",
+    "database_name": "[Harben] Tasks ",
+    "project_name": "[Harben] Tasks",
+    "database_id": "27eccb0e-ac88-81d7-a2b1-e4efab96e346"
+  },
+  {
+    "id": "28cccb0e-ac88-8134-9b84-f56a11e63943",
+    "created_time": "2025-10-14T07:18:00.000Z",
+    "last_edited_time": "2025-10-14T07:18:00.000Z",
+    "properties": {
+      "Product ": [
+        "284ccb0e-ac88-8073-a6cd-eefc0a040278"
+      ],
+      "Task main": "1",
+      "Task QC": "1/3",
+      "Run n8n": false,
+      "TP giả định": 1.5,
+      "Trọng số TP": 0.15,
+      "Product Type": [
+        "Layout"
+      ],
+      "[Dev] Total main": 0,
+      "Task type": "QC",
+      "Product Status": [
+        "QC Approved"
+      ],
+      "Task Status": "Done QC",
+      "Episode": null,
+      "Done Date": null,
+      "Product Point": [
+        25
+      ],
+      "Assignee": [
+        {
+          "id": "c206b06c-81cf-4010-81e4-3d725774afdd",
+          "name": "Unknown User",
+          "email": null
+        }
+      ],
+      "TP thực tế": 2.59,
+      "Task fix": "1/3",
+      "Created time": null,
+      "Tasks": "LO 040 ver3",
+      "Sprint": []
+    },
+    "_title": "LO 040 ver3",
+    "database_name": "[Harben] Tasks ",
+    "project_name": "[Harben] Tasks",
+    "database_id": "27eccb0e-ac88-81d7-a2b1-e4efab96e346"
+  },
+  {
+    "id": "28cccb0e-ac88-81f8-ae4f-e2fcf6e2280f",
+    "created_time": "2025-10-14T07:18:00.000Z",
+    "last_edited_time": "2025-10-14T07:18:00.000Z",
+    "properties": {
+      "Product ": [
+        "284ccb0e-ac88-80b1-a5d3-da7bb446aa7f"
+      ],
+      "Task main": "1",
+      "Task QC": "2/3",
+      "Run n8n": false,
+      "TP giả định": 1.5,
+      "Trọng số TP": 0.15,
+      "Product Type": [
+        "Background"
+      ],
+      "[Dev] Total main": 0,
+      "Task type": "QC",
+      "Product Status": [
+        "QC Approved"
+      ],
+      "Task Status": "Done QC",
+      "Episode": null,
+      "Done Date": null,
+      "Product Point": [
+        25
+      ],
+      "Assignee": [
+        {
+          "id": "c206b06c-81cf-4010-81e4-3d725774afdd",
+          "name": "Unknown User",
+          "email": null
+        }
+      ],
+      "TP thực tế": 2.88,
+      "Task fix": "0/3",
+      "Created time": null,
+      "Tasks": "BG 040 ver2",
+      "Sprint": []
+    },
+    "_title": "BG 040 ver2",
+    "database_name": "[Harben] Tasks ",
+    "project_name": "[Harben] Tasks",
+    "database_id": "27eccb0e-ac88-81d7-a2b1-e4efab96e346"
+  },
+  {
+    "id": "292ccb0e-ac88-806a-ade9-d62369ff08b1",
+    "created_time": "2025-10-20T06:48:00.000Z",
+    "last_edited_time": "2025-11-04T14:13:00.000Z",
+    "properties": {
+      "Product ": [
+        "2a1ccb0e-ac88-8099-a7e6-d0a20b7ee9f8"
+      ],
+      "Task main": "0",
+      "Task QC": "1/4",
+      "Run n8n": false,
+      "TP giả định": 0,
+      "Trọng số TP": 0.3,
+      "Product Type": [
+        {
+          "type": "select",
+          "select": null
+        }
+      ],
+      "[Dev] Total main": 0,
+      "Task type": "Fix",
+      "Product Status": [
+        "Client Approved"
+      ],
+      "Task Status": "In progress",
+      "Episode": null,
+      "Done Date": null,
+      "Product Point": [
+        0
+      ],
+      "Assignee": [
+        {
+          "id": "cc427545-583b-4bbc-8f17-5b0e498d3b91",
+          "name": "Unknown User",
+          "email": null
+        }
+      ],
+      "TP thực tế": 0,
+      "Task fix": "3/4",
+      "Created time": null,
+      "Tasks": "Anim 040 ver2",
+      "Sprint": [
+        "27eccb0e-ac88-81f5-a770-db6339d40f4d"
+      ]
+    },
+    "_title": "Anim 040 ver2",
+    "database_name": "[Harben] Tasks ",
+    "project_name": "[Harben] Tasks",
+    "database_id": "27eccb0e-ac88-81d7-a2b1-e4efab96e346"
+  },
+  {
+    "id": "292ccb0e-ac88-8070-bfc5-d1d11eae8b25",
+    "created_time": "2025-10-20T07:36:00.000Z",
+    "last_edited_time": "2025-10-20T09:28:00.000Z",
+    "properties": {
+      "Product ": [],
+      "Task main": null,
+      "Task QC": null,
+      "Run n8n": false,
+      "TP giả định": 0,
+      "Trọng số TP": 0.3,
+      "Product Type": null,
+      "[Dev] Total main": 0,
+      "Task type": "Fix",
+      "Product Status": null,
+      "Task Status": "Not started",
+      "Episode": null,
+      "Done Date": null,
+      "Product Point": null,
+      "Assignee": [
+        {
+          "id": "1fc365a3-6caf-4a7b-9866-0e7b43858917",
+          "name": "Lộc Nguyễn",
+          "email": "locng@sangygroup.com"
+        }
+      ],
+      "TP thực tế": 0,
+      "Task fix": null,
+      "Created time": null,
+      "Tasks": "BG 040 ver4",
+      "Sprint": []
+    },
+    "_title": "BG 040 ver4",
+    "database_name": "[Harben] Tasks ",
+    "project_name": "[Harben] Tasks",
+    "database_id": "27eccb0e-ac88-81d7-a2b1-e4efab96e346"
+  },
+  {
+    "id": "292ccb0e-ac88-8097-a007-cbf56c5a2ddd",
+    "created_time": "2025-10-20T06:46:00.000Z",
+    "last_edited_time": "2025-10-20T06:49:00.000Z",
+    "properties": {
+      "Product ": [],
+      "Task main": null,
+      "Task QC": null,
+      "Run n8n": false,
+      "TP giả định": 0,
+      "Trọng số TP": 0.3,
+      "Product Type": null,
+      "[Dev] Total main": 0,
+      "Task type": "Fix",
+      "Product Status": null,
+      "Task Status": "Not started",
+      "Episode": null,
+      "Done Date": null,
+      "Product Point": null,
+      "Assignee": [
+        {
+          "id": "1fc365a3-6caf-4a7b-9866-0e7b43858917",
+          "name": "Lộc Nguyễn",
+          "email": "locng@sangygroup.com"
+        }
+      ],
+      "TP thực tế": 0,
+      "Task fix": null,
+      "Created time": null,
+      "Tasks": "BG 040 ver4",
+      "Sprint": []
+    },
+    "_title": "BG 040 ver4",
+    "database_name": "[Harben] Tasks ",
+    "project_name": "[Harben] Tasks",
+    "database_id": "27eccb0e-ac88-81d7-a2b1-e4efab96e346"
+  },
+  {
+    "id": "292ccb0e-ac88-81ad-ba92-c517ef708d7b",
+    "created_time": "2025-10-20T05:27:00.000Z",
+    "last_edited_time": "2025-10-20T05:27:00.000Z",
+    "properties": {
+      "Product ": [
+        "284ccb0e-ac88-80b1-a5d3-da7bb446aa7f"
+      ],
+      "Task main": "1",
+      "Task QC": "2/3",
+      "Run n8n": false,
+      "TP giả định": 1.5,
+      "Trọng số TP": 0.15,
+      "Product Type": [
+        "Background"
+      ],
+      "[Dev] Total main": 0,
+      "Task type": "QC",
+      "Product Status": [
+        "QC Approved"
+      ],
+      "Task Status": "Done QC",
+      "Episode": null,
+      "Done Date": null,
+      "Product Point": [
+        25
+      ],
+      "Assignee": [
+        {
+          "id": "1fc365a3-6caf-4a7b-9866-0e7b43858917",
+          "name": "Lộc Nguyễn",
+          "email": "locng@sangygroup.com"
+        }
+      ],
+      "TP thực tế": 2.88,
+      "Task fix": "0/3",
+      "Created time": null,
+      "Tasks": "BG 040 ver3",
+      "Sprint": []
+    },
+    "_title": "BG 040 ver3",
+    "database_name": "[Harben] Tasks ",
+    "project_name": "[Harben] Tasks",
+    "database_id": "27eccb0e-ac88-81d7-a2b1-e4efab96e346"
+  },
+  {
+    "id": "294ccb0e-ac88-8008-8875-da181dfb9694",
+    "created_time": "2025-10-22T02:24:00.000Z",
+    "last_edited_time": "2025-11-04T14:13:00.000Z",
+    "properties": {
+      "Product ": [
+        "2a1ccb0e-ac88-8099-a7e6-d0a20b7ee9f8"
+      ],
+      "Task main": "0",
+      "Task QC": "1/4",
+      "Run n8n": false,
+      "TP giả định": 0,
+      "Trọng số TP": 0.3,
+      "Product Type": [
+        {
+          "type": "select",
+          "select": null
+        }
+      ],
+      "[Dev] Total main": 0,
+      "Task type": "Fix",
+      "Product Status": [
+        "Client Approved"
+      ],
+      "Task Status": "Not started",
+      "Episode": null,
+      "Done Date": null,
+      "Product Point": [
+        0
+      ],
+      "Assignee": [
+        {
+          "id": "cc427545-583b-4bbc-8f17-5b0e498d3b91",
+          "name": "Unknown User",
+          "email": null
+        }
+      ],
+      "TP thực tế": 0,
+      "Task fix": "3/4",
+      "Created time": null,
+      "Tasks": "Anim 040 ver3",
+      "Sprint": [
+        "27eccb0e-ac88-81f5-a770-db6339d40f4d"
+      ]
+    },
+    "_title": "Anim 040 ver3",
+    "database_name": "[Harben] Tasks ",
+    "project_name": "[Harben] Tasks",
+    "database_id": "27eccb0e-ac88-81d7-a2b1-e4efab96e346"
+  },
+  {
+    "id": "295ccb0e-ac88-8032-8f8b-fab19aaba97e",
+    "created_time": "2025-10-23T09:54:00.000Z",
+    "last_edited_time": "2025-11-04T14:13:00.000Z",
+    "properties": {
+      "Product ": [
+        "2a1ccb0e-ac88-8099-a7e6-d0a20b7ee9f8"
+      ],
+      "Task main": "0",
+      "Task QC": "1/4",
+      "Run n8n": false,
+      "TP giả định": 0,
+      "Trọng số TP": 0.3,
+      "Product Type": [
+        {
+          "type": "select",
+          "select": null
+        }
+      ],
+      "[Dev] Total main": 0,
+      "Task type": "Fix",
+      "Product Status": [
+        "Client Approved"
+      ],
+      "Task Status": "Not started",
+      "Episode": null,
+      "Done Date": null,
+      "Product Point": [
+        0
+      ],
+      "Assignee": [
+        {
+          "id": "cc427545-583b-4bbc-8f17-5b0e498d3b91",
+          "name": "Unknown User",
+          "email": null
+        }
+      ],
+      "TP thực tế": 0,
+      "Task fix": "3/4",
+      "Created time": null,
+      "Tasks": "Anim 040 ver4",
+      "Sprint": [
+        "27eccb0e-ac88-81f5-a770-db6339d40f4d"
+      ]
+    },
+    "_title": "Anim 040 ver4",
+    "database_name": "[Harben] Tasks ",
+    "project_name": "[Harben] Tasks",
+    "database_id": "27eccb0e-ac88-81d7-a2b1-e4efab96e346"
+  },
+  {
+    "id": "2a1ccb0e-ac88-81b5-8a7f-d3501789c1f1",
+    "created_time": "2025-11-04T14:13:00.000Z",
+    "last_edited_time": "2025-11-04T14:13:00.000Z",
+    "properties": {
+      "Product ": [
+        "2a1ccb0e-ac88-8099-a7e6-d0a20b7ee9f8"
+      ],
+      "Task main": "0",
+      "Task QC": "1/4",
+      "Run n8n": false,
+      "TP giả định": 0,
+      "Trọng số TP": 0.15,
+      "Product Type": [
+        {
+          "type": "select",
+          "select": null
+        }
+      ],
+      "[Dev] Total main": 0,
+      "Task type": "QC",
+      "Product Status": [
+        "Client Approved"
+      ],
+      "Task Status": "Done QC",
+      "Episode": null,
+      "Done Date": null,
+      "Product Point": [
+        0
+      ],
+      "Assignee": [
+        {
+          "id": "c206b06c-81cf-4010-81e4-3d725774afdd",
+          "name": "Unknown User",
+          "email": null
+        }
+      ],
+      "TP thực tế": 0,
+      "Task fix": "3/4",
+      "Created time": null,
+      "Tasks": "Anim fix client 040 ver1",
+      "Sprint": []
+    },
+    "_title": "Anim fix client 040 ver1",
+    "database_name": "[Harben] Tasks ",
+    "project_name": "[Harben] Tasks",
+    "database_id": "27eccb0e-ac88-81d7-a2b1-e4efab96e346"
+  },
+  {
+    "id": "2f1ccb0e-ac88-804b-b66c-c21035f88ceb",
+    "created_time": "2026-01-23T07:47:00.000Z",
+    "last_edited_time": "2026-01-23T07:47:00.000Z",
+    "properties": {
+      "Product ": [],
+      "Task main": null,
+      "Task QC": null,
+      "Run n8n": false,
+      "TP giả định": 0,
+      "Trọng số TP": 0,
+      "Product Type": null,
+      "[Dev] Total main": 0,
+      "Task type": null,
+      "Product Status": null,
+      "Task Status": "In progress",
+      "Episode": null,
+      "Done Date": null,
+      "Product Point": null,
+      "Assignee": [
+        {
+          "id": "1fc365a3-6caf-4a7b-9866-0e7b43858917",
+          "name": "Lộc Nguyễn",
+          "email": "locng@sangygroup.com"
+        }
+      ],
+      "TP thực tế": 0,
+      "Task fix": null,
+      "Created time": null,
+      "Tasks": "BG 3 ver1",
+      "Sprint": []
+    },
+    "_title": "BG 3 ver1",
+    "database_name": "[Harben] Tasks ",
+    "project_name": "[Harben] Tasks",
+    "database_id": "27eccb0e-ac88-81d7-a2b1-e4efab96e346"
+  },
+  {
+    "id": "2f1ccb0e-ac88-808a-a3dc-de2b467fe115",
+    "created_time": "2026-01-23T07:48:00.000Z",
+    "last_edited_time": "2026-01-23T07:48:00.000Z",
+    "properties": {
+      "Product ": [],
+      "Task main": null,
+      "Task QC": null,
+      "Run n8n": false,
+      "TP giả định": 0,
+      "Trọng số TP": 1,
+      "Product Type": null,
+      "[Dev] Total main": 1,
+      "Task type": "Main",
+      "Product Status": null,
+      "Task Status": "In progress",
+      "Episode": null,
+      "Done Date": null,
+      "Product Point": null,
+      "Assignee": [
+        {
+          "id": "1fc365a3-6caf-4a7b-9866-0e7b43858917",
+          "name": "Lộc Nguyễn",
+          "email": "locng@sangygroup.com"
+        }
+      ],
+      "TP thực tế": 0,
+      "Task fix": null,
+      "Created time": null,
+      "Tasks": "BG 3 ver1",
+      "Sprint": []
+    },
+    "_title": "BG 3 ver1",
+    "database_name": "[Harben] Tasks ",
+    "project_name": "[Harben] Tasks",
+    "database_id": "27eccb0e-ac88-81d7-a2b1-e4efab96e346"
+  },
+  {
+    "id": "2f1ccb0e-ac88-80b9-9aab-c5abfc11d19a",
+    "created_time": "2026-01-23T07:51:00.000Z",
+    "last_edited_time": "2026-01-23T07:51:00.000Z",
+    "properties": {
+      "Product ": [],
+      "Task main": null,
+      "Task QC": null,
+      "Run n8n": false,
+      "TP giả định": 0,
+      "Trọng số TP": 1,
+      "Product Type": null,
+      "[Dev] Total main": 1,
+      "Task type": "Main",
+      "Product Status": null,
+      "Task Status": "In progress",
+      "Episode": null,
+      "Done Date": null,
+      "Product Point": null,
+      "Assignee": [
+        {
+          "id": "c206b06c-81cf-4010-81e4-3d725774afdd",
+          "name": "Unknown User",
+          "email": null
+        }
+      ],
+      "TP thực tế": 0,
+      "Task fix": null,
+      "Created time": null,
+      "Tasks": "COMP 16 ver1",
+      "Sprint": [
+        "27eccb0e-ac88-81f5-a770-db6339d40f4d"
+      ]
+    },
+    "_title": "COMP 16 ver1",
+    "database_name": "[Harben] Tasks ",
+    "project_name": "[Harben] Tasks",
+    "database_id": "27eccb0e-ac88-81d7-a2b1-e4efab96e346"
+  },
+  {
+    "id": "2f1ccb0e-ac88-80da-950a-d180a9b9e4c2",
+    "created_time": "2026-01-23T07:50:00.000Z",
+    "last_edited_time": "2026-01-23T07:50:00.000Z",
+    "properties": {
+      "Product ": [],
+      "Task main": null,
+      "Task QC": null,
+      "Run n8n": false,
+      "TP giả định": 0,
+      "Trọng số TP": 1,
+      "Product Type": null,
+      "[Dev] Total main": 1,
+      "Task type": "Main",
+      "Product Status": null,
+      "Task Status": "Not started",
+      "Episode": null,
+      "Done Date": null,
+      "Product Point": null,
+      "Assignee": [
+        {
+          "id": "c206b06c-81cf-4010-81e4-3d725774afdd",
+          "name": "Unknown User",
+          "email": null
+        }
+      ],
+      "TP thực tế": 0,
+      "Task fix": null,
+      "Created time": null,
+      "Tasks": "STB Harry ver1",
+      "Sprint": [
+        "27eccb0e-ac88-81f5-a770-db6339d40f4d"
+      ]
+    },
+    "_title": "STB Harry ver1",
+    "database_name": "[Harben] Tasks ",
+    "project_name": "[Harben] Tasks",
+    "database_id": "27eccb0e-ac88-81d7-a2b1-e4efab96e346"
+  },
+  {
+    "id": "2f1ccb0e-ac88-80e1-b297-ea507ae66517",
+    "created_time": "2026-01-23T07:44:00.000Z",
+    "last_edited_time": "2026-01-23T07:44:00.000Z",
+    "properties": {
+      "Product ": [],
+      "Task main": null,
+      "Task QC": null,
+      "Run n8n": false,
+      "TP giả định": 0,
+      "Trọng số TP": 0,
+      "Product Type": null,
+      "[Dev] Total main": 0,
+      "Task type": null,
+      "Product Status": null,
+      "Task Status": "Not started",
+      "Episode": null,
+      "Done Date": null,
+      "Product Point": null,
+      "Assignee": [
+        {
+          "id": "2c5d872b-594c-8134-9865-0002758422b9",
+          "name": "Anh Phuong Nguyen",
+          "email": "anhnp189@sangygroup.com"
+        }
+      ],
+      "TP thực tế": 0,
+      "Task fix": null,
+      "Created time": null,
+      "Tasks": "CO KEY 1 ver1",
+      "Sprint": []
+    },
+    "_title": "CO KEY 1 ver1",
+    "database_name": "[Harben] Tasks ",
+    "project_name": "[Harben] Tasks",
+    "database_id": "27eccb0e-ac88-81d7-a2b1-e4efab96e346"
+  }
+]

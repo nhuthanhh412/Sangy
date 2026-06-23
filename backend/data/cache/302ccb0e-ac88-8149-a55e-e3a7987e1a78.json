@@ -1,0 +1,5800 @@
+[
+  {
+    "id": "310ccb0e-ac88-8012-9d2c-e131da712234",
+    "created_time": "2026-02-23T01:56:00.000Z",
+    "last_edited_time": "2026-03-23T09:59:00.000Z",
+    "properties": {
+      "NLTT": 2.75,
+      "Product ": [
+        "302ccb0e-ac88-8053-910e-f9c6239e3d3f"
+      ],
+      "Product (1)": [
+        "Cut Out 05"
+      ],
+      "Task main": "1/2",
+      "Task QC": "1/2",
+      "Run n8n": false,
+      "TP giả định": 12.17,
+      "Trọng số TP": 1,
+      "Product Type": [
+        "Cutout"
+      ],
+      "Point Status": [
+        "Confirmed"
+      ],
+      "Ngày làm": {
+        "start": "2026-02-23T08:56:00.000+07:00",
+        "end": null
+      },
+      "[Dev] Total main": 1,
+      "Task type": "Main",
+      "Sprint": [
+        "Sprint 1"
+      ],
+      "Product Status": [
+        "Client Approved"
+      ],
+      "Task Status": "Done",
+      "Episode": [
+        "Cut Out 05"
+      ],
+      "Done date": null,
+      "UTNL": [],
+      "Product Point": [
+        14
+      ],
+      "Loại cảnh": [
+        "D"
+      ],
+      "TP giả định 2": 5.6,
+      "Assignee": [
+        {
+          "id": "0b9c48d9-e3d0-4f8c-9b39-ca52da0939c0",
+          "name": "Hưng Nguyễn",
+          "email": "hungnn@sangygroup.com"
+        }
+      ],
+      "TP thực tế": 12.17,
+      "Task fix": "0/2",
+      "Required by": [
+        "Internal"
+      ],
+      "Created time": null,
+      "Tasks": "Cut Out 05 Not started 1",
+      "Sprint (1)": [
+        "302ccb0e-ac88-8102-bfa5-ee90393fbeb3"
+      ]
+    },
+    "_title": "Cut Out 05 Not started 1",
+    "database_name": "[Disk Knight] Tasks",
+    "project_name": "[Disk Knight] Tasks",
+    "database_id": "302ccb0e-ac88-8149-a55e-e3a7987e1a78"
+  },
+  {
+    "id": "310ccb0e-ac88-8013-8905-e442fe8673d0",
+    "created_time": "2026-02-23T01:59:00.000Z",
+    "last_edited_time": "2026-03-23T09:59:00.000Z",
+    "properties": {
+      "NLTT": 2,
+      "Product ": [
+        "302ccb0e-ac88-8057-9c81-cf33e4965540"
+      ],
+      "Product (1)": [
+        "Cut Out 06"
+      ],
+      "Task main": "1/4",
+      "Task QC": "2/4",
+      "Run n8n": false,
+      "TP giả định": 8.75,
+      "Trọng số TP": 1,
+      "Product Type": [
+        "Cutout"
+      ],
+      "Point Status": [
+        "Confirmed"
+      ],
+      "Ngày làm": {
+        "start": "2026-02-23T08:59:00.000+07:00",
+        "end": null
+      },
+      "[Dev] Total main": 1,
+      "Task type": "Main",
+      "Sprint": null,
+      "Product Status": [
+        "QC Approved"
+      ],
+      "Task Status": "Done",
+      "Episode": [
+        "Cut Out 06"
+      ],
+      "Done date": null,
+      "UTNL": [],
+      "Product Point": [
+        14
+      ],
+      "Loại cảnh": [
+        "D"
+      ],
+      "TP giả định 2": 5.6,
+      "Assignee": [
+        {
+          "id": "0b9c48d9-e3d0-4f8c-9b39-ca52da0939c0",
+          "name": "Hưng Nguyễn",
+          "email": "hungnn@sangygroup.com"
+        }
+      ],
+      "TP thực tế": 8.75,
+      "Task fix": "1/4",
+      "Required by": [
+        "Internal"
+      ],
+      "Created time": null,
+      "Tasks": "Cut Out 06 Not started 1",
+      "Sprint (1)": []
+    },
+    "_title": "Cut Out 06 Not started 1",
+    "database_name": "[Disk Knight] Tasks",
+    "project_name": "[Disk Knight] Tasks",
+    "database_id": "302ccb0e-ac88-8149-a55e-e3a7987e1a78"
+  },
+  {
+    "id": "311ccb0e-ac88-8031-ae8c-e01f4bea990b",
+    "created_time": "2026-02-24T08:47:00.000Z",
+    "last_edited_time": "2026-03-23T09:59:00.000Z",
+    "properties": {
+      "NLTT": null,
+      "Product ": [
+        "302ccb0e-ac88-80e3-935a-e9d9dc9bb303"
+      ],
+      "Product (1)": [
+        "Cut Out 10"
+      ],
+      "Task main": "1/2",
+      "Task QC": "1/2",
+      "Run n8n": false,
+      "TP giả định": 12.17,
+      "Trọng số TP": 1,
+      "Product Type": [
+        "Cutout"
+      ],
+      "Point Status": [
+        "Confirmed"
+      ],
+      "Ngày làm": {
+        "start": "2026-02-24T15:47:00.000+07:00",
+        "end": null
+      },
+      "[Dev] Total main": 1,
+      "Task type": "Main",
+      "Sprint": null,
+      "Product Status": [
+        "QC Approved"
+      ],
+      "Task Status": "Done",
+      "Episode": [
+        "Cut Out 10"
+      ],
+      "Done date": null,
+      "UTNL": [],
+      "Product Point": [
+        14
+      ],
+      "Loại cảnh": [
+        "D"
+      ],
+      "TP giả định 2": 5.6,
+      "Assignee": [
+        {
+          "id": "ccd85462-3a79-4e0f-a885-c92afa63697e",
+          "name": "Kiệt Đoàn",
+          "email": "kietda@sangygroup.com"
+        }
+      ],
+      "TP thực tế": 12.17,
+      "Task fix": "0/2",
+      "Required by": [
+        "Internal"
+      ],
+      "Created time": null,
+      "Tasks": "Cut Out 10 In progress 1",
+      "Sprint (1)": []
+    },
+    "_title": "Cut Out 10 In progress 1",
+    "database_name": "[Disk Knight] Tasks",
+    "project_name": "[Disk Knight] Tasks",
+    "database_id": "302ccb0e-ac88-8149-a55e-e3a7987e1a78"
+  },
+  {
+    "id": "311ccb0e-ac88-805e-8809-d9d1d7d01aa3",
+    "created_time": "2026-02-24T10:11:00.000Z",
+    "last_edited_time": "2026-03-23T09:59:00.000Z",
+    "properties": {
+      "NLTT": null,
+      "Product ": [
+        "302ccb0e-ac88-80e7-8895-ec967f022996"
+      ],
+      "Product (1)": [
+        "Cut Out 07"
+      ],
+      "Task main": "1/2",
+      "Task QC": "1/2",
+      "Run n8n": false,
+      "TP giả định": 12.17,
+      "Trọng số TP": 1,
+      "Product Type": [
+        "Cutout"
+      ],
+      "Point Status": [
+        "Confirmed"
+      ],
+      "Ngày làm": {
+        "start": "2026-02-24T17:11:00.000+07:00",
+        "end": null
+      },
+      "[Dev] Total main": 1,
+      "Task type": "Main",
+      "Sprint": null,
+      "Product Status": [
+        "QC Approved"
+      ],
+      "Task Status": "Done",
+      "Episode": [
+        "Cut Out 07"
+      ],
+      "Done date": null,
+      "UTNL": [],
+      "Product Point": [
+        14
+      ],
+      "Loại cảnh": [
+        "D"
+      ],
+      "TP giả định 2": 5.6,
+      "Assignee": [
+        {
+          "id": "ccd85462-3a79-4e0f-a885-c92afa63697e",
+          "name": "Kiệt Đoàn",
+          "email": "kietda@sangygroup.com"
+        }
+      ],
+      "TP thực tế": 12.17,
+      "Task fix": "0/2",
+      "Required by": [
+        "Internal"
+      ],
+      "Created time": null,
+      "Tasks": "Cut Out 07 Ready to start 1",
+      "Sprint (1)": []
+    },
+    "_title": "Cut Out 07 Ready to start 1",
+    "database_name": "[Disk Knight] Tasks",
+    "project_name": "[Disk Knight] Tasks",
+    "database_id": "302ccb0e-ac88-8149-a55e-e3a7987e1a78"
+  },
+  {
+    "id": "311ccb0e-ac88-807c-b74f-e05ddf3026cb",
+    "created_time": "2026-02-24T04:20:00.000Z",
+    "last_edited_time": "2026-03-23T09:59:00.000Z",
+    "properties": {
+      "NLTT": null,
+      "Product ": [
+        "302ccb0e-ac88-8025-bd9b-d916543d7447"
+      ],
+      "Product (1)": [
+        "Cut Out 09"
+      ],
+      "Task main": "1/4",
+      "Task QC": "2/4",
+      "Run n8n": false,
+      "TP giả định": 8.75,
+      "Trọng số TP": 1,
+      "Product Type": [
+        "Cutout"
+      ],
+      "Point Status": [
+        "Confirmed"
+      ],
+      "Ngày làm": {
+        "start": "2026-02-24T11:20:00.000+07:00",
+        "end": null
+      },
+      "[Dev] Total main": 1,
+      "Task type": "Main",
+      "Sprint": null,
+      "Product Status": [
+        "QC Approved"
+      ],
+      "Task Status": "Done",
+      "Episode": [
+        "Cut Out 09"
+      ],
+      "Done date": null,
+      "UTNL": [],
+      "Product Point": [
+        14
+      ],
+      "Loại cảnh": [
+        "D"
+      ],
+      "TP giả định 2": 5.6,
+      "Assignee": [
+        {
+          "id": "ccd85462-3a79-4e0f-a885-c92afa63697e",
+          "name": "Kiệt Đoàn",
+          "email": "kietda@sangygroup.com"
+        }
+      ],
+      "TP thực tế": 8.75,
+      "Task fix": "1/4",
+      "Required by": [
+        "Internal"
+      ],
+      "Created time": null,
+      "Tasks": "Cut Out 09 Ready to start 1",
+      "Sprint (1)": []
+    },
+    "_title": "Cut Out 09 Ready to start 1",
+    "database_name": "[Disk Knight] Tasks",
+    "project_name": "[Disk Knight] Tasks",
+    "database_id": "302ccb0e-ac88-8149-a55e-e3a7987e1a78"
+  },
+  {
+    "id": "311ccb0e-ac88-80c6-a2ce-eb9011ba74e2",
+    "created_time": "2026-02-24T03:58:00.000Z",
+    "last_edited_time": "2026-03-23T09:59:00.000Z",
+    "properties": {
+      "NLTT": null,
+      "Product ": [
+        "302ccb0e-ac88-8058-aafd-dd7f305dee45"
+      ],
+      "Product (1)": [
+        "Cut Out 02"
+      ],
+      "Task main": "1/4",
+      "Task QC": "2/4",
+      "Run n8n": false,
+      "TP giả định": 8.75,
+      "Trọng số TP": 1,
+      "Product Type": [
+        "Cutout"
+      ],
+      "Point Status": [
+        "Confirmed"
+      ],
+      "Ngày làm": {
+        "start": "2026-02-24T10:58:00.000+07:00",
+        "end": null
+      },
+      "[Dev] Total main": 1,
+      "Task type": "Main",
+      "Sprint": null,
+      "Product Status": [
+        "QC Approved"
+      ],
+      "Task Status": "Done",
+      "Episode": [
+        "Cut Out 02"
+      ],
+      "Done date": null,
+      "UTNL": [],
+      "Product Point": [
+        14
+      ],
+      "Loại cảnh": [
+        "D"
+      ],
+      "TP giả định 2": 5.6,
+      "Assignee": [
+        {
+          "id": "ccd85462-3a79-4e0f-a885-c92afa63697e",
+          "name": "Kiệt Đoàn",
+          "email": "kietda@sangygroup.com"
+        }
+      ],
+      "TP thực tế": 8.75,
+      "Task fix": "1/4",
+      "Required by": [
+        "Internal"
+      ],
+      "Created time": null,
+      "Tasks": "Cut Out 02 Ready to start 1",
+      "Sprint (1)": []
+    },
+    "_title": "Cut Out 02 Ready to start 1",
+    "database_name": "[Disk Knight] Tasks",
+    "project_name": "[Disk Knight] Tasks",
+    "database_id": "302ccb0e-ac88-8149-a55e-e3a7987e1a78"
+  },
+  {
+    "id": "312ccb0e-ac88-802f-adc5-fd004e4f7349",
+    "created_time": "2026-02-25T04:23:00.000Z",
+    "last_edited_time": "2026-03-23T09:59:00.000Z",
+    "properties": {
+      "NLTT": null,
+      "Product ": [
+        "302ccb0e-ac88-8025-bd9b-d916543d7447"
+      ],
+      "Product (1)": [
+        "Cut Out 09"
+      ],
+      "Task main": "1/4",
+      "Task QC": "2/4",
+      "Run n8n": false,
+      "TP giả định": 1.68,
+      "Trọng số TP": 0.3,
+      "Product Type": [
+        "Cutout"
+      ],
+      "Point Status": [
+        "Confirmed"
+      ],
+      "Ngày làm": {
+        "start": "2026-02-25T11:23:00.000+07:00",
+        "end": null
+      },
+      "[Dev] Total main": 0,
+      "Task type": "Fix",
+      "Sprint": null,
+      "Product Status": [
+        "QC Approved"
+      ],
+      "Task Status": "Done",
+      "Episode": [
+        "Cut Out 09"
+      ],
+      "Done date": null,
+      "UTNL": [],
+      "Product Point": [
+        14
+      ],
+      "Loại cảnh": [
+        "D"
+      ],
+      "TP giả định 2": 1.68,
+      "Assignee": [
+        {
+          "id": "ccd85462-3a79-4e0f-a885-c92afa63697e",
+          "name": "Kiệt Đoàn",
+          "email": "kietda@sangygroup.com"
+        }
+      ],
+      "TP thực tế": 2.63,
+      "Task fix": "1/4",
+      "Required by": [
+        "Internal"
+      ],
+      "Created time": null,
+      "Tasks": "Cut Out 09 Need Fix 3",
+      "Sprint (1)": []
+    },
+    "_title": "Cut Out 09 Need Fix 3",
+    "database_name": "[Disk Knight] Tasks",
+    "project_name": "[Disk Knight] Tasks",
+    "database_id": "302ccb0e-ac88-8149-a55e-e3a7987e1a78"
+  },
+  {
+    "id": "312ccb0e-ac88-8089-b874-dd33daba58d5",
+    "created_time": "2026-02-25T04:19:00.000Z",
+    "last_edited_time": "2026-03-23T09:59:00.000Z",
+    "properties": {
+      "NLTT": null,
+      "Product ": [
+        "302ccb0e-ac88-8058-aafd-dd7f305dee45"
+      ],
+      "Product (1)": [
+        "Cut Out 02"
+      ],
+      "Task main": "1/4",
+      "Task QC": "2/4",
+      "Run n8n": false,
+      "TP giả định": 1.68,
+      "Trọng số TP": 0.3,
+      "Product Type": [
+        "Cutout"
+      ],
+      "Point Status": [
+        "Confirmed"
+      ],
+      "Ngày làm": {
+        "start": "2026-02-25T11:19:00.000+07:00",
+        "end": null
+      },
+      "[Dev] Total main": 0,
+      "Task type": "Fix",
+      "Sprint": null,
+      "Product Status": [
+        "QC Approved"
+      ],
+      "Task Status": "Done",
+      "Episode": [
+        "Cut Out 02"
+      ],
+      "Done date": null,
+      "UTNL": [],
+      "Product Point": [
+        14
+      ],
+      "Loại cảnh": [
+        "D"
+      ],
+      "TP giả định 2": 1.68,
+      "Assignee": [
+        {
+          "id": "ccd85462-3a79-4e0f-a885-c92afa63697e",
+          "name": "Kiệt Đoàn",
+          "email": "kietda@sangygroup.com"
+        }
+      ],
+      "TP thực tế": 2.63,
+      "Task fix": "1/4",
+      "Required by": [
+        "Internal"
+      ],
+      "Created time": null,
+      "Tasks": "Cut Out 02 Need Fix 3",
+      "Sprint (1)": []
+    },
+    "_title": "Cut Out 02 Need Fix 3",
+    "database_name": "[Disk Knight] Tasks",
+    "project_name": "[Disk Knight] Tasks",
+    "database_id": "302ccb0e-ac88-8149-a55e-e3a7987e1a78"
+  },
+  {
+    "id": "312ccb0e-ac88-8108-8832-d47fed18a3eb",
+    "created_time": "2026-02-25T04:13:00.000Z",
+    "last_edited_time": "2026-03-23T09:59:00.000Z",
+    "properties": {
+      "NLTT": null,
+      "Product ": [
+        "310ccb0e-ac88-80f2-90ac-cbea24f08a10"
+      ],
+      "Product (1)": [
+        "LO 02"
+      ],
+      "Task main": "0/1",
+      "Task QC": "1/1",
+      "Run n8n": false,
+      "TP giả định": 0,
+      "Trọng số TP": 0.15,
+      "Product Type": [
+        "Layout"
+      ],
+      "Point Status": [
+        "Confirmed"
+      ],
+      "Ngày làm": {
+        "start": "2026-02-25T11:13:00.000+07:00",
+        "end": null
+      },
+      "[Dev] Total main": 0,
+      "Task type": "QC",
+      "Sprint": null,
+      "Product Status": [
+        "QC Approved"
+      ],
+      "Task Status": "Done QC",
+      "Episode": [
+        "LO 02"
+      ],
+      "Done date": null,
+      "UTNL": [],
+      "Product Point": [
+        0
+      ],
+      "Loại cảnh": [
+        {
+          "type": "select",
+          "select": null
+        }
+      ],
+      "TP giả định 2": 0,
+      "Assignee": [
+        {
+          "id": "2b47d5ac-bd39-4aad-8e95-23ea4ab9b925",
+          "name": "Hoàng Hà",
+          "email": "hoanghh@sangygroup.com"
+        }
+      ],
+      "TP thực tế": 0,
+      "Task fix": "0/1",
+      "Required by": [
+        "Internal"
+      ],
+      "Created time": null,
+      "Tasks": "LO 02 ver1",
+      "Sprint (1)": []
+    },
+    "_title": "LO 02 ver1",
+    "database_name": "[Disk Knight] Tasks",
+    "project_name": "[Disk Knight] Tasks",
+    "database_id": "302ccb0e-ac88-8149-a55e-e3a7987e1a78"
+  },
+  {
+    "id": "312ccb0e-ac88-813b-b854-ef7fa6c5ee3d",
+    "created_time": "2026-02-25T08:34:00.000Z",
+    "last_edited_time": "2026-03-23T09:59:00.000Z",
+    "properties": {
+      "NLTT": null,
+      "Product ": [
+        "302ccb0e-ac88-8058-aafd-dd7f305dee45"
+      ],
+      "Product (1)": [
+        "Cut Out 02"
+      ],
+      "Task main": "1/4",
+      "Task QC": "2/4",
+      "Run n8n": false,
+      "TP giả định": 0.84,
+      "Trọng số TP": 0.15,
+      "Product Type": [
+        "Cutout"
+      ],
+      "Point Status": [
+        "Confirmed"
+      ],
+      "Ngày làm": {
+        "start": "2026-02-25T15:34:00.000+07:00",
+        "end": null
+      },
+      "[Dev] Total main": 0,
+      "Task type": "QC",
+      "Sprint": null,
+      "Product Status": [
+        "QC Approved"
+      ],
+      "Task Status": "Done QC",
+      "Episode": [
+        "Cut Out 02"
+      ],
+      "Done date": null,
+      "UTNL": [],
+      "Product Point": [
+        14
+      ],
+      "Loại cảnh": [
+        "D"
+      ],
+      "TP giả định 2": 0.84,
+      "Assignee": [
+        {
+          "id": "2b47d5ac-bd39-4aad-8e95-23ea4ab9b925",
+          "name": "Hoàng Hà",
+          "email": "hoanghh@sangygroup.com"
+        }
+      ],
+      "TP thực tế": 1.31,
+      "Task fix": "1/4",
+      "Required by": [
+        "Internal"
+      ],
+      "Created time": null,
+      "Tasks": "Cut Out 02 ver4",
+      "Sprint (1)": []
+    },
+    "_title": "Cut Out 02 ver4",
+    "database_name": "[Disk Knight] Tasks",
+    "project_name": "[Disk Knight] Tasks",
+    "database_id": "302ccb0e-ac88-8149-a55e-e3a7987e1a78"
+  },
+  {
+    "id": "312ccb0e-ac88-8140-b9e2-f480034ec09c",
+    "created_time": "2026-02-25T08:35:00.000Z",
+    "last_edited_time": "2026-03-23T09:59:00.000Z",
+    "properties": {
+      "NLTT": null,
+      "Product ": [
+        "302ccb0e-ac88-8025-bd9b-d916543d7447"
+      ],
+      "Product (1)": [
+        "Cut Out 09"
+      ],
+      "Task main": "1/4",
+      "Task QC": "2/4",
+      "Run n8n": false,
+      "TP giả định": 0.84,
+      "Trọng số TP": 0.15,
+      "Product Type": [
+        "Cutout"
+      ],
+      "Point Status": [
+        "Confirmed"
+      ],
+      "Ngày làm": {
+        "start": "2026-02-25T15:35:00.000+07:00",
+        "end": null
+      },
+      "[Dev] Total main": 0,
+      "Task type": "QC",
+      "Sprint": null,
+      "Product Status": [
+        "QC Approved"
+      ],
+      "Task Status": "Done QC",
+      "Episode": [
+        "Cut Out 09"
+      ],
+      "Done date": null,
+      "UTNL": [],
+      "Product Point": [
+        14
+      ],
+      "Loại cảnh": [
+        "D"
+      ],
+      "TP giả định 2": 0.84,
+      "Assignee": [
+        {
+          "id": "2b47d5ac-bd39-4aad-8e95-23ea4ab9b925",
+          "name": "Hoàng Hà",
+          "email": "hoanghh@sangygroup.com"
+        }
+      ],
+      "TP thực tế": 1.31,
+      "Task fix": "1/4",
+      "Required by": [
+        "Internal"
+      ],
+      "Created time": null,
+      "Tasks": "Cut Out 09 ver4",
+      "Sprint (1)": []
+    },
+    "_title": "Cut Out 09 ver4",
+    "database_name": "[Disk Knight] Tasks",
+    "project_name": "[Disk Knight] Tasks",
+    "database_id": "302ccb0e-ac88-8149-a55e-e3a7987e1a78"
+  },
+  {
+    "id": "312ccb0e-ac88-8154-abf0-d8510502cd83",
+    "created_time": "2026-02-25T04:09:00.000Z",
+    "last_edited_time": "2026-03-23T09:59:00.000Z",
+    "properties": {
+      "NLTT": null,
+      "Product ": [
+        "302ccb0e-ac88-8025-bd9b-d916543d7447"
+      ],
+      "Product (1)": [
+        "Cut Out 09"
+      ],
+      "Task main": "1/4",
+      "Task QC": "2/4",
+      "Run n8n": false,
+      "TP giả định": 0.84,
+      "Trọng số TP": 0.15,
+      "Product Type": [
+        "Cutout"
+      ],
+      "Point Status": [
+        "Confirmed"
+      ],
+      "Ngày làm": {
+        "start": "2026-02-25T11:09:00.000+07:00",
+        "end": null
+      },
+      "[Dev] Total main": 0,
+      "Task type": "QC",
+      "Sprint": null,
+      "Product Status": [
+        "QC Approved"
+      ],
+      "Task Status": "Done QC",
+      "Episode": [
+        "Cut Out 09"
+      ],
+      "Done date": null,
+      "UTNL": [],
+      "Product Point": [
+        14
+      ],
+      "Loại cảnh": [
+        "D"
+      ],
+      "TP giả định 2": 0.84,
+      "Assignee": [
+        {
+          "id": "2b47d5ac-bd39-4aad-8e95-23ea4ab9b925",
+          "name": "Hoàng Hà",
+          "email": "hoanghh@sangygroup.com"
+        }
+      ],
+      "TP thực tế": 1.31,
+      "Task fix": "1/4",
+      "Required by": [
+        "Internal"
+      ],
+      "Created time": null,
+      "Tasks": "Cut Out 09 ver2",
+      "Sprint (1)": []
+    },
+    "_title": "Cut Out 09 ver2",
+    "database_name": "[Disk Knight] Tasks",
+    "project_name": "[Disk Knight] Tasks",
+    "database_id": "302ccb0e-ac88-8149-a55e-e3a7987e1a78"
+  },
+  {
+    "id": "312ccb0e-ac88-8155-8b7d-d6f9ef02a9d2",
+    "created_time": "2026-02-25T04:13:00.000Z",
+    "last_edited_time": "2026-03-23T09:59:00.000Z",
+    "properties": {
+      "NLTT": null,
+      "Product ": [
+        "310ccb0e-ac88-80e8-ab37-e14525aae1c5"
+      ],
+      "Product (1)": [
+        "LO 05"
+      ],
+      "Task main": "0/1",
+      "Task QC": "1/1",
+      "Run n8n": false,
+      "TP giả định": 0,
+      "Trọng số TP": 0.15,
+      "Product Type": [
+        "Layout"
+      ],
+      "Point Status": [
+        "Confirmed"
+      ],
+      "Ngày làm": {
+        "start": "2026-02-25T11:13:00.000+07:00",
+        "end": null
+      },
+      "[Dev] Total main": 0,
+      "Task type": "QC",
+      "Sprint": null,
+      "Product Status": [
+        "QC Approved"
+      ],
+      "Task Status": "Done QC",
+      "Episode": [
+        "LO 05"
+      ],
+      "Done date": null,
+      "UTNL": [],
+      "Product Point": [
+        0
+      ],
+      "Loại cảnh": [
+        {
+          "type": "select",
+          "select": null
+        }
+      ],
+      "TP giả định 2": 0,
+      "Assignee": [
+        {
+          "id": "2b47d5ac-bd39-4aad-8e95-23ea4ab9b925",
+          "name": "Hoàng Hà",
+          "email": "hoanghh@sangygroup.com"
+        }
+      ],
+      "TP thực tế": 0,
+      "Task fix": "0/1",
+      "Required by": [
+        "Internal"
+      ],
+      "Created time": null,
+      "Tasks": "LO 05 ver1",
+      "Sprint (1)": []
+    },
+    "_title": "LO 05 ver1",
+    "database_name": "[Disk Knight] Tasks",
+    "project_name": "[Disk Knight] Tasks",
+    "database_id": "302ccb0e-ac88-8149-a55e-e3a7987e1a78"
+  },
+  {
+    "id": "312ccb0e-ac88-815b-8508-d8c4fe4c442e",
+    "created_time": "2026-02-25T04:13:00.000Z",
+    "last_edited_time": "2026-03-23T09:59:00.000Z",
+    "properties": {
+      "NLTT": null,
+      "Product ": [
+        "310ccb0e-ac88-80ec-b4c3-fccd34e66c13"
+      ],
+      "Product (1)": [
+        "LO 06"
+      ],
+      "Task main": "0/1",
+      "Task QC": "1/1",
+      "Run n8n": false,
+      "TP giả định": 0,
+      "Trọng số TP": 0.15,
+      "Product Type": [
+        "Layout"
+      ],
+      "Point Status": [
+        "Confirmed"
+      ],
+      "Ngày làm": {
+        "start": "2026-02-25T11:13:00.000+07:00",
+        "end": null
+      },
+      "[Dev] Total main": 0,
+      "Task type": "QC",
+      "Sprint": null,
+      "Product Status": [
+        "QC Approved"
+      ],
+      "Task Status": "Done QC",
+      "Episode": [
+        "LO 06"
+      ],
+      "Done date": null,
+      "UTNL": [],
+      "Product Point": [
+        0
+      ],
+      "Loại cảnh": [
+        {
+          "type": "select",
+          "select": null
+        }
+      ],
+      "TP giả định 2": 0,
+      "Assignee": [
+        {
+          "id": "2b47d5ac-bd39-4aad-8e95-23ea4ab9b925",
+          "name": "Hoàng Hà",
+          "email": "hoanghh@sangygroup.com"
+        }
+      ],
+      "TP thực tế": 0,
+      "Task fix": "0/1",
+      "Required by": [
+        "Internal"
+      ],
+      "Created time": null,
+      "Tasks": "LO 06 ver1",
+      "Sprint (1)": []
+    },
+    "_title": "LO 06 ver1",
+    "database_name": "[Disk Knight] Tasks",
+    "project_name": "[Disk Knight] Tasks",
+    "database_id": "302ccb0e-ac88-8149-a55e-e3a7987e1a78"
+  },
+  {
+    "id": "312ccb0e-ac88-8175-bf01-f67691d82346",
+    "created_time": "2026-02-25T04:07:00.000Z",
+    "last_edited_time": "2026-03-23T09:59:00.000Z",
+    "properties": {
+      "NLTT": null,
+      "Product ": [
+        "302ccb0e-ac88-8057-9c81-cf33e4965540"
+      ],
+      "Product (1)": [
+        "Cut Out 06"
+      ],
+      "Task main": "1/4",
+      "Task QC": "2/4",
+      "Run n8n": false,
+      "TP giả định": 0.84,
+      "Trọng số TP": 0.15,
+      "Product Type": [
+        "Cutout"
+      ],
+      "Point Status": [
+        "Confirmed"
+      ],
+      "Ngày làm": {
+        "start": "2026-02-25T11:07:00.000+07:00",
+        "end": null
+      },
+      "[Dev] Total main": 0,
+      "Task type": "QC",
+      "Sprint": null,
+      "Product Status": [
+        "QC Approved"
+      ],
+      "Task Status": "Done QC",
+      "Episode": [
+        "Cut Out 06"
+      ],
+      "Done date": null,
+      "UTNL": [],
+      "Product Point": [
+        14
+      ],
+      "Loại cảnh": [
+        "D"
+      ],
+      "TP giả định 2": 0.84,
+      "Assignee": [
+        {
+          "id": "2b47d5ac-bd39-4aad-8e95-23ea4ab9b925",
+          "name": "Hoàng Hà",
+          "email": "hoanghh@sangygroup.com"
+        }
+      ],
+      "TP thực tế": 1.31,
+      "Task fix": "1/4",
+      "Required by": [
+        "Internal"
+      ],
+      "Created time": null,
+      "Tasks": "Cut Out 06 ver2",
+      "Sprint (1)": []
+    },
+    "_title": "Cut Out 06 ver2",
+    "database_name": "[Disk Knight] Tasks",
+    "project_name": "[Disk Knight] Tasks",
+    "database_id": "302ccb0e-ac88-8149-a55e-e3a7987e1a78"
+  },
+  {
+    "id": "312ccb0e-ac88-819b-b8de-f0c59dde2bf9",
+    "created_time": "2026-02-25T04:13:00.000Z",
+    "last_edited_time": "2026-03-23T09:59:00.000Z",
+    "properties": {
+      "NLTT": null,
+      "Product ": [
+        "310ccb0e-ac88-80a7-a12b-d90a595f64b9"
+      ],
+      "Product (1)": [
+        "LO 03"
+      ],
+      "Task main": "0/1",
+      "Task QC": "1/1",
+      "Run n8n": false,
+      "TP giả định": 0,
+      "Trọng số TP": 0.15,
+      "Product Type": [
+        "Layout"
+      ],
+      "Point Status": [
+        "Confirmed"
+      ],
+      "Ngày làm": {
+        "start": "2026-02-25T11:13:00.000+07:00",
+        "end": null
+      },
+      "[Dev] Total main": 0,
+      "Task type": "QC",
+      "Sprint": null,
+      "Product Status": [
+        "QC Approved"
+      ],
+      "Task Status": "Done QC",
+      "Episode": [
+        "LO 03"
+      ],
+      "Done date": null,
+      "UTNL": [],
+      "Product Point": [
+        0
+      ],
+      "Loại cảnh": [
+        {
+          "type": "select",
+          "select": null
+        }
+      ],
+      "TP giả định 2": 0,
+      "Assignee": [
+        {
+          "id": "2b47d5ac-bd39-4aad-8e95-23ea4ab9b925",
+          "name": "Hoàng Hà",
+          "email": "hoanghh@sangygroup.com"
+        }
+      ],
+      "TP thực tế": 0,
+      "Task fix": "0/1",
+      "Required by": [
+        "Internal"
+      ],
+      "Created time": null,
+      "Tasks": "LO 03 ver1",
+      "Sprint (1)": []
+    },
+    "_title": "LO 03 ver1",
+    "database_name": "[Disk Knight] Tasks",
+    "project_name": "[Disk Knight] Tasks",
+    "database_id": "302ccb0e-ac88-8149-a55e-e3a7987e1a78"
+  },
+  {
+    "id": "312ccb0e-ac88-81a8-9dcb-cee60181eac6",
+    "created_time": "2026-02-25T04:12:00.000Z",
+    "last_edited_time": "2026-03-23T09:59:00.000Z",
+    "properties": {
+      "NLTT": null,
+      "Product ": [
+        "302ccb0e-ac88-80e3-935a-e9d9dc9bb303"
+      ],
+      "Product (1)": [
+        "Cut Out 10"
+      ],
+      "Task main": "1/2",
+      "Task QC": "1/2",
+      "Run n8n": false,
+      "TP giả định": 0.84,
+      "Trọng số TP": 0.15,
+      "Product Type": [
+        "Cutout"
+      ],
+      "Point Status": [
+        "Confirmed"
+      ],
+      "Ngày làm": {
+        "start": "2026-02-25T11:12:00.000+07:00",
+        "end": null
+      },
+      "[Dev] Total main": 0,
+      "Task type": "QC",
+      "Sprint": null,
+      "Product Status": [
+        "QC Approved"
+      ],
+      "Task Status": "Done QC",
+      "Episode": [
+        "Cut Out 10"
+      ],
+      "Done date": null,
+      "UTNL": [],
+      "Product Point": [
+        14
+      ],
+      "Loại cảnh": [
+        "D"
+      ],
+      "TP giả định 2": 0.84,
+      "Assignee": [
+        {
+          "id": "2b47d5ac-bd39-4aad-8e95-23ea4ab9b925",
+          "name": "Hoàng Hà",
+          "email": "hoanghh@sangygroup.com"
+        }
+      ],
+      "TP thực tế": 1.83,
+      "Task fix": "0/2",
+      "Required by": [
+        "Internal"
+      ],
+      "Created time": null,
+      "Tasks": "Cut Out 10 ver2",
+      "Sprint (1)": []
+    },
+    "_title": "Cut Out 10 ver2",
+    "database_name": "[Disk Knight] Tasks",
+    "project_name": "[Disk Knight] Tasks",
+    "database_id": "302ccb0e-ac88-8149-a55e-e3a7987e1a78"
+  },
+  {
+    "id": "312ccb0e-ac88-81c3-b36a-ccccbf0285a7",
+    "created_time": "2026-02-25T08:35:00.000Z",
+    "last_edited_time": "2026-03-23T09:59:00.000Z",
+    "properties": {
+      "NLTT": null,
+      "Product ": [
+        "302ccb0e-ac88-80e7-8895-ec967f022996"
+      ],
+      "Product (1)": [
+        "Cut Out 07"
+      ],
+      "Task main": "1/2",
+      "Task QC": "1/2",
+      "Run n8n": false,
+      "TP giả định": 0.84,
+      "Trọng số TP": 0.15,
+      "Product Type": [
+        "Cutout"
+      ],
+      "Point Status": [
+        "Confirmed"
+      ],
+      "Ngày làm": {
+        "start": "2026-02-25T15:35:00.000+07:00",
+        "end": null
+      },
+      "[Dev] Total main": 0,
+      "Task type": "QC",
+      "Sprint": null,
+      "Product Status": [
+        "QC Approved"
+      ],
+      "Task Status": "Done QC",
+      "Episode": [
+        "Cut Out 07"
+      ],
+      "Done date": null,
+      "UTNL": [],
+      "Product Point": [
+        14
+      ],
+      "Loại cảnh": [
+        "D"
+      ],
+      "TP giả định 2": 0.84,
+      "Assignee": [
+        {
+          "id": "2b47d5ac-bd39-4aad-8e95-23ea4ab9b925",
+          "name": "Hoàng Hà",
+          "email": "hoanghh@sangygroup.com"
+        }
+      ],
+      "TP thực tế": 1.83,
+      "Task fix": "0/2",
+      "Required by": [
+        "Internal"
+      ],
+      "Created time": null,
+      "Tasks": "Cut Out 07 ver2",
+      "Sprint (1)": []
+    },
+    "_title": "Cut Out 07 ver2",
+    "database_name": "[Disk Knight] Tasks",
+    "project_name": "[Disk Knight] Tasks",
+    "database_id": "302ccb0e-ac88-8149-a55e-e3a7987e1a78"
+  },
+  {
+    "id": "312ccb0e-ac88-81d4-b6c5-db1826861389",
+    "created_time": "2026-02-25T04:05:00.000Z",
+    "last_edited_time": "2026-03-23T09:59:00.000Z",
+    "properties": {
+      "NLTT": null,
+      "Product ": [
+        "302ccb0e-ac88-8058-aafd-dd7f305dee45"
+      ],
+      "Product (1)": [
+        "Cut Out 02"
+      ],
+      "Task main": "1/4",
+      "Task QC": "2/4",
+      "Run n8n": false,
+      "TP giả định": 0.84,
+      "Trọng số TP": 0.15,
+      "Product Type": [
+        "Cutout"
+      ],
+      "Point Status": [
+        "Confirmed"
+      ],
+      "Ngày làm": {
+        "start": "2026-02-25T11:05:00.000+07:00",
+        "end": null
+      },
+      "[Dev] Total main": 0,
+      "Task type": "QC",
+      "Sprint": null,
+      "Product Status": [
+        "QC Approved"
+      ],
+      "Task Status": "Done QC",
+      "Episode": [
+        "Cut Out 02"
+      ],
+      "Done date": null,
+      "UTNL": [],
+      "Product Point": [
+        14
+      ],
+      "Loại cảnh": [
+        "D"
+      ],
+      "TP giả định 2": 0.84,
+      "Assignee": [
+        {
+          "id": "2b47d5ac-bd39-4aad-8e95-23ea4ab9b925",
+          "name": "Hoàng Hà",
+          "email": "hoanghh@sangygroup.com"
+        }
+      ],
+      "TP thực tế": 1.31,
+      "Task fix": "1/4",
+      "Required by": [
+        "Internal"
+      ],
+      "Created time": null,
+      "Tasks": "Cut Out 02 ver2",
+      "Sprint (1)": []
+    },
+    "_title": "Cut Out 02 ver2",
+    "database_name": "[Disk Knight] Tasks",
+    "project_name": "[Disk Knight] Tasks",
+    "database_id": "302ccb0e-ac88-8149-a55e-e3a7987e1a78"
+  },
+  {
+    "id": "313ccb0e-ac88-8109-b86c-dab1a92415f3",
+    "created_time": "2026-02-26T10:19:00.000Z",
+    "last_edited_time": "2026-03-23T09:59:00.000Z",
+    "properties": {
+      "NLTT": null,
+      "Product ": [
+        "310ccb0e-ac88-800b-add8-fd4eb73cec61"
+      ],
+      "Product (1)": [
+        "LO 09"
+      ],
+      "Task main": "0/1",
+      "Task QC": "1/1",
+      "Run n8n": false,
+      "TP giả định": 0,
+      "Trọng số TP": 0.15,
+      "Product Type": [
+        "Layout"
+      ],
+      "Point Status": [
+        "Confirmed"
+      ],
+      "Ngày làm": {
+        "start": "2026-02-26T17:19:00.000+07:00",
+        "end": null
+      },
+      "[Dev] Total main": 0,
+      "Task type": "QC",
+      "Sprint": null,
+      "Product Status": [
+        "QC Approved"
+      ],
+      "Task Status": "Done QC",
+      "Episode": [
+        "LO 09"
+      ],
+      "Done date": null,
+      "UTNL": [],
+      "Product Point": [
+        0
+      ],
+      "Loại cảnh": [
+        {
+          "type": "select",
+          "select": null
+        }
+      ],
+      "TP giả định 2": 0,
+      "Assignee": [
+        {
+          "id": "2b47d5ac-bd39-4aad-8e95-23ea4ab9b925",
+          "name": "Hoàng Hà",
+          "email": "hoanghh@sangygroup.com"
+        }
+      ],
+      "TP thực tế": 0,
+      "Task fix": "0/1",
+      "Required by": [
+        "Internal"
+      ],
+      "Created time": null,
+      "Tasks": "LO 09 ver1",
+      "Sprint (1)": []
+    },
+    "_title": "LO 09 ver1",
+    "database_name": "[Disk Knight] Tasks",
+    "project_name": "[Disk Knight] Tasks",
+    "database_id": "302ccb0e-ac88-8149-a55e-e3a7987e1a78"
+  },
+  {
+    "id": "313ccb0e-ac88-8129-9701-de47bb0689e9",
+    "created_time": "2026-02-26T10:19:00.000Z",
+    "last_edited_time": "2026-03-23T09:59:00.000Z",
+    "properties": {
+      "NLTT": null,
+      "Product ": [
+        "310ccb0e-ac88-805a-95ef-dc7260fd8fa7"
+      ],
+      "Product (1)": [
+        "LO 11"
+      ],
+      "Task main": "0/1",
+      "Task QC": "1/1",
+      "Run n8n": false,
+      "TP giả định": 0,
+      "Trọng số TP": 0.15,
+      "Product Type": [
+        "Layout"
+      ],
+      "Point Status": [
+        "Confirmed"
+      ],
+      "Ngày làm": {
+        "start": "2026-02-26T17:19:00.000+07:00",
+        "end": null
+      },
+      "[Dev] Total main": 0,
+      "Task type": "QC",
+      "Sprint": null,
+      "Product Status": [
+        "QC Approved"
+      ],
+      "Task Status": "Done QC",
+      "Episode": [
+        "LO 11"
+      ],
+      "Done date": null,
+      "UTNL": [],
+      "Product Point": [
+        0
+      ],
+      "Loại cảnh": [
+        {
+          "type": "select",
+          "select": null
+        }
+      ],
+      "TP giả định 2": 0,
+      "Assignee": [
+        {
+          "id": "2b47d5ac-bd39-4aad-8e95-23ea4ab9b925",
+          "name": "Hoàng Hà",
+          "email": "hoanghh@sangygroup.com"
+        }
+      ],
+      "TP thực tế": 0,
+      "Task fix": "0/1",
+      "Required by": [
+        "Internal"
+      ],
+      "Created time": null,
+      "Tasks": "LO 11 ver1",
+      "Sprint (1)": []
+    },
+    "_title": "LO 11 ver1",
+    "database_name": "[Disk Knight] Tasks",
+    "project_name": "[Disk Knight] Tasks",
+    "database_id": "302ccb0e-ac88-8149-a55e-e3a7987e1a78"
+  },
+  {
+    "id": "313ccb0e-ac88-81b9-8cea-fe8e47ddb272",
+    "created_time": "2026-02-26T10:19:00.000Z",
+    "last_edited_time": "2026-03-23T09:59:00.000Z",
+    "properties": {
+      "NLTT": null,
+      "Product ": [
+        "310ccb0e-ac88-8094-bbed-c1af56d47f1d"
+      ],
+      "Product (1)": [
+        "LO 08"
+      ],
+      "Task main": "0/1",
+      "Task QC": "1/1",
+      "Run n8n": false,
+      "TP giả định": 0,
+      "Trọng số TP": 0.15,
+      "Product Type": [
+        "Layout"
+      ],
+      "Point Status": [
+        "Confirmed"
+      ],
+      "Ngày làm": {
+        "start": "2026-02-26T17:19:00.000+07:00",
+        "end": null
+      },
+      "[Dev] Total main": 0,
+      "Task type": "QC",
+      "Sprint": null,
+      "Product Status": [
+        "QC Approved"
+      ],
+      "Task Status": "Done QC",
+      "Episode": [
+        "LO 08"
+      ],
+      "Done date": null,
+      "UTNL": [],
+      "Product Point": [
+        0
+      ],
+      "Loại cảnh": [
+        {
+          "type": "select",
+          "select": null
+        }
+      ],
+      "TP giả định 2": 0,
+      "Assignee": [
+        {
+          "id": "2b47d5ac-bd39-4aad-8e95-23ea4ab9b925",
+          "name": "Hoàng Hà",
+          "email": "hoanghh@sangygroup.com"
+        }
+      ],
+      "TP thực tế": 0,
+      "Task fix": "0/1",
+      "Required by": [
+        "Internal"
+      ],
+      "Created time": null,
+      "Tasks": "LO 08 ver1",
+      "Sprint (1)": []
+    },
+    "_title": "LO 08 ver1",
+    "database_name": "[Disk Knight] Tasks",
+    "project_name": "[Disk Knight] Tasks",
+    "database_id": "302ccb0e-ac88-8149-a55e-e3a7987e1a78"
+  },
+  {
+    "id": "313ccb0e-ac88-81f4-a2ef-f20b452ffba4",
+    "created_time": "2026-02-26T10:19:00.000Z",
+    "last_edited_time": "2026-03-23T09:59:00.000Z",
+    "properties": {
+      "NLTT": null,
+      "Product ": [
+        "310ccb0e-ac88-803c-bbfc-f2e1cc63b027"
+      ],
+      "Product (1)": [
+        "LO 12"
+      ],
+      "Task main": "0/1",
+      "Task QC": "1/1",
+      "Run n8n": false,
+      "TP giả định": 0,
+      "Trọng số TP": 0.15,
+      "Product Type": [
+        "Layout"
+      ],
+      "Point Status": [
+        "Confirmed"
+      ],
+      "Ngày làm": {
+        "start": "2026-02-26T17:19:00.000+07:00",
+        "end": null
+      },
+      "[Dev] Total main": 0,
+      "Task type": "QC",
+      "Sprint": null,
+      "Product Status": [
+        "QC Approved"
+      ],
+      "Task Status": "Done QC",
+      "Episode": [
+        "LO 12"
+      ],
+      "Done date": null,
+      "UTNL": [],
+      "Product Point": [
+        0
+      ],
+      "Loại cảnh": [
+        {
+          "type": "select",
+          "select": null
+        }
+      ],
+      "TP giả định 2": 0,
+      "Assignee": [
+        {
+          "id": "2b47d5ac-bd39-4aad-8e95-23ea4ab9b925",
+          "name": "Hoàng Hà",
+          "email": "hoanghh@sangygroup.com"
+        }
+      ],
+      "TP thực tế": 0,
+      "Task fix": "0/1",
+      "Required by": [
+        "Internal"
+      ],
+      "Created time": null,
+      "Tasks": "LO 12 ver1",
+      "Sprint (1)": []
+    },
+    "_title": "LO 12 ver1",
+    "database_name": "[Disk Knight] Tasks",
+    "project_name": "[Disk Knight] Tasks",
+    "database_id": "302ccb0e-ac88-8149-a55e-e3a7987e1a78"
+  },
+  {
+    "id": "314ccb0e-ac88-8004-b78d-f08055ca3e15",
+    "created_time": "2026-02-27T03:48:00.000Z",
+    "last_edited_time": "2026-03-23T09:59:00.000Z",
+    "properties": {
+      "NLTT": 3.5,
+      "Product ": [
+        "302ccb0e-ac88-806f-827f-fbebffdcb706"
+      ],
+      "Product (1)": [
+        "Cut Out 04"
+      ],
+      "Task main": "1/4",
+      "Task QC": "2/4",
+      "Run n8n": false,
+      "TP giả định": 15.63,
+      "Trọng số TP": 1,
+      "Product Type": [
+        "Cutout"
+      ],
+      "Point Status": [
+        "Confirmed"
+      ],
+      "Ngày làm": {
+        "start": "2026-02-27T10:48:00.000+07:00",
+        "end": null
+      },
+      "[Dev] Total main": 1,
+      "Task type": "Main",
+      "Sprint": null,
+      "Product Status": [
+        "QC Approved"
+      ],
+      "Task Status": "Done",
+      "Episode": [
+        "Cut Out 04"
+      ],
+      "Done date": null,
+      "UTNL": [],
+      "Product Point": [
+        25
+      ],
+      "Loại cảnh": [
+        "C"
+      ],
+      "TP giả định 2": 10,
+      "Assignee": [
+        {
+          "id": "0b9c48d9-e3d0-4f8c-9b39-ca52da0939c0",
+          "name": "Hưng Nguyễn",
+          "email": "hungnn@sangygroup.com"
+        }
+      ],
+      "TP thực tế": 15.63,
+      "Task fix": "1/4",
+      "Required by": [
+        "Internal"
+      ],
+      "Created time": null,
+      "Tasks": "Cut Out 04 In progress 1",
+      "Sprint (1)": []
+    },
+    "_title": "Cut Out 04 In progress 1",
+    "database_name": "[Disk Knight] Tasks",
+    "project_name": "[Disk Knight] Tasks",
+    "database_id": "302ccb0e-ac88-8149-a55e-e3a7987e1a78"
+  },
+  {
+    "id": "314ccb0e-ac88-803f-a311-f82f4f758ffc",
+    "created_time": "2026-02-27T10:13:00.000Z",
+    "last_edited_time": "2026-03-23T09:59:00.000Z",
+    "properties": {
+      "NLTT": 9,
+      "Product ": [
+        "302ccb0e-ac88-80c4-bbed-eed64ccb65ad"
+      ],
+      "Product (1)": [
+        "Cut Out 12"
+      ],
+      "Task main": "1/2",
+      "Task QC": "1/2",
+      "Run n8n": false,
+      "TP giả định": 43.48,
+      "Trọng số TP": 1,
+      "Product Type": [
+        "Cutout"
+      ],
+      "Point Status": [
+        "Unconfirmed"
+      ],
+      "Ngày làm": {
+        "start": "2026-02-27T17:13:00.000+07:00",
+        "end": null
+      },
+      "[Dev] Total main": 1,
+      "Task type": "Main",
+      "Sprint": null,
+      "Product Status": [
+        "Completed"
+      ],
+      "Task Status": "Done",
+      "Episode": [
+        "Cut Out 12"
+      ],
+      "Done date": null,
+      "UTNL": [],
+      "Product Point": [
+        50
+      ],
+      "Loại cảnh": [
+        "A"
+      ],
+      "TP giả định 2": 20,
+      "Assignee": [
+        {
+          "id": "0b9c48d9-e3d0-4f8c-9b39-ca52da0939c0",
+          "name": "Hưng Nguyễn",
+          "email": "hungnn@sangygroup.com"
+        }
+      ],
+      "TP thực tế": 43.48,
+      "Task fix": "0/2",
+      "Required by": [
+        "Internal"
+      ],
+      "Created time": null,
+      "Tasks": "Cut Out 12 Ready to start 1",
+      "Sprint (1)": []
+    },
+    "_title": "Cut Out 12 Ready to start 1",
+    "database_name": "[Disk Knight] Tasks",
+    "project_name": "[Disk Knight] Tasks",
+    "database_id": "302ccb0e-ac88-8149-a55e-e3a7987e1a78"
+  },
+  {
+    "id": "314ccb0e-ac88-8063-9249-f39e5ea0d794",
+    "created_time": "2026-02-27T03:46:00.000Z",
+    "last_edited_time": "2026-03-23T09:59:00.000Z",
+    "properties": {
+      "NLTT": 0.25,
+      "Product ": [
+        "302ccb0e-ac88-8057-9c81-cf33e4965540"
+      ],
+      "Product (1)": [
+        "Cut Out 06"
+      ],
+      "Task main": "1/4",
+      "Task QC": "2/4",
+      "Run n8n": false,
+      "TP giả định": 1.68,
+      "Trọng số TP": 0.3,
+      "Product Type": [
+        "Cutout"
+      ],
+      "Point Status": [
+        "Confirmed"
+      ],
+      "Ngày làm": {
+        "start": "2026-02-27T10:46:00.000+07:00",
+        "end": null
+      },
+      "[Dev] Total main": 0,
+      "Task type": "Fix",
+      "Sprint": null,
+      "Product Status": [
+        "QC Approved"
+      ],
+      "Task Status": "Done",
+      "Episode": [
+        "Cut Out 06"
+      ],
+      "Done date": null,
+      "UTNL": [],
+      "Product Point": [
+        14
+      ],
+      "Loại cảnh": [
+        "D"
+      ],
+      "TP giả định 2": 1.68,
+      "Assignee": [
+        {
+          "id": "0b9c48d9-e3d0-4f8c-9b39-ca52da0939c0",
+          "name": "Hưng Nguyễn",
+          "email": "hungnn@sangygroup.com"
+        }
+      ],
+      "TP thực tế": 2.63,
+      "Task fix": "1/4",
+      "Required by": [
+        "Internal"
+      ],
+      "Created time": null,
+      "Tasks": "Cut Out 06 Need Fix 3",
+      "Sprint (1)": []
+    },
+    "_title": "Cut Out 06 Need Fix 3",
+    "database_name": "[Disk Knight] Tasks",
+    "project_name": "[Disk Knight] Tasks",
+    "database_id": "302ccb0e-ac88-8149-a55e-e3a7987e1a78"
+  },
+  {
+    "id": "318ccb0e-ac88-800c-8656-f03d83e99a90",
+    "created_time": "2026-03-03T08:00:00.000Z",
+    "last_edited_time": "2026-03-23T09:59:00.000Z",
+    "properties": {
+      "NLTT": 1.25,
+      "Product ": [
+        "302ccb0e-ac88-809e-ba3d-d011a73ad7c0"
+      ],
+      "Product (1)": [
+        "FX 03"
+      ],
+      "Task main": "1/1",
+      "Task QC": "0/1",
+      "Run n8n": false,
+      "TP giả định": 0,
+      "Trọng số TP": 1,
+      "Product Type": [
+        "FX"
+      ],
+      "Point Status": [
+        "Unconfirmed"
+      ],
+      "Ngày làm": {
+        "start": "2026-03-03T15:00:00.000+07:00",
+        "end": null
+      },
+      "[Dev] Total main": 1,
+      "Task type": "Main",
+      "Sprint": [
+        "Sprint 1"
+      ],
+      "Product Status": [
+        "Pending Review"
+      ],
+      "Task Status": "Done",
+      "Episode": [
+        "FX 03"
+      ],
+      "Done date": null,
+      "UTNL": [],
+      "Product Point": [
+        0
+      ],
+      "Loại cảnh": [
+        {
+          "type": "select",
+          "select": null
+        }
+      ],
+      "TP giả định 2": 0,
+      "Assignee": [
+        {
+          "id": "129b1033-6138-40a8-909d-7a4aeb994d99",
+          "name": "Bình Lường",
+          "email": "binhlt@sangygroup.com"
+        }
+      ],
+      "TP thực tế": 0,
+      "Task fix": "0/1",
+      "Required by": [
+        "Internal"
+      ],
+      "Created time": null,
+      "Tasks": "FX 03 Ready to start 1",
+      "Sprint (1)": [
+        "302ccb0e-ac88-8102-bfa5-ee90393fbeb3"
+      ]
+    },
+    "_title": "FX 03 Ready to start 1",
+    "database_name": "[Disk Knight] Tasks",
+    "project_name": "[Disk Knight] Tasks",
+    "database_id": "302ccb0e-ac88-8149-a55e-e3a7987e1a78"
+  },
+  {
+    "id": "318ccb0e-ac88-8023-92ba-e074b2256d74",
+    "created_time": "2026-03-03T11:01:00.000Z",
+    "last_edited_time": "2026-03-23T09:59:00.000Z",
+    "properties": {
+      "NLTT": 0.5,
+      "Product ": [
+        "302ccb0e-ac88-80da-b814-d14f165d1f77"
+      ],
+      "Product (1)": [
+        "FX 11"
+      ],
+      "Task main": "1/1",
+      "Task QC": "0/1",
+      "Run n8n": false,
+      "TP giả định": 0,
+      "Trọng số TP": 1,
+      "Product Type": [
+        "FX"
+      ],
+      "Point Status": [
+        "Unconfirmed"
+      ],
+      "Ngày làm": {
+        "start": "2026-03-03T18:01:00.000+07:00",
+        "end": null
+      },
+      "[Dev] Total main": 1,
+      "Task type": "Main",
+      "Sprint": [
+        "Sprint 1"
+      ],
+      "Product Status": [
+        "Pending Review"
+      ],
+      "Task Status": "Done",
+      "Episode": [
+        "FX 11"
+      ],
+      "Done date": null,
+      "UTNL": [],
+      "Product Point": [
+        0
+      ],
+      "Loại cảnh": [
+        {
+          "type": "select",
+          "select": null
+        }
+      ],
+      "TP giả định 2": 0,
+      "Assignee": [
+        {
+          "id": "129b1033-6138-40a8-909d-7a4aeb994d99",
+          "name": "Bình Lường",
+          "email": "binhlt@sangygroup.com"
+        }
+      ],
+      "TP thực tế": 0,
+      "Task fix": "0/1",
+      "Required by": [
+        "Internal"
+      ],
+      "Created time": null,
+      "Tasks": "FX 11 Not started 1",
+      "Sprint (1)": [
+        "302ccb0e-ac88-8102-bfa5-ee90393fbeb3"
+      ]
+    },
+    "_title": "FX 11 Not started 1",
+    "database_name": "[Disk Knight] Tasks",
+    "project_name": "[Disk Knight] Tasks",
+    "database_id": "302ccb0e-ac88-8149-a55e-e3a7987e1a78"
+  },
+  {
+    "id": "318ccb0e-ac88-8051-8952-d8e9681e7370",
+    "created_time": "2026-03-03T06:41:00.000Z",
+    "last_edited_time": "2026-03-03T06:42:00.000Z",
+    "properties": {
+      "NLTT": 6,
+      "Product ": [
+        "302ccb0e-ac88-80dd-8a89-d0edc9dba063"
+      ],
+      "Product (1)": [
+        "Cut Out 03"
+      ],
+      "Task main": "1/2",
+      "Task QC": "1/2",
+      "Run n8n": false,
+      "TP giả định": 30.43,
+      "Trọng số TP": 1,
+      "Product Type": [
+        "Cutout"
+      ],
+      "Point Status": [
+        "Confirmed"
+      ],
+      "Ngày làm": {
+        "start": "2026-02-11",
+        "end": null
+      },
+      "[Dev] Total main": 1,
+      "Task type": "Main",
+      "Sprint": [
+        "Sprint 1"
+      ],
+      "Product Status": [
+        "Client Approved"
+      ],
+      "Task Status": "Not started",
+      "Episode": [
+        "Cut Out 03"
+      ],
+      "Done date": null,
+      "UTNL": [],
+      "Product Point": [
+        35
+      ],
+      "Loại cảnh": [
+        "B"
+      ],
+      "TP giả định 2": 14,
+      "Assignee": [
+        {
+          "id": "129b1033-6138-40a8-909d-7a4aeb994d99",
+          "name": "Bình Lường",
+          "email": "binhlt@sangygroup.com"
+        }
+      ],
+      "TP thực tế": 30.43,
+      "Task fix": "0/2",
+      "Required by": [
+        "Internal"
+      ],
+      "Created time": null,
+      "Tasks": "Cut Out 03 Client Approved 1",
+      "Sprint (1)": [
+        "302ccb0e-ac88-8102-bfa5-ee90393fbeb3"
+      ]
+    },
+    "_title": "Cut Out 03 Client Approved 1",
+    "database_name": "[Disk Knight] Tasks",
+    "project_name": "[Disk Knight] Tasks",
+    "database_id": "302ccb0e-ac88-8149-a55e-e3a7987e1a78"
+  },
+  {
+    "id": "318ccb0e-ac88-8063-86d2-dc3000d2a90c",
+    "created_time": "2026-03-03T11:00:00.000Z",
+    "last_edited_time": "2026-03-23T09:59:00.000Z",
+    "properties": {
+      "NLTT": 0.25,
+      "Product ": [
+        "302ccb0e-ac88-8088-adb1-e63971f2fae4"
+      ],
+      "Product (1)": [
+        "FX 10"
+      ],
+      "Task main": "1/1",
+      "Task QC": "0/1",
+      "Run n8n": false,
+      "TP giả định": 0,
+      "Trọng số TP": 1,
+      "Product Type": [
+        "FX"
+      ],
+      "Point Status": [
+        "Unconfirmed"
+      ],
+      "Ngày làm": {
+        "start": "2026-03-03T18:00:00.000+07:00",
+        "end": null
+      },
+      "[Dev] Total main": 1,
+      "Task type": "Main",
+      "Sprint": [
+        "Sprint 1"
+      ],
+      "Product Status": [
+        "Pending Review"
+      ],
+      "Task Status": "Done",
+      "Episode": [
+        "FX 10"
+      ],
+      "Done date": null,
+      "UTNL": [],
+      "Product Point": [
+        0
+      ],
+      "Loại cảnh": [
+        {
+          "type": "select",
+          "select": null
+        }
+      ],
+      "TP giả định 2": 0,
+      "Assignee": [
+        {
+          "id": "129b1033-6138-40a8-909d-7a4aeb994d99",
+          "name": "Bình Lường",
+          "email": "binhlt@sangygroup.com"
+        }
+      ],
+      "TP thực tế": 0,
+      "Task fix": "0/1",
+      "Required by": [
+        "Internal"
+      ],
+      "Created time": null,
+      "Tasks": "FX 10 Ready to start 1",
+      "Sprint (1)": [
+        "302ccb0e-ac88-8102-bfa5-ee90393fbeb3"
+      ]
+    },
+    "_title": "FX 10 Ready to start 1",
+    "database_name": "[Disk Knight] Tasks",
+    "project_name": "[Disk Knight] Tasks",
+    "database_id": "302ccb0e-ac88-8149-a55e-e3a7987e1a78"
+  },
+  {
+    "id": "318ccb0e-ac88-806b-b5cd-dc853d8deb64",
+    "created_time": "2026-03-03T04:19:00.000Z",
+    "last_edited_time": "2026-03-23T09:59:00.000Z",
+    "properties": {
+      "NLTT": null,
+      "Product ": [
+        "302ccb0e-ac88-80cd-bdad-d93785c448da"
+      ],
+      "Product (1)": [
+        "FX 09"
+      ],
+      "Task main": "1/1",
+      "Task QC": "0/1",
+      "Run n8n": false,
+      "TP giả định": 0,
+      "Trọng số TP": 1,
+      "Product Type": [
+        "FX"
+      ],
+      "Point Status": [
+        "Unconfirmed"
+      ],
+      "Ngày làm": {
+        "start": "2026-03-03T11:19:00.000+07:00",
+        "end": null
+      },
+      "[Dev] Total main": 1,
+      "Task type": "Main",
+      "Sprint": null,
+      "Product Status": [
+        "Pending Review"
+      ],
+      "Task Status": "Done",
+      "Episode": [
+        "FX 09"
+      ],
+      "Done date": null,
+      "UTNL": [],
+      "Product Point": [
+        0
+      ],
+      "Loại cảnh": [
+        {
+          "type": "select",
+          "select": null
+        }
+      ],
+      "TP giả định 2": 0,
+      "Assignee": [
+        {
+          "id": "ccd85462-3a79-4e0f-a885-c92afa63697e",
+          "name": "Kiệt Đoàn",
+          "email": "kietda@sangygroup.com"
+        }
+      ],
+      "TP thực tế": 0,
+      "Task fix": "0/1",
+      "Required by": [
+        "Internal"
+      ],
+      "Created time": null,
+      "Tasks": "FX 09 Ready to start 1",
+      "Sprint (1)": []
+    },
+    "_title": "FX 09 Ready to start 1",
+    "database_name": "[Disk Knight] Tasks",
+    "project_name": "[Disk Knight] Tasks",
+    "database_id": "302ccb0e-ac88-8149-a55e-e3a7987e1a78"
+  },
+  {
+    "id": "318ccb0e-ac88-8077-9343-edec649d4cc4",
+    "created_time": "2026-03-03T10:59:00.000Z",
+    "last_edited_time": "2026-03-23T09:59:00.000Z",
+    "properties": {
+      "NLTT": 2,
+      "Product ": [
+        "302ccb0e-ac88-8019-b9d5-dda1085e1e2d"
+      ],
+      "Product (1)": [
+        "Cut Out 08"
+      ],
+      "Task main": "1/4",
+      "Task QC": "2/4",
+      "Run n8n": false,
+      "TP giả định": 8.75,
+      "Trọng số TP": 1,
+      "Product Type": [
+        "Cutout"
+      ],
+      "Point Status": [
+        "Confirmed"
+      ],
+      "Ngày làm": {
+        "start": "2026-03-03T17:59:00.000+07:00",
+        "end": null
+      },
+      "[Dev] Total main": 1,
+      "Task type": "Main",
+      "Sprint": [
+        "Sprint 1"
+      ],
+      "Product Status": [
+        "QC Approved"
+      ],
+      "Task Status": "Done",
+      "Episode": [
+        "Cut Out 08"
+      ],
+      "Done date": null,
+      "UTNL": [],
+      "Product Point": [
+        14
+      ],
+      "Loại cảnh": [
+        "D"
+      ],
+      "TP giả định 2": 5.6,
+      "Assignee": [
+        {
+          "id": "129b1033-6138-40a8-909d-7a4aeb994d99",
+          "name": "Bình Lường",
+          "email": "binhlt@sangygroup.com"
+        }
+      ],
+      "TP thực tế": 8.75,
+      "Task fix": "1/4",
+      "Required by": [
+        "Internal"
+      ],
+      "Created time": null,
+      "Tasks": "Cut Out 08 Ready to start 1",
+      "Sprint (1)": [
+        "302ccb0e-ac88-8102-bfa5-ee90393fbeb3"
+      ]
+    },
+    "_title": "Cut Out 08 Ready to start 1",
+    "database_name": "[Disk Knight] Tasks",
+    "project_name": "[Disk Knight] Tasks",
+    "database_id": "302ccb0e-ac88-8149-a55e-e3a7987e1a78"
+  },
+  {
+    "id": "318ccb0e-ac88-807d-88c5-e1897122b860",
+    "created_time": "2026-03-03T07:55:00.000Z",
+    "last_edited_time": "2026-03-23T09:59:00.000Z",
+    "properties": {
+      "NLTT": 1,
+      "Product ": [
+        "318ccb0e-ac88-808f-97a4-fae7bb152372"
+      ],
+      "Product (1)": [
+        "nghỉ sáng"
+      ],
+      "Task main": "1/1",
+      "Task QC": "0/1",
+      "Run n8n": false,
+      "TP giả định": 0,
+      "Trọng số TP": 1,
+      "Product Type": [
+        {
+          "type": "select",
+          "select": null
+        }
+      ],
+      "Point Status": [
+        "Unconfirmed"
+      ],
+      "Ngày làm": {
+        "start": "2026-03-03T14:55:00.000+07:00",
+        "end": null
+      },
+      "[Dev] Total main": 1,
+      "Task type": "Main",
+      "Sprint": [
+        "Sprint 1"
+      ],
+      "Product Status": [
+        "Completed"
+      ],
+      "Task Status": "Done others",
+      "Episode": [
+        "nghỉ sáng"
+      ],
+      "Done date": null,
+      "UTNL": [],
+      "Product Point": [
+        0
+      ],
+      "Loại cảnh": [
+        {
+          "type": "select",
+          "select": null
+        }
+      ],
+      "TP giả định 2": 0,
+      "Assignee": [
+        {
+          "id": "129b1033-6138-40a8-909d-7a4aeb994d99",
+          "name": "Bình Lường",
+          "email": "binhlt@sangygroup.com"
+        }
+      ],
+      "TP thực tế": 0,
+      "Task fix": "0/1",
+      "Required by": [
+        "Internal"
+      ],
+      "Created time": null,
+      "Tasks": "nghỉ sáng ",
+      "Sprint (1)": [
+        "302ccb0e-ac88-8102-bfa5-ee90393fbeb3"
+      ]
+    },
+    "_title": "nghỉ sáng ",
+    "database_name": "[Disk Knight] Tasks",
+    "project_name": "[Disk Knight] Tasks",
+    "database_id": "302ccb0e-ac88-8149-a55e-e3a7987e1a78"
+  },
+  {
+    "id": "318ccb0e-ac88-80ee-b259-fa506aad935d",
+    "created_time": "2026-03-03T06:38:00.000Z",
+    "last_edited_time": "2026-03-23T09:59:00.000Z",
+    "properties": {
+      "NLTT": 1,
+      "Product ": [
+        "302ccb0e-ac88-80f0-84a9-c681064b4d20"
+      ],
+      "Product (1)": [
+        "Cut Out 01"
+      ],
+      "Task main": "1/2",
+      "Task QC": "1/2",
+      "Run n8n": false,
+      "TP giả định": 21.74,
+      "Trọng số TP": 1,
+      "Product Type": [
+        "Cutout"
+      ],
+      "Point Status": [
+        "Confirmed"
+      ],
+      "Ngày làm": {
+        "start": "2026-03-03T13:38:00.000+07:00",
+        "end": null
+      },
+      "[Dev] Total main": 1,
+      "Task type": "Main",
+      "Sprint": [
+        "Sprint 1"
+      ],
+      "Product Status": [
+        "QC Approved"
+      ],
+      "Task Status": "Done",
+      "Episode": [
+        "Cut Out 01"
+      ],
+      "Done date": null,
+      "UTNL": [],
+      "Product Point": [
+        25
+      ],
+      "Loại cảnh": [
+        "C"
+      ],
+      "TP giả định 2": 10,
+      "Assignee": [
+        {
+          "id": "129b1033-6138-40a8-909d-7a4aeb994d99",
+          "name": "Bình Lường",
+          "email": "binhlt@sangygroup.com"
+        }
+      ],
+      "TP thực tế": 21.74,
+      "Task fix": "0/2",
+      "Required by": [
+        "Internal"
+      ],
+      "Created time": null,
+      "Tasks": "Cut Out 01 Ready to start 1",
+      "Sprint (1)": [
+        "302ccb0e-ac88-8102-bfa5-ee90393fbeb3"
+      ]
+    },
+    "_title": "Cut Out 01 Ready to start 1",
+    "database_name": "[Disk Knight] Tasks",
+    "project_name": "[Disk Knight] Tasks",
+    "database_id": "302ccb0e-ac88-8149-a55e-e3a7987e1a78"
+  },
+  {
+    "id": "31accb0e-ac88-8025-a78c-d4b0bcae9844",
+    "created_time": "2026-03-05T10:40:00.000Z",
+    "last_edited_time": "2026-03-23T09:59:00.000Z",
+    "properties": {
+      "NLTT": 0,
+      "Product ": [
+        "302ccb0e-ac88-8019-b9d5-dda1085e1e2d"
+      ],
+      "Product (1)": [
+        "Cut Out 08"
+      ],
+      "Task main": "1/4",
+      "Task QC": "2/4",
+      "Run n8n": false,
+      "TP giả định": 1.68,
+      "Trọng số TP": 0.3,
+      "Product Type": [
+        "Cutout"
+      ],
+      "Point Status": [
+        "Confirmed"
+      ],
+      "Ngày làm": {
+        "start": "2026-03-05T17:40:00.000+07:00",
+        "end": null
+      },
+      "[Dev] Total main": 0,
+      "Task type": "Fix",
+      "Sprint": [
+        "Sprint 1"
+      ],
+      "Product Status": [
+        "QC Approved"
+      ],
+      "Task Status": "Done",
+      "Episode": [
+        "Cut Out 08"
+      ],
+      "Done date": null,
+      "UTNL": [],
+      "Product Point": [
+        14
+      ],
+      "Loại cảnh": [
+        "D"
+      ],
+      "TP giả định 2": 1.68,
+      "Assignee": [
+        {
+          "id": "129b1033-6138-40a8-909d-7a4aeb994d99",
+          "name": "Bình Lường",
+          "email": "binhlt@sangygroup.com"
+        }
+      ],
+      "TP thực tế": 2.63,
+      "Task fix": "1/4",
+      "Required by": [
+        "Internal"
+      ],
+      "Created time": null,
+      "Tasks": "Cut Out 08 Need Fix 3",
+      "Sprint (1)": [
+        "302ccb0e-ac88-8102-bfa5-ee90393fbeb3"
+      ]
+    },
+    "_title": "Cut Out 08 Need Fix 3",
+    "database_name": "[Disk Knight] Tasks",
+    "project_name": "[Disk Knight] Tasks",
+    "database_id": "302ccb0e-ac88-8149-a55e-e3a7987e1a78"
+  },
+  {
+    "id": "31accb0e-ac88-80e5-9e15-c689a05e97b1",
+    "created_time": "2026-03-05T10:41:00.000Z",
+    "last_edited_time": "2026-03-23T09:59:00.000Z",
+    "properties": {
+      "NLTT": 2,
+      "Product ": [
+        "302ccb0e-ac88-8020-aba4-f29d29b5df16"
+      ],
+      "Product (1)": [
+        "Cut Out 11"
+      ],
+      "Task main": "1/4",
+      "Task QC": "2/4",
+      "Run n8n": false,
+      "TP giả định": 15.63,
+      "Trọng số TP": 1,
+      "Product Type": [
+        "Cutout"
+      ],
+      "Point Status": [
+        "Confirmed"
+      ],
+      "Ngày làm": {
+        "start": "2026-03-05T17:41:00.000+07:00",
+        "end": null
+      },
+      "[Dev] Total main": 1,
+      "Task type": "Main",
+      "Sprint": [
+        "Sprint 1"
+      ],
+      "Product Status": [
+        "QC Approved"
+      ],
+      "Task Status": "Done",
+      "Episode": [
+        "Cut Out 11"
+      ],
+      "Done date": null,
+      "UTNL": [],
+      "Product Point": [
+        25
+      ],
+      "Loại cảnh": [
+        "C"
+      ],
+      "TP giả định 2": 10,
+      "Assignee": [
+        {
+          "id": "129b1033-6138-40a8-909d-7a4aeb994d99",
+          "name": "Bình Lường",
+          "email": "binhlt@sangygroup.com"
+        }
+      ],
+      "TP thực tế": 15.63,
+      "Task fix": "1/4",
+      "Required by": [
+        "Internal"
+      ],
+      "Created time": null,
+      "Tasks": "Cut Out 11 Ready to start 1",
+      "Sprint (1)": [
+        "302ccb0e-ac88-8102-bfa5-ee90393fbeb3"
+      ]
+    },
+    "_title": "Cut Out 11 Ready to start 1",
+    "database_name": "[Disk Knight] Tasks",
+    "project_name": "[Disk Knight] Tasks",
+    "database_id": "302ccb0e-ac88-8149-a55e-e3a7987e1a78"
+  },
+  {
+    "id": "31accb0e-ac88-8107-857b-fc867190c4f1",
+    "created_time": "2026-03-05T08:59:00.000Z",
+    "last_edited_time": "2026-03-23T09:59:00.000Z",
+    "properties": {
+      "NLTT": null,
+      "Product ": [
+        "302ccb0e-ac88-8057-9c81-cf33e4965540"
+      ],
+      "Product (1)": [
+        "Cut Out 06"
+      ],
+      "Task main": "1/4",
+      "Task QC": "2/4",
+      "Run n8n": false,
+      "TP giả định": 0.84,
+      "Trọng số TP": 0.15,
+      "Product Type": [
+        "Cutout"
+      ],
+      "Point Status": [
+        "Confirmed"
+      ],
+      "Ngày làm": {
+        "start": "2026-03-05T15:59:00.000+07:00",
+        "end": null
+      },
+      "[Dev] Total main": 0,
+      "Task type": "QC",
+      "Sprint": null,
+      "Product Status": [
+        "QC Approved"
+      ],
+      "Task Status": "Done QC",
+      "Episode": [
+        "Cut Out 06"
+      ],
+      "Done date": null,
+      "UTNL": [],
+      "Product Point": [
+        14
+      ],
+      "Loại cảnh": [
+        "D"
+      ],
+      "TP giả định 2": 0.84,
+      "Assignee": [
+        {
+          "id": "2b47d5ac-bd39-4aad-8e95-23ea4ab9b925",
+          "name": "Hoàng Hà",
+          "email": "hoanghh@sangygroup.com"
+        }
+      ],
+      "TP thực tế": 1.31,
+      "Task fix": "1/4",
+      "Required by": [
+        "Internal"
+      ],
+      "Created time": null,
+      "Tasks": "Cut Out 06 ver4",
+      "Sprint (1)": []
+    },
+    "_title": "Cut Out 06 ver4",
+    "database_name": "[Disk Knight] Tasks",
+    "project_name": "[Disk Knight] Tasks",
+    "database_id": "302ccb0e-ac88-8149-a55e-e3a7987e1a78"
+  },
+  {
+    "id": "31accb0e-ac88-8114-bdd7-fc02c005ca6b",
+    "created_time": "2026-03-05T09:02:00.000Z",
+    "last_edited_time": "2026-03-23T09:59:00.000Z",
+    "properties": {
+      "NLTT": null,
+      "Product ": [
+        "302ccb0e-ac88-8019-b9d5-dda1085e1e2d"
+      ],
+      "Product (1)": [
+        "Cut Out 08"
+      ],
+      "Task main": "1/4",
+      "Task QC": "2/4",
+      "Run n8n": false,
+      "TP giả định": 0.84,
+      "Trọng số TP": 0.15,
+      "Product Type": [
+        "Cutout"
+      ],
+      "Point Status": [
+        "Confirmed"
+      ],
+      "Ngày làm": {
+        "start": "2026-03-05T16:02:00.000+07:00",
+        "end": null
+      },
+      "[Dev] Total main": 0,
+      "Task type": "QC",
+      "Sprint": null,
+      "Product Status": [
+        "QC Approved"
+      ],
+      "Task Status": "Done QC",
+      "Episode": [
+        "Cut Out 08"
+      ],
+      "Done date": null,
+      "UTNL": [],
+      "Product Point": [
+        14
+      ],
+      "Loại cảnh": [
+        "D"
+      ],
+      "TP giả định 2": 0.84,
+      "Assignee": [
+        {
+          "id": "2b47d5ac-bd39-4aad-8e95-23ea4ab9b925",
+          "name": "Hoàng Hà",
+          "email": "hoanghh@sangygroup.com"
+        }
+      ],
+      "TP thực tế": 1.31,
+      "Task fix": "1/4",
+      "Required by": [
+        "Internal"
+      ],
+      "Created time": null,
+      "Tasks": "Cut Out 08 ver2",
+      "Sprint (1)": []
+    },
+    "_title": "Cut Out 08 ver2",
+    "database_name": "[Disk Knight] Tasks",
+    "project_name": "[Disk Knight] Tasks",
+    "database_id": "302ccb0e-ac88-8149-a55e-e3a7987e1a78"
+  },
+  {
+    "id": "31accb0e-ac88-812e-afdf-df22a25245f6",
+    "created_time": "2026-03-05T08:58:00.000Z",
+    "last_edited_time": "2026-03-23T09:59:00.000Z",
+    "properties": {
+      "NLTT": null,
+      "Product ": [
+        "302ccb0e-ac88-806f-827f-fbebffdcb706"
+      ],
+      "Product (1)": [
+        "Cut Out 04"
+      ],
+      "Task main": "1/4",
+      "Task QC": "2/4",
+      "Run n8n": false,
+      "TP giả định": 1.5,
+      "Trọng số TP": 0.15,
+      "Product Type": [
+        "Cutout"
+      ],
+      "Point Status": [
+        "Confirmed"
+      ],
+      "Ngày làm": {
+        "start": "2026-03-05T15:58:00.000+07:00",
+        "end": null
+      },
+      "[Dev] Total main": 0,
+      "Task type": "QC",
+      "Sprint": null,
+      "Product Status": [
+        "QC Approved"
+      ],
+      "Task Status": "Done QC",
+      "Episode": [
+        "Cut Out 04"
+      ],
+      "Done date": null,
+      "UTNL": [],
+      "Product Point": [
+        25
+      ],
+      "Loại cảnh": [
+        "C"
+      ],
+      "TP giả định 2": 1.5,
+      "Assignee": [
+        {
+          "id": "2b47d5ac-bd39-4aad-8e95-23ea4ab9b925",
+          "name": "Hoàng Hà",
+          "email": "hoanghh@sangygroup.com"
+        }
+      ],
+      "TP thực tế": 2.34,
+      "Task fix": "1/4",
+      "Required by": [
+        "Internal"
+      ],
+      "Created time": null,
+      "Tasks": "Cut Out 04 ver2",
+      "Sprint (1)": []
+    },
+    "_title": "Cut Out 04 ver2",
+    "database_name": "[Disk Knight] Tasks",
+    "project_name": "[Disk Knight] Tasks",
+    "database_id": "302ccb0e-ac88-8149-a55e-e3a7987e1a78"
+  },
+  {
+    "id": "31accb0e-ac88-81a4-a706-c0025359600e",
+    "created_time": "2026-03-05T08:58:00.000Z",
+    "last_edited_time": "2026-03-23T09:59:00.000Z",
+    "properties": {
+      "NLTT": null,
+      "Product ": [
+        "302ccb0e-ac88-80f0-84a9-c681064b4d20"
+      ],
+      "Product (1)": [
+        "Cut Out 01"
+      ],
+      "Task main": "1/2",
+      "Task QC": "1/2",
+      "Run n8n": false,
+      "TP giả định": 1.5,
+      "Trọng số TP": 0.15,
+      "Product Type": [
+        "Cutout"
+      ],
+      "Point Status": [
+        "Confirmed"
+      ],
+      "Ngày làm": {
+        "start": "2026-03-05T15:58:00.000+07:00",
+        "end": null
+      },
+      "[Dev] Total main": 0,
+      "Task type": "QC",
+      "Sprint": null,
+      "Product Status": [
+        "QC Approved"
+      ],
+      "Task Status": "Done QC",
+      "Episode": [
+        "Cut Out 01"
+      ],
+      "Done date": null,
+      "UTNL": [],
+      "Product Point": [
+        25
+      ],
+      "Loại cảnh": [
+        "C"
+      ],
+      "TP giả định 2": 1.5,
+      "Assignee": [
+        {
+          "id": "2b47d5ac-bd39-4aad-8e95-23ea4ab9b925",
+          "name": "Hoàng Hà",
+          "email": "hoanghh@sangygroup.com"
+        }
+      ],
+      "TP thực tế": 3.26,
+      "Task fix": "0/2",
+      "Required by": [
+        "Internal"
+      ],
+      "Created time": null,
+      "Tasks": "Cut Out 01 ver2",
+      "Sprint (1)": []
+    },
+    "_title": "Cut Out 01 ver2",
+    "database_name": "[Disk Knight] Tasks",
+    "project_name": "[Disk Knight] Tasks",
+    "database_id": "302ccb0e-ac88-8149-a55e-e3a7987e1a78"
+  },
+  {
+    "id": "31bccb0e-ac88-8002-992e-e30e14e69ea0",
+    "created_time": "2026-03-06T06:21:00.000Z",
+    "last_edited_time": "2026-03-23T09:59:00.000Z",
+    "properties": {
+      "NLTT": null,
+      "Product ": [
+        "302ccb0e-ac88-806f-827f-fbebffdcb706"
+      ],
+      "Product (1)": [
+        "Cut Out 04"
+      ],
+      "Task main": "1/4",
+      "Task QC": "2/4",
+      "Run n8n": false,
+      "TP giả định": 3,
+      "Trọng số TP": 0.3,
+      "Product Type": [
+        "Cutout"
+      ],
+      "Point Status": [
+        "Confirmed"
+      ],
+      "Ngày làm": {
+        "start": "2026-03-06T13:21:00.000+07:00",
+        "end": null
+      },
+      "[Dev] Total main": 0,
+      "Task type": "Fix",
+      "Sprint": null,
+      "Product Status": [
+        "QC Approved"
+      ],
+      "Task Status": "Done",
+      "Episode": [
+        "Cut Out 04"
+      ],
+      "Done date": null,
+      "UTNL": [],
+      "Product Point": [
+        25
+      ],
+      "Loại cảnh": [
+        "C"
+      ],
+      "TP giả định 2": 3,
+      "Assignee": [
+        {
+          "id": "0b9c48d9-e3d0-4f8c-9b39-ca52da0939c0",
+          "name": "Hưng Nguyễn",
+          "email": "hungnn@sangygroup.com"
+        }
+      ],
+      "TP thực tế": 4.69,
+      "Task fix": "1/4",
+      "Required by": [
+        "Internal"
+      ],
+      "Created time": null,
+      "Tasks": "Cut Out 04 Need Fix 3",
+      "Sprint (1)": []
+    },
+    "_title": "Cut Out 04 Need Fix 3",
+    "database_name": "[Disk Knight] Tasks",
+    "project_name": "[Disk Knight] Tasks",
+    "database_id": "302ccb0e-ac88-8149-a55e-e3a7987e1a78"
+  },
+  {
+    "id": "31bccb0e-ac88-8003-bc48-dc0e7222769b",
+    "created_time": "2026-03-06T09:07:00.000Z",
+    "last_edited_time": "2026-03-23T09:59:00.000Z",
+    "properties": {
+      "NLTT": 0,
+      "Product ": [
+        "302ccb0e-ac88-8020-aba4-f29d29b5df16"
+      ],
+      "Product (1)": [
+        "Cut Out 11"
+      ],
+      "Task main": "1/4",
+      "Task QC": "2/4",
+      "Run n8n": false,
+      "TP giả định": 3,
+      "Trọng số TP": 0.3,
+      "Product Type": [
+        "Cutout"
+      ],
+      "Point Status": [
+        "Confirmed"
+      ],
+      "Ngày làm": {
+        "start": "2026-03-06T16:07:00.000+07:00",
+        "end": null
+      },
+      "[Dev] Total main": 0,
+      "Task type": "Fix",
+      "Sprint": [
+        "Sprint 1"
+      ],
+      "Product Status": [
+        "QC Approved"
+      ],
+      "Task Status": "Done",
+      "Episode": [
+        "Cut Out 11"
+      ],
+      "Done date": null,
+      "UTNL": [],
+      "Product Point": [
+        25
+      ],
+      "Loại cảnh": [
+        "C"
+      ],
+      "TP giả định 2": 3,
+      "Assignee": [
+        {
+          "id": "129b1033-6138-40a8-909d-7a4aeb994d99",
+          "name": "Bình Lường",
+          "email": "binhlt@sangygroup.com"
+        }
+      ],
+      "TP thực tế": 4.69,
+      "Task fix": "1/4",
+      "Required by": [
+        "Internal"
+      ],
+      "Created time": null,
+      "Tasks": "Cut Out 11 Need Fix 3",
+      "Sprint (1)": [
+        "302ccb0e-ac88-8102-bfa5-ee90393fbeb3"
+      ]
+    },
+    "_title": "Cut Out 11 Need Fix 3",
+    "database_name": "[Disk Knight] Tasks",
+    "project_name": "[Disk Knight] Tasks",
+    "database_id": "302ccb0e-ac88-8149-a55e-e3a7987e1a78"
+  },
+  {
+    "id": "31bccb0e-ac88-812e-9c84-e4540f073c07",
+    "created_time": "2026-03-06T04:44:00.000Z",
+    "last_edited_time": "2026-03-23T09:59:00.000Z",
+    "properties": {
+      "NLTT": null,
+      "Product ": [
+        "302ccb0e-ac88-8019-b9d5-dda1085e1e2d"
+      ],
+      "Product (1)": [
+        "Cut Out 08"
+      ],
+      "Task main": "1/4",
+      "Task QC": "2/4",
+      "Run n8n": false,
+      "TP giả định": 0.84,
+      "Trọng số TP": 0.15,
+      "Product Type": [
+        "Cutout"
+      ],
+      "Point Status": [
+        "Confirmed"
+      ],
+      "Ngày làm": {
+        "start": "2026-03-06T11:44:00.000+07:00",
+        "end": null
+      },
+      "[Dev] Total main": 0,
+      "Task type": "QC",
+      "Sprint": null,
+      "Product Status": [
+        "QC Approved"
+      ],
+      "Task Status": "Done QC",
+      "Episode": [
+        "Cut Out 08"
+      ],
+      "Done date": null,
+      "UTNL": [],
+      "Product Point": [
+        14
+      ],
+      "Loại cảnh": [
+        "D"
+      ],
+      "TP giả định 2": 0.84,
+      "Assignee": [
+        {
+          "id": "2b47d5ac-bd39-4aad-8e95-23ea4ab9b925",
+          "name": "Hoàng Hà",
+          "email": "hoanghh@sangygroup.com"
+        }
+      ],
+      "TP thực tế": 1.31,
+      "Task fix": "1/4",
+      "Required by": [
+        "Internal"
+      ],
+      "Created time": null,
+      "Tasks": "Cut Out 08 ver4",
+      "Sprint (1)": []
+    },
+    "_title": "Cut Out 08 ver4",
+    "database_name": "[Disk Knight] Tasks",
+    "project_name": "[Disk Knight] Tasks",
+    "database_id": "302ccb0e-ac88-8149-a55e-e3a7987e1a78"
+  },
+  {
+    "id": "31bccb0e-ac88-819b-8a0c-d064a4f65cc4",
+    "created_time": "2026-03-06T04:45:00.000Z",
+    "last_edited_time": "2026-03-23T09:59:00.000Z",
+    "properties": {
+      "NLTT": null,
+      "Product ": [
+        "302ccb0e-ac88-8020-aba4-f29d29b5df16"
+      ],
+      "Product (1)": [
+        "Cut Out 11"
+      ],
+      "Task main": "1/4",
+      "Task QC": "2/4",
+      "Run n8n": false,
+      "TP giả định": 1.5,
+      "Trọng số TP": 0.15,
+      "Product Type": [
+        "Cutout"
+      ],
+      "Point Status": [
+        "Confirmed"
+      ],
+      "Ngày làm": {
+        "start": "2026-03-06T11:45:00.000+07:00",
+        "end": null
+      },
+      "[Dev] Total main": 0,
+      "Task type": "QC",
+      "Sprint": null,
+      "Product Status": [
+        "QC Approved"
+      ],
+      "Task Status": "Done QC",
+      "Episode": [
+        "Cut Out 11"
+      ],
+      "Done date": null,
+      "UTNL": [],
+      "Product Point": [
+        25
+      ],
+      "Loại cảnh": [
+        "C"
+      ],
+      "TP giả định 2": 1.5,
+      "Assignee": [
+        {
+          "id": "2b47d5ac-bd39-4aad-8e95-23ea4ab9b925",
+          "name": "Hoàng Hà",
+          "email": "hoanghh@sangygroup.com"
+        }
+      ],
+      "TP thực tế": 2.34,
+      "Task fix": "1/4",
+      "Required by": [
+        "Internal"
+      ],
+      "Created time": null,
+      "Tasks": "Cut Out 11 ver2",
+      "Sprint (1)": []
+    },
+    "_title": "Cut Out 11 ver2",
+    "database_name": "[Disk Knight] Tasks",
+    "project_name": "[Disk Knight] Tasks",
+    "database_id": "302ccb0e-ac88-8149-a55e-e3a7987e1a78"
+  },
+  {
+    "id": "320ccb0e-ac88-8078-809d-c7838af4d411",
+    "created_time": "2026-03-11T04:51:00.000Z",
+    "last_edited_time": "2026-03-23T09:59:00.000Z",
+    "properties": {
+      "NLTT": 4,
+      "Product ": [
+        "302ccb0e-ac88-80b5-b095-c8ad34f1a4e0"
+      ],
+      "Product (1)": [
+        "FX 12"
+      ],
+      "Task main": "1/1",
+      "Task QC": "0/1",
+      "Run n8n": false,
+      "TP giả định": 0,
+      "Trọng số TP": 1,
+      "Product Type": [
+        "FX"
+      ],
+      "Point Status": [
+        "Unconfirmed"
+      ],
+      "Ngày làm": {
+        "start": "2026-03-11T11:51:00.000+07:00",
+        "end": null
+      },
+      "[Dev] Total main": 1,
+      "Task type": "Main",
+      "Sprint": null,
+      "Product Status": [
+        "Pending Review"
+      ],
+      "Task Status": "Done",
+      "Episode": [
+        "FX 12"
+      ],
+      "Done date": null,
+      "UTNL": [],
+      "Product Point": [
+        0
+      ],
+      "Loại cảnh": [
+        {
+          "type": "select",
+          "select": null
+        }
+      ],
+      "TP giả định 2": 0,
+      "Assignee": [
+        {
+          "id": "0b9c48d9-e3d0-4f8c-9b39-ca52da0939c0",
+          "name": "Hưng Nguyễn",
+          "email": "hungnn@sangygroup.com"
+        }
+      ],
+      "TP thực tế": 0,
+      "Task fix": "0/1",
+      "Required by": [
+        "Internal"
+      ],
+      "Created time": null,
+      "Tasks": "FX 12 Not started 1",
+      "Sprint (1)": []
+    },
+    "_title": "FX 12 Not started 1",
+    "database_name": "[Disk Knight] Tasks",
+    "project_name": "[Disk Knight] Tasks",
+    "database_id": "302ccb0e-ac88-8149-a55e-e3a7987e1a78"
+  },
+  {
+    "id": "321ccb0e-ac88-800c-97fc-d7f9642f7182",
+    "created_time": "2026-03-12T07:57:00.000Z",
+    "last_edited_time": "2026-03-23T09:59:00.000Z",
+    "properties": {
+      "NLTT": 3.75,
+      "Product ": [
+        "31fccb0e-ac88-8034-8d04-cf7abd5ada7a"
+      ],
+      "Product (1)": [
+        "FIX CLIENT CUT OUT 12"
+      ],
+      "Task main": "1/6",
+      "Task QC": "2/6",
+      "Run n8n": false,
+      "TP giả định": 15.91,
+      "Trọng số TP": 1,
+      "Product Type": [
+        {
+          "type": "select",
+          "select": null
+        }
+      ],
+      "Point Status": [
+        "Unconfirmed"
+      ],
+      "Ngày làm": {
+        "start": "2026-03-12T14:57:00.000+07:00",
+        "end": null
+      },
+      "[Dev] Total main": 1,
+      "Task type": "Main",
+      "Sprint": null,
+      "Product Status": [
+        "Pending Review"
+      ],
+      "Task Status": "Done",
+      "Episode": [
+        "FIX CLIENT CUT OUT 12"
+      ],
+      "Done date": null,
+      "UTNL": [],
+      "Product Point": [
+        35
+      ],
+      "Loại cảnh": [
+        "B"
+      ],
+      "TP giả định 2": 14,
+      "Assignee": [
+        {
+          "id": "0b9c48d9-e3d0-4f8c-9b39-ca52da0939c0",
+          "name": "Hưng Nguyễn",
+          "email": "hungnn@sangygroup.com"
+        }
+      ],
+      "TP thực tế": 15.91,
+      "Task fix": "3/6",
+      "Required by": [
+        "External"
+      ],
+      "Created time": null,
+      "Tasks": "FIX CLIENT CUT OUT 12 Ready to start 1",
+      "Sprint (1)": []
+    },
+    "_title": "FIX CLIENT CUT OUT 12 Ready to start 1",
+    "database_name": "[Disk Knight] Tasks",
+    "project_name": "[Disk Knight] Tasks",
+    "database_id": "302ccb0e-ac88-8149-a55e-e3a7987e1a78"
+  },
+  {
+    "id": "321ccb0e-ac88-801c-81ee-d27cdffcfce6",
+    "created_time": "2026-03-12T09:02:00.000Z",
+    "last_edited_time": "2026-03-23T09:59:00.000Z",
+    "properties": {
+      "NLTT": null,
+      "Product ": [
+        "302ccb0e-ac88-8053-910e-f9c6239e3d3f"
+      ],
+      "Product (1)": [
+        "Cut Out 05"
+      ],
+      "Task main": "1/2",
+      "Task QC": "1/2",
+      "Run n8n": false,
+      "TP giả định": 0.84,
+      "Trọng số TP": 0.15,
+      "Product Type": [
+        "Cutout"
+      ],
+      "Point Status": [
+        "Confirmed"
+      ],
+      "Ngày làm": {
+        "start": "2026-03-12T16:02:00.000+07:00",
+        "end": null
+      },
+      "[Dev] Total main": 0,
+      "Task type": "QC",
+      "Sprint": [
+        "Sprint 1"
+      ],
+      "Product Status": [
+        "Client Approved"
+      ],
+      "Task Status": "Done QC",
+      "Episode": [
+        "Cut Out 05"
+      ],
+      "Done date": null,
+      "UTNL": [],
+      "Product Point": [
+        14
+      ],
+      "Loại cảnh": [
+        "D"
+      ],
+      "TP giả định 2": 0.84,
+      "Assignee": [
+        {
+          "id": "2b47d5ac-bd39-4aad-8e95-23ea4ab9b925",
+          "name": "Hoàng Hà",
+          "email": "hoanghh@sangygroup.com"
+        }
+      ],
+      "TP thực tế": 1.83,
+      "Task fix": "0/2",
+      "Required by": [
+        "Internal"
+      ],
+      "Created time": null,
+      "Tasks": "Cut Out 05 Client Approved 2",
+      "Sprint (1)": [
+        "302ccb0e-ac88-8102-bfa5-ee90393fbeb3"
+      ]
+    },
+    "_title": "Cut Out 05 Client Approved 2",
+    "database_name": "[Disk Knight] Tasks",
+    "project_name": "[Disk Knight] Tasks",
+    "database_id": "302ccb0e-ac88-8149-a55e-e3a7987e1a78"
+  },
+  {
+    "id": "321ccb0e-ac88-8047-aef5-f270b4113cdd",
+    "created_time": "2026-03-12T07:57:00.000Z",
+    "last_edited_time": "2026-03-23T09:59:00.000Z",
+    "properties": {
+      "NLTT": 0.25,
+      "Product ": [
+        "31fccb0e-ac88-8013-be7e-fc15ef161366"
+      ],
+      "Product (1)": [
+        "FIX CLIENT CUT OUT 06"
+      ],
+      "Task main": "1/2",
+      "Task QC": "1/2",
+      "Run n8n": false,
+      "TP giả định": 4.35,
+      "Trọng số TP": 1,
+      "Product Type": [
+        {
+          "type": "select",
+          "select": null
+        }
+      ],
+      "Point Status": [
+        "Confirmed"
+      ],
+      "Ngày làm": {
+        "start": "2026-03-12T14:57:00.000+07:00",
+        "end": null
+      },
+      "[Dev] Total main": 1,
+      "Task type": "Main",
+      "Sprint": null,
+      "Product Status": [
+        "QC Approved"
+      ],
+      "Task Status": "Done",
+      "Episode": [
+        "FIX CLIENT CUT OUT 06"
+      ],
+      "Done date": null,
+      "UTNL": [],
+      "Product Point": [
+        5
+      ],
+      "Loại cảnh": [
+        "E"
+      ],
+      "TP giả định 2": 2,
+      "Assignee": [
+        {
+          "id": "0b9c48d9-e3d0-4f8c-9b39-ca52da0939c0",
+          "name": "Hưng Nguyễn",
+          "email": "hungnn@sangygroup.com"
+        }
+      ],
+      "TP thực tế": 4.35,
+      "Task fix": "0/2",
+      "Required by": [
+        "External"
+      ],
+      "Created time": null,
+      "Tasks": "FIX CLIENT CUT OUT 06 Ready to start 1",
+      "Sprint (1)": []
+    },
+    "_title": "FIX CLIENT CUT OUT 06 Ready to start 1",
+    "database_name": "[Disk Knight] Tasks",
+    "project_name": "[Disk Knight] Tasks",
+    "database_id": "302ccb0e-ac88-8149-a55e-e3a7987e1a78"
+  },
+  {
+    "id": "321ccb0e-ac88-804c-9aea-db4f7767fc42",
+    "created_time": "2026-03-12T09:58:00.000Z",
+    "last_edited_time": "2026-03-23T09:59:00.000Z",
+    "properties": {
+      "NLTT": 0.125,
+      "Product ": [
+        "31fccb0e-ac88-8050-ba20-c1e9c5174b5a"
+      ],
+      "Product (1)": [
+        "FIX CLIENT CUT OUT 01"
+      ],
+      "Task main": "2/4",
+      "Task QC": "2/4",
+      "Run n8n": false,
+      "TP giả định": 0.43,
+      "Trọng số TP": 1,
+      "Product Type": [
+        {
+          "type": "select",
+          "select": null
+        }
+      ],
+      "Point Status": [
+        "Confirmed"
+      ],
+      "Ngày làm": {
+        "start": "2026-03-12T16:58:00.000+07:00",
+        "end": null
+      },
+      "[Dev] Total main": 1,
+      "Task type": "Main",
+      "Sprint": [
+        "Sprint 1"
+      ],
+      "Product Status": [
+        "QC Approved"
+      ],
+      "Task Status": "Done",
+      "Episode": [
+        "FIX CLIENT CUT OUT 01"
+      ],
+      "Done date": null,
+      "UTNL": [
+        0.125
+      ],
+      "Product Point": [
+        1
+      ],
+      "Loại cảnh": [
+        "F"
+      ],
+      "TP giả định 2": 0.4,
+      "Assignee": [
+        {
+          "id": "129b1033-6138-40a8-909d-7a4aeb994d99",
+          "name": "Bình Lường",
+          "email": "binhlt@sangygroup.com"
+        }
+      ],
+      "TP thực tế": 0.43,
+      "Task fix": "0/4",
+      "Required by": [
+        "External"
+      ],
+      "Created time": null,
+      "Tasks": "FIX CLIENT CUT OUT 01 Need Fix 3",
+      "Sprint (1)": [
+        "302ccb0e-ac88-8102-bfa5-ee90393fbeb3"
+      ]
+    },
+    "_title": "FIX CLIENT CUT OUT 01 Need Fix 3",
+    "database_name": "[Disk Knight] Tasks",
+    "project_name": "[Disk Knight] Tasks",
+    "database_id": "302ccb0e-ac88-8149-a55e-e3a7987e1a78"
+  },
+  {
+    "id": "321ccb0e-ac88-8052-86e4-c8558ea4874d",
+    "created_time": "2026-03-12T09:00:00.000Z",
+    "last_edited_time": "2026-03-23T09:59:00.000Z",
+    "properties": {
+      "NLTT": null,
+      "Product ": [
+        "302ccb0e-ac88-80dd-8a89-d0edc9dba063"
+      ],
+      "Product (1)": [
+        "Cut Out 03"
+      ],
+      "Task main": "1/2",
+      "Task QC": "1/2",
+      "Run n8n": false,
+      "TP giả định": 2.1,
+      "Trọng số TP": 0.15,
+      "Product Type": [
+        "Cutout"
+      ],
+      "Point Status": [
+        "Confirmed"
+      ],
+      "Ngày làm": {
+        "start": "2026-03-12T16:00:00.000+07:00",
+        "end": null
+      },
+      "[Dev] Total main": 0,
+      "Task type": "QC",
+      "Sprint": [
+        "Sprint 1"
+      ],
+      "Product Status": [
+        "Client Approved"
+      ],
+      "Task Status": "Done QC",
+      "Episode": [
+        "Cut Out 03"
+      ],
+      "Done date": null,
+      "UTNL": [],
+      "Product Point": [
+        35
+      ],
+      "Loại cảnh": [
+        "B"
+      ],
+      "TP giả định 2": 2.1,
+      "Assignee": [
+        {
+          "id": "2b47d5ac-bd39-4aad-8e95-23ea4ab9b925",
+          "name": "Hoàng Hà",
+          "email": "hoanghh@sangygroup.com"
+        }
+      ],
+      "TP thực tế": 4.57,
+      "Task fix": "0/2",
+      "Required by": [
+        "Internal"
+      ],
+      "Created time": null,
+      "Tasks": "Cut Out 03 Client Approved 2",
+      "Sprint (1)": [
+        "302ccb0e-ac88-8102-bfa5-ee90393fbeb3"
+      ]
+    },
+    "_title": "Cut Out 03 Client Approved 2",
+    "database_name": "[Disk Knight] Tasks",
+    "project_name": "[Disk Knight] Tasks",
+    "database_id": "302ccb0e-ac88-8149-a55e-e3a7987e1a78"
+  },
+  {
+    "id": "321ccb0e-ac88-8058-8784-cd16f89fc643",
+    "created_time": "2026-03-12T03:35:00.000Z",
+    "last_edited_time": "2026-03-23T09:59:00.000Z",
+    "properties": {
+      "NLTT": 0.125,
+      "Product ": [
+        "31fccb0e-ac88-8050-ba20-c1e9c5174b5a"
+      ],
+      "Product (1)": [
+        "FIX CLIENT CUT OUT 01"
+      ],
+      "Task main": "2/4",
+      "Task QC": "2/4",
+      "Run n8n": false,
+      "TP giả định": 0.43,
+      "Trọng số TP": 1,
+      "Product Type": [
+        {
+          "type": "select",
+          "select": null
+        }
+      ],
+      "Point Status": [
+        "Confirmed"
+      ],
+      "Ngày làm": {
+        "start": "2026-03-12T10:35:00.000+07:00",
+        "end": null
+      },
+      "[Dev] Total main": 1,
+      "Task type": "Main",
+      "Sprint": [
+        "Sprint 1"
+      ],
+      "Product Status": [
+        "QC Approved"
+      ],
+      "Task Status": "Done",
+      "Episode": [
+        "FIX CLIENT CUT OUT 01"
+      ],
+      "Done date": null,
+      "UTNL": [
+        0.125
+      ],
+      "Product Point": [
+        1
+      ],
+      "Loại cảnh": [
+        "F"
+      ],
+      "TP giả định 2": 0.4,
+      "Assignee": [
+        {
+          "id": "129b1033-6138-40a8-909d-7a4aeb994d99",
+          "name": "Bình Lường",
+          "email": "binhlt@sangygroup.com"
+        }
+      ],
+      "TP thực tế": 0.43,
+      "Task fix": "0/4",
+      "Required by": [
+        "External"
+      ],
+      "Created time": null,
+      "Tasks": "FIX CLIENT CUT OUT 01 Pending Review 1",
+      "Sprint (1)": [
+        "302ccb0e-ac88-8102-bfa5-ee90393fbeb3"
+      ]
+    },
+    "_title": "FIX CLIENT CUT OUT 01 Pending Review 1",
+    "database_name": "[Disk Knight] Tasks",
+    "project_name": "[Disk Knight] Tasks",
+    "database_id": "302ccb0e-ac88-8149-a55e-e3a7987e1a78"
+  },
+  {
+    "id": "321ccb0e-ac88-8067-b4d6-fc84591958b2",
+    "created_time": "2026-03-12T11:02:00.000Z",
+    "last_edited_time": "2026-03-23T09:59:00.000Z",
+    "properties": {
+      "NLTT": 0.25,
+      "Product ": [
+        "31fccb0e-ac88-8072-843e-f5625c726b9d"
+      ],
+      "Product (1)": [
+        "FIX CLIENT CUT OUT 03"
+      ],
+      "Task main": "1/4",
+      "Task QC": "2/4",
+      "Run n8n": false,
+      "TP giả định": 3,
+      "Trọng số TP": 0.3,
+      "Product Type": [
+        {
+          "type": "select",
+          "select": null
+        }
+      ],
+      "Point Status": [
+        "Confirmed"
+      ],
+      "Ngày làm": {
+        "start": "2026-03-12T18:02:00.000+07:00",
+        "end": null
+      },
+      "[Dev] Total main": 0,
+      "Task type": "Fix",
+      "Sprint": [
+        "Sprint 1"
+      ],
+      "Product Status": [
+        "QC Approved"
+      ],
+      "Task Status": "Done",
+      "Episode": [
+        "FIX CLIENT CUT OUT 03"
+      ],
+      "Done date": null,
+      "UTNL": [
+        0.5
+      ],
+      "Product Point": [
+        25
+      ],
+      "Loại cảnh": [
+        "C"
+      ],
+      "TP giả định 2": 3,
+      "Assignee": [
+        {
+          "id": "129b1033-6138-40a8-909d-7a4aeb994d99",
+          "name": "Bình Lường",
+          "email": "binhlt@sangygroup.com"
+        }
+      ],
+      "TP thực tế": 4.69,
+      "Task fix": "1/4",
+      "Required by": [
+        "External"
+      ],
+      "Created time": null,
+      "Tasks": "FIX CLIENT CUT OUT 03 Need Fix 3",
+      "Sprint (1)": [
+        "302ccb0e-ac88-8102-bfa5-ee90393fbeb3"
+      ]
+    },
+    "_title": "FIX CLIENT CUT OUT 03 Need Fix 3",
+    "database_name": "[Disk Knight] Tasks",
+    "project_name": "[Disk Knight] Tasks",
+    "database_id": "302ccb0e-ac88-8149-a55e-e3a7987e1a78"
+  },
+  {
+    "id": "321ccb0e-ac88-806a-8840-ff40b9e17d8a",
+    "created_time": "2026-03-12T05:35:00.000Z",
+    "last_edited_time": "2026-03-23T09:59:00.000Z",
+    "properties": {
+      "NLTT": 0.275,
+      "Product ": [
+        "31fccb0e-ac88-80d4-bfb2-fda5f0d8631e"
+      ],
+      "Product (1)": [
+        "FIX CLIENT CUT OUT 08"
+      ],
+      "Task main": "1/2",
+      "Task QC": "1/2",
+      "Run n8n": false,
+      "TP giả định": 0.87,
+      "Trọng số TP": 1,
+      "Product Type": [
+        {
+          "type": "select",
+          "select": null
+        }
+      ],
+      "Point Status": [
+        "Confirmed"
+      ],
+      "Ngày làm": {
+        "start": "2026-03-12T12:35:00.000+07:00",
+        "end": null
+      },
+      "[Dev] Total main": 1,
+      "Task type": "Main",
+      "Sprint": [
+        "Sprint 1"
+      ],
+      "Product Status": [
+        "QC Approved"
+      ],
+      "Task Status": "Done",
+      "Episode": [
+        "FIX CLIENT CUT OUT 08"
+      ],
+      "Done date": null,
+      "UTNL": [],
+      "Product Point": [
+        1
+      ],
+      "Loại cảnh": [
+        "F"
+      ],
+      "TP giả định 2": 0.4,
+      "Assignee": [
+        {
+          "id": "129b1033-6138-40a8-909d-7a4aeb994d99",
+          "name": "Bình Lường",
+          "email": "binhlt@sangygroup.com"
+        }
+      ],
+      "TP thực tế": 0.87,
+      "Task fix": "0/2",
+      "Required by": [
+        "External"
+      ],
+      "Created time": null,
+      "Tasks": "FIX CLIENT CUT OUT 08 Ready to start 1",
+      "Sprint (1)": [
+        "302ccb0e-ac88-8102-bfa5-ee90393fbeb3"
+      ]
+    },
+    "_title": "FIX CLIENT CUT OUT 08 Ready to start 1",
+    "database_name": "[Disk Knight] Tasks",
+    "project_name": "[Disk Knight] Tasks",
+    "database_id": "302ccb0e-ac88-8149-a55e-e3a7987e1a78"
+  },
+  {
+    "id": "321ccb0e-ac88-80a6-a503-c4bd2a0d2e2f",
+    "created_time": "2026-03-12T04:55:00.000Z",
+    "last_edited_time": "2026-03-23T09:59:00.000Z",
+    "properties": {
+      "NLTT": 0.125,
+      "Product ": [
+        "31fccb0e-ac88-80a9-b1a4-ce32efc17e27"
+      ],
+      "Product (1)": [
+        "FIX CLIENT CUT OUT 02"
+      ],
+      "Task main": "2/4",
+      "Task QC": "2/4",
+      "Run n8n": false,
+      "TP giả định": 6.09,
+      "Trọng số TP": 1,
+      "Product Type": [
+        {
+          "type": "select",
+          "select": null
+        }
+      ],
+      "Point Status": [
+        "Confirmed"
+      ],
+      "Ngày làm": {
+        "start": "2026-03-12T11:55:00.000+07:00",
+        "end": null
+      },
+      "[Dev] Total main": 1,
+      "Task type": "Main",
+      "Sprint": [
+        "Sprint 1"
+      ],
+      "Product Status": [
+        "QC Approved"
+      ],
+      "Task Status": "Done",
+      "Episode": [
+        "FIX CLIENT CUT OUT 02"
+      ],
+      "Done date": null,
+      "UTNL": [],
+      "Product Point": [
+        14
+      ],
+      "Loại cảnh": [
+        "D"
+      ],
+      "TP giả định 2": 5.6,
+      "Assignee": [
+        {
+          "id": "129b1033-6138-40a8-909d-7a4aeb994d99",
+          "name": "Bình Lường",
+          "email": "binhlt@sangygroup.com"
+        }
+      ],
+      "TP thực tế": 6.09,
+      "Task fix": "0/4",
+      "Required by": [
+        "External"
+      ],
+      "Created time": null,
+      "Tasks": "FIX CLIENT CUT OUT 02 Ready to start 1",
+      "Sprint (1)": [
+        "302ccb0e-ac88-8102-bfa5-ee90393fbeb3"
+      ]
+    },
+    "_title": "FIX CLIENT CUT OUT 02 Ready to start 1",
+    "database_name": "[Disk Knight] Tasks",
+    "project_name": "[Disk Knight] Tasks",
+    "database_id": "302ccb0e-ac88-8149-a55e-e3a7987e1a78"
+  },
+  {
+    "id": "321ccb0e-ac88-80ad-939a-eb5cef548899",
+    "created_time": "2026-03-12T09:03:00.000Z",
+    "last_edited_time": "2026-03-23T09:59:00.000Z",
+    "properties": {
+      "NLTT": null,
+      "Product ": [
+        "302ccb0e-ac88-80c4-bbed-eed64ccb65ad"
+      ],
+      "Product (1)": [
+        "Cut Out 12"
+      ],
+      "Task main": "1/2",
+      "Task QC": "1/2",
+      "Run n8n": false,
+      "TP giả định": 3,
+      "Trọng số TP": 0.15,
+      "Product Type": [
+        "Cutout"
+      ],
+      "Point Status": [
+        "Unconfirmed"
+      ],
+      "Ngày làm": {
+        "start": "2026-03-12T16:03:00.000+07:00",
+        "end": null
+      },
+      "[Dev] Total main": 0,
+      "Task type": "QC",
+      "Sprint": null,
+      "Product Status": [
+        "Completed"
+      ],
+      "Task Status": "Done QC",
+      "Episode": [
+        "Cut Out 12"
+      ],
+      "Done date": null,
+      "UTNL": [],
+      "Product Point": [
+        50
+      ],
+      "Loại cảnh": [
+        "A"
+      ],
+      "TP giả định 2": 3,
+      "Assignee": [
+        {
+          "id": "2b47d5ac-bd39-4aad-8e95-23ea4ab9b925",
+          "name": "Hoàng Hà",
+          "email": "hoanghh@sangygroup.com"
+        }
+      ],
+      "TP thực tế": 6.52,
+      "Task fix": "0/2",
+      "Required by": [
+        "Internal"
+      ],
+      "Created time": null,
+      "Tasks": "Cut Out 12 Pending Review 2",
+      "Sprint (1)": []
+    },
+    "_title": "Cut Out 12 Pending Review 2",
+    "database_name": "[Disk Knight] Tasks",
+    "project_name": "[Disk Knight] Tasks",
+    "database_id": "302ccb0e-ac88-8149-a55e-e3a7987e1a78"
+  },
+  {
+    "id": "321ccb0e-ac88-80ad-bfb6-c24d2c586859",
+    "created_time": "2026-03-12T05:13:00.000Z",
+    "last_edited_time": "2026-03-23T09:59:00.000Z",
+    "properties": {
+      "NLTT": 0.5,
+      "Product ": [
+        "31fccb0e-ac88-8072-843e-f5625c726b9d"
+      ],
+      "Product (1)": [
+        "FIX CLIENT CUT OUT 03"
+      ],
+      "Task main": "1/4",
+      "Task QC": "2/4",
+      "Run n8n": false,
+      "TP giả định": 15.63,
+      "Trọng số TP": 1,
+      "Product Type": [
+        {
+          "type": "select",
+          "select": null
+        }
+      ],
+      "Point Status": [
+        "Confirmed"
+      ],
+      "Ngày làm": {
+        "start": "2026-03-12T12:13:00.000+07:00",
+        "end": null
+      },
+      "[Dev] Total main": 1,
+      "Task type": "Main",
+      "Sprint": [
+        "Sprint 1"
+      ],
+      "Product Status": [
+        "QC Approved"
+      ],
+      "Task Status": "Done",
+      "Episode": [
+        "FIX CLIENT CUT OUT 03"
+      ],
+      "Done date": null,
+      "UTNL": [
+        0.5
+      ],
+      "Product Point": [
+        25
+      ],
+      "Loại cảnh": [
+        "C"
+      ],
+      "TP giả định 2": 10,
+      "Assignee": [
+        {
+          "id": "129b1033-6138-40a8-909d-7a4aeb994d99",
+          "name": "Bình Lường",
+          "email": "binhlt@sangygroup.com"
+        }
+      ],
+      "TP thực tế": 15.63,
+      "Task fix": "1/4",
+      "Required by": [
+        "External"
+      ],
+      "Created time": null,
+      "Tasks": "FIX CLIENT CUT OUT 03 Ready to start 1",
+      "Sprint (1)": [
+        "302ccb0e-ac88-8102-bfa5-ee90393fbeb3"
+      ]
+    },
+    "_title": "FIX CLIENT CUT OUT 03 Ready to start 1",
+    "database_name": "[Disk Knight] Tasks",
+    "project_name": "[Disk Knight] Tasks",
+    "database_id": "302ccb0e-ac88-8149-a55e-e3a7987e1a78"
+  },
+  {
+    "id": "321ccb0e-ac88-8104-a4a0-dbc74d31bbeb",
+    "created_time": "2026-03-12T09:25:00.000Z",
+    "last_edited_time": "2026-03-23T09:59:00.000Z",
+    "properties": {
+      "NLTT": null,
+      "Product ": [
+        "31fccb0e-ac88-8050-ba20-c1e9c5174b5a"
+      ],
+      "Product (1)": [
+        "FIX CLIENT CUT OUT 01"
+      ],
+      "Task main": "2/4",
+      "Task QC": "2/4",
+      "Run n8n": false,
+      "TP giả định": 0.04,
+      "Trọng số TP": 0.15,
+      "Product Type": [
+        {
+          "type": "select",
+          "select": null
+        }
+      ],
+      "Point Status": [
+        "Confirmed"
+      ],
+      "Ngày làm": {
+        "start": "2026-03-12T16:25:00.000+07:00",
+        "end": null
+      },
+      "[Dev] Total main": 0,
+      "Task type": "QC",
+      "Sprint": null,
+      "Product Status": [
+        "QC Approved"
+      ],
+      "Task Status": "Done QC",
+      "Episode": [
+        "FIX CLIENT CUT OUT 01"
+      ],
+      "Done date": null,
+      "UTNL": [
+        0.125
+      ],
+      "Product Point": [
+        1
+      ],
+      "Loại cảnh": [
+        "F"
+      ],
+      "TP giả định 2": 0.06,
+      "Assignee": [
+        {
+          "id": "2b47d5ac-bd39-4aad-8e95-23ea4ab9b925",
+          "name": "Hoàng Hà",
+          "email": "hoanghh@sangygroup.com"
+        }
+      ],
+      "TP thực tế": 0.07,
+      "Task fix": "0/4",
+      "Required by": [
+        "External"
+      ],
+      "Created time": null,
+      "Tasks": "FIX CLIENT CUT OUT 01 ver2",
+      "Sprint (1)": []
+    },
+    "_title": "FIX CLIENT CUT OUT 01 ver2",
+    "database_name": "[Disk Knight] Tasks",
+    "project_name": "[Disk Knight] Tasks",
+    "database_id": "302ccb0e-ac88-8149-a55e-e3a7987e1a78"
+  },
+  {
+    "id": "321ccb0e-ac88-8119-bd23-f0cb745502a0",
+    "created_time": "2026-03-12T10:18:00.000Z",
+    "last_edited_time": "2026-03-23T09:59:00.000Z",
+    "properties": {
+      "NLTT": null,
+      "Product ": [
+        "31fccb0e-ac88-80d4-bfb2-fda5f0d8631e"
+      ],
+      "Product (1)": [
+        "FIX CLIENT CUT OUT 08"
+      ],
+      "Task main": "1/2",
+      "Task QC": "1/2",
+      "Run n8n": false,
+      "TP giả định": 0.06,
+      "Trọng số TP": 0.15,
+      "Product Type": [
+        {
+          "type": "select",
+          "select": null
+        }
+      ],
+      "Point Status": [
+        "Confirmed"
+      ],
+      "Ngày làm": {
+        "start": "2026-03-12T17:18:00.000+07:00",
+        "end": null
+      },
+      "[Dev] Total main": 0,
+      "Task type": "QC",
+      "Sprint": null,
+      "Product Status": [
+        "QC Approved"
+      ],
+      "Task Status": "Done QC",
+      "Episode": [
+        "FIX CLIENT CUT OUT 08"
+      ],
+      "Done date": null,
+      "UTNL": [],
+      "Product Point": [
+        1
+      ],
+      "Loại cảnh": [
+        "F"
+      ],
+      "TP giả định 2": 0.06,
+      "Assignee": [
+        {
+          "id": "2b47d5ac-bd39-4aad-8e95-23ea4ab9b925",
+          "name": "Hoàng Hà",
+          "email": "hoanghh@sangygroup.com"
+        }
+      ],
+      "TP thực tế": 0.13,
+      "Task fix": "0/2",
+      "Required by": [
+        "External"
+      ],
+      "Created time": null,
+      "Tasks": "FIX CLIENT CUT OUT 08 ver2",
+      "Sprint (1)": []
+    },
+    "_title": "FIX CLIENT CUT OUT 08 ver2",
+    "database_name": "[Disk Knight] Tasks",
+    "project_name": "[Disk Knight] Tasks",
+    "database_id": "302ccb0e-ac88-8149-a55e-e3a7987e1a78"
+  },
+  {
+    "id": "321ccb0e-ac88-8135-8cf9-d690cb5b9726",
+    "created_time": "2026-03-12T09:01:00.000Z",
+    "last_edited_time": "2026-03-23T09:59:00.000Z",
+    "properties": {
+      "NLTT": null,
+      "Product ": [
+        "302ccb0e-ac88-806f-827f-fbebffdcb706"
+      ],
+      "Product (1)": [
+        "Cut Out 04"
+      ],
+      "Task main": "1/4",
+      "Task QC": "2/4",
+      "Run n8n": false,
+      "TP giả định": 1.5,
+      "Trọng số TP": 0.15,
+      "Product Type": [
+        "Cutout"
+      ],
+      "Point Status": [
+        "Confirmed"
+      ],
+      "Ngày làm": {
+        "start": "2026-03-12T16:01:00.000+07:00",
+        "end": null
+      },
+      "[Dev] Total main": 0,
+      "Task type": "QC",
+      "Sprint": null,
+      "Product Status": [
+        "QC Approved"
+      ],
+      "Task Status": "Done QC",
+      "Episode": [
+        "Cut Out 04"
+      ],
+      "Done date": null,
+      "UTNL": [],
+      "Product Point": [
+        25
+      ],
+      "Loại cảnh": [
+        "C"
+      ],
+      "TP giả định 2": 1.5,
+      "Assignee": [
+        {
+          "id": "2b47d5ac-bd39-4aad-8e95-23ea4ab9b925",
+          "name": "Hoàng Hà",
+          "email": "hoanghh@sangygroup.com"
+        }
+      ],
+      "TP thực tế": 2.34,
+      "Task fix": "1/4",
+      "Required by": [
+        "Internal"
+      ],
+      "Created time": null,
+      "Tasks": "Cut Out 04 ver4",
+      "Sprint (1)": []
+    },
+    "_title": "Cut Out 04 ver4",
+    "database_name": "[Disk Knight] Tasks",
+    "project_name": "[Disk Knight] Tasks",
+    "database_id": "302ccb0e-ac88-8149-a55e-e3a7987e1a78"
+  },
+  {
+    "id": "321ccb0e-ac88-8143-9c93-e694bc00e644",
+    "created_time": "2026-03-12T09:30:00.000Z",
+    "last_edited_time": "2026-03-23T09:59:00.000Z",
+    "properties": {
+      "NLTT": null,
+      "Product ": [
+        "31fccb0e-ac88-8072-843e-f5625c726b9d"
+      ],
+      "Product (1)": [
+        "FIX CLIENT CUT OUT 03"
+      ],
+      "Task main": "1/4",
+      "Task QC": "2/4",
+      "Run n8n": false,
+      "TP giả định": 1.5,
+      "Trọng số TP": 0.15,
+      "Product Type": [
+        {
+          "type": "select",
+          "select": null
+        }
+      ],
+      "Point Status": [
+        "Confirmed"
+      ],
+      "Ngày làm": {
+        "start": "2026-03-12T16:30:00.000+07:00",
+        "end": null
+      },
+      "[Dev] Total main": 0,
+      "Task type": "QC",
+      "Sprint": null,
+      "Product Status": [
+        "QC Approved"
+      ],
+      "Task Status": "Done QC",
+      "Episode": [
+        "FIX CLIENT CUT OUT 03"
+      ],
+      "Done date": null,
+      "UTNL": [
+        0.5
+      ],
+      "Product Point": [
+        25
+      ],
+      "Loại cảnh": [
+        "C"
+      ],
+      "TP giả định 2": 1.5,
+      "Assignee": [
+        {
+          "id": "2b47d5ac-bd39-4aad-8e95-23ea4ab9b925",
+          "name": "Hoàng Hà",
+          "email": "hoanghh@sangygroup.com"
+        }
+      ],
+      "TP thực tế": 2.34,
+      "Task fix": "1/4",
+      "Required by": [
+        "External"
+      ],
+      "Created time": null,
+      "Tasks": "FIX CLIENT CUT OUT 03 ver2",
+      "Sprint (1)": []
+    },
+    "_title": "FIX CLIENT CUT OUT 03 ver2",
+    "database_name": "[Disk Knight] Tasks",
+    "project_name": "[Disk Knight] Tasks",
+    "database_id": "302ccb0e-ac88-8149-a55e-e3a7987e1a78"
+  },
+  {
+    "id": "321ccb0e-ac88-8179-a0f2-f06daffbd28b",
+    "created_time": "2026-03-12T09:25:00.000Z",
+    "last_edited_time": "2026-03-23T09:59:00.000Z",
+    "properties": {
+      "NLTT": null,
+      "Product ": [
+        "31fccb0e-ac88-80a9-b1a4-ce32efc17e27"
+      ],
+      "Product (1)": [
+        "FIX CLIENT CUT OUT 02"
+      ],
+      "Task main": "2/4",
+      "Task QC": "2/4",
+      "Run n8n": false,
+      "TP giả định": 0.6,
+      "Trọng số TP": 0.15,
+      "Product Type": [
+        {
+          "type": "select",
+          "select": null
+        }
+      ],
+      "Point Status": [
+        "Confirmed"
+      ],
+      "Ngày làm": {
+        "start": "2026-03-12T16:25:00.000+07:00",
+        "end": null
+      },
+      "[Dev] Total main": 0,
+      "Task type": "QC",
+      "Sprint": null,
+      "Product Status": [
+        "QC Approved"
+      ],
+      "Task Status": "Done QC",
+      "Episode": [
+        "FIX CLIENT CUT OUT 02"
+      ],
+      "Done date": null,
+      "UTNL": [],
+      "Product Point": [
+        14
+      ],
+      "Loại cảnh": [
+        "D"
+      ],
+      "TP giả định 2": 0.84,
+      "Assignee": [
+        {
+          "id": "2b47d5ac-bd39-4aad-8e95-23ea4ab9b925",
+          "name": "Hoàng Hà",
+          "email": "hoanghh@sangygroup.com"
+        }
+      ],
+      "TP thực tế": 0.91,
+      "Task fix": "0/4",
+      "Required by": [
+        "External"
+      ],
+      "Created time": null,
+      "Tasks": "FIX CLIENT CUT OUT 02 ver2",
+      "Sprint (1)": []
+    },
+    "_title": "FIX CLIENT CUT OUT 02 ver2",
+    "database_name": "[Disk Knight] Tasks",
+    "project_name": "[Disk Knight] Tasks",
+    "database_id": "302ccb0e-ac88-8149-a55e-e3a7987e1a78"
+  },
+  {
+    "id": "321ccb0e-ac88-8192-b1f6-f8e3f040424d",
+    "created_time": "2026-03-12T09:03:00.000Z",
+    "last_edited_time": "2026-03-23T09:59:00.000Z",
+    "properties": {
+      "NLTT": null,
+      "Product ": [
+        "302ccb0e-ac88-8020-aba4-f29d29b5df16"
+      ],
+      "Product (1)": [
+        "Cut Out 11"
+      ],
+      "Task main": "1/4",
+      "Task QC": "2/4",
+      "Run n8n": false,
+      "TP giả định": 1.5,
+      "Trọng số TP": 0.15,
+      "Product Type": [
+        "Cutout"
+      ],
+      "Point Status": [
+        "Confirmed"
+      ],
+      "Ngày làm": {
+        "start": "2026-03-12T16:03:00.000+07:00",
+        "end": null
+      },
+      "[Dev] Total main": 0,
+      "Task type": "QC",
+      "Sprint": null,
+      "Product Status": [
+        "QC Approved"
+      ],
+      "Task Status": "Done QC",
+      "Episode": [
+        "Cut Out 11"
+      ],
+      "Done date": null,
+      "UTNL": [],
+      "Product Point": [
+        25
+      ],
+      "Loại cảnh": [
+        "C"
+      ],
+      "TP giả định 2": 1.5,
+      "Assignee": [
+        {
+          "id": "2b47d5ac-bd39-4aad-8e95-23ea4ab9b925",
+          "name": "Hoàng Hà",
+          "email": "hoanghh@sangygroup.com"
+        }
+      ],
+      "TP thực tế": 2.34,
+      "Task fix": "1/4",
+      "Required by": [
+        "Internal"
+      ],
+      "Created time": null,
+      "Tasks": "Cut Out 11 ver4",
+      "Sprint (1)": []
+    },
+    "_title": "Cut Out 11 ver4",
+    "database_name": "[Disk Knight] Tasks",
+    "project_name": "[Disk Knight] Tasks",
+    "database_id": "302ccb0e-ac88-8149-a55e-e3a7987e1a78"
+  },
+  {
+    "id": "321ccb0e-ac88-81c2-8470-fa4e89d2866f",
+    "created_time": "2026-03-12T10:18:00.000Z",
+    "last_edited_time": "2026-03-23T09:59:00.000Z",
+    "properties": {
+      "NLTT": null,
+      "Product ": [
+        "31fccb0e-ac88-8034-8d04-cf7abd5ada7a"
+      ],
+      "Product (1)": [
+        "FIX CLIENT CUT OUT 12"
+      ],
+      "Task main": "1/6",
+      "Task QC": "2/6",
+      "Run n8n": false,
+      "TP giả định": 2.1,
+      "Trọng số TP": 0.15,
+      "Product Type": [
+        {
+          "type": "select",
+          "select": null
+        }
+      ],
+      "Point Status": [
+        "Unconfirmed"
+      ],
+      "Ngày làm": {
+        "start": "2026-03-12T17:18:00.000+07:00",
+        "end": null
+      },
+      "[Dev] Total main": 0,
+      "Task type": "QC",
+      "Sprint": null,
+      "Product Status": [
+        "Pending Review"
+      ],
+      "Task Status": "Done QC",
+      "Episode": [
+        "FIX CLIENT CUT OUT 12"
+      ],
+      "Done date": null,
+      "UTNL": [],
+      "Product Point": [
+        35
+      ],
+      "Loại cảnh": [
+        "B"
+      ],
+      "TP giả định 2": 2.1,
+      "Assignee": [
+        {
+          "id": "2b47d5ac-bd39-4aad-8e95-23ea4ab9b925",
+          "name": "Hoàng Hà",
+          "email": "hoanghh@sangygroup.com"
+        }
+      ],
+      "TP thực tế": 2.39,
+      "Task fix": "3/6",
+      "Required by": [
+        "External"
+      ],
+      "Created time": null,
+      "Tasks": "FIX CLIENT CUT OUT 12 ver2",
+      "Sprint (1)": []
+    },
+    "_title": "FIX CLIENT CUT OUT 12 ver2",
+    "database_name": "[Disk Knight] Tasks",
+    "project_name": "[Disk Knight] Tasks",
+    "database_id": "302ccb0e-ac88-8149-a55e-e3a7987e1a78"
+  },
+  {
+    "id": "321ccb0e-ac88-81ca-be5d-d801f6d51dd3",
+    "created_time": "2026-03-12T10:04:00.000Z",
+    "last_edited_time": "2026-03-23T09:59:00.000Z",
+    "properties": {
+      "NLTT": null,
+      "Product ": [
+        "31fccb0e-ac88-8013-be7e-fc15ef161366"
+      ],
+      "Product (1)": [
+        "FIX CLIENT CUT OUT 06"
+      ],
+      "Task main": "1/2",
+      "Task QC": "1/2",
+      "Run n8n": false,
+      "TP giả định": 0.3,
+      "Trọng số TP": 0.15,
+      "Product Type": [
+        {
+          "type": "select",
+          "select": null
+        }
+      ],
+      "Point Status": [
+        "Confirmed"
+      ],
+      "Ngày làm": {
+        "start": "2026-03-12T17:04:00.000+07:00",
+        "end": null
+      },
+      "[Dev] Total main": 0,
+      "Task type": "QC",
+      "Sprint": null,
+      "Product Status": [
+        "QC Approved"
+      ],
+      "Task Status": "Done QC",
+      "Episode": [
+        "FIX CLIENT CUT OUT 06"
+      ],
+      "Done date": null,
+      "UTNL": [],
+      "Product Point": [
+        5
+      ],
+      "Loại cảnh": [
+        "E"
+      ],
+      "TP giả định 2": 0.3,
+      "Assignee": [
+        {
+          "id": "2b47d5ac-bd39-4aad-8e95-23ea4ab9b925",
+          "name": "Hoàng Hà",
+          "email": "hoanghh@sangygroup.com"
+        }
+      ],
+      "TP thực tế": 0.65,
+      "Task fix": "0/2",
+      "Required by": [
+        "External"
+      ],
+      "Created time": null,
+      "Tasks": "FIX CLIENT CUT OUT 06 ver2",
+      "Sprint (1)": []
+    },
+    "_title": "FIX CLIENT CUT OUT 06 ver2",
+    "database_name": "[Disk Knight] Tasks",
+    "project_name": "[Disk Knight] Tasks",
+    "database_id": "302ccb0e-ac88-8149-a55e-e3a7987e1a78"
+  },
+  {
+    "id": "321ccb0e-ac88-81f1-8f10-f370189d8ec7",
+    "created_time": "2026-03-12T10:03:00.000Z",
+    "last_edited_time": "2026-03-23T09:59:00.000Z",
+    "properties": {
+      "NLTT": null,
+      "Product ": [
+        "31fccb0e-ac88-8050-ba20-c1e9c5174b5a"
+      ],
+      "Product (1)": [
+        "FIX CLIENT CUT OUT 01"
+      ],
+      "Task main": "2/4",
+      "Task QC": "2/4",
+      "Run n8n": false,
+      "TP giả định": 0.04,
+      "Trọng số TP": 0.15,
+      "Product Type": [
+        {
+          "type": "select",
+          "select": null
+        }
+      ],
+      "Point Status": [
+        "Confirmed"
+      ],
+      "Ngày làm": {
+        "start": "2026-03-12T17:03:00.000+07:00",
+        "end": null
+      },
+      "[Dev] Total main": 0,
+      "Task type": "QC",
+      "Sprint": null,
+      "Product Status": [
+        "QC Approved"
+      ],
+      "Task Status": "Done QC",
+      "Episode": [
+        "FIX CLIENT CUT OUT 01"
+      ],
+      "Done date": null,
+      "UTNL": [
+        0.125
+      ],
+      "Product Point": [
+        1
+      ],
+      "Loại cảnh": [
+        "F"
+      ],
+      "TP giả định 2": 0.06,
+      "Assignee": [
+        {
+          "id": "2b47d5ac-bd39-4aad-8e95-23ea4ab9b925",
+          "name": "Hoàng Hà",
+          "email": "hoanghh@sangygroup.com"
+        }
+      ],
+      "TP thực tế": 0.07,
+      "Task fix": "0/4",
+      "Required by": [
+        "External"
+      ],
+      "Created time": null,
+      "Tasks": "FIX CLIENT CUT OUT 01 ver4",
+      "Sprint (1)": []
+    },
+    "_title": "FIX CLIENT CUT OUT 01 ver4",
+    "database_name": "[Disk Knight] Tasks",
+    "project_name": "[Disk Knight] Tasks",
+    "database_id": "302ccb0e-ac88-8149-a55e-e3a7987e1a78"
+  },
+  {
+    "id": "322ccb0e-ac88-8126-841a-e5312db559fa",
+    "created_time": "2026-03-13T07:45:00.000Z",
+    "last_edited_time": "2026-03-23T09:59:00.000Z",
+    "properties": {
+      "NLTT": null,
+      "Product ": [
+        "31fccb0e-ac88-8072-843e-f5625c726b9d"
+      ],
+      "Product (1)": [
+        "FIX CLIENT CUT OUT 03"
+      ],
+      "Task main": "1/4",
+      "Task QC": "2/4",
+      "Run n8n": false,
+      "TP giả định": 1.5,
+      "Trọng số TP": 0.15,
+      "Product Type": [
+        {
+          "type": "select",
+          "select": null
+        }
+      ],
+      "Point Status": [
+        "Confirmed"
+      ],
+      "Ngày làm": {
+        "start": "2026-03-13T14:45:00.000+07:00",
+        "end": null
+      },
+      "[Dev] Total main": 0,
+      "Task type": "QC",
+      "Sprint": null,
+      "Product Status": [
+        "QC Approved"
+      ],
+      "Task Status": "Done QC",
+      "Episode": [
+        "FIX CLIENT CUT OUT 03"
+      ],
+      "Done date": null,
+      "UTNL": [
+        0.5
+      ],
+      "Product Point": [
+        25
+      ],
+      "Loại cảnh": [
+        "C"
+      ],
+      "TP giả định 2": 1.5,
+      "Assignee": [
+        {
+          "id": "2b47d5ac-bd39-4aad-8e95-23ea4ab9b925",
+          "name": "Hoàng Hà",
+          "email": "hoanghh@sangygroup.com"
+        }
+      ],
+      "TP thực tế": 2.34,
+      "Task fix": "1/4",
+      "Required by": [
+        "External"
+      ],
+      "Created time": null,
+      "Tasks": "FIX CLIENT CUT OUT 03 ver4",
+      "Sprint (1)": []
+    },
+    "_title": "FIX CLIENT CUT OUT 03 ver4",
+    "database_name": "[Disk Knight] Tasks",
+    "project_name": "[Disk Knight] Tasks",
+    "database_id": "302ccb0e-ac88-8149-a55e-e3a7987e1a78"
+  },
+  {
+    "id": "325ccb0e-ac88-8145-994c-d8b678c57423",
+    "created_time": "2026-03-16T02:20:00.000Z",
+    "last_edited_time": "2026-03-23T09:59:00.000Z",
+    "properties": {
+      "NLTT": null,
+      "Product ": [
+        "31fccb0e-ac88-8034-8d04-cf7abd5ada7a"
+      ],
+      "Product (1)": [
+        "FIX CLIENT CUT OUT 12"
+      ],
+      "Task main": "1/6",
+      "Task QC": "2/6",
+      "Run n8n": false,
+      "TP giả định": 2.1,
+      "Trọng số TP": 0.15,
+      "Product Type": [
+        {
+          "type": "select",
+          "select": null
+        }
+      ],
+      "Point Status": [
+        "Unconfirmed"
+      ],
+      "Ngày làm": {
+        "start": "2026-03-16T09:20:00.000+07:00",
+        "end": null
+      },
+      "[Dev] Total main": 0,
+      "Task type": "QC",
+      "Sprint": null,
+      "Product Status": [
+        "Pending Review"
+      ],
+      "Task Status": "Done QC",
+      "Episode": [
+        "FIX CLIENT CUT OUT 12"
+      ],
+      "Done date": null,
+      "UTNL": [],
+      "Product Point": [
+        35
+      ],
+      "Loại cảnh": [
+        "B"
+      ],
+      "TP giả định 2": 2.1,
+      "Assignee": [
+        {
+          "id": "2b47d5ac-bd39-4aad-8e95-23ea4ab9b925",
+          "name": "Hoàng Hà",
+          "email": "hoanghh@sangygroup.com"
+        }
+      ],
+      "TP thực tế": 2.39,
+      "Task fix": "3/6",
+      "Required by": [
+        "External"
+      ],
+      "Created time": null,
+      "Tasks": "FIX CLIENT CUT OUT 12 ver3",
+      "Sprint (1)": []
+    },
+    "_title": "FIX CLIENT CUT OUT 12 ver3",
+    "database_name": "[Disk Knight] Tasks",
+    "project_name": "[Disk Knight] Tasks",
+    "database_id": "302ccb0e-ac88-8149-a55e-e3a7987e1a78"
+  },
+  {
+    "id": "326ccb0e-ac88-80d6-9d27-e8f10ca81df2",
+    "created_time": "2026-03-17T02:49:00.000Z",
+    "last_edited_time": "2026-03-23T09:59:00.000Z",
+    "properties": {
+      "NLTT": 1.75,
+      "Product ": [
+        "31fccb0e-ac88-8034-8d04-cf7abd5ada7a"
+      ],
+      "Product (1)": [
+        "FIX CLIENT CUT OUT 12"
+      ],
+      "Task main": "1/6",
+      "Task QC": "2/6",
+      "Run n8n": false,
+      "TP giả định": 4.2,
+      "Trọng số TP": 0.3,
+      "Product Type": [
+        {
+          "type": "select",
+          "select": null
+        }
+      ],
+      "Point Status": [
+        "Unconfirmed"
+      ],
+      "Ngày làm": {
+        "start": "2026-03-17T09:49:00.000+07:00",
+        "end": null
+      },
+      "[Dev] Total main": 0,
+      "Task type": "Fix",
+      "Sprint": null,
+      "Product Status": [
+        "Pending Review"
+      ],
+      "Task Status": "Done",
+      "Episode": [
+        "FIX CLIENT CUT OUT 12"
+      ],
+      "Done date": null,
+      "UTNL": [],
+      "Product Point": [
+        35
+      ],
+      "Loại cảnh": [
+        "B"
+      ],
+      "TP giả định 2": 4.2,
+      "Assignee": [
+        {
+          "id": "0b9c48d9-e3d0-4f8c-9b39-ca52da0939c0",
+          "name": "Hưng Nguyễn",
+          "email": "hungnn@sangygroup.com"
+        }
+      ],
+      "TP thực tế": 4.77,
+      "Task fix": "3/6",
+      "Required by": [
+        "External"
+      ],
+      "Created time": null,
+      "Tasks": "FIX CLIENT CUT OUT 12 Need Fix Client 4",
+      "Sprint (1)": []
+    },
+    "_title": "FIX CLIENT CUT OUT 12 Need Fix Client 4",
+    "database_name": "[Disk Knight] Tasks",
+    "project_name": "[Disk Knight] Tasks",
+    "database_id": "302ccb0e-ac88-8149-a55e-e3a7987e1a78"
+  },
+  {
+    "id": "326ccb0e-ac88-8170-ab5d-fca558a01d0f",
+    "created_time": "2026-03-17T04:35:00.000Z",
+    "last_edited_time": "2026-03-23T09:59:00.000Z",
+    "properties": {
+      "NLTT": null,
+      "Product ": [
+        "321ccb0e-ac88-80e3-a51c-e7d41fb245ee"
+      ],
+      "Product (1)": [
+        "Comp 10"
+      ],
+      "Task main": "0/1",
+      "Task QC": "1/1",
+      "Run n8n": false,
+      "TP giả định": 0,
+      "Trọng số TP": 0.15,
+      "Product Type": [
+        "Comp"
+      ],
+      "Point Status": [
+        "Confirmed"
+      ],
+      "Ngày làm": {
+        "start": "2026-03-17T11:35:00.000+07:00",
+        "end": null
+      },
+      "[Dev] Total main": 0,
+      "Task type": "QC",
+      "Sprint": null,
+      "Product Status": [
+        "QC Approved"
+      ],
+      "Task Status": "Done QC",
+      "Episode": [
+        "Comp 10"
+      ],
+      "Done date": null,
+      "UTNL": [],
+      "Product Point": [
+        0
+      ],
+      "Loại cảnh": [
+        {
+          "type": "select",
+          "select": null
+        }
+      ],
+      "TP giả định 2": 0,
+      "Assignee": [
+        {
+          "id": "04072340-1849-4642-93b8-632bb7dede0f",
+          "name": "Hòa Trần",
+          "email": "hoatx@sangygroup.com"
+        }
+      ],
+      "TP thực tế": 0,
+      "Task fix": "0/1",
+      "Required by": [
+        "Internal"
+      ],
+      "Created time": null,
+      "Tasks": "Comp 10 ver1",
+      "Sprint (1)": []
+    },
+    "_title": "Comp 10 ver1",
+    "database_name": "[Disk Knight] Tasks",
+    "project_name": "[Disk Knight] Tasks",
+    "database_id": "302ccb0e-ac88-8149-a55e-e3a7987e1a78"
+  },
+  {
+    "id": "326ccb0e-ac88-81f2-91e4-ff7842aefbdb",
+    "created_time": "2026-03-17T04:35:00.000Z",
+    "last_edited_time": "2026-03-23T09:59:00.000Z",
+    "properties": {
+      "NLTT": null,
+      "Product ": [
+        "321ccb0e-ac88-80b4-b85c-f87e646fe69d"
+      ],
+      "Product (1)": [
+        "Comp 09"
+      ],
+      "Task main": "0/1",
+      "Task QC": "1/1",
+      "Run n8n": false,
+      "TP giả định": 0,
+      "Trọng số TP": 0.15,
+      "Product Type": [
+        "Comp"
+      ],
+      "Point Status": [
+        "Confirmed"
+      ],
+      "Ngày làm": {
+        "start": "2026-03-17T11:35:00.000+07:00",
+        "end": null
+      },
+      "[Dev] Total main": 0,
+      "Task type": "QC",
+      "Sprint": null,
+      "Product Status": [
+        "QC Approved"
+      ],
+      "Task Status": "Done QC",
+      "Episode": [
+        "Comp 09"
+      ],
+      "Done date": null,
+      "UTNL": [],
+      "Product Point": [
+        0
+      ],
+      "Loại cảnh": [
+        {
+          "type": "select",
+          "select": null
+        }
+      ],
+      "TP giả định 2": 0,
+      "Assignee": [
+        {
+          "id": "04072340-1849-4642-93b8-632bb7dede0f",
+          "name": "Hòa Trần",
+          "email": "hoatx@sangygroup.com"
+        }
+      ],
+      "TP thực tế": 0,
+      "Task fix": "0/1",
+      "Required by": [
+        "Internal"
+      ],
+      "Created time": null,
+      "Tasks": "Comp 09 ver1",
+      "Sprint (1)": []
+    },
+    "_title": "Comp 09 ver1",
+    "database_name": "[Disk Knight] Tasks",
+    "project_name": "[Disk Knight] Tasks",
+    "database_id": "302ccb0e-ac88-8149-a55e-e3a7987e1a78"
+  },
+  {
+    "id": "327ccb0e-ac88-809b-8d2d-c6fe3e3f070c",
+    "created_time": "2026-03-18T03:48:00.000Z",
+    "last_edited_time": "2026-03-23T09:59:00.000Z",
+    "properties": {
+      "NLTT": 0.75,
+      "Product ": [
+        "31fccb0e-ac88-80a9-b1a4-ce32efc17e27"
+      ],
+      "Product (1)": [
+        "FIX CLIENT CUT OUT 02"
+      ],
+      "Task main": "2/4",
+      "Task QC": "2/4",
+      "Run n8n": false,
+      "TP giả định": 6.09,
+      "Trọng số TP": 1,
+      "Product Type": [
+        {
+          "type": "select",
+          "select": null
+        }
+      ],
+      "Point Status": [
+        "Confirmed"
+      ],
+      "Ngày làm": {
+        "start": "2026-03-18T10:48:00.000+07:00",
+        "end": null
+      },
+      "[Dev] Total main": 1,
+      "Task type": "Main",
+      "Sprint": [
+        "Sprint 1"
+      ],
+      "Product Status": [
+        "QC Approved"
+      ],
+      "Task Status": "Done",
+      "Episode": [
+        "FIX CLIENT CUT OUT 02"
+      ],
+      "Done date": null,
+      "UTNL": [],
+      "Product Point": [
+        14
+      ],
+      "Loại cảnh": [
+        "D"
+      ],
+      "TP giả định 2": 5.6,
+      "Assignee": [
+        {
+          "id": "129b1033-6138-40a8-909d-7a4aeb994d99",
+          "name": "Bình Lường",
+          "email": "binhlt@sangygroup.com"
+        }
+      ],
+      "TP thực tế": 6.09,
+      "Task fix": "0/4",
+      "Required by": [
+        "External"
+      ],
+      "Created time": null,
+      "Tasks": "FIX CLIENT CUT OUT 02 Need Fix Client 3",
+      "Sprint (1)": [
+        "302ccb0e-ac88-8102-bfa5-ee90393fbeb3"
+      ]
+    },
+    "_title": "FIX CLIENT CUT OUT 02 Need Fix Client 3",
+    "database_name": "[Disk Knight] Tasks",
+    "project_name": "[Disk Knight] Tasks",
+    "database_id": "302ccb0e-ac88-8149-a55e-e3a7987e1a78"
+  },
+  {
+    "id": "327ccb0e-ac88-810b-9711-ed0e6cf5e7b7",
+    "created_time": "2026-03-18T03:50:00.000Z",
+    "last_edited_time": "2026-03-23T09:59:00.000Z",
+    "properties": {
+      "NLTT": null,
+      "Product ": [
+        "31fccb0e-ac88-80a9-b1a4-ce32efc17e27"
+      ],
+      "Product (1)": [
+        "FIX CLIENT CUT OUT 02"
+      ],
+      "Task main": "2/4",
+      "Task QC": "2/4",
+      "Run n8n": false,
+      "TP giả định": 0.6,
+      "Trọng số TP": 0.15,
+      "Product Type": [
+        {
+          "type": "select",
+          "select": null
+        }
+      ],
+      "Point Status": [
+        "Confirmed"
+      ],
+      "Ngày làm": {
+        "start": "2026-03-18T10:50:00.000+07:00",
+        "end": null
+      },
+      "[Dev] Total main": 0,
+      "Task type": "QC",
+      "Sprint": null,
+      "Product Status": [
+        "QC Approved"
+      ],
+      "Task Status": "Done QC",
+      "Episode": [
+        "FIX CLIENT CUT OUT 02"
+      ],
+      "Done date": null,
+      "UTNL": [],
+      "Product Point": [
+        14
+      ],
+      "Loại cảnh": [
+        "D"
+      ],
+      "TP giả định 2": 0.84,
+      "Assignee": [
+        {
+          "id": "2b47d5ac-bd39-4aad-8e95-23ea4ab9b925",
+          "name": "Hoàng Hà",
+          "email": "hoanghh@sangygroup.com"
+        }
+      ],
+      "TP thực tế": 0.91,
+      "Task fix": "0/4",
+      "Required by": [
+        "External"
+      ],
+      "Created time": null,
+      "Tasks": "FIX CLIENT CUT OUT 02 ver4",
+      "Sprint (1)": []
+    },
+    "_title": "FIX CLIENT CUT OUT 02 ver4",
+    "database_name": "[Disk Knight] Tasks",
+    "project_name": "[Disk Knight] Tasks",
+    "database_id": "302ccb0e-ac88-8149-a55e-e3a7987e1a78"
+  },
+  {
+    "id": "328ccb0e-ac88-8023-bf6e-fe7e239804ed",
+    "created_time": "2026-03-19T09:38:00.000Z",
+    "last_edited_time": "2026-03-23T09:59:00.000Z",
+    "properties": {
+      "NLTT": null,
+      "Product ": [
+        "31fccb0e-ac88-8034-8d04-cf7abd5ada7a"
+      ],
+      "Product (1)": [
+        "FIX CLIENT CUT OUT 12"
+      ],
+      "Task main": "1/6",
+      "Task QC": "2/6",
+      "Run n8n": false,
+      "TP giả định": 4.2,
+      "Trọng số TP": 0.3,
+      "Product Type": [
+        {
+          "type": "select",
+          "select": null
+        }
+      ],
+      "Point Status": [
+        "Unconfirmed"
+      ],
+      "Ngày làm": {
+        "start": "2026-03-19T16:38:00.000+07:00",
+        "end": null
+      },
+      "[Dev] Total main": 0,
+      "Task type": "Fix",
+      "Sprint": null,
+      "Product Status": [
+        "Pending Review"
+      ],
+      "Task Status": "Done",
+      "Episode": [
+        "FIX CLIENT CUT OUT 12"
+      ],
+      "Done date": null,
+      "UTNL": [],
+      "Product Point": [
+        35
+      ],
+      "Loại cảnh": [
+        "B"
+      ],
+      "TP giả định 2": 4.2,
+      "Assignee": [
+        {
+          "id": "0b9c48d9-e3d0-4f8c-9b39-ca52da0939c0",
+          "name": "Hưng Nguyễn",
+          "email": "hungnn@sangygroup.com"
+        }
+      ],
+      "TP thực tế": 4.77,
+      "Task fix": "3/6",
+      "Required by": [
+        "External"
+      ],
+      "Created time": null,
+      "Tasks": "FIX CLIENT CUT OUT 12 Need Fix Client 5",
+      "Sprint (1)": []
+    },
+    "_title": "FIX CLIENT CUT OUT 12 Need Fix Client 5",
+    "database_name": "[Disk Knight] Tasks",
+    "project_name": "[Disk Knight] Tasks",
+    "database_id": "302ccb0e-ac88-8149-a55e-e3a7987e1a78"
+  },
+  {
+    "id": "328ccb0e-ac88-81a9-8362-e272029496e2",
+    "created_time": "2026-03-19T03:19:00.000Z",
+    "last_edited_time": "2026-03-23T09:59:00.000Z",
+    "properties": {
+      "NLTT": null,
+      "Product ": [
+        "321ccb0e-ac88-80cf-bbf5-d961be383898"
+      ],
+      "Product (1)": [
+        "Comp 11"
+      ],
+      "Task main": "0/1",
+      "Task QC": "1/1",
+      "Run n8n": false,
+      "TP giả định": 0,
+      "Trọng số TP": 0.15,
+      "Product Type": [
+        "Comp"
+      ],
+      "Point Status": [
+        "Confirmed"
+      ],
+      "Ngày làm": {
+        "start": "2026-03-19T10:19:00.000+07:00",
+        "end": null
+      },
+      "[Dev] Total main": 0,
+      "Task type": "QC",
+      "Sprint": null,
+      "Product Status": [
+        "QC Approved"
+      ],
+      "Task Status": "Done QC",
+      "Episode": [
+        "Comp 11"
+      ],
+      "Done date": null,
+      "UTNL": [],
+      "Product Point": [
+        0
+      ],
+      "Loại cảnh": [
+        {
+          "type": "select",
+          "select": null
+        }
+      ],
+      "TP giả định 2": 0,
+      "Assignee": [
+        {
+          "id": "04072340-1849-4642-93b8-632bb7dede0f",
+          "name": "Hòa Trần",
+          "email": "hoatx@sangygroup.com"
+        }
+      ],
+      "TP thực tế": 0,
+      "Task fix": "0/1",
+      "Required by": [
+        "Internal"
+      ],
+      "Created time": null,
+      "Tasks": "Comp 11 ver1",
+      "Sprint (1)": []
+    },
+    "_title": "Comp 11 ver1",
+    "database_name": "[Disk Knight] Tasks",
+    "project_name": "[Disk Knight] Tasks",
+    "database_id": "302ccb0e-ac88-8149-a55e-e3a7987e1a78"
+  },
+  {
+    "id": "328ccb0e-ac88-81b0-95c1-d28e72e3be0c",
+    "created_time": "2026-03-19T03:20:00.000Z",
+    "last_edited_time": "2026-03-23T09:59:00.000Z",
+    "properties": {
+      "NLTT": null,
+      "Product ": [
+        "321ccb0e-ac88-80bb-9ff4-e75a99e59ca5"
+      ],
+      "Product (1)": [
+        "Comp 07"
+      ],
+      "Task main": "0/1",
+      "Task QC": "1/1",
+      "Run n8n": false,
+      "TP giả định": 0,
+      "Trọng số TP": 0.15,
+      "Product Type": [
+        "Comp"
+      ],
+      "Point Status": [
+        "Confirmed"
+      ],
+      "Ngày làm": {
+        "start": "2026-03-19T10:20:00.000+07:00",
+        "end": null
+      },
+      "[Dev] Total main": 0,
+      "Task type": "QC",
+      "Sprint": null,
+      "Product Status": [
+        "QC Approved"
+      ],
+      "Task Status": "Done QC",
+      "Episode": [
+        "Comp 07"
+      ],
+      "Done date": null,
+      "UTNL": [],
+      "Product Point": [
+        0
+      ],
+      "Loại cảnh": [
+        {
+          "type": "select",
+          "select": null
+        }
+      ],
+      "TP giả định 2": 0,
+      "Assignee": [
+        {
+          "id": "04072340-1849-4642-93b8-632bb7dede0f",
+          "name": "Hòa Trần",
+          "email": "hoatx@sangygroup.com"
+        }
+      ],
+      "TP thực tế": 0,
+      "Task fix": "0/1",
+      "Required by": [
+        "Internal"
+      ],
+      "Created time": null,
+      "Tasks": "Comp 07 ver1",
+      "Sprint (1)": []
+    },
+    "_title": "Comp 07 ver1",
+    "database_name": "[Disk Knight] Tasks",
+    "project_name": "[Disk Knight] Tasks",
+    "database_id": "302ccb0e-ac88-8149-a55e-e3a7987e1a78"
+  },
+  {
+    "id": "328ccb0e-ac88-81f4-8438-fa87787ac502",
+    "created_time": "2026-03-19T03:19:00.000Z",
+    "last_edited_time": "2026-03-23T09:59:00.000Z",
+    "properties": {
+      "NLTT": null,
+      "Product ": [
+        "321ccb0e-ac88-8093-b8d4-e5bf22a242f7"
+      ],
+      "Product (1)": [
+        "Comp 05"
+      ],
+      "Task main": "0/1",
+      "Task QC": "1/1",
+      "Run n8n": false,
+      "TP giả định": 0,
+      "Trọng số TP": 0.15,
+      "Product Type": [
+        "Comp"
+      ],
+      "Point Status": [
+        "Confirmed"
+      ],
+      "Ngày làm": {
+        "start": "2026-03-19T10:19:00.000+07:00",
+        "end": null
+      },
+      "[Dev] Total main": 0,
+      "Task type": "QC",
+      "Sprint": null,
+      "Product Status": [
+        "QC Approved"
+      ],
+      "Task Status": "Done QC",
+      "Episode": [
+        "Comp 05"
+      ],
+      "Done date": null,
+      "UTNL": [],
+      "Product Point": [
+        0
+      ],
+      "Loại cảnh": [
+        {
+          "type": "select",
+          "select": null
+        }
+      ],
+      "TP giả định 2": 0,
+      "Assignee": [
+        {
+          "id": "04072340-1849-4642-93b8-632bb7dede0f",
+          "name": "Hòa Trần",
+          "email": "hoatx@sangygroup.com"
+        }
+      ],
+      "TP thực tế": 0,
+      "Task fix": "0/1",
+      "Required by": [
+        "Internal"
+      ],
+      "Created time": null,
+      "Tasks": "Comp 05 ver1",
+      "Sprint (1)": []
+    },
+    "_title": "Comp 05 ver1",
+    "database_name": "[Disk Knight] Tasks",
+    "project_name": "[Disk Knight] Tasks",
+    "database_id": "302ccb0e-ac88-8149-a55e-e3a7987e1a78"
+  },
+  {
+    "id": "329ccb0e-ac88-810b-bd0d-f090457de62d",
+    "created_time": "2026-03-20T04:09:00.000Z",
+    "last_edited_time": "2026-03-23T09:59:00.000Z",
+    "properties": {
+      "NLTT": null,
+      "Product ": [
+        "321ccb0e-ac88-8091-a66e-c6d71349db04"
+      ],
+      "Product (1)": [
+        "Comp 03"
+      ],
+      "Task main": "0/1",
+      "Task QC": "1/1",
+      "Run n8n": false,
+      "TP giả định": 0,
+      "Trọng số TP": 0.15,
+      "Product Type": [
+        "Comp"
+      ],
+      "Point Status": [
+        "Confirmed"
+      ],
+      "Ngày làm": {
+        "start": "2026-03-20T11:09:00.000+07:00",
+        "end": null
+      },
+      "[Dev] Total main": 0,
+      "Task type": "QC",
+      "Sprint": null,
+      "Product Status": [
+        "QC Approved"
+      ],
+      "Task Status": "Done QC",
+      "Episode": [
+        "Comp 03"
+      ],
+      "Done date": null,
+      "UTNL": [],
+      "Product Point": [
+        0
+      ],
+      "Loại cảnh": [
+        {
+          "type": "select",
+          "select": null
+        }
+      ],
+      "TP giả định 2": 0,
+      "Assignee": [
+        {
+          "id": "04072340-1849-4642-93b8-632bb7dede0f",
+          "name": "Hòa Trần",
+          "email": "hoatx@sangygroup.com"
+        }
+      ],
+      "TP thực tế": 0,
+      "Task fix": "0/1",
+      "Required by": [
+        "Internal"
+      ],
+      "Created time": null,
+      "Tasks": "Comp 03 ver1",
+      "Sprint (1)": []
+    },
+    "_title": "Comp 03 ver1",
+    "database_name": "[Disk Knight] Tasks",
+    "project_name": "[Disk Knight] Tasks",
+    "database_id": "302ccb0e-ac88-8149-a55e-e3a7987e1a78"
+  },
+  {
+    "id": "329ccb0e-ac88-811c-b327-dd15db862ea5",
+    "created_time": "2026-03-20T03:52:00.000Z",
+    "last_edited_time": "2026-03-23T09:59:00.000Z",
+    "properties": {
+      "NLTT": null,
+      "Product ": [
+        "321ccb0e-ac88-80fc-a19e-c8c3b19095f2"
+      ],
+      "Product (1)": [
+        "Comp 02"
+      ],
+      "Task main": "0/1",
+      "Task QC": "1/1",
+      "Run n8n": false,
+      "TP giả định": 0,
+      "Trọng số TP": 0.15,
+      "Product Type": [
+        "Comp"
+      ],
+      "Point Status": [
+        "Confirmed"
+      ],
+      "Ngày làm": {
+        "start": "2026-03-20T10:52:00.000+07:00",
+        "end": null
+      },
+      "[Dev] Total main": 0,
+      "Task type": "QC",
+      "Sprint": null,
+      "Product Status": [
+        "QC Approved"
+      ],
+      "Task Status": "Done QC",
+      "Episode": [
+        "Comp 02"
+      ],
+      "Done date": null,
+      "UTNL": [],
+      "Product Point": [
+        0
+      ],
+      "Loại cảnh": [
+        {
+          "type": "select",
+          "select": null
+        }
+      ],
+      "TP giả định 2": 0,
+      "Assignee": [
+        {
+          "id": "04072340-1849-4642-93b8-632bb7dede0f",
+          "name": "Hòa Trần",
+          "email": "hoatx@sangygroup.com"
+        }
+      ],
+      "TP thực tế": 0,
+      "Task fix": "0/1",
+      "Required by": [
+        "Internal"
+      ],
+      "Created time": null,
+      "Tasks": "Comp 02 ver1",
+      "Sprint (1)": []
+    },
+    "_title": "Comp 02 ver1",
+    "database_name": "[Disk Knight] Tasks",
+    "project_name": "[Disk Knight] Tasks",
+    "database_id": "302ccb0e-ac88-8149-a55e-e3a7987e1a78"
+  },
+  {
+    "id": "329ccb0e-ac88-8147-a295-c799afe42aaf",
+    "created_time": "2026-03-20T04:09:00.000Z",
+    "last_edited_time": "2026-03-23T09:59:00.000Z",
+    "properties": {
+      "NLTT": null,
+      "Product ": [
+        "321ccb0e-ac88-8031-8aaf-fb34a6555e24"
+      ],
+      "Product (1)": [
+        "Comp 08"
+      ],
+      "Task main": "0/1",
+      "Task QC": "1/1",
+      "Run n8n": false,
+      "TP giả định": 0,
+      "Trọng số TP": 0.15,
+      "Product Type": [
+        "Comp"
+      ],
+      "Point Status": [
+        "Confirmed"
+      ],
+      "Ngày làm": {
+        "start": "2026-03-20T11:09:00.000+07:00",
+        "end": null
+      },
+      "[Dev] Total main": 0,
+      "Task type": "QC",
+      "Sprint": null,
+      "Product Status": [
+        "QC Approved"
+      ],
+      "Task Status": "Done QC",
+      "Episode": [
+        "Comp 08"
+      ],
+      "Done date": null,
+      "UTNL": [],
+      "Product Point": [
+        0
+      ],
+      "Loại cảnh": [
+        {
+          "type": "select",
+          "select": null
+        }
+      ],
+      "TP giả định 2": 0,
+      "Assignee": [
+        {
+          "id": "04072340-1849-4642-93b8-632bb7dede0f",
+          "name": "Hòa Trần",
+          "email": "hoatx@sangygroup.com"
+        }
+      ],
+      "TP thực tế": 0,
+      "Task fix": "0/1",
+      "Required by": [
+        "Internal"
+      ],
+      "Created time": null,
+      "Tasks": "Comp 08 ver1",
+      "Sprint (1)": []
+    },
+    "_title": "Comp 08 ver1",
+    "database_name": "[Disk Knight] Tasks",
+    "project_name": "[Disk Knight] Tasks",
+    "database_id": "302ccb0e-ac88-8149-a55e-e3a7987e1a78"
+  },
+  {
+    "id": "329ccb0e-ac88-815d-b168-f1d98ef4a215",
+    "created_time": "2026-03-20T03:52:00.000Z",
+    "last_edited_time": "2026-03-23T09:59:00.000Z",
+    "properties": {
+      "NLTT": null,
+      "Product ": [
+        "321ccb0e-ac88-80a7-8eac-dda8f7517826"
+      ],
+      "Product (1)": [
+        "Comp 04"
+      ],
+      "Task main": "0/1",
+      "Task QC": "1/1",
+      "Run n8n": false,
+      "TP giả định": 0,
+      "Trọng số TP": 0.15,
+      "Product Type": [
+        "Comp"
+      ],
+      "Point Status": [
+        "Confirmed"
+      ],
+      "Ngày làm": {
+        "start": "2026-03-20T10:52:00.000+07:00",
+        "end": null
+      },
+      "[Dev] Total main": 0,
+      "Task type": "QC",
+      "Sprint": null,
+      "Product Status": [
+        "QC Approved"
+      ],
+      "Task Status": "Done QC",
+      "Episode": [
+        "Comp 04"
+      ],
+      "Done date": null,
+      "UTNL": [],
+      "Product Point": [
+        0
+      ],
+      "Loại cảnh": [
+        {
+          "type": "select",
+          "select": null
+        }
+      ],
+      "TP giả định 2": 0,
+      "Assignee": [
+        {
+          "id": "04072340-1849-4642-93b8-632bb7dede0f",
+          "name": "Hòa Trần",
+          "email": "hoatx@sangygroup.com"
+        }
+      ],
+      "TP thực tế": 0,
+      "Task fix": "0/1",
+      "Required by": [
+        "Internal"
+      ],
+      "Created time": null,
+      "Tasks": "Comp 04 ver1",
+      "Sprint (1)": []
+    },
+    "_title": "Comp 04 ver1",
+    "database_name": "[Disk Knight] Tasks",
+    "project_name": "[Disk Knight] Tasks",
+    "database_id": "302ccb0e-ac88-8149-a55e-e3a7987e1a78"
+  },
+  {
+    "id": "329ccb0e-ac88-81a2-847e-f4ee518368ad",
+    "created_time": "2026-03-20T03:52:00.000Z",
+    "last_edited_time": "2026-03-23T09:59:00.000Z",
+    "properties": {
+      "NLTT": null,
+      "Product ": [
+        "321ccb0e-ac88-80f5-aded-ce9af46c1aeb"
+      ],
+      "Product (1)": [
+        "Comp 01"
+      ],
+      "Task main": "0/1",
+      "Task QC": "1/1",
+      "Run n8n": false,
+      "TP giả định": 0,
+      "Trọng số TP": 0.15,
+      "Product Type": [
+        "Comp"
+      ],
+      "Point Status": [
+        "Confirmed"
+      ],
+      "Ngày làm": {
+        "start": "2026-03-20T10:52:00.000+07:00",
+        "end": null
+      },
+      "[Dev] Total main": 0,
+      "Task type": "QC",
+      "Sprint": null,
+      "Product Status": [
+        "QC Approved"
+      ],
+      "Task Status": "Done QC",
+      "Episode": [
+        "Comp 01"
+      ],
+      "Done date": null,
+      "UTNL": [],
+      "Product Point": [
+        0
+      ],
+      "Loại cảnh": [
+        {
+          "type": "select",
+          "select": null
+        }
+      ],
+      "TP giả định 2": 0,
+      "Assignee": [
+        {
+          "id": "04072340-1849-4642-93b8-632bb7dede0f",
+          "name": "Hòa Trần",
+          "email": "hoatx@sangygroup.com"
+        }
+      ],
+      "TP thực tế": 0,
+      "Task fix": "0/1",
+      "Required by": [
+        "Internal"
+      ],
+      "Created time": null,
+      "Tasks": "Comp 01 ver1",
+      "Sprint (1)": []
+    },
+    "_title": "Comp 01 ver1",
+    "database_name": "[Disk Knight] Tasks",
+    "project_name": "[Disk Knight] Tasks",
+    "database_id": "302ccb0e-ac88-8149-a55e-e3a7987e1a78"
+  },
+  {
+    "id": "329ccb0e-ac88-81a7-881d-e221c3afa259",
+    "created_time": "2026-03-20T03:52:00.000Z",
+    "last_edited_time": "2026-03-23T09:59:00.000Z",
+    "properties": {
+      "NLTT": null,
+      "Product ": [
+        "321ccb0e-ac88-8063-9417-d4413ada57b0"
+      ],
+      "Product (1)": [
+        "Comp 06"
+      ],
+      "Task main": "0/1",
+      "Task QC": "1/1",
+      "Run n8n": false,
+      "TP giả định": 0,
+      "Trọng số TP": 0.15,
+      "Product Type": [
+        "Comp"
+      ],
+      "Point Status": [
+        "Confirmed"
+      ],
+      "Ngày làm": {
+        "start": "2026-03-20T10:52:00.000+07:00",
+        "end": null
+      },
+      "[Dev] Total main": 0,
+      "Task type": "QC",
+      "Sprint": null,
+      "Product Status": [
+        "QC Approved"
+      ],
+      "Task Status": "Done QC",
+      "Episode": [
+        "Comp 06"
+      ],
+      "Done date": null,
+      "UTNL": [],
+      "Product Point": [
+        0
+      ],
+      "Loại cảnh": [
+        {
+          "type": "select",
+          "select": null
+        }
+      ],
+      "TP giả định 2": 0,
+      "Assignee": [
+        {
+          "id": "04072340-1849-4642-93b8-632bb7dede0f",
+          "name": "Hòa Trần",
+          "email": "hoatx@sangygroup.com"
+        }
+      ],
+      "TP thực tế": 0,
+      "Task fix": "0/1",
+      "Required by": [
+        "Internal"
+      ],
+      "Created time": null,
+      "Tasks": "Comp 06 ver1",
+      "Sprint (1)": []
+    },
+    "_title": "Comp 06 ver1",
+    "database_name": "[Disk Knight] Tasks",
+    "project_name": "[Disk Knight] Tasks",
+    "database_id": "302ccb0e-ac88-8149-a55e-e3a7987e1a78"
+  },
+  {
+    "id": "32dccb0e-ac88-8032-8ccd-e97b44f0c11d",
+    "created_time": "2026-03-24T03:17:00.000Z",
+    "last_edited_time": "2026-03-24T03:17:00.000Z",
+    "properties": {
+      "NLTT": 0.75,
+      "Product ": [
+        "31fccb0e-ac88-8034-8d04-cf7abd5ada7a"
+      ],
+      "Product (1)": [
+        "FIX CLIENT CUT OUT 12"
+      ],
+      "Task main": "1/6",
+      "Task QC": "2/6",
+      "Run n8n": false,
+      "TP giả định": 4.2,
+      "Trọng số TP": 0.3,
+      "Product Type": [
+        {
+          "type": "select",
+          "select": null
+        }
+      ],
+      "Point Status": [
+        "Unconfirmed"
+      ],
+      "Ngày làm": null,
+      "[Dev] Total main": 0,
+      "Task type": "Fix",
+      "Sprint": null,
+      "Product Status": [
+        "Pending Review"
+      ],
+      "Task Status": "Done",
+      "Episode": [
+        "FIX CLIENT CUT OUT 12"
+      ],
+      "Done date": null,
+      "UTNL": [],
+      "Product Point": [
+        35
+      ],
+      "Loại cảnh": [
+        "B"
+      ],
+      "TP giả định 2": 4.2,
+      "Assignee": [
+        {
+          "id": "0b9c48d9-e3d0-4f8c-9b39-ca52da0939c0",
+          "name": "Hưng Nguyễn",
+          "email": "hungnn@sangygroup.com"
+        }
+      ],
+      "TP thực tế": 4.77,
+      "Task fix": "3/6",
+      "Required by": [
+        "External"
+      ],
+      "Created time": null,
+      "Tasks": "FIX CLIENT CUT OUT 12 Need Fix Client 6",
+      "Sprint (1)": []
+    },
+    "_title": "FIX CLIENT CUT OUT 12 Need Fix Client 6",
+    "database_name": "[Disk Knight] Tasks",
+    "project_name": "[Disk Knight] Tasks",
+    "database_id": "302ccb0e-ac88-8149-a55e-e3a7987e1a78"
+  }
+]

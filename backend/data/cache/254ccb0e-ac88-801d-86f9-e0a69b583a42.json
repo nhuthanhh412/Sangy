@@ -1,0 +1,691 @@
+[
+  {
+    "id": "26bccb0e-ac88-801e-afa5-db8ab463ee41",
+    "created_time": "2025-09-11T03:34:00.000Z",
+    "last_edited_time": "2025-12-24T04:19:00.000Z",
+    "properties": {
+      "Episode": "EP 01",
+      "Task count ": 1,
+      "Total Fixed": 0,
+      "Required by": "Internal",
+      "Owner": [],
+      "Log": null,
+      "Loại cảnh": "S",
+      "Status": "Not started",
+      "Tasks ": [
+        "27fccb0e-ac88-81f8-8294-d91eacdf2793"
+      ],
+      "Task Create": null,
+      "Task count + 1": 2,
+      "Total Main": 0,
+      "Product Log": [],
+      "Point Status": "Unconfirmed",
+      "Product point": 60,
+      "Check task done": "Done QC",
+      "Due Date": null,
+      "Product type": "Keyframe",
+      "Total QC": 1,
+      "Product": "Key 001"
+    },
+    "_title": "Key 001",
+    "database_name": "[Demo] Product ",
+    "project_name": "[Demo]",
+    "database_id": "254ccb0e-ac88-801d-86f9-e0a69b583a42"
+  },
+  {
+    "id": "27dccb0e-ac88-801e-b2c7-ed84560c5c1c",
+    "created_time": "2025-09-29T07:25:00.000Z",
+    "last_edited_time": "2025-12-24T04:20:00.000Z",
+    "properties": {
+      "Episode": "EP 01",
+      "Task count ": 0,
+      "Total Fixed": 0,
+      "Required by": null,
+      "Owner": [],
+      "Log": null,
+      "Loại cảnh": null,
+      "Status": "Not started",
+      "Tasks ": [],
+      "Task Create": null,
+      "Task count + 1": 1,
+      "Total Main": 0,
+      "Product Log": [],
+      "Point Status": "Unconfirmed",
+      "Product point": 0,
+      "Check task done": null,
+      "Due Date": null,
+      "Product type": "Layout",
+      "Total QC": 0,
+      "Product": "LO 001"
+    },
+    "_title": "LO 001",
+    "database_name": "[Demo] Product ",
+    "project_name": "[Demo]",
+    "database_id": "254ccb0e-ac88-801d-86f9-e0a69b583a42"
+  },
+  {
+    "id": "27dccb0e-ac88-8032-9e07-f40cc043ac3a",
+    "created_time": "2025-09-29T07:26:00.000Z",
+    "last_edited_time": "2025-12-24T04:19:00.000Z",
+    "properties": {
+      "Episode": null,
+      "Task count ": 0,
+      "Total Fixed": 0,
+      "Required by": null,
+      "Owner": [],
+      "Log": null,
+      "Loại cảnh": null,
+      "Status": "Not started",
+      "Tasks ": [],
+      "Task Create": null,
+      "Task count + 1": 1,
+      "Total Main": 0,
+      "Product Log": [],
+      "Point Status": "Unconfirmed",
+      "Product point": 0,
+      "Check task done": null,
+      "Due Date": null,
+      "Product type": "Inbetween",
+      "Total QC": 0,
+      "Product": "Inbetween 002"
+    },
+    "_title": "Inbetween 002",
+    "database_name": "[Demo] Product ",
+    "project_name": "[Demo]",
+    "database_id": "254ccb0e-ac88-801d-86f9-e0a69b583a42"
+  },
+  {
+    "id": "27dccb0e-ac88-804d-aa07-cc319aea9fee",
+    "created_time": "2025-09-29T07:27:00.000Z",
+    "last_edited_time": "2025-12-24T04:20:00.000Z",
+    "properties": {
+      "Episode": null,
+      "Task count ": 0,
+      "Total Fixed": 0,
+      "Required by": null,
+      "Owner": [],
+      "Log": null,
+      "Loại cảnh": "S",
+      "Status": "Pending Review",
+      "Tasks ": [],
+      "Task Create": null,
+      "Task count + 1": 1,
+      "Total Main": 0,
+      "Product Log": [],
+      "Point Status": "Unconfirmed",
+      "Product point": 60,
+      "Check task done": null,
+      "Due Date": null,
+      "Product type": "Comp",
+      "Total QC": 0,
+      "Product": "Comp 001"
+    },
+    "_title": "Comp 001",
+    "database_name": "[Demo] Product ",
+    "project_name": "[Demo]",
+    "database_id": "254ccb0e-ac88-801d-86f9-e0a69b583a42"
+  },
+  {
+    "id": "27dccb0e-ac88-806b-a48f-c1baa6dd3567",
+    "created_time": "2025-09-29T07:27:00.000Z",
+    "last_edited_time": "2026-01-08T03:01:00.000Z",
+    "properties": {
+      "Episode": null,
+      "Task count ": 1,
+      "Total Fixed": 0,
+      "Required by": null,
+      "Owner": [],
+      "Log": null,
+      "Loại cảnh": null,
+      "Status": "Pending Review",
+      "Tasks ": [
+        "2e2ccb0e-ac88-807f-bb32-c1bde3d2d271"
+      ],
+      "Task Create": null,
+      "Task count + 1": 2,
+      "Total Main": 1,
+      "Product Log": [],
+      "Point Status": "Unconfirmed",
+      "Product point": 0,
+      "Check task done": "Done",
+      "Due Date": null,
+      "Product type": "Comp",
+      "Total QC": 0,
+      "Product": "Comp 002"
+    },
+    "_title": "Comp 002",
+    "database_name": "[Demo] Product ",
+    "project_name": "[Demo]",
+    "database_id": "254ccb0e-ac88-801d-86f9-e0a69b583a42"
+  },
+  {
+    "id": "27dccb0e-ac88-80cb-bc81-d58b4274867a",
+    "created_time": "2025-09-29T07:25:00.000Z",
+    "last_edited_time": "2026-01-08T02:57:00.000Z",
+    "properties": {
+      "Episode": "EP 01",
+      "Task count ": 1,
+      "Total Fixed": 0,
+      "Required by": null,
+      "Owner": [],
+      "Log": null,
+      "Loại cảnh": null,
+      "Status": "Pending Review",
+      "Tasks ": [
+        "2e2ccb0e-ac88-8060-b8f4-c6f5276cee69"
+      ],
+      "Task Create": null,
+      "Task count + 1": 2,
+      "Total Main": 1,
+      "Product Log": [],
+      "Point Status": "Unconfirmed",
+      "Product point": 0,
+      "Check task done": "Done",
+      "Due Date": null,
+      "Product type": "SP",
+      "Total QC": 0,
+      "Product": "SP 001"
+    },
+    "_title": "SP 001",
+    "database_name": "[Demo] Product ",
+    "project_name": "[Demo]",
+    "database_id": "254ccb0e-ac88-801d-86f9-e0a69b583a42"
+  },
+  {
+    "id": "27dccb0e-ac88-80ce-9816-d02a484655bd",
+    "created_time": "2025-09-29T07:26:00.000Z",
+    "last_edited_time": "2025-12-24T04:19:00.000Z",
+    "properties": {
+      "Episode": "EP 01",
+      "Task count ": 0,
+      "Total Fixed": 0,
+      "Required by": "Internal",
+      "Owner": [],
+      "Log": null,
+      "Loại cảnh": "A",
+      "Status": "Not started",
+      "Tasks ": [],
+      "Task Create": null,
+      "Task count + 1": 1,
+      "Total Main": 0,
+      "Product Log": [],
+      "Point Status": "Unconfirmed",
+      "Product point": 50,
+      "Check task done": null,
+      "Due Date": null,
+      "Product type": "Keyframe",
+      "Total QC": 0,
+      "Product": "Key 002"
+    },
+    "_title": "Key 002",
+    "database_name": "[Demo] Product ",
+    "project_name": "[Demo]",
+    "database_id": "254ccb0e-ac88-801d-86f9-e0a69b583a42"
+  },
+  {
+    "id": "27fccb0e-ac88-8067-8352-dc5cb7058c95",
+    "created_time": "2025-10-01T02:26:00.000Z",
+    "last_edited_time": "2026-01-08T03:01:00.000Z",
+    "properties": {
+      "Episode": "EP 01",
+      "Task count ": 1,
+      "Total Fixed": 0,
+      "Required by": "Internal",
+      "Owner": [],
+      "Log": null,
+      "Loại cảnh": "E",
+      "Status": "Pending Review",
+      "Tasks ": [
+        "2e2ccb0e-ac88-80ca-b4d7-cc4dfba634b4"
+      ],
+      "Task Create": null,
+      "Task count + 1": 2,
+      "Total Main": 1,
+      "Product Log": [],
+      "Point Status": "Unconfirmed",
+      "Product point": 5,
+      "Check task done": "Done",
+      "Due Date": null,
+      "Product type": "Keyframe",
+      "Total QC": 0,
+      "Product": "Key 004"
+    },
+    "_title": "Key 004",
+    "database_name": "[Demo] Product ",
+    "project_name": "[Demo]",
+    "database_id": "254ccb0e-ac88-801d-86f9-e0a69b583a42"
+  },
+  {
+    "id": "27fccb0e-ac88-8068-8848-d99718d2987a",
+    "created_time": "2025-10-01T02:26:00.000Z",
+    "last_edited_time": "2026-01-08T03:01:00.000Z",
+    "properties": {
+      "Episode": "EP 01",
+      "Task count ": 6,
+      "Total Fixed": 2,
+      "Required by": "Internal",
+      "Owner": [],
+      "Log": null,
+      "Loại cảnh": "S",
+      "Status": "Pending Review",
+      "Tasks ": [
+        "27fccb0e-ac88-801c-9aeb-c3390eb08af3",
+        "27fccb0e-ac88-8039-aeed-e4f2826fa667",
+        "27fccb0e-ac88-8068-be0f-ee933aa980a2",
+        "27fccb0e-ac88-802b-9bdc-d6c702ceeb69",
+        "27fccb0e-ac88-815f-9b79-c6f9ab423d10",
+        "2e2ccb0e-ac88-807d-8970-d2d7f0a2c7a1"
+      ],
+      "Task Create": null,
+      "Task count + 1": 7,
+      "Total Main": 2,
+      "Product Log": [],
+      "Point Status": "Unconfirmed",
+      "Product point": 60,
+      "Check task done": "Done,Done,Done,Done,Done QC,Done",
+      "Due Date": null,
+      "Product type": "Keyframe",
+      "Total QC": 2,
+      "Product": "Key 003"
+    },
+    "_title": "Key 003",
+    "database_name": "[Demo] Product ",
+    "project_name": "[Demo]",
+    "database_id": "254ccb0e-ac88-801d-86f9-e0a69b583a42"
+  },
+  {
+    "id": "27fccb0e-ac88-808f-8f3e-cd09a90437c4",
+    "created_time": "2025-10-01T03:05:00.000Z",
+    "last_edited_time": "2026-01-08T03:01:00.000Z",
+    "properties": {
+      "Episode": "EP 01",
+      "Task count ": 1,
+      "Total Fixed": 0,
+      "Required by": null,
+      "Owner": [],
+      "Log": null,
+      "Loại cảnh": "S",
+      "Status": "Pending Review",
+      "Tasks ": [
+        "2e2ccb0e-ac88-8074-bbb8-cbb887be32f6"
+      ],
+      "Task Create": null,
+      "Task count + 1": 2,
+      "Total Main": 1,
+      "Product Log": [],
+      "Point Status": "Unconfirmed",
+      "Product point": 60,
+      "Check task done": "Done",
+      "Due Date": null,
+      "Product type": "Keyframe",
+      "Total QC": 0,
+      "Product": "Key 005"
+    },
+    "_title": "Key 005",
+    "database_name": "[Demo] Product ",
+    "project_name": "[Demo]",
+    "database_id": "254ccb0e-ac88-801d-86f9-e0a69b583a42"
+  },
+  {
+    "id": "27fccb0e-ac88-80b7-b3a1-fbd78f6b0244",
+    "created_time": "2025-10-01T07:12:00.000Z",
+    "last_edited_time": "2026-01-08T03:01:00.000Z",
+    "properties": {
+      "Episode": "EP 01",
+      "Task count ": 6,
+      "Total Fixed": 1,
+      "Required by": null,
+      "Owner": [
+        {
+          "id": "c206b06c-81cf-4010-81e4-3d725774afdd",
+          "name": "Unknown User",
+          "email": null
+        }
+      ],
+      "Log": null,
+      "Loại cảnh": "C",
+      "Status": "Pending Review",
+      "Tasks ": [
+        "27fccb0e-ac88-8044-a7c8-e953e9e8bdc6",
+        "27fccb0e-ac88-816d-bafd-ec82e23a809d",
+        "27fccb0e-ac88-801c-a44d-d3ca5bc89d8f",
+        "27fccb0e-ac88-8091-84fb-de22f88a61f4",
+        "27fccb0e-ac88-81fd-91ec-ee54a31505b7",
+        "2e2ccb0e-ac88-80c9-82a6-ed58d41ffd3e"
+      ],
+      "Task Create": null,
+      "Task count + 1": 7,
+      "Total Main": 3,
+      "Product Log": [],
+      "Point Status": "Unconfirmed",
+      "Product point": 25,
+      "Check task done": "Done,Done QC,Done,Done,Done QC,Done",
+      "Due Date": null,
+      "Product type": "Keyframe",
+      "Total QC": 2,
+      "Product": "Key 006"
+    },
+    "_title": "Key 006",
+    "database_name": "[Demo] Product ",
+    "project_name": "[Demo]",
+    "database_id": "254ccb0e-ac88-801d-86f9-e0a69b583a42"
+  },
+  {
+    "id": "27fccb0e-ac88-80fe-aad7-c5e7d2f0d9ca",
+    "created_time": "2025-10-01T08:48:00.000Z",
+    "last_edited_time": "2026-01-08T03:01:00.000Z",
+    "properties": {
+      "Episode": null,
+      "Task count ": 2,
+      "Total Fixed": 0,
+      "Required by": null,
+      "Owner": [
+        {
+          "id": "c206b06c-81cf-4010-81e4-3d725774afdd",
+          "name": "Unknown User",
+          "email": null
+        }
+      ],
+      "Log": null,
+      "Loại cảnh": "S",
+      "Status": "Pending Review",
+      "Tasks ": [
+        "27fccb0e-ac88-8031-83fa-dd32d241b76c",
+        "2e2ccb0e-ac88-8044-a09c-e7fcd96518cd"
+      ],
+      "Task Create": null,
+      "Task count + 1": 3,
+      "Total Main": 2,
+      "Product Log": [],
+      "Point Status": "Unconfirmed",
+      "Product point": 60,
+      "Check task done": "Done,Done",
+      "Due Date": null,
+      "Product type": "Keyframe",
+      "Total QC": 0,
+      "Product": "Key 007"
+    },
+    "_title": "Key 007",
+    "database_name": "[Demo] Product ",
+    "project_name": "[Demo]",
+    "database_id": "254ccb0e-ac88-801d-86f9-e0a69b583a42"
+  },
+  {
+    "id": "29accb0e-ac88-80b1-89ff-eb83b4fce2fa",
+    "created_time": "2025-10-28T02:37:00.000Z",
+    "last_edited_time": "2026-01-08T03:01:00.000Z",
+    "properties": {
+      "Episode": null,
+      "Task count ": 2,
+      "Total Fixed": 0,
+      "Required by": null,
+      "Owner": [
+        {
+          "id": "c206b06c-81cf-4010-81e4-3d725774afdd",
+          "name": "Unknown User",
+          "email": null
+        }
+      ],
+      "Log": null,
+      "Loại cảnh": "S",
+      "Status": "Pending Review",
+      "Tasks ": [
+        "29accb0e-ac88-80c9-ae1a-f3b6f46afae5",
+        "2e2ccb0e-ac88-8087-b763-e1830b78e25f"
+      ],
+      "Task Create": null,
+      "Task count + 1": 3,
+      "Total Main": 2,
+      "Product Log": [],
+      "Point Status": "Unconfirmed",
+      "Product point": 60,
+      "Check task done": "Done,Done QC",
+      "Due Date": null,
+      "Product type": "Keyframe",
+      "Total QC": 0,
+      "Product": "Key 008"
+    },
+    "_title": "Key 008",
+    "database_name": "[Demo] Product ",
+    "project_name": "[Demo]",
+    "database_id": "254ccb0e-ac88-801d-86f9-e0a69b583a42"
+  },
+  {
+    "id": "2a0ccb0e-ac88-8033-9595-ede4878890c5",
+    "created_time": "2025-11-03T09:55:00.000Z",
+    "last_edited_time": "2026-01-08T03:02:00.000Z",
+    "properties": {
+      "Episode": "EP 03",
+      "Task count ": 1,
+      "Total Fixed": 0,
+      "Required by": null,
+      "Owner": [],
+      "Log": null,
+      "Loại cảnh": null,
+      "Status": "Pending Review",
+      "Tasks ": [
+        "2e2ccb0e-ac88-80b0-843b-f15ba4e3b019"
+      ],
+      "Task Create": null,
+      "Task count + 1": 2,
+      "Total Main": 1,
+      "Product Log": [],
+      "Point Status": "Unconfirmed",
+      "Product point": 0,
+      "Check task done": "Done",
+      "Due Date": null,
+      "Product type": "Background",
+      "Total QC": 0,
+      "Product": "BG 230"
+    },
+    "_title": "BG 230",
+    "database_name": "[Demo] Product ",
+    "project_name": "[Demo]",
+    "database_id": "254ccb0e-ac88-801d-86f9-e0a69b583a42"
+  },
+  {
+    "id": "2a0ccb0e-ac88-8076-952e-e687dff0b91d",
+    "created_time": "2025-11-03T09:58:00.000Z",
+    "last_edited_time": "2026-01-08T03:01:00.000Z",
+    "properties": {
+      "Episode": "EP 03",
+      "Task count ": 2,
+      "Total Fixed": 0,
+      "Required by": null,
+      "Owner": [],
+      "Log": null,
+      "Loại cảnh": null,
+      "Status": "Pending Review",
+      "Tasks ": [
+        "2e2ccb0e-ac88-805d-916d-e45069b50479",
+        "2e2ccb0e-ac88-8030-bba6-f65773e4655d"
+      ],
+      "Task Create": null,
+      "Task count + 1": 3,
+      "Total Main": 2,
+      "Product Log": [],
+      "Point Status": "Unconfirmed",
+      "Product point": 0,
+      "Check task done": "Not started,Done",
+      "Due Date": null,
+      "Product type": "Background",
+      "Total QC": 0,
+      "Product": "BG 290"
+    },
+    "_title": "BG 290",
+    "database_name": "[Demo] Product ",
+    "project_name": "[Demo]",
+    "database_id": "254ccb0e-ac88-801d-86f9-e0a69b583a42"
+  },
+  {
+    "id": "2dfccb0e-ac88-801c-9580-f375074aa6e4",
+    "created_time": "2026-01-05T07:20:00.000Z",
+    "last_edited_time": "2026-01-06T02:58:00.000Z",
+    "properties": {
+      "Episode": "EP 03",
+      "Task count ": 3,
+      "Total Fixed": 1,
+      "Required by": "Internal",
+      "Owner": [
+        {
+          "id": "a4759bda-297c-47c5-8ab7-6a1e4ca0f526",
+          "name": "Thu Lê",
+          "email": "thulh@sangygroup.com"
+        }
+      ],
+      "Log": null,
+      "Loại cảnh": "A",
+      "Status": "Need Fix Client",
+      "Tasks ": [
+        "2dfccb0e-ac88-8099-9cfc-ee73823d055f",
+        "2dfccb0e-ac88-81ac-bd25-dff7a364dded",
+        "2dfccb0e-ac88-8021-8934-fbf7790d9205"
+      ],
+      "Task Create": null,
+      "Task count + 1": 4,
+      "Total Main": 1,
+      "Product Log": [],
+      "Point Status": "Unconfirmed",
+      "Product point": 50,
+      "Check task done": "Done,Done QC,Done",
+      "Due Date": null,
+      "Product type": "Keyframe",
+      "Total QC": 1,
+      "Product": "Thu test 4"
+    },
+    "_title": "Thu test 4",
+    "database_name": "[Demo] Product ",
+    "project_name": "[Demo]",
+    "database_id": "254ccb0e-ac88-801d-86f9-e0a69b583a42"
+  },
+  {
+    "id": "2dfccb0e-ac88-807e-a7fa-c877d0d31b98",
+    "created_time": "2026-01-05T07:20:00.000Z",
+    "last_edited_time": "2026-01-06T02:58:00.000Z",
+    "properties": {
+      "Episode": "EP 03",
+      "Task count ": 4,
+      "Total Fixed": 1,
+      "Required by": "Internal",
+      "Owner": [
+        {
+          "id": "a4759bda-297c-47c5-8ab7-6a1e4ca0f526",
+          "name": "Thu Lê",
+          "email": "thulh@sangygroup.com"
+        }
+      ],
+      "Log": null,
+      "Loại cảnh": "C",
+      "Status": "Need Fix",
+      "Tasks ": [
+        "2dfccb0e-ac88-8089-99ff-c82b9b70ab4d",
+        "2dfccb0e-ac88-81f8-8486-f79317978cb6",
+        "2dfccb0e-ac88-8049-ba15-e1efc0dc84f4",
+        "2e0ccb0e-ac88-81e3-93d6-c4c79552c8e4"
+      ],
+      "Task Create": null,
+      "Task count + 1": 5,
+      "Total Main": 1,
+      "Product Log": [],
+      "Point Status": "Unconfirmed",
+      "Product point": 25,
+      "Check task done": "Done,Done QC,Done,Done QC",
+      "Due Date": null,
+      "Product type": "Keyframe",
+      "Total QC": 2,
+      "Product": "Thu test 5"
+    },
+    "_title": "Thu test 5",
+    "database_name": "[Demo] Product ",
+    "project_name": "[Demo]",
+    "database_id": "254ccb0e-ac88-801d-86f9-e0a69b583a42"
+  },
+  {
+    "id": "2dfccb0e-ac88-80a5-b063-e13cdd783e9c",
+    "created_time": "2026-01-05T07:19:00.000Z",
+    "last_edited_time": "2026-01-08T04:19:00.000Z",
+    "properties": {
+      "Episode": "EP 02",
+      "Task count ": 7,
+      "Total Fixed": 4,
+      "Required by": "Internal",
+      "Owner": [
+        {
+          "id": "a4759bda-297c-47c5-8ab7-6a1e4ca0f526",
+          "name": "Thu Lê",
+          "email": "thulh@sangygroup.com"
+        }
+      ],
+      "Log": [
+        "Task @Thu test 2 ver4 Fix của Thu test 2 đã xong bởi @Quang Đặng lúc 2026-01-08T11:53:00.000+07:00 ",
+        "Task @Thu test 2 ver5 QC của Thu test 2 đã xong bởi @Quang Đặng lúc 2026-01-08T11:53:00.000+07:00 ",
+        "Task @Thu test 2 ver6 Fix của Thu test 2 đã xong bởi @Quang Đặng lúc 2026-01-08T11:54:00.000+07:00 ",
+        "Task @Thu test 2 ver7 Fix của Thu test 2 đã xong bởi @Quang Đặng lúc 2026-01-08T11:58:00.000+07:00 "
+      ],
+      "Loại cảnh": "S",
+      "Status": "Pending Review",
+      "Tasks ": [
+        "2e0ccb0e-ac88-8177-a8fe-eb44fc456036",
+        "2e2ccb0e-ac88-80ba-bde9-e9dde9d652de",
+        "2e2ccb0e-ac88-80ab-bdc7-e4e134fc8a5c",
+        "2e2ccb0e-ac88-8036-8c50-dd9f91e8a17e",
+        "2e2ccb0e-ac88-809b-8270-c30949f83f36",
+        "2e2ccb0e-ac88-809d-94c4-f837ba5b54a4",
+        "2e2ccb0e-ac88-805f-a7fd-f40fc4c6653a"
+      ],
+      "Task Create": null,
+      "Task count + 1": 8,
+      "Total Main": 0,
+      "Product Log": [
+        "2e2ccb0e-ac88-818d-bb05-f83012f3e47c",
+        "2e2ccb0e-ac88-81e2-bdad-f9857230234d",
+        "2e2ccb0e-ac88-8158-b79f-c7fecf779546",
+        "2e2ccb0e-ac88-8104-a0f8-d7f0241c27bd"
+      ],
+      "Point Status": "Unconfirmed",
+      "Product point": 60,
+      "Check task done": "Done QC,Done,Done,Done,Done,Done QC,Done",
+      "Due Date": null,
+      "Product type": "Keyframe",
+      "Total QC": 3,
+      "Product": "Thu test 2"
+    },
+    "_title": "Thu test 2",
+    "database_name": "[Demo] Product ",
+    "project_name": "[Demo]",
+    "database_id": "254ccb0e-ac88-801d-86f9-e0a69b583a42"
+  },
+  {
+    "id": "2e2ccb0e-ac88-8063-a385-fa1ebb39f5d6",
+    "created_time": "2026-01-08T02:57:00.000Z",
+    "last_edited_time": "2026-01-08T02:58:00.000Z",
+    "properties": {
+      "Episode": null,
+      "Task count ": 1,
+      "Total Fixed": 0,
+      "Required by": null,
+      "Owner": [],
+      "Log": null,
+      "Loại cảnh": null,
+      "Status": "Pending Review",
+      "Tasks ": [
+        "2e2ccb0e-ac88-807d-ae00-e809f7f8e1c4"
+      ],
+      "Task Create": null,
+      "Task count + 1": 2,
+      "Total Main": 1,
+      "Product Log": [],
+      "Point Status": "Unconfirmed",
+      "Product point": 0,
+      "Check task done": "Done",
+      "Due Date": null,
+      "Product type": null,
+      "Total QC": 0,
+      "Product": "Linh test"
+    },
+    "_title": "Linh test",
+    "database_name": "[Demo] Product ",
+    "project_name": "[Demo]",
+    "database_id": "254ccb0e-ac88-801d-86f9-e0a69b583a42"
+  }
+]

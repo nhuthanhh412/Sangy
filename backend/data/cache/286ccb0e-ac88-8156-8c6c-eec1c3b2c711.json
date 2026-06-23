@@ -1,0 +1,71 @@
+[
+  {
+    "id": "286ccb0e-ac88-81ad-a219-c69320c35ff0",
+    "created_time": "2025-10-08T09:38:00.000Z",
+    "last_edited_time": "2025-10-08T09:38:00.000Z",
+    "properties": {
+      "Task in Sprint": [],
+      "Formula": 9,
+      "Sprint name": "Sprint 1",
+      "Dates": {
+        "start": "2025-10-01",
+        "end": "2025-10-10"
+      },
+      "Sprint ID": null,
+      "Tasks": [],
+      "Total tasks": 0,
+      "Completed tasks": null,
+      "Sprint status": "Current"
+    },
+    "_title": "Sprint 1",
+    "database_name": "LEGO Sprints",
+    "project_name": "LEGO Sprints",
+    "database_id": "286ccb0e-ac88-8156-8c6c-eec1c3b2c711"
+  },
+  {
+    "id": "286ccb0e-ac88-81c3-9135-ff84ffd8d3f8",
+    "created_time": "2025-10-08T09:38:00.000Z",
+    "last_edited_time": "2025-10-08T09:38:00.000Z",
+    "properties": {
+      "Task in Sprint": [],
+      "Formula": 0,
+      "Sprint name": "Sprint 2",
+      "Dates": {
+        "start": "2025-09-16",
+        "end": "2025-09-16"
+      },
+      "Sprint ID": null,
+      "Tasks": [],
+      "Total tasks": 0,
+      "Completed tasks": null,
+      "Sprint status": "Next"
+    },
+    "_title": "Sprint 2",
+    "database_name": "LEGO Sprints",
+    "project_name": "LEGO Sprints",
+    "database_id": "286ccb0e-ac88-8156-8c6c-eec1c3b2c711"
+  },
+  {
+    "id": "286ccb0e-ac88-81db-96a5-c3b634842d78",
+    "created_time": "2025-10-08T09:38:00.000Z",
+    "last_edited_time": "2025-10-08T09:38:00.000Z",
+    "properties": {
+      "Task in Sprint": [],
+      "Formula": 4,
+      "Sprint name": "Sprint 3",
+      "Dates": {
+        "start": "2025-09-22",
+        "end": "2025-09-26"
+      },
+      "Sprint ID": null,
+      "Tasks": [],
+      "Total tasks": 0,
+      "Completed tasks": null,
+      "Sprint status": "Future"
+    },
+    "_title": "Sprint 3",
+    "database_name": "LEGO Sprints",
+    "project_name": "LEGO Sprints",
+    "database_id": "286ccb0e-ac88-8156-8c6c-eec1c3b2c711"
+  }
+]

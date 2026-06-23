@@ -1,0 +1,37 @@
+[
+  {
+    "id": "2ceccb0e-ac88-80a7-a9a2-f7b370bc671a",
+    "created_time": "2025-12-19T06:01:00.000Z",
+    "last_edited_time": "2025-12-26T02:38:00.000Z",
+    "properties": {
+      "Task in Sprint": [],
+      "Formula": 7,
+      "Sprint name": "Sprint 1",
+      "Dates": {
+        "start": "2025-12-19",
+        "end": "2025-12-26"
+      },
+      "Sprint ID": null,
+      "Tasks": [
+        "2d2ccb0e-ac88-80c4-aa7e-e7d9e653f7f1",
+        "2d3ccb0e-ac88-8092-9617-f7fe21cbb032",
+        "2d2ccb0e-ac88-80bf-b12f-e23b79f99ece",
+        "2d2ccb0e-ac88-80de-9a01-e0cc58cdb392",
+        "2d3ccb0e-ac88-80ad-a198-f883787886a4",
+        "2d3ccb0e-ac88-80e2-b953-e5765c27d16b",
+        "2d5ccb0e-ac88-80b8-a40c-dead0828ab62",
+        "2d5ccb0e-ac88-803c-b9a8-c03439d1fb74",
+        "2d5ccb0e-ac88-800e-a9b7-ce6e73814168",
+        "2d5ccb0e-ac88-8072-aade-c024bb8c367a",
+        "2d5ccb0e-ac88-8043-8d4b-f37a4a2cb1cd"
+      ],
+      "Total tasks": 11,
+      "Completed tasks": 1,
+      "Sprint status": "Current"
+    },
+    "_title": "Sprint 1",
+    "database_name": "XANHSM Sprints (1)",
+    "project_name": "XANHSM Sprints (1)",
+    "database_id": "2c5ccb0e-ac88-80ac-aa53-ca7229dfe3d6"
+  }
+]

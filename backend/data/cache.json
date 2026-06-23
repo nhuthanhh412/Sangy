@@ -1,0 +1,767 @@
+{
+  "config": {
+    "selected_databases": [
+      "28fccb0e-ac88-813d-a92a-f913c8e96f8d"
+    ],
+    "access_token": null,
+    "custom_groupings": {
+      "27eccb0e-ac88-810f-b045-d9eb02a14240": "Immortals",
+      "2cbccb0e-ac88-805c-8959-e99cdd4ec9af": "Gene",
+      "2cbccb0e-ac88-80de-9137-f20e09653d80": "Gene",
+      "28fccb0e-ac88-81ac-a507-d67b8f5f9ead": "Gene",
+      "27eccb0e-ac88-812f-86a3-e539ed2dbed9": "Immortals",
+      "2d3ccb0e-ac88-8136-bb52-c12b9c6e3a1a": "Gene",
+      "2d3ccb0e-ac88-811f-8f1a-d909410009bb": "CHIBI",
+      "2d8ccb0e-ac88-80e8-9b7d-e3a4d9a984e1": "CHIBI",
+      "28fccb0e-ac88-813d-a92a-f913c8e96f8d": "CHIBI",
+      "28fccb0e-ac88-8131-9dfd-d391f4730bf9": "Gene"
+    },
+    "projects_tree_active": [
+      {
+        "id": "889ae610-707d-467b-baff-e1767e13d7b1",
+        "name": "[DeeDee_2024] Immortals - old version ",
+        "status": "In Progress",
+        "brand": [
+          "DeeDee Animation Studio"
+        ],
+        "year": "2024",
+        "projectId": "PROJ-245",
+        "keywords": [
+          "[DeeDee_2024] Immortals - old version ",
+          "DeeDee_2024",
+          "2024",
+          "Immortals - old version",
+          "Immortals",
+          "version",
+          "Immortals -"
+        ],
+        "databases": [
+          {
+            "id": "27eccb0e-ac88-812f-86a3-e539ed2dbed9",
+            "name": "[Immortals] Tasks ",
+            "type": "tasks"
+          },
+          {
+            "id": "27eccb0e-ac88-810f-b045-d9eb02a14240",
+            "name": "[Immortals] Product ",
+            "type": "products"
+          },
+          {
+            "id": "2cbccb0e-ac88-8018-801e-ec0c30f2b713",
+            "name": "[Immortals] Báo cáo Realtime (Chỉ lấy dữ liệu mới nhất)",
+            "type": "reports"
+          },
+          {
+            "id": "2cbccb0e-ac88-8074-b24a-fcb8bc1dcee4",
+            "name": "[Immortals] Báo cáo Review (Không xóa dữ liệu)",
+            "type": "reports"
+          },
+          {
+            "id": "27eccb0e-ac88-81f2-bc08-f2c7285eb765",
+            "name": "[Immortals] Sprints",
+            "type": "sprints"
+          },
+          {
+            "id": "287ccb0e-ac88-807c-b793-e0ff4a7917d1",
+            "name": "[Immortals] Product (1)",
+            "type": "products"
+          },
+          {
+            "id": "93e1e400-917c-45db-867f-387099b68fe5",
+            "name": "[DeeDee_2024] The Olive Treehouse 02 Báo cáo",
+            "type": "reports"
+          },
+          {
+            "id": "5fdd860e-b017-453c-9d27-100a46f349e3",
+            "name": "[DeeDee_2024] OMG Backlog",
+            "type": "other"
+          },
+          {
+            "id": "39abf408-f694-42f2-b318-5446f6f5e9e3",
+            "name": "[DeeDee_2024] The Olive Treehouse 02 Database",
+            "type": "other"
+          },
+          {
+            "id": "118ccb0e-ac88-80d3-9431-fb4cf48081c2",
+            "name": "[DeeDee_2024] SUSU CARDS Database ",
+            "type": "other"
+          },
+          {
+            "id": "b683d00f-9607-4149-9bdb-86fa17e15689",
+            "name": "[DeeDee_2024] PAG Database (hướng dẫn PA) ",
+            "type": "other"
+          },
+          {
+            "id": "0716fc32-f8d3-4622-bfcc-02afb2e8b34a",
+            "name": "[DeeDee_2024] OMG QC Space",
+            "type": "other"
+          },
+          {
+            "id": "376a514b-86f3-4741-84c2-7587bb4311c8",
+            "name": "[DeeDee_2024] The Olive Treehouse QC Space",
+            "type": "other"
+          },
+          {
+            "id": "700c931f-dd9e-47d2-a6e9-2708877aa451",
+            "name": "[DeeDee_2024] The Olive Treehouse 02 Daily Scrum",
+            "type": "other"
+          },
+          {
+            "id": "b875045d-3575-4566-a528-7e2e4e6739a9",
+            "name": "[DeeDee_2024] OMG Lead Tasks Backlog",
+            "type": "tasks"
+          },
+          {
+            "id": "041f5604-7207-4911-8ae0-03042a7dc7ca",
+            "name": "[DeeDee_2024] PAG báo cáo",
+            "type": "reports"
+          },
+          {
+            "id": "4194aca2-6ba3-43ba-a1e4-79c2b5728cda",
+            "name": "[DeeDee_2024] VF3 QC Space ",
+            "type": "other"
+          },
+          {
+            "id": "a5cea7e5-ea00-4c21-8775-52860580f0f7",
+            "name": "[DeeDee_2024] VF3 Database",
+            "type": "other"
+          },
+          {
+            "id": "66a8b38f-9cf7-4118-bfa0-2b9ecd5bc564",
+            "name": "[DeeDee_2024] VF3 báo cáo ",
+            "type": "reports"
+          },
+          {
+            "id": "4013d640-a6eb-4635-8a89-d41707999eb4",
+            "name": "[DeeDee_2024] OMG Weekly Scrum",
+            "type": "other"
+          },
+          {
+            "id": "af613939-1cab-49b7-ae7a-d1357de584b6",
+            "name": "[DeeDee_2024] Heroine QC Space ",
+            "type": "other"
+          }
+        ],
+        "hasData": true
+      },
+      {
+        "id": "28fccb0e-ac88-809d-9d36-e2584a27034a",
+        "name": "[DeeDee_2025_GEN] GENEVIEVE’S PLAYHOUSE",
+        "status": "In Progress",
+        "brand": [
+          "DeeDee Animation Studio"
+        ],
+        "year": "2025",
+        "projectId": "PROJ-311",
+        "keywords": [
+          "[DeeDee_2025_GEN] GENEVIEVE’S PLAYHOUSE",
+          "DeeDee_2025_GEN",
+          "GEN",
+          "Gene",
+          "GENEVIEVE’S PLAYHOUSE",
+          "GENEVIEVE’S",
+          "PLAYHOUSE"
+        ],
+        "databases": [
+          {
+            "id": "28fccb0e-ac88-81f7-9773-d350b2f7eb6e",
+            "name": "[Gene] Product ",
+            "type": "products"
+          },
+          {
+            "id": "28fccb0e-ac88-813d-a92a-f913c8e96f8d",
+            "name": "[Gene] Tasks ",
+            "type": "tasks"
+          },
+          {
+            "id": "28fccb0e-ac88-81ac-a507-d67b8f5f9ead",
+            "name": "[Gene] Sprints",
+            "type": "sprints"
+          },
+          {
+            "id": "2cbccb0e-ac88-80de-9137-f20e09653d80",
+            "name": "[Gene] Báo cáo Review (Không xóa dữ liệu)",
+            "type": "reports"
+          },
+          {
+            "id": "2cbccb0e-ac88-805c-8959-e99cdd4ec9af",
+            "name": "[Gene] Báo cáo Realtime (Chỉ lấy dữ liệu mới nhất)",
+            "type": "reports"
+          },
+          {
+            "id": "28fccb0e-ac88-8131-9dfd-d391f4730bf9",
+            "name": "[Gene] Docs",
+            "type": "docs"
+          }
+        ],
+        "hasData": true
+      },
+      {
+        "id": "27eccb0e-ac88-808c-9479-f2555968255a",
+        "name": "[DeeDee_2025_IMM] Immortals",
+        "status": "In Progress",
+        "brand": [
+          "DeeDee Animation Studio"
+        ],
+        "year": "2025",
+        "projectId": "PROJ-304",
+        "keywords": [
+          "[DeeDee_2025_IMM] Immortals",
+          "DeeDee_2025_IMM",
+          "IMM",
+          "Immortals"
+        ],
+        "databases": [
+          {
+            "id": "27eccb0e-ac88-812f-86a3-e539ed2dbed9",
+            "name": "[Immortals] Tasks ",
+            "type": "tasks"
+          },
+          {
+            "id": "27eccb0e-ac88-810f-b045-d9eb02a14240",
+            "name": "[Immortals] Product ",
+            "type": "products"
+          },
+          {
+            "id": "2cbccb0e-ac88-8018-801e-ec0c30f2b713",
+            "name": "[Immortals] Báo cáo Realtime (Chỉ lấy dữ liệu mới nhất)",
+            "type": "reports"
+          },
+          {
+            "id": "2cbccb0e-ac88-8074-b24a-fcb8bc1dcee4",
+            "name": "[Immortals] Báo cáo Review (Không xóa dữ liệu)",
+            "type": "reports"
+          },
+          {
+            "id": "27eccb0e-ac88-81f2-bc08-f2c7285eb765",
+            "name": "[Immortals] Sprints",
+            "type": "sprints"
+          },
+          {
+            "id": "287ccb0e-ac88-807c-b793-e0ff4a7917d1",
+            "name": "[Immortals] Product (1)",
+            "type": "products"
+          }
+        ],
+        "hasData": true
+      },
+      {
+        "id": "286ccb0e-ac88-8041-871e-c02894caf61d",
+        "name": "[DeeDee_2025_LEG] LEGO ZOOM",
+        "status": "In Progress",
+        "brand": [],
+        "year": "",
+        "projectId": "PROJ-306",
+        "keywords": [
+          "[DeeDee_2025_LEG] LEGO ZOOM",
+          "DeeDee_2025_LEG",
+          "LEG",
+          "Lego",
+          "LEGO ZOOM",
+          "LEGO",
+          "ZOOM"
+        ],
+        "databases": [
+          {
+            "id": "286ccb0e-ac88-811e-b6e5-c0b57e75ce06",
+            "name": "[LEGO ZOOM] Tasks ",
+            "type": "tasks"
+          },
+          {
+            "id": "286ccb0e-ac88-818e-8bab-e6c46a6f172a",
+            "name": "[LEGO ZOOM] PRODUCT",
+            "type": "products"
+          },
+          {
+            "id": "286ccb0e-ac88-8156-8c6c-eec1c3b2c711",
+            "name": "LEGO Sprints",
+            "type": "sprints"
+          },
+          {
+            "id": "286ccb0e-ac88-81ae-803a-fa963ed92da0",
+            "name": "[LEGO ZOOM] Issuelog ",
+            "type": "issues"
+          }
+        ],
+        "hasData": true
+      },
+      {
+        "id": "27eccb0e-ac88-8079-9999-c0fb148af9a4",
+        "name": "[DeeDee_2025_MAM] Mami Fatale",
+        "status": "In Progress",
+        "brand": [
+          "DeeDee Animation Studio"
+        ],
+        "year": "2025",
+        "projectId": "PROJ-302",
+        "keywords": [
+          "[DeeDee_2025_MAM] Mami Fatale",
+          "DeeDee_2025_MAM",
+          "MAM",
+          "Mami",
+          "Mami Fatale",
+          "Fatale"
+        ],
+        "databases": [
+          {
+            "id": "27eccb0e-ac88-81db-b9de-ff6ba89080fa",
+            "name": "[Mami] Product ",
+            "type": "products"
+          },
+          {
+            "id": "27eccb0e-ac88-8144-bd7b-e34f24852bb5",
+            "name": "[Mami] Tasks ",
+            "type": "tasks"
+          },
+          {
+            "id": "2cbccb0e-ac88-8017-ac5d-e57ea8c3fbee",
+            "name": "[Mami] Báo cáo Realtime (Chỉ lấy dữ liệu mới nhất)",
+            "type": "reports"
+          },
+          {
+            "id": "2cbccb0e-ac88-809d-b59f-f199db55c86e",
+            "name": "[Mami] Báo cáo Review (Không xóa dữ liệu)",
+            "type": "reports"
+          },
+          {
+            "id": "287ccb0e-ac88-8085-944e-ccd8e4cb0f7d",
+            "name": "[Mami] Tasks (1)",
+            "type": "tasks"
+          }
+        ],
+        "hasData": true
+      },
+      {
+        "id": "2d3ccb0e-ac88-80de-9286-fbb50dde8a6d",
+        "name": "[DeeDee_2025_MIR] MIRACULOUS CHIBI TVC",
+        "status": "In Progress",
+        "brand": [
+          "DeeDee Animation Studio"
+        ],
+        "year": "2025",
+        "projectId": "PROJ-316",
+        "keywords": [
+          "[DeeDee_2025_MIR] MIRACULOUS CHIBI TVC",
+          "DeeDee_2025_MIR",
+          "MIR",
+          "Chibi",
+          "MIRACULOUS CHIBI TVC",
+          "MIRACULOUS",
+          "CHIBI",
+          "MIRACULOUS CHIBI"
+        ],
+        "databases": [
+          {
+            "id": "2d3ccb0e-ac88-811c-bf2d-e8935fd8726b",
+            "name": "[CHIBI] Tasks ",
+            "type": "tasks"
+          },
+          {
+            "id": "2d3ccb0e-ac88-8136-bb52-c12b9c6e3a1a",
+            "name": "[CHIBI] Product ",
+            "type": "products"
+          },
+          {
+            "id": "2d8ccb0e-ac88-80e8-9b7d-e3a4d9a984e1",
+            "name": "[CHIBI] Báo cáo Review (Không xóa dữ liệu)",
+            "type": "reports"
+          },
+          {
+            "id": "2d8ccb0e-ac88-80f1-be53-c360c1fd9430",
+            "name": "[CHIBI] Báo cáo Realtime (Chỉ lấy dữ liệu mới nhất)",
+            "type": "reports"
+          },
+          {
+            "id": "2d3ccb0e-ac88-811f-8f1a-d909410009bb",
+            "name": "[CHIBI] Tasks ",
+            "type": "tasks"
+          },
+          {
+            "id": "2d3ccb0e-ac88-81a0-840a-e39e21e7432b",
+            "name": "[CHIBI] Product ",
+            "type": "products"
+          },
+          {
+            "id": "2d3ccb0e-ac88-81bd-b33d-dfd435a7401e",
+            "name": "[CHIBI] Issuelog ",
+            "type": "issues"
+          },
+          {
+            "id": "2d3ccb0e-ac88-81d2-9dcb-d15e30d0c556",
+            "name": "[CHIBI] Sprints",
+            "type": "sprints"
+          },
+          {
+            "id": "2d3ccb0e-ac88-819a-af66-ee353d6e1b19",
+            "name": "[CHIBI] Issuelog ",
+            "type": "issues"
+          }
+        ],
+        "hasData": true
+      },
+      {
+        "id": "28eccb0e-ac88-80fa-b380-d4c747d0671e",
+        "name": "[DeeDee_2025_SUN] Sunny Side Down ",
+        "status": "In Progress",
+        "brand": [
+          "DeeDee Animation Studio"
+        ],
+        "year": "",
+        "projectId": "PROJ-309",
+        "keywords": [
+          "[DeeDee_2025_SUN] Sunny Side Down ",
+          "DeeDee_2025_SUN",
+          "SUN",
+          "Sunny",
+          "Sunny Side Down",
+          "Side",
+          "Down",
+          "Sunny Side"
+        ],
+        "databases": [
+          {
+            "id": "28eccb0e-ac88-8199-b67f-f15f83806b09",
+            "name": "[Sunny Side Down] Tasks ",
+            "type": "tasks"
+          },
+          {
+            "id": "28eccb0e-ac88-81fa-8346-c8611aceff52",
+            "name": "[Sunny Side Down] Product ",
+            "type": "products"
+          },
+          {
+            "id": "2cbccb0e-ac88-8093-9c58-d969262d56f2",
+            "name": "[Sunny] Báo cáo Review (Không xóa dữ liệu)",
+            "type": "reports"
+          },
+          {
+            "id": "28eccb0e-ac88-81f6-b443-c7b21b00c14f",
+            "name": "[Sunny Side Down] Sprints",
+            "type": "sprints"
+          },
+          {
+            "id": "2cbccb0e-ac88-802f-a641-dda482cd8891",
+            "name": "[Sunny] Báo cáo Realtime (Chỉ lấy dữ liệu mới nhất)",
+            "type": "reports"
+          },
+          {
+            "id": "28eccb0e-ac88-81f2-bb62-f5fdc3e4ee61",
+            "name": "[Sunny Side Down] Issuelog ",
+            "type": "issues"
+          }
+        ],
+        "hasData": true
+      },
+      {
+        "id": "2c5ccb0e-ac88-809b-b452-f82ee00b16c2",
+        "name": "[DeeDee_2025_XANH] XANHSM BUMPER ADS",
+        "status": "In Progress",
+        "brand": [
+          "DeeDee Animation Studio"
+        ],
+        "year": "2025",
+        "projectId": "PROJ-315",
+        "keywords": [
+          "[DeeDee_2025_XANH] XANHSM BUMPER ADS",
+          "DeeDee_2025_XANH",
+          "XANH",
+          "XANHSM BUMPER ADS",
+          "XANHSM",
+          "BUMPER",
+          "XANHSM BUMPER"
+        ],
+        "databases": [
+          {
+            "id": "2c5ccb0e-ac88-80ca-9717-d57e83ff43cf",
+            "name": "[XANHSM] Tasks (1)",
+            "type": "tasks"
+          },
+          {
+            "id": "2c5ccb0e-ac88-8004-9a5a-d51f7d3d89dc",
+            "name": "[XANHSM] Product",
+            "type": "products"
+          },
+          {
+            "id": "2d8ccb0e-ac88-815c-9c66-ef51fc15966e",
+            "name": "[XANHSM] Báo cáo Review (Không xóa dữ liệu)",
+            "type": "reports"
+          },
+          {
+            "id": "2d8ccb0e-ac88-815e-b410-d6e734be08c5",
+            "name": "[XANHSM] Báo cáo Realtime (Chỉ lấy dữ liệu mới nhất)",
+            "type": "reports"
+          },
+          {
+            "id": "2d8ccb0e-ac88-812e-a8b1-d773411fa9e2",
+            "name": "[XANHSM] Báo cáo Review (Không xóa dữ liệu)",
+            "type": "reports"
+          },
+          {
+            "id": "2d8ccb0e-ac88-81bc-baed-cd2c4fb84309",
+            "name": "[XANHSM] Báo cáo Realtime (Chỉ lấy dữ liệu mới nhất)",
+            "type": "reports"
+          },
+          {
+            "id": "2c5ccb0e-ac88-8065-a98d-e0c0a85f388d",
+            "name": "[XANHSM] Issuelog (1)",
+            "type": "issues"
+          },
+          {
+            "id": "2c5ccb0e-ac88-80ac-aa53-ca7229dfe3d6",
+            "name": "XANHSM Sprints (1)",
+            "type": "sprints"
+          }
+        ],
+        "hasData": true
+      },
+      {
+        "id": "218ccb0e-ac88-80e8-bb03-c3fd0be8c613",
+        "name": "[DeeDee_2025] Đại Hiệp Văn Sử Short Series",
+        "status": "In Progress",
+        "brand": [],
+        "year": "2025",
+        "projectId": "PROJ-297",
+        "keywords": [
+          "[DeeDee_2025] Đại Hiệp Văn Sử Short Series",
+          "DeeDee_2025",
+          "2025",
+          "Đại Hiệp Văn Sử Short Series",
+          "Hiệp",
+          "Short",
+          "Series",
+          "Đại Hiệp"
+        ],
+        "databases": [],
+        "hasData": false
+      },
+      {
+        "id": "288ccb0e-ac88-80ab-bb3c-c99c81b355bb",
+        "name": "[DeeDee_2025] Đại Hiệp Văn Sử Short Series AP",
+        "status": "In Progress",
+        "brand": [
+          "DeeDee Animation Studio"
+        ],
+        "year": "2025",
+        "projectId": "PROJ-308",
+        "keywords": [
+          "[DeeDee_2025] Đại Hiệp Văn Sử Short Series AP",
+          "DeeDee_2025",
+          "2025",
+          "Đại Hiệp Văn Sử Short Series AP",
+          "Hiệp",
+          "Short",
+          "Series",
+          "Đại Hiệp"
+        ],
+        "databases": [],
+        "hasData": false
+      },
+      {
+        "id": "241ccb0e-ac88-8063-a793-fad5eade2a7f",
+        "name": "[DeeDee_2025] Mami Fatale -old",
+        "status": "In Progress",
+        "brand": [
+          "DeeDee Animation Studio"
+        ],
+        "year": "",
+        "projectId": "PROJ-300",
+        "keywords": [
+          "[DeeDee_2025] Mami Fatale -old",
+          "DeeDee_2025",
+          "2025",
+          "Mami Fatale -old",
+          "Mami",
+          "Fatale",
+          "-old",
+          "Mami Fatale"
+        ],
+        "databases": [
+          {
+            "id": "27eccb0e-ac88-81db-b9de-ff6ba89080fa",
+            "name": "[Mami] Product ",
+            "type": "products"
+          },
+          {
+            "id": "27eccb0e-ac88-8144-bd7b-e34f24852bb5",
+            "name": "[Mami] Tasks ",
+            "type": "tasks"
+          },
+          {
+            "id": "2cbccb0e-ac88-8017-ac5d-e57ea8c3fbee",
+            "name": "[Mami] Báo cáo Realtime (Chỉ lấy dữ liệu mới nhất)",
+            "type": "reports"
+          },
+          {
+            "id": "2cbccb0e-ac88-809d-b59f-f199db55c86e",
+            "name": "[Mami] Báo cáo Review (Không xóa dữ liệu)",
+            "type": "reports"
+          },
+          {
+            "id": "287ccb0e-ac88-8085-944e-ccd8e4cb0f7d",
+            "name": "[Mami] Tasks (1)",
+            "type": "tasks"
+          }
+        ],
+        "hasData": true
+      },
+      {
+        "id": "2edccb0e-ac88-805c-824b-f31a17cadb68",
+        "name": "[DeeDee_2026_FCM] FC MOBILE",
+        "status": "In Progress",
+        "brand": [
+          "DeeDee Animation Studio"
+        ],
+        "year": "",
+        "projectId": "PROJ-319",
+        "keywords": [
+          "[DeeDee_2026_FCM] FC MOBILE",
+          "DeeDee_2026_FCM",
+          "FCM",
+          "FC MOBILE",
+          "MOBILE"
+        ],
+        "databases": [
+          {
+            "id": "2edccb0e-ac88-815c-a6de-c98c5d033c02",
+            "name": "[FCM] Tasks",
+            "type": "tasks"
+          },
+          {
+            "id": "2edccb0e-ac88-8155-b869-fae4181156f7",
+            "name": "[FCM] Product",
+            "type": "products"
+          }
+        ],
+        "hasData": true
+      },
+      {
+        "id": "2d8ccb0e-ac88-80b0-8a33-fbb881e41e9b",
+        "name": "[DeeDee_2026_HAR] HARRY & THE MUTANT",
+        "status": "In Progress",
+        "brand": [
+          "DeeDee Animation Studio"
+        ],
+        "year": "2025",
+        "projectId": "PROJ-318",
+        "keywords": [
+          "[DeeDee_2026_HAR] HARRY & THE MUTANT",
+          "DeeDee_2026_HAR",
+          "HAR",
+          "Harry",
+          "HARRY & THE MUTANT",
+          "HARRY",
+          "MUTANT",
+          "HARRY &"
+        ],
+        "databases": [
+          {
+            "id": "2d8ccb0e-ac88-8182-bd6c-c197ae37266c",
+            "name": "[Harry] Tasks",
+            "type": "tasks"
+          },
+          {
+            "id": "2d8ccb0e-ac88-81ed-8466-f477910410bd",
+            "name": "[Harry] Product",
+            "type": "products"
+          },
+          {
+            "id": "2d8ccb0e-ac88-81d9-9a22-e69ff5bb9085",
+            "name": "[Harry] Issuelog",
+            "type": "issues"
+          },
+          {
+            "id": "2d8ccb0e-ac88-81cf-9933-c1d7f6551a3b",
+            "name": "[Harry] Sprints ",
+            "type": "sprints"
+          }
+        ],
+        "hasData": true
+      },
+      {
+        "id": "2efccb0e-ac88-80a2-a55d-d1a58480c246",
+        "name": "[DeeDee_2026_LEG] NINJAGO LEGO ZOOM",
+        "status": "In Progress",
+        "brand": [
+          "DeeDee Animation Studio"
+        ],
+        "year": "",
+        "projectId": "PROJ-321",
+        "keywords": [
+          "[DeeDee_2026_LEG] NINJAGO LEGO ZOOM",
+          "DeeDee_2026_LEG",
+          "LEG",
+          "Lego",
+          "NINJAGO LEGO ZOOM",
+          "NINJAGO",
+          "LEGO",
+          "ZOOM",
+          "NINJAGO LEGO"
+        ],
+        "databases": [
+          {
+            "id": "286ccb0e-ac88-8156-8c6c-eec1c3b2c711",
+            "name": "LEGO Sprints",
+            "type": "sprints"
+          }
+        ],
+        "hasData": true
+      },
+      {
+        "id": "2f6ccb0e-ac88-80be-b04e-e793a2241089",
+        "name": "[DeeDee_2026_OTH4] SHAVUOT",
+        "status": "In Progress",
+        "brand": [
+          "DeeDee Animation Studio"
+        ],
+        "year": "",
+        "projectId": "PROJ-322",
+        "keywords": [
+          "[DeeDee_2026_OTH4] SHAVUOT",
+          "DeeDee_2026_OTH4",
+          "OTH4",
+          "Shavuot",
+          "SHAVUOT"
+        ],
+        "databases": [],
+        "hasData": false
+      },
+      {
+        "id": "2f6ccb0e-ac88-8065-948f-ea2f578a54f4",
+        "name": "[DeeDee_2026_DK] Disk Knight",
+        "status": "Backlog",
+        "brand": [
+          "DeeDee Animation Studio"
+        ],
+        "year": "",
+        "projectId": "PROJ-323",
+        "keywords": [
+          "[DeeDee_2026_DK] Disk Knight",
+          "DeeDee_2026_DK",
+          "Knight",
+          "Disk Knight",
+          "Disk"
+        ],
+        "databases": [
+          {
+            "id": "2cbccb0e-ac88-8017-83d0-d4dc99715452",
+            "name": "[Knight] Báo cáo Realtime (Chỉ lấy dữ liệu mới nhất)",
+            "type": "reports"
+          },
+          {
+            "id": "2cbccb0e-ac88-8018-b63f-d5d12f6255f8",
+            "name": "[Knight] Báo cáo Review (Không xóa dữ liệu)",
+            "type": "reports"
+          }
+        ],
+        "hasData": true
+      }
+    ],
+    "projects_tree_active_time": 1769678284968
+  },
+  "data_cache": {},
+  "metadata": {
+    "last_refresh": "2026-02-02T10:26:36.958Z",
+    "sync_times": {}
+  },
+  "last_sync": {}
+}

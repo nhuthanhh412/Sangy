@@ -1,0 +1,1200 @@
+[
+  {
+    "id": "2efccb0e-ac88-8003-ac3f-c66c65ed87cb",
+    "created_time": "2026-01-21T23:23:00.000Z",
+    "last_edited_time": "2026-01-22T12:06:00.000Z",
+    "properties": {
+      "Key": [
+        "E"
+      ],
+      "IBW": [
+        "F"
+      ],
+      "Ref": "Như ref 32",
+      "Brief anim": "Như 32",
+      "Note nhân vật/Props": "- Prop: lyrics, quả bóng, 2 hình nhân vật theo như animatic",
+      "Note Special pose": "X",
+      "SP": [],
+      "Scene": "38"
+    },
+    "_title": "38",
+    "database_name": "FC Mobile _ Brief Kỹ thuật",
+    "project_name": "FC Mobile _ Brief Kỹ thuật",
+    "database_id": "2efccb0e-ac88-80f2-a2e2-f9bdeabd279a"
+  },
+  {
+    "id": "2efccb0e-ac88-8005-ac14-ecf5f9ef67e3",
+    "created_time": "2026-01-21T23:22:00.000Z",
+    "last_edited_time": "2026-01-31T02:21:00.000Z",
+    "properties": {
+      "Key": [
+        "B"
+      ],
+      "IBW": [
+        "D"
+      ],
+      "Ref": "",
+      "Brief anim": "-  Cam vẫn trôi nhẹ raccord 19.\n- Mẹ niềm nở đi nhanh ra ôm con, con có vẻ xúc động. Bố đi chậm hơn và kết thúc chuyển động sau mẹ, nhìn 2 mẹ con cười trìu mến.\n- Sau đó mẹ mỉm cười dẫn con vào, bố nhìn đặt tay lên vai.\n- Cảnh này cần cleanup lại bố mẹ theo styleframe.",
+      "Note nhân vật/Props": "- Cậu nhân viên\n- Bố, mẹ\n- Prop: balo (Anim tự vẽ theo SP - lưu ý pick màu theo cảnh 19)",
+      "Note Special pose": "3,5 hình\n- 2 pose con (1 đứng thẳng 1 ôm mẹ).\n- 3 pose mẹ (1 đứng nhìn con 1 ôm con 1 đi ngược lại sang phải nhưng đầu hơi quay về phía con).\n- 2 pose bố (1 đứng nhìn, 1 đi ngược lại sang phải nhưng đầu nhìn con và tay đặt trên vai con).",
+      "SP": [
+        "D"
+      ],
+      "Scene": "20"
+    },
+    "_title": "20",
+    "database_name": "FC Mobile _ Brief Kỹ thuật",
+    "project_name": "FC Mobile _ Brief Kỹ thuật",
+    "database_id": "2efccb0e-ac88-80f2-a2e2-f9bdeabd279a"
+  },
+  {
+    "id": "2efccb0e-ac88-8008-adc6-d8afba651d07",
+    "created_time": "2026-01-21T23:22:00.000Z",
+    "last_edited_time": "2026-01-22T12:01:00.000Z",
+    "properties": {
+      "Key": [
+        "F"
+      ],
+      "IBW": [
+        "F"
+      ],
+      "Ref": "https://www.pinterest.com/pin/585468020334923209/",
+      "Brief anim": "- Quyển lịch tĩnh, tờ lịch anim tự xé nhẹ ra 1 tí rồi rách toạc rơi nhanh xuống.\n- Cam zoom xoáy vào như animatic, rồi quyển lịch trôi xuyên qua cam để chuyển sang cảnh sau.",
+      "Note nhân vật/Props": "- Prop: Quyển lịch, tờ lịch tách riêng\nhttps://www.pinterest.com/pin/585468020334923209/\n",
+      "Note Special pose": "X",
+      "SP": [],
+      "Scene": "12"
+    },
+    "_title": "12",
+    "database_name": "FC Mobile _ Brief Kỹ thuật",
+    "project_name": "FC Mobile _ Brief Kỹ thuật",
+    "database_id": "2efccb0e-ac88-80f2-a2e2-f9bdeabd279a"
+  },
+  {
+    "id": "2efccb0e-ac88-8019-b59b-c4f445cfbe11",
+    "created_time": "2026-01-21T23:23:00.000Z",
+    "last_edited_time": "2026-01-27T03:40:00.000Z",
+    "properties": {
+      "Key": [
+        "F"
+      ],
+      "IBW": [
+        "F"
+      ],
+      "Ref": "",
+      "Brief anim": "- Cut on action, kết thúc việc quay lại nhìn màn hình từ cảnh trước, có ease out, reuse cảnh 27.\n\nTHAY ĐỔI CHUỖI CẢNH 26 - 30:\n- 26: Đổi con nai thành Quang Hải (BG vẽ), chỉ để hình tĩnh không anim.\n- 27: Captain nhíu mày nhìn kĩ lại màn hình điện thoại, bỏ đoạn quay ra sau.\n- 28: Không làm loop nữa, từ màn hình điện thoại zoom vào điện thoại nhỏ hơn mà nhân vật đang cầm (cam zoom in + rotate để điện thoại nhỏ song song lại với screen). Lưu ý trong đt nhỏ là cảnh 29 tiếp theo.\n- 29: Raccord với 28. Reuse cảnh 2, thay đổi design quần áo nhân vật thành Văn Thanh (Anim vẽ).\n- 30: Bỏ cảnh.\n\nANIMATIC MỚI: T:\\2026_FC MOBILE\\01. ANIMATIC\\FCM_ANIMATIC_v03_2.mov",
+      "Note nhân vật/Props": "- Captain boy\n- Prop: Điện thoại",
+      "Note Special pose": "- Reuse cảnh 27.",
+      "SP": [],
+      "Scene": "29"
+    },
+    "_title": "29",
+    "database_name": "FC Mobile _ Brief Kỹ thuật",
+    "project_name": "FC Mobile _ Brief Kỹ thuật",
+    "database_id": "2efccb0e-ac88-80f2-a2e2-f9bdeabd279a"
+  },
+  {
+    "id": "2efccb0e-ac88-801f-ab5d-db701980bb2b",
+    "created_time": "2026-01-21T23:23:00.000Z",
+    "last_edited_time": "2026-01-22T12:06:00.000Z",
+    "properties": {
+      "Key": [
+        "F"
+      ],
+      "IBW": [
+        "F"
+      ],
+      "Ref": "Như ref 32",
+      "Brief anim": "Như 32",
+      "Note nhân vật/Props": "- Prop: lyrics",
+      "Note Special pose": "X",
+      "SP": [],
+      "Scene": "39"
+    },
+    "_title": "39",
+    "database_name": "FC Mobile _ Brief Kỹ thuật",
+    "project_name": "FC Mobile _ Brief Kỹ thuật",
+    "database_id": "2efccb0e-ac88-80f2-a2e2-f9bdeabd279a"
+  },
+  {
+    "id": "2efccb0e-ac88-8023-a554-e4dc3e3bed17",
+    "created_time": "2026-01-21T23:22:00.000Z",
+    "last_edited_time": "2026-01-27T03:40:00.000Z",
+    "properties": {
+      "Key": [
+        "E"
+      ],
+      "IBW": [
+        "F"
+      ],
+      "Ref": "",
+      "Brief anim": "- Cut out bàn tay từng ngón diễn cho đẹp, on 2, bàn tay đưa nhẹ lên chạm vào ảnh, giữ một chút rồi vòng qua đằng sau đỡ lưng tấm ảnh. Tạo cảm giác nhẹ nhàng, tình cảm nhưng tinh tế thôi đừng xoa vuốt nhiều quá.\n\nNOTE CỦA KHÁCH: Thay khung ảnh bằng điện thoại.",
+      "Note nhân vật/Props": "- Tay của cậu nhân viên\n- Prop: ảnh gia đình",
+      "Note Special pose": "0,5 hình\n- 3 bàn tay: 1 tay trái cầm ảnh, 1 tay phải chạm ảnh, 1 tay phải breakdown lúc đang vòng ra sau ảnh.",
+      "SP": [
+        "F"
+      ],
+      "Scene": "13"
+    },
+    "_title": "13",
+    "database_name": "FC Mobile _ Brief Kỹ thuật",
+    "project_name": "FC Mobile _ Brief Kỹ thuật",
+    "database_id": "2efccb0e-ac88-80f2-a2e2-f9bdeabd279a"
+  },
+  {
+    "id": "2efccb0e-ac88-8024-a578-ed09e4f3a2a7",
+    "created_time": "2026-01-21T23:24:00.000Z",
+    "last_edited_time": "2026-01-22T12:08:00.000Z",
+    "properties": {
+      "Key": [
+        "F"
+      ],
+      "IBW": [
+        "F"
+      ],
+      "Ref": "",
+      "Brief anim": "- Như animatic, 2 mặt ease in ròi ngã nhào ra sau. Có thể cho miệng quake 1 chút theo tiếng AAA",
+      "Note nhân vật/Props": "- Mặt của Captain boy\n- Template “Aaa”",
+      "Note Special pose": "0,5 hình\n- 1 pose mặt đúp lên 2.",
+      "SP": [
+        "F"
+      ],
+      "Scene": "45"
+    },
+    "_title": "45",
+    "database_name": "FC Mobile _ Brief Kỹ thuật",
+    "project_name": "FC Mobile _ Brief Kỹ thuật",
+    "database_id": "2efccb0e-ac88-80f2-a2e2-f9bdeabd279a"
+  },
+  {
+    "id": "2efccb0e-ac88-802a-bd3e-e090a32f228a",
+    "created_time": "2026-01-21T23:23:00.000Z",
+    "last_edited_time": "2026-01-23T11:42:00.000Z",
+    "properties": {
+      "Key": [
+        "F"
+      ],
+      "IBW": [
+        "F"
+      ],
+      "Ref": "Như ref 32",
+      "Brief anim": "Như 32",
+      "Note nhân vật/Props": "- Prop: lyrics, miệng cười",
+      "Note Special pose": "X",
+      "SP": [],
+      "Scene": "34"
+    },
+    "_title": "34",
+    "database_name": "FC Mobile _ Brief Kỹ thuật",
+    "project_name": "FC Mobile _ Brief Kỹ thuật",
+    "database_id": "2efccb0e-ac88-80f2-a2e2-f9bdeabd279a"
+  },
+  {
+    "id": "2efccb0e-ac88-802c-a6bb-d5868e81b965",
+    "created_time": "2026-01-21T23:22:00.000Z",
+    "last_edited_time": "2026-01-26T04:44:00.000Z",
+    "properties": {
+      "Key": [
+        "C"
+      ],
+      "IBW": [
+        "D"
+      ],
+      "Ref": "",
+      "Brief anim": "- Cam vẫn trôi nhẹ theo tốc độ như 17. Hành động nhẹ nhàng tinh tế và raccord với 18.\n- Cho các nhân vật đi chậm, chưa cần hết 1 walk cycle.\n- Cảnh này cần cleanup lại bố mẹ theo styleframe.",
+      "Note nhân vật/Props": "- Cậu nhân viên\n- Bố, mẹ\n- Prop: balo (Anim tự vẽ theo SP - Lưu ý đồng bộ với cảnh 20)",
+      "Note Special pose": "6 hình\n- 2 pose cho mỗi nhân vật (chỉ cần 1 nửa walkcycle).",
+      "SP": [
+        "C"
+      ],
+      "Scene": "19"
+    },
+    "_title": "19",
+    "database_name": "FC Mobile _ Brief Kỹ thuật",
+    "project_name": "FC Mobile _ Brief Kỹ thuật",
+    "database_id": "2efccb0e-ac88-80f2-a2e2-f9bdeabd279a"
+  },
+  {
+    "id": "2efccb0e-ac88-803a-bb01-d85b4162abc4",
+    "created_time": "2026-01-21T23:23:00.000Z",
+    "last_edited_time": "2026-01-22T12:06:00.000Z",
+    "properties": {
+      "Key": [
+        "F"
+      ],
+      "IBW": [
+        "F"
+      ],
+      "Ref": "Như ref 32",
+      "Brief anim": "Như 32",
+      "Note nhân vật/Props": "- Prop: lyrics, ngôi sao, mặt ngầu trong ngôi sao",
+      "Note Special pose": "X",
+      "SP": [],
+      "Scene": "36"
+    },
+    "_title": "36",
+    "database_name": "FC Mobile _ Brief Kỹ thuật",
+    "project_name": "FC Mobile _ Brief Kỹ thuật",
+    "database_id": "2efccb0e-ac88-80f2-a2e2-f9bdeabd279a"
+  },
+  {
+    "id": "2efccb0e-ac88-803b-926f-dc8dca2df6cb",
+    "created_time": "2026-01-21T23:23:00.000Z",
+    "last_edited_time": "2026-01-22T12:06:00.000Z",
+    "properties": {
+      "Key": [
+        "E"
+      ],
+      "IBW": [
+        "F"
+      ],
+      "Ref": "Như ref 32",
+      "Brief anim": "- Như 32\n- Đoạn chữ AAA trôi sang trái theo đám đông để chuyển về art style cũ, Captain đang ngồi sẵn và trôi vào (cảnh 41).",
+      "Note nhân vật/Props": "- Prop: lyrics, đám đông chia thành 3 lớp, phần chữ AAA tỏa ra từ đám đông (cho kéo dài thêm 1 đoạn để anim lia sang, đoạn cuối các chữ A thưa và nhỏ đi giống animatic)",
+      "Note Special pose": "X",
+      "SP": [],
+      "Scene": "40"
+    },
+    "_title": "40",
+    "database_name": "FC Mobile _ Brief Kỹ thuật",
+    "project_name": "FC Mobile _ Brief Kỹ thuật",
+    "database_id": "2efccb0e-ac88-80f2-a2e2-f9bdeabd279a"
+  },
+  {
+    "id": "2efccb0e-ac88-803d-a9da-cb1251a9cc5b",
+    "created_time": "2026-01-21T23:23:00.000Z",
+    "last_edited_time": "2026-01-22T12:06:00.000Z",
+    "properties": {
+      "Key": [
+        "F"
+      ],
+      "IBW": [
+        "F"
+      ],
+      "Ref": "",
+      "Brief anim": "- Theo logic từ cảnh trước thì tay gạt hình mình trong điện thoại, làm cho ngoài đời thực nhân vật cũng bị méo rồi bay vèo đi, có thể làm smear. Reuse cảnh 29.",
+      "Note nhân vật/Props": "- Captain boy\n- Prop: Điện thoại",
+      "Note Special pose": "- Reuse cảnh 29.",
+      "SP": [],
+      "Scene": "31"
+    },
+    "_title": "31",
+    "database_name": "FC Mobile _ Brief Kỹ thuật",
+    "project_name": "FC Mobile _ Brief Kỹ thuật",
+    "database_id": "2efccb0e-ac88-80f2-a2e2-f9bdeabd279a"
+  },
+  {
+    "id": "2efccb0e-ac88-8040-98b1-cd4cd0cea034",
+    "created_time": "2026-01-21T23:23:00.000Z",
+    "last_edited_time": "2026-01-27T03:40:00.000Z",
+    "properties": {
+      "Key": [
+        "F"
+      ],
+      "IBW": [
+        "F"
+      ],
+      "Ref": "",
+      "Brief anim": "- Reuse cảnh 26, tay gạt màn hình và cut on action cảnh sau.\n\nTHAY ĐỔI CHUỖI CẢNH 26 - 30:\n- 26: Đổi con nai thành Quang Hải (BG vẽ), chỉ để hình tĩnh không anim.\n- 27: Captain nhíu mày nhìn kĩ lại màn hình điện thoại, bỏ đoạn quay ra sau.\n- 28: Không làm loop nữa, từ màn hình điện thoại zoom vào điện thoại nhỏ hơn mà nhân vật đang cầm (cam zoom in + rotate để điện thoại nhỏ song song lại với screen). Lưu ý trong đt nhỏ là cảnh 29 tiếp theo.\n- 29: Raccord với 28. Reuse cảnh 2, thay đổi design quần áo nhân vật thành Văn Thanh (Anim vẽ).\n- 30: Bỏ cảnh.\n\nANIMATIC MỚI: T:\\2026_FC MOBILE\\01. ANIMATIC\\FCM_ANIMATIC_v03_2.mov",
+      "Note nhân vật/Props": "- Captain boy\n- Prop: Điện thoại",
+      "Note Special pose": "- Reuse cảnh 26.",
+      "SP": [],
+      "Scene": "30"
+    },
+    "_title": "30",
+    "database_name": "FC Mobile _ Brief Kỹ thuật",
+    "project_name": "FC Mobile _ Brief Kỹ thuật",
+    "database_id": "2efccb0e-ac88-80f2-a2e2-f9bdeabd279a"
+  },
+  {
+    "id": "2efccb0e-ac88-8041-8440-ec61f2da1850",
+    "created_time": "2026-01-21T23:23:00.000Z",
+    "last_edited_time": "2026-01-23T05:17:00.000Z",
+    "properties": {
+      "Key": [
+        "E"
+      ],
+      "IBW": [
+        "E"
+      ],
+      "Ref": "",
+      "Brief anim": "- Gia đình cùng nhau gói bánh trưng, cut out nhân vật từ styleframe.\n- Diễn ít nhưng có sự tương tác, nhìn được thấy tình cảm trong đó chứ không bị loop các nhân vật làm những thứ không liên quan (Ví dụ: Em đại học đứng sau lưng nhìn bà nặn đỗ, tay đặt lên xoa đầu em trai cấp 3, em trai cấp 3 hơi rướn người về trước nhìn theo tay bà, bà đang nặn đỗ đều đặn và có thể hơi liếc nhẹ qua thằng em, mẹ bê mâm bánh đi vào cửa, cậu nhân viên hì hụi gói bánh, bố nhìn sang cậu nhân viên miệng cười gật gật đầu, ông ngồi tĩnh).\n- Cam trôi nhẹ, parallax cây đào đằng trước tạo cảm giác đây là một bức hình động, có độ sâu về một gia đình quây quần ấm cúng.\n- Cảnh này phải cleanup lại nhân vật theo styleframe.",
+      "Note nhân vật/Props": "- Gia đình từ phải sang: Em trai đại học, em trai cấp 3, bà, mẹ, cậu nhân viên, bố, ông\n(Cut out theo Styleframe)\n- Prop: mâm bánh chưng mẹ bê, bánh chưng nvc gói, nồi bánh chưng đặt trước nvc, một vài miếng đỗ bà nặn\n",
+      "Note Special pose": "10 hình\n- Mỗi nhân vật có ít nhất 2 pose để thể hiện hành động chính đang làm.\n- Riêng bà mẹ có walkcycle.",
+      "SP": [
+        "C"
+      ],
+      "Scene": "25"
+    },
+    "_title": "25",
+    "database_name": "FC Mobile _ Brief Kỹ thuật",
+    "project_name": "FC Mobile _ Brief Kỹ thuật",
+    "database_id": "2efccb0e-ac88-80f2-a2e2-f9bdeabd279a"
+  },
+  {
+    "id": "2efccb0e-ac88-8041-ab2f-e262e8cfa87f",
+    "created_time": "2026-01-21T23:21:00.000Z",
+    "last_edited_time": "2026-01-22T11:59:00.000Z",
+    "properties": {
+      "Key": [
+        "D"
+      ],
+      "IBW": [
+        "E"
+      ],
+      "Ref": "",
+      "Brief anim": "- Một vài nvp có chuyển động, còn lại đứng tĩnh hoặc lướt đi nhẹ hoặc làm gì đó rất nhỏ. (Bàn lại với Thi sau khi có design)\n- Cho ô tô lướt đúng vào nhịp nhạc.",
+      "Note nhân vật/Props": "- Nvp (BG vẽ): 3 - 4 nhân vật rõ chi tiết để anim cut out, còn lại tĩnh hết và có thể đi theo một cục\n- Prop: ô tô, có bóng người ngồi trong",
+      "Note Special pose": "X",
+      "SP": [],
+      "Scene": "05"
+    },
+    "_title": "05",
+    "database_name": "FC Mobile _ Brief Kỹ thuật",
+    "project_name": "FC Mobile _ Brief Kỹ thuật",
+    "database_id": "2efccb0e-ac88-80f2-a2e2-f9bdeabd279a"
+  },
+  {
+    "id": "2efccb0e-ac88-8045-8483-f6f3a48d7ade",
+    "created_time": "2026-01-21T23:22:00.000Z",
+    "last_edited_time": "2026-01-23T02:51:00.000Z",
+    "properties": {
+      "Key": [
+        "B"
+      ],
+      "IBW": [
+        "B"
+      ],
+      "Ref": "Pin on ilustrações",
+      "Brief anim": "- Bầu TRỜI - 1 pose rapper xuất hiện, đi VỀ nhà THÔI đón MỘT… - tương ứng 3 pose rap. Chữ MỚI kéo dài thì nhân vật sẽ xoay một vòng giơ 2 tay lên. Đoạn cuối áo tung lên slowmotion.\n- Có lipsync hát.\n- Cuối cảnh nhân vật trượt xuống dưới để nối với cảnh sau.",
+      "Note nhân vật/Props": "- Captain boy",
+      "Note Special pose": "5 hình \n- 1 pose xuất hiện (chữ TRỜI).\n- 3 pose tạo dáng rapper (như brief anim, pose 2 và 3 nên gần giống nhau, ví dụ như chỉ tay về màn hình 2 lần, vì đây là đoạn nhạc dồn).\n- 3 pose xoay vòng để giơ hai tay lên (từ chữ MỚIIII).",
+      "SP": [
+        "C"
+      ],
+      "Scene": "15"
+    },
+    "_title": "15",
+    "database_name": "FC Mobile _ Brief Kỹ thuật",
+    "project_name": "FC Mobile _ Brief Kỹ thuật",
+    "database_id": "2efccb0e-ac88-80f2-a2e2-f9bdeabd279a"
+  },
+  {
+    "id": "2efccb0e-ac88-8047-9315-f2e1a2227e0b",
+    "created_time": "2026-01-21T23:23:00.000Z",
+    "last_edited_time": "2026-01-23T11:41:00.000Z",
+    "properties": {
+      "Key": [
+        "F"
+      ],
+      "IBW": [
+        "F"
+      ],
+      "Ref": "Như ref 32",
+      "Brief anim": "Như 32",
+      "Note nhân vật/Props": "- Prop: lyrics, chiếc áo ở cuối (như animatic)",
+      "Note Special pose": "X",
+      "SP": [],
+      "Scene": "33"
+    },
+    "_title": "33",
+    "database_name": "FC Mobile _ Brief Kỹ thuật",
+    "project_name": "FC Mobile _ Brief Kỹ thuật",
+    "database_id": "2efccb0e-ac88-80f2-a2e2-f9bdeabd279a"
+  },
+  {
+    "id": "2efccb0e-ac88-8049-823a-eb1c6eb2a2f4",
+    "created_time": "2026-01-21T23:22:00.000Z",
+    "last_edited_time": "2026-01-22T12:03:00.000Z",
+    "properties": {
+      "Key": [
+        "E"
+      ],
+      "IBW": [
+        "F"
+      ],
+      "Ref": "",
+      "Brief anim": "- Nhân vật vẫy tay chào nhẹ, cảnh vật rất sáng và đẹp.\n- Cho cam trôi nhẹ tạo cảm xúc cho cảnh. Tách BG thành nhiều lớp offset, tinh tế nhẹ nhàng vừa đủ.",
+      "Note nhân vật/Props": "- Nvp (BG vẽ)\n- BG tách riêng các lớp (sẽ thống nhất lại sau)",
+      "Note Special pose": "X",
+      "SP": [],
+      "Scene": "17"
+    },
+    "_title": "17",
+    "database_name": "FC Mobile _ Brief Kỹ thuật",
+    "project_name": "FC Mobile _ Brief Kỹ thuật",
+    "database_id": "2efccb0e-ac88-80f2-a2e2-f9bdeabd279a"
+  },
+  {
+    "id": "2efccb0e-ac88-804b-99bf-d14c5930e7a2",
+    "created_time": "2026-01-21T23:24:00.000Z",
+    "last_edited_time": "2026-01-22T12:08:00.000Z",
+    "properties": {
+      "Key": [
+        "C"
+      ],
+      "IBW": [
+        "B"
+      ],
+      "Ref": "",
+      "Brief anim": "- Cố gắng reuse được cảnh 15, hoặc chỉnh sửa dựa trên pose cảnh 15 để cho khớp nhạc —> Đặt SP vào đúng nhịp nhạc tương tự cảnh 15.",
+      "Note nhân vật/Props": "- Captain boy",
+      "Note Special pose": "- Cố gắng reuse được cảnh 15, hoặc chỉnh sửa dựa trên pose cảnh 15 để cho khớp nhạc.",
+      "SP": [
+        "D"
+      ],
+      "Scene": "44"
+    },
+    "_title": "44",
+    "database_name": "FC Mobile _ Brief Kỹ thuật",
+    "project_name": "FC Mobile _ Brief Kỹ thuật",
+    "database_id": "2efccb0e-ac88-80f2-a2e2-f9bdeabd279a"
+  },
+  {
+    "id": "2efccb0e-ac88-804d-b603-eb2946ba5d37",
+    "created_time": "2026-01-21T23:23:00.000Z",
+    "last_edited_time": "2026-01-22T12:06:00.000Z",
+    "properties": {
+      "Key": [
+        "F"
+      ],
+      "IBW": [
+        "F"
+      ],
+      "Ref": "Như ref 32",
+      "Brief anim": "Như 32",
+      "Note nhân vật/Props": "- Prop: lyrics",
+      "Note Special pose": "X",
+      "SP": [],
+      "Scene": "37"
+    },
+    "_title": "37",
+    "database_name": "FC Mobile _ Brief Kỹ thuật",
+    "project_name": "FC Mobile _ Brief Kỹ thuật",
+    "database_id": "2efccb0e-ac88-80f2-a2e2-f9bdeabd279a"
+  },
+  {
+    "id": "2efccb0e-ac88-8051-9b75-ef20c04669d5",
+    "created_time": "2026-01-21T23:24:00.000Z",
+    "last_edited_time": "2026-01-22T12:09:00.000Z",
+    "properties": {
+      "Key": [
+        "C"
+      ],
+      "IBW": [
+        "F"
+      ],
+      "Ref": "",
+      "Brief anim": "- Như animatic, tạo hiệu ứng zoom out cam từ 5 bàn tay sang 5 người giơ điện thoại lên chứ không phải cắt cảnh, anim snappy có ease 2 đầu, ko cần BD ở giữa.\n- Để các màn hình điện thoại là phông xanh, chấm đỏ ở giữa để sau comp hình game vào.\n- Cảnh này phải cleanup 3 nvp",
+      "Note nhân vật/Props": "- Cậu nhân viên\n- 2 em trai\n- 3 nvp reuse các design cũ của nvc (alo Thi/Minh Anh/Hưng)\n- Template “Aaa”\n- Prop: điện thoại 2 góc úp và ngửa",
+      "Note Special pose": "5,5 hình\n- 1 pose 5 bàn tay chụm lại.\n- 5 pose của 5 người giơ điện thoại.",
+      "SP": [
+        "D"
+      ],
+      "Scene": "46"
+    },
+    "_title": "46",
+    "database_name": "FC Mobile _ Brief Kỹ thuật",
+    "project_name": "FC Mobile _ Brief Kỹ thuật",
+    "database_id": "2efccb0e-ac88-80f2-a2e2-f9bdeabd279a"
+  },
+  {
+    "id": "2efccb0e-ac88-8051-a073-e34c07bf4390",
+    "created_time": "2026-01-21T23:25:00.000Z",
+    "last_edited_time": "2026-01-22T12:09:00.000Z",
+    "properties": {
+      "Key": [
+        "F"
+      ],
+      "IBW": [
+        "F"
+      ],
+      "Ref": "",
+      "Brief anim": "- Như animatic.",
+      "Note nhân vật/Props": "- Tay cậu nhân viên\n- Prop: Đĩa nem",
+      "Note Special pose": "0,25 hình\n- 1 pose tay bê đĩa nem",
+      "SP": [
+        "F"
+      ],
+      "Scene": "48"
+    },
+    "_title": "48",
+    "database_name": "FC Mobile _ Brief Kỹ thuật",
+    "project_name": "FC Mobile _ Brief Kỹ thuật",
+    "database_id": "2efccb0e-ac88-80f2-a2e2-f9bdeabd279a"
+  },
+  {
+    "id": "2efccb0e-ac88-8054-96d0-c366d66ab98e",
+    "created_time": "2026-01-21T23:21:00.000Z",
+    "last_edited_time": "2026-01-22T11:59:00.000Z",
+    "properties": {
+      "Key": [
+        "D"
+      ],
+      "IBW": [
+        "D"
+      ],
+      "Ref": "https://www.pinterest.com/pin/6051780741340539/",
+      "Brief anim": "- Nhân vật đang đi bình thường (đừng ngầu quá nhe), low angle shot, mắt hơi nhìn xung quanh.\n- Cho 2 nhân vật phụ nhìn rõ chi tiết, chuyển động nhẹ. Các nvp xa hơn thì ít chi tiết hơn, có thể là bóng đen, đứng tĩnh hoặc lướt chậm.\n- Lưu ý parallax, mặt đường sẽ chuyển động nhanh hơn là phố phường đằng sau.",
+      "Note nhân vật/Props": "- Cậu nhân viên\n- Nvp (BG vẽ): 2 - 3 nhân vật rõ chi tiết để anim cut out, còn lại càng xa dần thì càng ít chi tiết, có thể là bóng đen ở rất xa, các nhân vật đều tách riêng không đi theo một cục",
+      "Note Special pose": "4 hình\n- 2 contact 2 passing.",
+      "SP": [
+        "D"
+      ],
+      "Scene": "04"
+    },
+    "_title": "04",
+    "database_name": "FC Mobile _ Brief Kỹ thuật",
+    "project_name": "FC Mobile _ Brief Kỹ thuật",
+    "database_id": "2efccb0e-ac88-80f2-a2e2-f9bdeabd279a"
+  },
+  {
+    "id": "2efccb0e-ac88-8058-b47e-e7171123704f",
+    "created_time": "2026-01-21T10:00:00.000Z",
+    "last_edited_time": "2026-01-22T11:56:00.000Z",
+    "properties": {
+      "Key": [
+        "E"
+      ],
+      "IBW": [
+        "F"
+      ],
+      "Ref": "",
+      "Brief anim": "- Từ cảnh trước đổi sang pose chuẩn bị sút bóng của cảnh này, slow out rồi dừng luôn để hình tĩnh và zoom cam vào, sau đó chuyển luôn sang pose chân chạm bóng, không IBW.\n- Đoạn “Vàooo” back tĩnh, chữ ở sẵn đó và tạo cảm giác đang nổ bung ra, có thể làm rung lên hoặc to dần ra tùy sáng tạo.\n- Lưu ý cam không chạy, chỉ đổi cỡ theo nhịp “sút, sút, sút” (như animatic).",
+      "Note nhân vật/Props": "- Captain boy\n- Prop: bóng đá, chữ VÀO (cách điệu một chút)",
+      "Note Special pose": "1,25 hình\n- 1 pose chuẩn bị sút bóng.\n- 1 pose chân sút bóng.",
+      "SP": [
+        "E"
+      ],
+      "Scene": "02"
+    },
+    "_title": "02",
+    "database_name": "FC Mobile _ Brief Kỹ thuật",
+    "project_name": "FC Mobile _ Brief Kỹ thuật",
+    "database_id": "2efccb0e-ac88-80f2-a2e2-f9bdeabd279a"
+  },
+  {
+    "id": "2efccb0e-ac88-805c-81e0-f855885a4f79",
+    "created_time": "2026-01-21T23:21:00.000Z",
+    "last_edited_time": "2026-01-26T02:32:00.000Z",
+    "properties": {
+      "Key": [
+        "F"
+      ],
+      "IBW": [
+        "F"
+      ],
+      "Ref": "",
+      "Brief anim": "- Chữ cho hiện lên bình thường như animatic\nNOTE CỦA KHÁCH: “Đoạn xuất hiện logo í, em cho nó dạng pop up 1 lần hết cả cụm logo nha, giữ tính integrity, không add thêm motion hay effect cho logo nhen, do là brand guildine em ạ.”\n- Anim loa phường giật giật nhẹ theo beat.",
+      "Note nhân vật/Props": "- Logo của khách\n- Prop: loa phường",
+      "Note Special pose": "X",
+      "SP": [],
+      "Scene": "03"
+    },
+    "_title": "03",
+    "database_name": "FC Mobile _ Brief Kỹ thuật",
+    "project_name": "FC Mobile _ Brief Kỹ thuật",
+    "database_id": "2efccb0e-ac88-80f2-a2e2-f9bdeabd279a"
+  },
+  {
+    "id": "2efccb0e-ac88-805e-8791-ca3a94847c27",
+    "created_time": "2026-01-21T23:23:00.000Z",
+    "last_edited_time": "2026-01-27T03:40:00.000Z",
+    "properties": {
+      "Key": [
+        "E"
+      ],
+      "IBW": [
+        "F"
+      ],
+      "Ref": "",
+      "Brief anim": "- Cut on action từ cảnh trước, Captain nhíu mày nhìn kĩ lại màn hình điện thoại, rồi bắt đầu quay ra phía sau (ko cần cho quay hẳn, nhưng đừng chỉ liếc mắt, hãy bẻ khối xoay nhẹ một chút như kiểu ease in).\n\nTHAY ĐỔI CHUỖI CẢNH 26 - 30:\n- 26: Đổi con nai thành Quang Hải (BG vẽ), chỉ để hình tĩnh không anim.\n- 27: Captain nhíu mày nhìn kĩ lại màn hình điện thoại, bỏ đoạn quay ra sau.\n- 28: Không làm loop nữa, từ màn hình điện thoại zoom vào điện thoại nhỏ hơn mà nhân vật đang cầm (cam zoom in + rotate để điện thoại nhỏ song song lại với screen). Lưu ý trong đt nhỏ là cảnh 29 tiếp theo.\n- 29: Raccord với 28. Reuse cảnh 2, thay đổi design quần áo nhân vật thành Văn Thanh (Anim vẽ).\n- 30: Bỏ cảnh.\n\nANIMATIC MỚI: T:\\2026_FC MOBILE\\01. ANIMATIC\\FCM_ANIMATIC_v03_2.mov",
+      "Note nhân vật/Props": "- Captain boy\n- Prop: Điện thoại",
+      "Note Special pose": "0,75 hình\n- 2 pose, 1 nhìn màn hình, 1 hơi quay đầu ra đằng sau.",
+      "SP": [
+        "E"
+      ],
+      "Scene": "27"
+    },
+    "_title": "27",
+    "database_name": "FC Mobile _ Brief Kỹ thuật",
+    "project_name": "FC Mobile _ Brief Kỹ thuật",
+    "database_id": "2efccb0e-ac88-80f2-a2e2-f9bdeabd279a"
+  },
+  {
+    "id": "2efccb0e-ac88-806a-907e-f8a3ef6ce1e6",
+    "created_time": "2026-01-21T23:22:00.000Z",
+    "last_edited_time": "2026-01-22T12:00:00.000Z",
+    "properties": {
+      "Key": [
+        "E"
+      ],
+      "IBW": [
+        "F"
+      ],
+      "Ref": "",
+      "Brief anim": "- Đoạn giơ bản đồ này cho thật on beat. Chẳng MUỐN - giơ lên, lượn ĐÂY - dấu X thứ 1 hiện lên, lượn ĐÓ - dấu X thứ 2, vì NÓ - X 3, hơi NGẠI - X 4, X5 vẫn theo nhịp pop đó dù không có lyrics nữa, cuối cùng đóng bản đồ theo nhịp ad lib: kiểu nó bị, NGẠI á! (Hơi khác nhịp animatic chút, khó hiểu gọi Thi).",
+      "Note nhân vật/Props": "- Tay của cậu nhân viên\n- Prop: Bản đồ lúc mở và lúc gập",
+      "Note Special pose": "0,25 hình\n- 1 tay cầm giơ bản đồ, 1 tay đóng bản đồ.",
+      "SP": [
+        "F"
+      ],
+      "Scene": "10"
+    },
+    "_title": "10",
+    "database_name": "FC Mobile _ Brief Kỹ thuật",
+    "project_name": "FC Mobile _ Brief Kỹ thuật",
+    "database_id": "2efccb0e-ac88-80f2-a2e2-f9bdeabd279a"
+  },
+  {
+    "id": "2efccb0e-ac88-806f-9f7e-d54ae433b400",
+    "created_time": "2026-01-21T23:22:00.000Z",
+    "last_edited_time": "2026-01-22T12:04:00.000Z",
+    "properties": {
+      "Key": [
+        "F"
+      ],
+      "IBW": [
+        "F"
+      ],
+      "Ref": "",
+      "Brief anim": "- Template “Aaa”",
+      "Note nhân vật/Props": "- Template “Aaa” ",
+      "Note Special pose": "X",
+      "SP": [],
+      "Scene": "21"
+    },
+    "_title": "21",
+    "database_name": "FC Mobile _ Brief Kỹ thuật",
+    "project_name": "FC Mobile _ Brief Kỹ thuật",
+    "database_id": "2efccb0e-ac88-80f2-a2e2-f9bdeabd279a"
+  },
+  {
+    "id": "2efccb0e-ac88-806f-a3e9-f6579533d467",
+    "created_time": "2026-01-21T23:22:00.000Z",
+    "last_edited_time": "2026-01-22T12:05:00.000Z",
+    "properties": {
+      "Key": [
+        "E"
+      ],
+      "IBW": [
+        "F"
+      ],
+      "Ref": "",
+      "Brief anim": "- Tay có 3 động tác: xoay lạt 2 vòng, nhét lạt xuống để cố định, cầm bánh nhấc lên cao về phía camera.\n- Lưu ý cả cảnh cam đang zoom out chậm chậm ra xa khỏi bánh, cam là góc nhìn của nhân vật đang gói bánh.",
+      "Note nhân vật/Props": "- Tay cậu nhân viên\n- Prop: bánh chưng, lạt bánh tách riêng",
+      "Note Special pose": "0,5 hình\n- 2 pose gói bánh và cầm bánh đưa lên.",
+      "SP": [
+        "F"
+      ],
+      "Scene": "24"
+    },
+    "_title": "24",
+    "database_name": "FC Mobile _ Brief Kỹ thuật",
+    "project_name": "FC Mobile _ Brief Kỹ thuật",
+    "database_id": "2efccb0e-ac88-80f2-a2e2-f9bdeabd279a"
+  },
+  {
+    "id": "2efccb0e-ac88-8070-a74c-f98fb23bdc6a",
+    "created_time": "2026-01-21T23:22:00.000Z",
+    "last_edited_time": "2026-01-22T12:03:00.000Z",
+    "properties": {
+      "Key": [
+        "D"
+      ],
+      "IBW": [
+        "E"
+      ],
+      "Ref": "",
+      "Brief anim": "- Captain nhảy cùng 2 chú ngựa, follow cảnh 8.",
+      "Note nhân vật/Props": "- Ngựa (follow cảnh 8)\n- Captain boy\n- Prop: Chữ A ở BG (chỉ cần 1 chữ) và phần BG màu ở sau chữ A \n—> Thi chốt template BG chữ A chạy để anim reuse các cảnh sau (Gọi tắt: Template “Aaa”)",
+      "Note Special pose": "4 hình\n- 2 pose ngựa.\n- 2 pose Captain.",
+      "SP": [
+        "D"
+      ],
+      "Scene": "16"
+    },
+    "_title": "16",
+    "database_name": "FC Mobile _ Brief Kỹ thuật",
+    "project_name": "FC Mobile _ Brief Kỹ thuật",
+    "database_id": "2efccb0e-ac88-80f2-a2e2-f9bdeabd279a"
+  },
+  {
+    "id": "2efccb0e-ac88-8077-9e6f-d1b1b05ce3d1",
+    "created_time": "2026-01-21T23:22:00.000Z",
+    "last_edited_time": "2026-01-23T02:12:00.000Z",
+    "properties": {
+      "Key": [
+        "C"
+      ],
+      "IBW": [
+        "E"
+      ],
+      "Ref": "https://youtu.be/yoZy2E17-50?si=jaix0sRj6vwBlssR&t=49\n\nZero Two Dance – Darling In The FranXX Live Desktop Wallpaper",
+      "Brief anim": "- 2 chú ngựa nhảy cầm cuốc (vì cày cuốc), cho tóc tai followthru rõ ràng chút. Ánh sáng sân khấu chiếu xuống, phóng ra các line nhân vật màu neon.. (nói chung xem ref :D).\n- Cảnh này sẽ Cleanup ngựa để reuse cho các cảnh sau.",
+      "Note nhân vật/Props": "- Ngựa (SP vẽ)",
+      "Note Special pose": "4 hình (ít nhất)\n- Điệu nhảy chú ngựa bùng nổ cảm hứng sáng tạo.\n- SP tự thiết kế.",
+      "SP": [
+        "C"
+      ],
+      "Scene": "08"
+    },
+    "_title": "08",
+    "database_name": "FC Mobile _ Brief Kỹ thuật",
+    "project_name": "FC Mobile _ Brief Kỹ thuật",
+    "database_id": "2efccb0e-ac88-80f2-a2e2-f9bdeabd279a"
+  },
+  {
+    "id": "2efccb0e-ac88-807c-b371-f7ab03e838fa",
+    "created_time": "2026-01-21T23:22:00.000Z",
+    "last_edited_time": "2026-01-22T12:05:00.000Z",
+    "properties": {
+      "Key": [
+        "F"
+      ],
+      "IBW": [
+        "F"
+      ],
+      "Ref": "",
+      "Brief anim": "- Template “Aaa”",
+      "Note nhân vật/Props": "- Template “Aaa”",
+      "Note Special pose": "X",
+      "SP": [],
+      "Scene": "23"
+    },
+    "_title": "23",
+    "database_name": "FC Mobile _ Brief Kỹ thuật",
+    "project_name": "FC Mobile _ Brief Kỹ thuật",
+    "database_id": "2efccb0e-ac88-80f2-a2e2-f9bdeabd279a"
+  },
+  {
+    "id": "2efccb0e-ac88-807d-9e12-f8d5d0a83369",
+    "created_time": "2026-01-21T23:24:00.000Z",
+    "last_edited_time": "2026-01-22T12:08:00.000Z",
+    "properties": {
+      "Key": [
+        "D"
+      ],
+      "IBW": [
+        "E"
+      ],
+      "Ref": "",
+      "Brief anim": "- Chuyển cảnh theo chữ ĐÓN bụp một phát, 2 tranh đã treo sẵn ở đó nhưng phần dưới đang tung lên (giống như kết thúc việc vừa rơi tranh xuống), các item Tết tung ra ở hai bên (như kiểu tranh rơi xuống tạo gió làm chúng nó bị xáo lên bung ra rơi xuống).\n- Anim chữ hiện theo animatic.",
+      "Note nhân vật/Props": "- Prop: các item Tết (tiền vàng, giấy đỏ, pháo hoa,..), 2 tấm tranh, lyrics trên 2 tranh.",
+      "Note Special pose": "X",
+      "SP": [],
+      "Scene": "43"
+    },
+    "_title": "43",
+    "database_name": "FC Mobile _ Brief Kỹ thuật",
+    "project_name": "FC Mobile _ Brief Kỹ thuật",
+    "database_id": "2efccb0e-ac88-80f2-a2e2-f9bdeabd279a"
+  },
+  {
+    "id": "2efccb0e-ac88-808b-ad50-c9b5cf001ab4",
+    "created_time": "2026-01-21T23:22:00.000Z",
+    "last_edited_time": "2026-01-22T12:04:00.000Z",
+    "properties": {
+      "Key": [
+        "C"
+      ],
+      "IBW": [
+        "E"
+      ],
+      "Ref": "",
+      "Brief anim": "- Follow điệu nhảy cảnh 8.",
+      "Note nhân vật/Props": "- Captain boy\n- Cậu nhân viên\n- Template “Aaa”",
+      "Note Special pose": "6 hình\n- Tương tự cảnh 8.\n- 3 pose Captain boy.\n- 3 pose Cậu nhân viên.",
+      "SP": [
+        "C"
+      ],
+      "Scene": "18"
+    },
+    "_title": "18",
+    "database_name": "FC Mobile _ Brief Kỹ thuật",
+    "project_name": "FC Mobile _ Brief Kỹ thuật",
+    "database_id": "2efccb0e-ac88-80f2-a2e2-f9bdeabd279a"
+  },
+  {
+    "id": "2efccb0e-ac88-8090-af45-c9175dad34f7",
+    "created_time": "2026-01-21T23:22:00.000Z",
+    "last_edited_time": "2026-01-22T12:01:00.000Z",
+    "properties": {
+      "Key": [
+        "D"
+      ],
+      "IBW": [
+        "E"
+      ],
+      "Ref": "",
+      "Brief anim": "- Reuse cảnh 8, thêm đoạn cuối che miệng chổng mông.",
+      "Note nhân vật/Props": "- Ngựa (follow cảnh 8)",
+      "Note Special pose": "2 hình \n- Reuse 4 hình cảnh 8.\n- Vẽ thêm 2 hình che miệng chổng mông (1 BD 1 KEY).",
+      "SP": [
+        "E"
+      ],
+      "Scene": "11"
+    },
+    "_title": "11",
+    "database_name": "FC Mobile _ Brief Kỹ thuật",
+    "project_name": "FC Mobile _ Brief Kỹ thuật",
+    "database_id": "2efccb0e-ac88-80f2-a2e2-f9bdeabd279a"
+  },
+  {
+    "id": "2efccb0e-ac88-80a1-8537-ee0e341212ce",
+    "created_time": "2026-01-21T23:23:00.000Z",
+    "last_edited_time": "2026-01-27T03:40:00.000Z",
+    "properties": {
+      "Key": [
+        "E"
+      ],
+      "IBW": [
+        "F"
+      ],
+      "Ref": "",
+      "Brief anim": "- Ease out mặt quay ra nhìn (Kết thúc chuyển động quay ra sau của cảnh trước), sau đó hold ở pose này để loop.\n- Cảnh Captain boy ngồi cầm điện thoại lồng trong điện thoại… loop tầm 2 - 3 lần rồi nhân vật lại bắt đầu quay lại nhìn điện thoại.\n\nTHAY ĐỔI CHUỖI CẢNH 26 - 30:\n- 26: Đổi con nai thành Quang Hải (BG vẽ), chỉ để hình tĩnh không anim.\n- 27: Captain nhíu mày nhìn kĩ lại màn hình điện thoại, bỏ đoạn quay ra sau.\n- 28: Không làm loop nữa, từ màn hình điện thoại zoom vào điện thoại nhỏ hơn mà nhân vật đang cầm (cam zoom in + rotate để điện thoại nhỏ song song lại với screen). Lưu ý trong đt nhỏ là cảnh 29 tiếp theo.\n- 29: Raccord với 28. Reuse cảnh 2, thay đổi design quần áo nhân vật thành Văn Thanh (Anim vẽ).\n- 30: Bỏ cảnh.\n\nANIMATIC MỚI: T:\\2026_FC MOBILE\\01. ANIMATIC\\FCM_ANIMATIC_v03_2.mov",
+      "Note nhân vật/Props": "- Captain boy\n- Prop: Điện thoại",
+      "Note Special pose": "1 hình\n- 1 pose gần giống cảnh 26 nhưng quay đầu nhìn\n- 1 pose chỉnh từ pose trên, hơi quay người về lại điện thoại.\n- 1 pose tay cầm điện thoại reuse cảnh 26.\n",
+      "SP": [
+        "E"
+      ],
+      "Scene": "28"
+    },
+    "_title": "28",
+    "database_name": "FC Mobile _ Brief Kỹ thuật",
+    "project_name": "FC Mobile _ Brief Kỹ thuật",
+    "database_id": "2efccb0e-ac88-80f2-a2e2-f9bdeabd279a"
+  },
+  {
+    "id": "2efccb0e-ac88-80a1-92e0-d657b4f4a052",
+    "created_time": "2026-01-21T23:22:00.000Z",
+    "last_edited_time": "2026-01-27T03:40:00.000Z",
+    "properties": {
+      "Key": [
+        "B"
+      ],
+      "IBW": [
+        "D"
+      ],
+      "Ref": "",
+      "Brief anim": "- Đoạn xem ảnh nhìn tình cảm, chậm rãi nhẹ nhàng. Khi ngẩng đầu lên thì ánh sáng pháo hoa bắt đầu hiện dần trên mặt và sau đó cam xoay ra sau lưng nhân vật.\n- Làm đoạn xoay cam ấn tượng, nhân vật xoay chậm từ góc 1/2 sang back. Nên có ít nhất 3 Breakdown, BD 1 chính giữa (sẽ kiểu còn nhìn thấy tai nhưng đã khuất mặt), BD 2 nằm trước BD 1 - dùng con rig 1/2 bẻ gần về BD 1, BD 3 nằm sau BD 1 - dùng con rig back bẻ gần về BD 1. Cuối cùng set ease 2 đầu hợp lý cho đoạn xoay đó mượt.\n- Lưu ý anim cam xoay quanh nhân vật thì cảnh ở gần sẽ trôi chậm hơn cảnh xa.\n\nNOTE CỦA KHÁCH: Thay khung ảnh bằng điện thoại.",
+      "Note nhân vật/Props": "- Cậu nhân viên\n- Prop: ảnh gia đình\n- Thi check lại phương án xử lí lan can xoay??",
+      "Note Special pose": "1,5 hình\n- 1 pose 1/2\n- 1 BD giữa (như brief anim là BD 1).\n- 1 pose sau lưng.",
+      "SP": [
+        "D"
+      ],
+      "Scene": "14"
+    },
+    "_title": "14",
+    "database_name": "FC Mobile _ Brief Kỹ thuật",
+    "project_name": "FC Mobile _ Brief Kỹ thuật",
+    "database_id": "2efccb0e-ac88-80f2-a2e2-f9bdeabd279a"
+  },
+  {
+    "id": "2efccb0e-ac88-80a6-8775-f208d88ac05d",
+    "created_time": "2026-01-21T23:22:00.000Z",
+    "last_edited_time": "2026-01-24T03:37:00.000Z",
+    "properties": {
+      "Key": [
+        "E"
+      ],
+      "IBW": [
+        "F"
+      ],
+      "Ref": "",
+      "Brief anim": "- Anim ví từ gập đến mở to ra để nhìn rõ được sự trống rỗng bên trong ;(. Nhanh thôi nên hand draw cũng được. Con ruồi anim tự vẽ nhé.\n- Đoạn sau đúp thật nhiều ví đắp lên nhau và tỏa ra liên tục, phóng sang 2 bên tạo thành 1 chuỗi gây cảm giác lú, hoa mắt 1 chút.\n- Cam sau đó đi qua ví (ví to dần lên và xuống dưới) và nối sang cảnh sau.",
+      "Note nhân vật/Props": "- Prop: Ví tiền (Anim vẽ)\n- Ruồi (Anim vẽ)",
+      "Note Special pose": "X",
+      "SP": [],
+      "Scene": "07"
+    },
+    "_title": "07",
+    "database_name": "FC Mobile _ Brief Kỹ thuật",
+    "project_name": "FC Mobile _ Brief Kỹ thuật",
+    "database_id": "2efccb0e-ac88-80f2-a2e2-f9bdeabd279a"
+  },
+  {
+    "id": "2efccb0e-ac88-80aa-9964-dcd1178be6bd",
+    "created_time": "2026-01-21T23:23:00.000Z",
+    "last_edited_time": "2026-01-23T02:19:00.000Z",
+    "properties": {
+      "Key": [
+        "F"
+      ],
+      "IBW": [
+        "F"
+      ],
+      "Ref": "https://youtu.be/3K0RzZGpyds?si=q7Xkr_imOVBaoTUm\n\nhttps://youtu.be/nZDTmX3iHI8?si=BvpWtXXsZbC_ap1-&t=1150\n\nhttps://youtu.be/bVXATN0Qh-I?si=maHFLuwBjuDMSkJC",
+      "Brief anim": "- Chuỗi cảnh 32 - 40 sang một art style khác, chủ yếu BG tĩnh và mình sẽ anim lyrics hiện lên, một vài chuyển động snappy dựa theo animatic. Xem ref.",
+      "Note nhân vật/Props": "- Prop: lyrics",
+      "Note Special pose": "X",
+      "SP": [],
+      "Scene": "32"
+    },
+    "_title": "32",
+    "database_name": "FC Mobile _ Brief Kỹ thuật",
+    "project_name": "FC Mobile _ Brief Kỹ thuật",
+    "database_id": "2efccb0e-ac88-80f2-a2e2-f9bdeabd279a"
+  },
+  {
+    "id": "2efccb0e-ac88-80bf-87bb-e61a28138e1e",
+    "created_time": "2026-01-21T23:21:00.000Z",
+    "last_edited_time": "2026-01-22T11:59:00.000Z",
+    "properties": {
+      "Key": [
+        "E"
+      ],
+      "IBW": [
+        "E"
+      ],
+      "Ref": "",
+      "Brief anim": "- Đầu tĩnh, cho mắt nhìn sang 2 bên, lưu lý diễn lông mày rõ biểu cảm. Có thể cho đầu hơi gật nhẹ theo nhịp nhạc, tinh tế thôi đừng giật quá (optional, kiểu nhìn mặt vẫn chán nhưng đầu vẫn bị cuốn theo nhạc). \n- Lúc nhìn xuống thì mặt đổi khối chứ không để tĩnh nữa, nếu trước đó có cho đầu gật theo nhạc thì ngay trước khi cúi xuống phải dừng gật rồi (kiểu đang hơi cuốn nhạc thì bỗng nhận ra..).\n- BG đằng sau vẫn trôi theo tốc độ đi.",
+      "Note nhân vật/Props": "- Mặt của cậu nhân viên",
+      "Note Special pose": "0,5 hình\n- 1 khuôn mặt, chỉnh lại cho hợp cỡ cảnh, không đặt nguyên mặt rig vào.\n- 1 mặt hơi cúi nhìn xuống dưới.",
+      "SP": [
+        "E"
+      ],
+      "Scene": "06"
+    },
+    "_title": "06",
+    "database_name": "FC Mobile _ Brief Kỹ thuật",
+    "project_name": "FC Mobile _ Brief Kỹ thuật",
+    "database_id": "2efccb0e-ac88-80f2-a2e2-f9bdeabd279a"
+  },
+  {
+    "id": "2efccb0e-ac88-80c3-8558-e6af66876ae2",
+    "created_time": "2026-01-21T08:49:00.000Z",
+    "last_edited_time": "2026-01-26T04:23:00.000Z",
+    "properties": {
+      "Key": [
+        "D"
+      ],
+      "IBW": [
+        "E"
+      ],
+      "Ref": "https://www.pinterest.com/pin/963348176547297420/ (cái này sát ý tưởng nhất)\n\nStar Wars Fan Animation, Sykosan",
+      "Brief anim": "- 3 pose chính tương ứng với 3 góc cam, làm BD là A’ sang B’.\n- Pose cuối tiếp tục hơi đảo người để xoay sang pose đá bóng của cảnh sau.\n- Lưu ý anim cam lướt theo nhịp đổi pose, không phải chuyển cảnh.",
+      "Note nhân vật/Props": "- Captain boy\n- Prop: kính đen (Anim vẽ, thống nhất lại với Thi)",
+      "Note Special pose": "2,75 hình\n- Theo animatic.\n- Pose 2 cho một mặt đeo kính và một mặt tay kéo kính xuống mũi.",
+      "SP": [
+        "D"
+      ],
+      "Scene": "01"
+    },
+    "_title": "01",
+    "database_name": "FC Mobile _ Brief Kỹ thuật",
+    "project_name": "FC Mobile _ Brief Kỹ thuật",
+    "database_id": "2efccb0e-ac88-80f2-a2e2-f9bdeabd279a"
+  },
+  {
+    "id": "2efccb0e-ac88-80c4-b961-f8f6b46ca6bc",
+    "created_time": "2026-01-21T23:24:00.000Z",
+    "last_edited_time": "2026-01-22T12:08:00.000Z",
+    "properties": {
+      "Key": [
+        "D"
+      ],
+      "IBW": [
+        "E"
+      ],
+      "Ref": "",
+      "Brief anim": "- Chim én đang bay từ trái sang và lên cao dần, kéo theo một vệt sáng/cầu vồng/.. rồi bay khỏi khung hình.\n- Cam đang lia dần xuống dưới, cảnh vật có parallax (chỉ có chim là bay nhanh hơn hẳn tốc độ cam), để lộ dần những đám mây có cành đào/mai đang mọc ra ở trên. Item Tết (tiền vàng, giấy đỏ,.. rơi dần ra từ chim hoặc vệt sáng của chim, đến lúc chim bay khỏi khung hình thì item vẫn rơi xuống những cây đào/mai. Tranh đang trượt dần ra từ dưới mây..\n",
+      "Note nhân vật/Props": "- Con én, vệt sáng/cầu vồng,.. theo đường bay, tùy design (BG vẽ)\n- Prop: mây, cây đào/mai, các item Tết (tiền vàng, giấy đỏ, pháo hoa,..), tấm tranh",
+      "Note Special pose": "X",
+      "SP": [],
+      "Scene": "42"
+    },
+    "_title": "42",
+    "database_name": "FC Mobile _ Brief Kỹ thuật",
+    "project_name": "FC Mobile _ Brief Kỹ thuật",
+    "database_id": "2efccb0e-ac88-80f2-a2e2-f9bdeabd279a"
+  },
+  {
+    "id": "2efccb0e-ac88-80d1-9cd5-f43cb3081a8c",
+    "created_time": "2026-01-21T23:23:00.000Z",
+    "last_edited_time": "2026-01-27T03:40:00.000Z",
+    "properties": {
+      "Key": [
+        "E"
+      ],
+      "IBW": [
+        "F"
+      ],
+      "Ref": "",
+      "Brief anim": "- Zoom out là thấy hình ảnh gia đình cảnh trước là trên màn hình điện thoại, tay gạt thêm 2 lần, qua một kênh thế giới động vật vô tri chẳng liên quan gì hết, sang một kênh tiếp thì thấy hình ảnh ai đang ngồi cầm điện thoại nhìn quen quen (thấy chính mình).\n\nTHAY ĐỔI CHUỖI CẢNH 26 - 30:\n- 26: Đổi con nai thành Quang Hải (BG vẽ), chỉ để hình tĩnh không anim.\n- 27: Captain nhíu mày nhìn kĩ lại màn hình điện thoại, bỏ đoạn quay ra sau.\n- 28: Không làm loop nữa, từ màn hình điện thoại zoom vào điện thoại nhỏ hơn mà nhân vật đang cầm (cam zoom in + rotate để điện thoại nhỏ song song lại với screen). Lưu ý trong đt nhỏ là cảnh 29 tiếp theo.\n- 29: Raccord với 28. Reuse cảnh 2, thay đổi design quần áo nhân vật thành Văn Thanh (Anim vẽ).\n- 30: Bỏ cảnh.\n\nANIMATIC MỚI: T:\\2026_FC MOBILE\\01. ANIMATIC\\FCM_ANIMATIC_v03_2.mov",
+      "Note nhân vật/Props": "- Captain boy\n- Con nai hoặc con gì đó vô tri (SP vẽ)\nStories\n\nDownload Free Vectors, Images, Photos & Videos | Vecteezy\n\n- Prop: Điện thoại\n\nTHAY ĐỔI: \n- Bỏ con nai, thay bằng Quang Hải (BG vẽ)",
+      "Note Special pose": "2,5 hình\n- 2 pose tay cầm điện thoại và lướt.\n- 1 - 2 pose thế giới động vật vô tri, có thể theo animatic hoặc cho con gì khác, SP tự thiết kế.\n- 1 pose Captain ngồi.",
+      "SP": [
+        "D"
+      ],
+      "Scene": "26"
+    },
+    "_title": "26",
+    "database_name": "FC Mobile _ Brief Kỹ thuật",
+    "project_name": "FC Mobile _ Brief Kỹ thuật",
+    "database_id": "2efccb0e-ac88-80f2-a2e2-f9bdeabd279a"
+  },
+  {
+    "id": "2efccb0e-ac88-80d5-971b-c5d5807e5e8a",
+    "created_time": "2026-01-21T23:25:00.000Z",
+    "last_edited_time": "2026-01-26T11:38:00.000Z",
+    "properties": {
+      "Key": [
+        "F"
+      ],
+      "IBW": [
+        "F"
+      ],
+      "Ref": "",
+      "Brief anim": "- Pose tĩnh từ cảnh 46 và zoom out.",
+      "Note nhân vật/Props": "- Template “Aaa”",
+      "Note Special pose": "X",
+      "SP": [],
+      "Scene": "47"
+    },
+    "_title": "47",
+    "database_name": "FC Mobile _ Brief Kỹ thuật",
+    "project_name": "FC Mobile _ Brief Kỹ thuật",
+    "database_id": "2efccb0e-ac88-80f2-a2e2-f9bdeabd279a"
+  },
+  {
+    "id": "2efccb0e-ac88-80e0-a495-d7f4a5943937",
+    "created_time": "2026-01-21T23:23:00.000Z",
+    "last_edited_time": "2026-01-23T11:43:00.000Z",
+    "properties": {
+      "Key": [
+        "F"
+      ],
+      "IBW": [
+        "F"
+      ],
+      "Ref": "Như ref 32",
+      "Brief anim": "Như 32",
+      "Note nhân vật/Props": "- Prop: lyrics, bảng, 2 tay",
+      "Note Special pose": "X",
+      "SP": [],
+      "Scene": "35"
+    },
+    "_title": "35",
+    "database_name": "FC Mobile _ Brief Kỹ thuật",
+    "project_name": "FC Mobile _ Brief Kỹ thuật",
+    "database_id": "2efccb0e-ac88-80f2-a2e2-f9bdeabd279a"
+  },
+  {
+    "id": "2efccb0e-ac88-80e0-b3e2-d14f1d84794d",
+    "created_time": "2026-01-21T23:25:00.000Z",
+    "last_edited_time": "2026-01-22T12:09:00.000Z",
+    "properties": {
+      "Key": [
+        "C"
+      ],
+      "IBW": [
+        "D"
+      ],
+      "Ref": "",
+      "Brief anim": "- Tương tự cảnh 25, diễn vừa phải nhưng có sự tương tác qua lại, tạo không khí gia đình ấm cũng (Ví dụ: Bà mỉm cười nhìn vào bàn ăn, ông cũng cười nhíu mắt và quay nhẹ sang nhìn bà, bố nhìn đĩa đồ ăn tay chắp nhẹ ý chỉ việc xuýt xoa dồ ăn ngon quá, rồi nhìn nhẹ sang mẹ hoặc con trai, cậu nhân viên vừa để đĩa nem xuống từ cảnh trước, một tay đưa lên vai bố, mẹ cười gật gật đầu, em trai cấp ba cầm điện thoại chơi game mà chúng ta đang quảng cáo (nhìn hơi láo nhưng khách bảo không sao), em trai đại học ngồi tĩnh).\n- Sau đó Captain xuất hiện, tay cầm vào camera làm nó hơi rung, rồi quay đầu lại có một động tác ý gọi mọi người chụp ảnh (Ví dụ gật gật đầu, hay cười xong liếc gia đình 1 lần, liếc nhanh qua cam, rồi liếc lại gia đình cái nữa, hold một lúc rồi quay hẳn lại cam để chụp).\n- Captain báo hiệu xong thì cả gia đình quay về hướng camera, cho timing và tốc độ quay từng người offset, có thể add thêm 1 vài màu sắc cá tính riêng (Ví dụ đứa em thì quay nhanh qua, nháy mắt tinh nghịch, mẹ cười khúc khích hơi rung vai, hay ông thì chậm hơn và ban đầu chớp chơp mắt kiểu còn lúng túng,.. tùy sáng tạo).\n- Đặc biệt ông em trai cấp 3 sẽ giơ rõ ràng cái màn hình điện thoại lên để Pr game. Cam snap zoom vào màn hình điện thoại.\n- Cảnh này phải cleanup lại nhân vật theo styleframe.",
+      "Note nhân vật/Props": "- Captain boy\n- Gia đình từ phải qua trái: Bà, ông, bố, cậu nhân viên, mẹ, em trai cấp 3, em trai đại học\n- Prop: đĩa nem, điện thoại (em trai cầm)",
+      "Note Special pose": "6 hình\n- 2 pose Captain cầm điện thoại nhìn vào màn hình và quay đầu ra gọi mọi người chụp hình.\n- 7 pose gia đình ngồi nhìn nhau/nhìn mâm cơm.\n- 7 pose gia đình quay mặt ra chụp hình.\n- Xem thêm brief anim (cột thứ 2).",
+      "SP": [
+        "C"
+      ],
+      "Scene": "49"
+    },
+    "_title": "49",
+    "database_name": "FC Mobile _ Brief Kỹ thuật",
+    "project_name": "FC Mobile _ Brief Kỹ thuật",
+    "database_id": "2efccb0e-ac88-80f2-a2e2-f9bdeabd279a"
+  },
+  {
+    "id": "2efccb0e-ac88-80e5-9a9c-cfc40a075ca7",
+    "created_time": "2026-01-21T23:22:00.000Z",
+    "last_edited_time": "2026-01-22T12:04:00.000Z",
+    "properties": {
+      "Key": [
+        "C"
+      ],
+      "IBW": [
+        "F"
+      ],
+      "Ref": "",
+      "Brief anim": "- 3 anh em đang chơi game, low angle. Cho chuyển động nhẹ đỡ bị tĩnh (Ví dụ: em trai đại học bên trái đang bấm bấm, em trai cấp 3 ở giữa đang cười tít mắt rung vai, cậu nhân viên bên phải đang nhìn sang màn hình em trai còn tay chỉ chỉ vào điện thoại của mình), tùy sáng tạo.\n- Captain giống như một nhân vật ở chiều không gian khác, đang bay bay ở đằng sau, giơ điện thoại lên để nhìn được game trong màn hình.\n- Cam trôi nhẹ.\n- Cảnh này cần cleanup 2 em trai theo styleframe.",
+      "Note nhân vật/Props": "- Captain boy\n- Từ phải sang: Cậu nhân viên, em trai cấp 3, em trai đại học",
+      "Note Special pose": "2,25 hình\n- 4 pose theo animatic.",
+      "SP": [
+        "E"
+      ],
+      "Scene": "22"
+    },
+    "_title": "22",
+    "database_name": "FC Mobile _ Brief Kỹ thuật",
+    "project_name": "FC Mobile _ Brief Kỹ thuật",
+    "database_id": "2efccb0e-ac88-80f2-a2e2-f9bdeabd279a"
+  },
+  {
+    "id": "2efccb0e-ac88-80ea-a52d-c4df61db515e",
+    "created_time": "2026-01-21T23:24:00.000Z",
+    "last_edited_time": "2026-01-22T12:07:00.000Z",
+    "properties": {
+      "Key": [
+        "C"
+      ],
+      "IBW": [
+        "B"
+      ],
+      "Ref": "",
+      "Brief anim": "- Tương tự đoạn rap cảnh 15, dùng các SP đặt vào đúng nhịp của câu hát (khắp NƠI rộn RÃ những TIẾNG cười). Sang đến “Aaa” thì Captain thả người rơi tự do ra đằng sau (lưu ý người bắt đầu đứng dậy từ chữ TIẾNG, dậy hẳn ở chữ CƯỜI, rồi sau đó thả mình theo AAAAA).\n- Trong lúc rơi khỏi màn hình thì 2 nhân vật nhảy cũng trượt lên trên, reuse cảnh 18.",
+      "Note nhân vật/Props": "- Captain boy\n- Cậu nhân viên\n- Template “Aaa”",
+      "Note Special pose": "4 hình\n- 1 pose ngồi gồm 3 dáng theo nhịp rap.\n- 1 pose đứng gồm 1 dứng dậy và 1 giơ hai tay đổ người ra sau.\n- Reuse đoạn nhảy cảnh 18.",
+      "SP": [
+        "C"
+      ],
+      "Scene": "41"
+    },
+    "_title": "41",
+    "database_name": "FC Mobile _ Brief Kỹ thuật",
+    "project_name": "FC Mobile _ Brief Kỹ thuật",
+    "database_id": "2efccb0e-ac88-80f2-a2e2-f9bdeabd279a"
+  },
+  {
+    "id": "2efccb0e-ac88-80f5-8a1d-c05a4c162a73",
+    "created_time": "2026-01-21T23:22:00.000Z",
+    "last_edited_time": "2026-01-22T12:00:00.000Z",
+    "properties": {
+      "Key": [
+        "F"
+      ],
+      "IBW": [
+        "F"
+      ],
+      "Ref": "",
+      "Brief anim": "- Hình tĩnh. Sau đó gãy đúng nhịp nhạc, snappy ko cần quá mượt.",
+      "Note nhân vật/Props": "- Prop: 2 hình một lành một gãy như animatic.",
+      "Note Special pose": "",
+      "SP": [],
+      "Scene": "09"
+    },
+    "_title": "09",
+    "database_name": "FC Mobile _ Brief Kỹ thuật",
+    "project_name": "FC Mobile _ Brief Kỹ thuật",
+    "database_id": "2efccb0e-ac88-80f2-a2e2-f9bdeabd279a"
+  },
+  {
+    "id": "2f6ccb0e-ac88-80e6-bb8c-cf794f3c609b",
+    "created_time": "2026-01-28T05:05:00.000Z",
+    "last_edited_time": "2026-01-29T02:47:00.000Z",
+    "properties": {
+      "Key": [],
+      "IBW": [],
+      "Ref": "",
+      "Brief anim": "",
+      "Note nhân vật/Props": "",
+      "Note Special pose": "",
+      "SP": [],
+      "Scene": ""
+    },
+    "_title": "",
+    "database_name": "FC Mobile _ Brief Kỹ thuật",
+    "project_name": "FC Mobile _ Brief Kỹ thuật",
+    "database_id": "2efccb0e-ac88-80f2-a2e2-f9bdeabd279a"
+  }
+]

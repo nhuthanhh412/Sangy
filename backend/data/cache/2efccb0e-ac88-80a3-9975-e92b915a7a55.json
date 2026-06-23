@@ -1,0 +1,262 @@
+[
+  {
+    "id": "313ccb0e-ac88-8028-9479-f485190887b9",
+    "created_time": "2026-02-26T04:17:00.000Z",
+    "last_edited_time": "2026-02-27T04:50:00.000Z",
+    "properties": {
+      "NLTT": null,
+      "[LEG] Product": [
+        "2f6ccb0e-ac88-8046-b488-f42ff9459cc9"
+      ],
+      "Required by": [
+        "External"
+      ],
+      "Product Point": [
+        1
+      ],
+      "Point status": [
+        "Confirmed"
+      ],
+      "Product Status": [
+        "Confirmed"
+      ],
+      "UTNL": null,
+      "Trọng số TP": 1,
+      "Product Type": [
+        "Layout"
+      ],
+      "Task QC": "1/2",
+      "TP thực tế": 0.69,
+      "Task type": "Main",
+      "Product (1)": [
+        "LO 01 (1)"
+      ],
+      "Task fix": "1/2",
+      "Task Status": "Done",
+      "Episode": [
+        {
+          "type": "select",
+          "select": null
+        }
+      ],
+      "Assignee": [
+        {
+          "id": "375ed7c6-3d8d-4adc-82fd-beb97a7f0921",
+          "name": "Hòa Nguyễn",
+          "email": "hoant@sangygroup.com"
+        }
+      ],
+      "Ngày làm": {
+        "start": "2026-01-21",
+        "end": null
+      },
+      "Loại cảnh": [
+        "F"
+      ],
+      "Sprint ": null,
+      "Created time": null,
+      "Task main": "1/2",
+      "Tasks": "LO 01 (1) ",
+      "Sprint (2)": []
+    },
+    "_title": "LO 01 (1) ",
+    "database_name": "[LEG] Tasks ",
+    "project_name": "[LEG] Tasks",
+    "database_id": "2efccb0e-ac88-80a3-9975-e92b915a7a55"
+  },
+  {
+    "id": "313ccb0e-ac88-804b-93c1-df0b0fa3807b",
+    "created_time": "2026-02-26T04:21:00.000Z",
+    "last_edited_time": "2026-02-27T04:50:00.000Z",
+    "properties": {
+      "NLTT": null,
+      "[LEG] Product": [
+        "2efccb0e-ac88-8036-a971-ddedf983a6f8"
+      ],
+      "Required by": [
+        "Internal"
+      ],
+      "Product Point": [
+        35
+      ],
+      "Point status": [
+        "Confirmed"
+      ],
+      "Product Status": [
+        "Confirmed"
+      ],
+      "UTNL": null,
+      "Trọng số TP": 1,
+      "Product Type": [
+        "Layout"
+      ],
+      "Task QC": "1/2",
+      "TP thực tế": 24.14,
+      "Task type": "Main",
+      "Product (1)": [
+        "LO 01"
+      ],
+      "Task fix": "1/2",
+      "Task Status": "Done QC",
+      "Episode": [
+        {
+          "type": "select",
+          "select": null
+        }
+      ],
+      "Assignee": [
+        {
+          "id": "375ed7c6-3d8d-4adc-82fd-beb97a7f0921",
+          "name": "Hòa Nguyễn",
+          "email": "hoant@sangygroup.com"
+        }
+      ],
+      "Ngày làm": {
+        "start": "2026-01-21",
+        "end": null
+      },
+      "Loại cảnh": [
+        "B"
+      ],
+      "Sprint ": null,
+      "Created time": null,
+      "Task main": "1/2",
+      "Tasks": "LO 01 QC Approved 1",
+      "Sprint (2)": []
+    },
+    "_title": "LO 01 QC Approved 1",
+    "database_name": "[LEG] Tasks ",
+    "project_name": "[LEG] Tasks",
+    "database_id": "2efccb0e-ac88-80a3-9975-e92b915a7a55"
+  },
+  {
+    "id": "313ccb0e-ac88-8053-8704-c15a132d2e97",
+    "created_time": "2026-02-26T04:21:00.000Z",
+    "last_edited_time": "2026-02-27T04:50:00.000Z",
+    "properties": {
+      "NLTT": null,
+      "[LEG] Product": [
+        "2efccb0e-ac88-8036-a971-ddedf983a6f8"
+      ],
+      "Required by": [
+        "Internal"
+      ],
+      "Product Point": [
+        35
+      ],
+      "Point status": [
+        "Confirmed"
+      ],
+      "Product Status": [
+        "Confirmed"
+      ],
+      "UTNL": null,
+      "Trọng số TP": 0.15,
+      "Product Type": [
+        "Layout"
+      ],
+      "Task QC": "1/2",
+      "TP thực tế": 3.62,
+      "Task type": "QC",
+      "Product (1)": [
+        "LO 01"
+      ],
+      "Task fix": "1/2",
+      "Task Status": "Done QC",
+      "Episode": [
+        {
+          "type": "select",
+          "select": null
+        }
+      ],
+      "Assignee": [
+        {
+          "id": "2b47d5ac-bd39-4aad-8e95-23ea4ab9b925",
+          "name": "Hoàng Hà",
+          "email": "hoanghh@sangygroup.com"
+        }
+      ],
+      "Ngày làm": {
+        "start": "2026-01-14",
+        "end": null
+      },
+      "Loại cảnh": [
+        "B"
+      ],
+      "Sprint ": null,
+      "Created time": null,
+      "Task main": "1/2",
+      "Tasks": "LO 01 QC Approved 2",
+      "Sprint (2)": []
+    },
+    "_title": "LO 01 QC Approved 2",
+    "database_name": "[LEG] Tasks ",
+    "project_name": "[LEG] Tasks",
+    "database_id": "2efccb0e-ac88-80a3-9975-e92b915a7a55"
+  },
+  {
+    "id": "313ccb0e-ac88-80e8-b7c8-e46e81dde186",
+    "created_time": "2026-02-26T04:20:00.000Z",
+    "last_edited_time": "2026-02-27T04:50:00.000Z",
+    "properties": {
+      "NLTT": null,
+      "[LEG] Product": [
+        "2f6ccb0e-ac88-8046-b488-f42ff9459cc9"
+      ],
+      "Required by": [
+        "External"
+      ],
+      "Product Point": [
+        1
+      ],
+      "Point status": [
+        "Confirmed"
+      ],
+      "Product Status": [
+        "Confirmed"
+      ],
+      "UTNL": null,
+      "Trọng số TP": 0.15,
+      "Product Type": [
+        "Layout"
+      ],
+      "Task QC": "1/2",
+      "TP thực tế": 0.1,
+      "Task type": "QC",
+      "Product (1)": [
+        "LO 01 (1)"
+      ],
+      "Task fix": "1/2",
+      "Task Status": "Done QC",
+      "Episode": [
+        {
+          "type": "select",
+          "select": null
+        }
+      ],
+      "Assignee": [
+        {
+          "id": "2b47d5ac-bd39-4aad-8e95-23ea4ab9b925",
+          "name": "Hoàng Hà",
+          "email": "hoanghh@sangygroup.com"
+        }
+      ],
+      "Ngày làm": {
+        "start": "2026-01-14",
+        "end": null
+      },
+      "Loại cảnh": [
+        "F"
+      ],
+      "Sprint ": null,
+      "Created time": null,
+      "Task main": "1/2",
+      "Tasks": "LO 01 (1) Completed 2",
+      "Sprint (2)": []
+    },
+    "_title": "LO 01 (1) Completed 2",
+    "database_name": "[LEG] Tasks ",
+    "project_name": "[LEG] Tasks",
+    "database_id": "2efccb0e-ac88-80a3-9975-e92b915a7a55"
+  }
+]

@@ -1,0 +1,1036 @@
+[
+  {
+    "id": "083a2e7a-093c-4edc-bcd9-e41cd3fb4980",
+    "created_time": "2024-06-03T17:21:00.000Z",
+    "last_edited_time": "2024-06-03T17:25:00.000Z",
+    "properties": {
+      "Deadline": null,
+      "QC": [],
+      "PiC": [
+        {
+          "id": "ccd85462-3a79-4e0f-a885-c92afa63697e",
+          "name": "Kiệt Đoàn",
+          "email": "kietda@sangygroup.com"
+        }
+      ],
+      "Link to output": "",
+      "Ep": "Series",
+      "Status": "Not started",
+      "Task": "Chuẩn đánh giá độ khó cảnh"
+    },
+    "_title": "Chuẩn đánh giá độ khó cảnh",
+    "database_name": "[DeeDee_2024] OMG Lead Tasks Backlog",
+    "project_name": "[DeeDee_2024] OMG Lead Tasks Backlog",
+    "database_id": "b875045d-3575-4566-a528-7e2e4e6739a9"
+  },
+  {
+    "id": "0f3435d3-ba9e-4f18-b8bf-b46c151bb91d",
+    "created_time": "2024-06-04T08:14:00.000Z",
+    "last_edited_time": "2024-06-26T09:23:00.000Z",
+    "properties": {
+      "Deadline": {
+        "start": "2024-06-04T12:00:00.000+07:00",
+        "end": null
+      },
+      "QC": [],
+      "PiC": [
+        {
+          "id": "69878e2b-be0e-4d11-b640-d7909d1bcd52",
+          "name": "Lê Trịnh",
+          "email": "lett@sangygroup.com"
+        }
+      ],
+      "Link to output": "",
+      "Ep": "105",
+      "Status": "Done",
+      "Task": "Tạo Team Space 2 team"
+    },
+    "_title": "Tạo Team Space 2 team",
+    "database_name": "[DeeDee_2024] OMG Lead Tasks Backlog",
+    "project_name": "[DeeDee_2024] OMG Lead Tasks Backlog",
+    "database_id": "b875045d-3575-4566-a528-7e2e4e6739a9"
+  },
+  {
+    "id": "10a85fcd-8d43-4fc1-88c0-8c8c33145bcf",
+    "created_time": "2024-06-05T08:49:00.000Z",
+    "last_edited_time": "2024-06-05T10:06:00.000Z",
+    "properties": {
+      "Deadline": null,
+      "QC": [],
+      "PiC": [
+        {
+          "id": "0b9c48d9-e3d0-4f8c-9b39-ca52da0939c0",
+          "name": "Hưng Nguyễn",
+          "email": "hungnn@sangygroup.com"
+        }
+      ],
+      "Link to output": "",
+      "Ep": "105",
+      "Status": "Done",
+      "Task": "Fix Rig"
+    },
+    "_title": "Fix Rig",
+    "database_name": "[DeeDee_2024] OMG Lead Tasks Backlog",
+    "project_name": "[DeeDee_2024] OMG Lead Tasks Backlog",
+    "database_id": "b875045d-3575-4566-a528-7e2e4e6739a9"
+  },
+  {
+    "id": "110f5246-296e-40c2-84e9-6592199ee352",
+    "created_time": "2024-06-05T02:21:00.000Z",
+    "last_edited_time": "2024-06-05T10:06:00.000Z",
+    "properties": {
+      "Deadline": {
+        "start": "2024-06-05T00:00:00.000+07:00",
+        "end": null
+      },
+      "QC": [],
+      "PiC": [
+        {
+          "id": "0b9c48d9-e3d0-4f8c-9b39-ca52da0939c0",
+          "name": "Hưng Nguyễn",
+          "email": "hungnn@sangygroup.com"
+        }
+      ],
+      "Link to output": "",
+      "Ep": "105",
+      "Status": "Done",
+      "Task": "Update Rig: bộ miệng cho Machanic"
+    },
+    "_title": "Update Rig: bộ miệng cho Machanic",
+    "database_name": "[DeeDee_2024] OMG Lead Tasks Backlog",
+    "project_name": "[DeeDee_2024] OMG Lead Tasks Backlog",
+    "database_id": "b875045d-3575-4566-a528-7e2e4e6739a9"
+  },
+  {
+    "id": "11cccb0e-ac88-80e0-bc1e-f6c61fcdd760",
+    "created_time": "2024-10-11T02:51:00.000Z",
+    "last_edited_time": "2024-10-11T02:51:00.000Z",
+    "properties": {
+      "Deadline": null,
+      "QC": [],
+      "PiC": [
+        {
+          "id": "48eb043c-4af9-42f6-86bc-fdcc03609205",
+          "name": "Khôi Cao",
+          "email": "khoicm@sangygroup.com"
+        }
+      ],
+      "Link to output": "",
+      "Ep": null,
+      "Status": "Not started",
+      "Task": ""
+    },
+    "_title": "",
+    "database_name": "[DeeDee_2024] OMG Lead Tasks Backlog",
+    "project_name": "[DeeDee_2024] OMG Lead Tasks Backlog",
+    "database_id": "b875045d-3575-4566-a528-7e2e4e6739a9"
+  },
+  {
+    "id": "126956e7-80b9-47ef-bab7-267da64a89ab",
+    "created_time": "2024-06-05T09:22:00.000Z",
+    "last_edited_time": "2024-06-05T09:22:00.000Z",
+    "properties": {
+      "Deadline": null,
+      "QC": [],
+      "PiC": [
+        {
+          "id": "ccd85462-3a79-4e0f-a885-c92afa63697e",
+          "name": "Kiệt Đoàn",
+          "email": "kietda@sangygroup.com"
+        }
+      ],
+      "Link to output": "",
+      "Ep": null,
+      "Status": "Not started",
+      "Task": "Guide phần vai"
+    },
+    "_title": "Guide phần vai",
+    "database_name": "[DeeDee_2024] OMG Lead Tasks Backlog",
+    "project_name": "[DeeDee_2024] OMG Lead Tasks Backlog",
+    "database_id": "b875045d-3575-4566-a528-7e2e4e6739a9"
+  },
+  {
+    "id": "16fc7f3e-fac5-4c56-917f-b4d72dbd6dbd",
+    "created_time": "2024-06-04T04:26:00.000Z",
+    "last_edited_time": "2024-06-04T06:45:00.000Z",
+    "properties": {
+      "Deadline": {
+        "start": "2024-06-04T12:00:00.000+07:00",
+        "end": null
+      },
+      "QC": [],
+      "PiC": [
+        {
+          "id": "69878e2b-be0e-4d11-b640-d7909d1bcd52",
+          "name": "Lê Trịnh",
+          "email": "lett@sangygroup.com"
+        }
+      ],
+      "Link to output": "https://docs.google.com/spreadsheets/d/1KPS1lhe8tStsO6HmcNDEod0McH7SqAeVo-UI6kIDZFo/edit#gid=106181435",
+      "Ep": "105",
+      "Status": "Done",
+      "Task": "Bảng note vấn đề từ rig của teammate"
+    },
+    "_title": "Bảng note vấn đề từ rig của teammate",
+    "database_name": "[DeeDee_2024] OMG Lead Tasks Backlog",
+    "project_name": "[DeeDee_2024] OMG Lead Tasks Backlog",
+    "database_id": "b875045d-3575-4566-a528-7e2e4e6739a9"
+  },
+  {
+    "id": "1b06c507-4e95-4e48-be0f-3d09ae68320c",
+    "created_time": "2024-06-20T04:00:00.000Z",
+    "last_edited_time": "2024-06-26T09:34:00.000Z",
+    "properties": {
+      "Deadline": {
+        "start": "2024-06-25",
+        "end": null
+      },
+      "QC": [
+        {
+          "id": "ab1f0c46-b3cb-42e7-b005-9f6f0b7debbe",
+          "name": "Unknown User",
+          "email": null
+        }
+      ],
+      "PiC": [
+        {
+          "id": "69878e2b-be0e-4d11-b640-d7909d1bcd52",
+          "name": "Lê Trịnh",
+          "email": "lett@sangygroup.com"
+        }
+      ],
+      "Link to output": "",
+      "Ep": "104",
+      "Status": "Done",
+      "Task": "Bàn giao Backlog Rig OS"
+    },
+    "_title": "Bàn giao Backlog Rig OS",
+    "database_name": "[DeeDee_2024] OMG Lead Tasks Backlog",
+    "project_name": "[DeeDee_2024] OMG Lead Tasks Backlog",
+    "database_id": "b875045d-3575-4566-a528-7e2e4e6739a9"
+  },
+  {
+    "id": "27165cb0-ab85-498d-a599-bf436826ae46",
+    "created_time": "2024-06-05T09:22:00.000Z",
+    "last_edited_time": "2024-06-05T09:22:00.000Z",
+    "properties": {
+      "Deadline": null,
+      "QC": [],
+      "PiC": [
+        {
+          "id": "ccd85462-3a79-4e0f-a885-c92afa63697e",
+          "name": "Kiệt Đoàn",
+          "email": "kietda@sangygroup.com"
+        }
+      ],
+      "Link to output": "",
+      "Ep": null,
+      "Status": "Done",
+      "Task": "Guide bẻ rough đầu"
+    },
+    "_title": "Guide bẻ rough đầu",
+    "database_name": "[DeeDee_2024] OMG Lead Tasks Backlog",
+    "project_name": "[DeeDee_2024] OMG Lead Tasks Backlog",
+    "database_id": "b875045d-3575-4566-a528-7e2e4e6739a9"
+  },
+  {
+    "id": "2966c846-d826-4905-884c-12794e40fc94",
+    "created_time": "2024-06-20T04:01:00.000Z",
+    "last_edited_time": "2024-06-26T08:08:00.000Z",
+    "properties": {
+      "Deadline": {
+        "start": "2024-06-25",
+        "end": null
+      },
+      "QC": [
+        {
+          "id": "ab1f0c46-b3cb-42e7-b005-9f6f0b7debbe",
+          "name": "Unknown User",
+          "email": null
+        }
+      ],
+      "PiC": [
+        {
+          "id": "0b9c48d9-e3d0-4f8c-9b39-ca52da0939c0",
+          "name": "Hưng Nguyễn",
+          "email": "hungnn@sangygroup.com"
+        }
+      ],
+      "Link to output": "",
+      "Ep": "107",
+      "Status": "Done",
+      "Task": "Bàn giao Backlog Rig OS"
+    },
+    "_title": "Bàn giao Backlog Rig OS",
+    "database_name": "[DeeDee_2024] OMG Lead Tasks Backlog",
+    "project_name": "[DeeDee_2024] OMG Lead Tasks Backlog",
+    "database_id": "b875045d-3575-4566-a528-7e2e4e6739a9"
+  },
+  {
+    "id": "463ed3f3-857a-494e-b8ab-32552728f5e9",
+    "created_time": "2024-06-04T06:44:00.000Z",
+    "last_edited_time": "2024-06-04T08:17:00.000Z",
+    "properties": {
+      "Deadline": {
+        "start": "2024-06-04T12:00:00.000+07:00",
+        "end": null
+      },
+      "QC": [],
+      "PiC": [
+        {
+          "id": "0b9c48d9-e3d0-4f8c-9b39-ca52da0939c0",
+          "name": "Hưng Nguyễn",
+          "email": "hungnn@sangygroup.com"
+        }
+      ],
+      "Link to output": "",
+      "Ep": "105",
+      "Status": "Done",
+      "Task": "QC Rig"
+    },
+    "_title": "QC Rig",
+    "database_name": "[DeeDee_2024] OMG Lead Tasks Backlog",
+    "project_name": "[DeeDee_2024] OMG Lead Tasks Backlog",
+    "database_id": "b875045d-3575-4566-a528-7e2e4e6739a9"
+  },
+  {
+    "id": "569a3a38-6c32-4293-ab55-113b49d940bc",
+    "created_time": "2024-07-04T08:38:00.000Z",
+    "last_edited_time": "2024-07-20T05:24:00.000Z",
+    "properties": {
+      "Deadline": {
+        "start": "2024-07-06",
+        "end": null
+      },
+      "QC": [
+        {
+          "id": "ab1f0c46-b3cb-42e7-b005-9f6f0b7debbe",
+          "name": "Unknown User",
+          "email": null
+        }
+      ],
+      "PiC": [
+        {
+          "id": "69878e2b-be0e-4d11-b640-d7909d1bcd52",
+          "name": "Lê Trịnh",
+          "email": "lett@sangygroup.com"
+        }
+      ],
+      "Link to output": "",
+      "Ep": "104",
+      "Status": "Done",
+      "Task": "Scan SP"
+    },
+    "_title": "Scan SP",
+    "database_name": "[DeeDee_2024] OMG Lead Tasks Backlog",
+    "project_name": "[DeeDee_2024] OMG Lead Tasks Backlog",
+    "database_id": "b875045d-3575-4566-a528-7e2e4e6739a9"
+  },
+  {
+    "id": "5b73f942-c17d-4dbd-a344-364abd91459c",
+    "created_time": "2024-06-04T06:43:00.000Z",
+    "last_edited_time": "2024-06-05T01:51:00.000Z",
+    "properties": {
+      "Deadline": {
+        "start": "2024-06-04T12:00:00.000+07:00",
+        "end": null
+      },
+      "QC": [],
+      "PiC": [
+        {
+          "id": "0b9c48d9-e3d0-4f8c-9b39-ca52da0939c0",
+          "name": "Hưng Nguyễn",
+          "email": "hungnn@sangygroup.com"
+        }
+      ],
+      "Link to output": "https://docs.google.com/spreadsheets/d/1KPS1lhe8tStsO6HmcNDEod0McH7SqAeVo-UI6kIDZFo/edit#gid=695671378",
+      "Ep": "105",
+      "Status": "Done",
+      "Task": "Scan Prop 105 Team 2"
+    },
+    "_title": "Scan Prop 105 Team 2",
+    "database_name": "[DeeDee_2024] OMG Lead Tasks Backlog",
+    "project_name": "[DeeDee_2024] OMG Lead Tasks Backlog",
+    "database_id": "b875045d-3575-4566-a528-7e2e4e6739a9"
+  },
+  {
+    "id": "5d131ffd-9cd7-484a-99a2-cf9c6e3eeeb3",
+    "created_time": "2024-06-06T09:26:00.000Z",
+    "last_edited_time": "2024-06-18T08:59:00.000Z",
+    "properties": {
+      "Deadline": {
+        "start": "2024-06-10T15:00:00.000+07:00",
+        "end": "2024-06-10T15:00:00.000+07:00"
+      },
+      "QC": [],
+      "PiC": [
+        {
+          "id": "0b9c48d9-e3d0-4f8c-9b39-ca52da0939c0",
+          "name": "Hưng Nguyễn",
+          "email": "hungnn@sangygroup.com"
+        }
+      ],
+      "Link to output": "",
+      "Ep": "107",
+      "Status": "Done",
+      "Task": "List số góc Concept cần vẽ thêm"
+    },
+    "_title": "List số góc Concept cần vẽ thêm",
+    "database_name": "[DeeDee_2024] OMG Lead Tasks Backlog",
+    "project_name": "[DeeDee_2024] OMG Lead Tasks Backlog",
+    "database_id": "b875045d-3575-4566-a528-7e2e4e6739a9"
+  },
+  {
+    "id": "60532da6-16a0-4250-8009-7e4fd325487e",
+    "created_time": "2024-06-27T14:11:00.000Z",
+    "last_edited_time": "2024-07-20T05:25:00.000Z",
+    "properties": {
+      "Deadline": {
+        "start": "2024-07-06",
+        "end": null
+      },
+      "QC": [
+        {
+          "id": "ab1f0c46-b3cb-42e7-b005-9f6f0b7debbe",
+          "name": "Unknown User",
+          "email": null
+        }
+      ],
+      "PiC": [
+        {
+          "id": "69878e2b-be0e-4d11-b640-d7909d1bcd52",
+          "name": "Lê Trịnh",
+          "email": "lett@sangygroup.com"
+        }
+      ],
+      "Link to output": "",
+      "Ep": "103",
+      "Status": "Done",
+      "Task": "Prep data"
+    },
+    "_title": "Prep data",
+    "database_name": "[DeeDee_2024] OMG Lead Tasks Backlog",
+    "project_name": "[DeeDee_2024] OMG Lead Tasks Backlog",
+    "database_id": "b875045d-3575-4566-a528-7e2e4e6739a9"
+  },
+  {
+    "id": "64dbdfd3-ea0b-42a0-8422-752304e9b2d5",
+    "created_time": "2024-06-03T17:17:00.000Z",
+    "last_edited_time": "2024-06-05T02:20:00.000Z",
+    "properties": {
+      "Deadline": {
+        "start": "2024-06-04T12:00:00.000+07:00",
+        "end": null
+      },
+      "QC": [],
+      "PiC": [
+        {
+          "id": "69878e2b-be0e-4d11-b640-d7909d1bcd52",
+          "name": "Lê Trịnh",
+          "email": "lett@sangygroup.com"
+        }
+      ],
+      "Link to output": "đã cập nhật trong brief animation",
+      "Ep": "Series",
+      "Status": "Done",
+      "Task": "Update hệ thống đánh dấu màu lên Anim Brief"
+    },
+    "_title": "Update hệ thống đánh dấu màu lên Anim Brief",
+    "database_name": "[DeeDee_2024] OMG Lead Tasks Backlog",
+    "project_name": "[DeeDee_2024] OMG Lead Tasks Backlog",
+    "database_id": "b875045d-3575-4566-a528-7e2e4e6739a9"
+  },
+  {
+    "id": "6535f6dd-e75a-4f93-84ee-de89994f7c0e",
+    "created_time": "2024-07-24T03:30:00.000Z",
+    "last_edited_time": "2024-08-20T08:20:00.000Z",
+    "properties": {
+      "Deadline": {
+        "start": "2024-07-26",
+        "end": null
+      },
+      "QC": [
+        {
+          "id": "ab1f0c46-b3cb-42e7-b005-9f6f0b7debbe",
+          "name": "Unknown User",
+          "email": null
+        }
+      ],
+      "PiC": [
+        {
+          "id": "0b9c48d9-e3d0-4f8c-9b39-ca52da0939c0",
+          "name": "Hưng Nguyễn",
+          "email": "hungnn@sangygroup.com"
+        }
+      ],
+      "Link to output": "",
+      "Ep": "108",
+      "Status": "Done",
+      "Task": "Bàn giao Backlog Rig OS"
+    },
+    "_title": "Bàn giao Backlog Rig OS",
+    "database_name": "[DeeDee_2024] OMG Lead Tasks Backlog",
+    "project_name": "[DeeDee_2024] OMG Lead Tasks Backlog",
+    "database_id": "b875045d-3575-4566-a528-7e2e4e6739a9"
+  },
+  {
+    "id": "73af5b0a-e925-4576-b493-ab5af7497185",
+    "created_time": "2024-06-18T09:41:00.000Z",
+    "last_edited_time": "2024-08-20T08:20:00.000Z",
+    "properties": {
+      "Deadline": {
+        "start": "2024-06-28",
+        "end": null
+      },
+      "QC": [
+        {
+          "id": "ab1f0c46-b3cb-42e7-b005-9f6f0b7debbe",
+          "name": "Unknown User",
+          "email": null
+        }
+      ],
+      "PiC": [
+        {
+          "id": "0b9c48d9-e3d0-4f8c-9b39-ca52da0939c0",
+          "name": "Hưng Nguyễn",
+          "email": "hungnn@sangygroup.com"
+        }
+      ],
+      "Link to output": "",
+      "Ep": "102",
+      "Status": "Done",
+      "Task": "Bàn giao Backlog for Extra Props"
+    },
+    "_title": "Bàn giao Backlog for Extra Props",
+    "database_name": "[DeeDee_2024] OMG Lead Tasks Backlog",
+    "project_name": "[DeeDee_2024] OMG Lead Tasks Backlog",
+    "database_id": "b875045d-3575-4566-a528-7e2e4e6739a9"
+  },
+  {
+    "id": "795db464-443c-4dad-a5ec-9234d27cc923",
+    "created_time": "2024-06-04T08:17:00.000Z",
+    "last_edited_time": "2024-06-04T08:18:00.000Z",
+    "properties": {
+      "Deadline": null,
+      "QC": [],
+      "PiC": [],
+      "Link to output": "",
+      "Ep": "105",
+      "Status": "Not started",
+      "Task": "Lưu ý khi QC seq 6 "
+    },
+    "_title": "Lưu ý khi QC seq 6 ",
+    "database_name": "[DeeDee_2024] OMG Lead Tasks Backlog",
+    "project_name": "[DeeDee_2024] OMG Lead Tasks Backlog",
+    "database_id": "b875045d-3575-4566-a528-7e2e4e6739a9"
+  },
+  {
+    "id": "899b02cd-5a25-46da-8b66-1ae3c8d75168",
+    "created_time": "2024-06-04T06:43:00.000Z",
+    "last_edited_time": "2024-06-05T01:51:00.000Z",
+    "properties": {
+      "Deadline": {
+        "start": "2024-06-04T12:00:00.000+07:00",
+        "end": null
+      },
+      "QC": [],
+      "PiC": [
+        {
+          "id": "69878e2b-be0e-4d11-b640-d7909d1bcd52",
+          "name": "Lê Trịnh",
+          "email": "lett@sangygroup.com"
+        }
+      ],
+      "Link to output": "https://docs.google.com/spreadsheets/d/1KPS1lhe8tStsO6HmcNDEod0McH7SqAeVo-UI6kIDZFo/edit#gid=695671378",
+      "Ep": "105",
+      "Status": "Done",
+      "Task": "Scan Prop 105 Team 1"
+    },
+    "_title": "Scan Prop 105 Team 1",
+    "database_name": "[DeeDee_2024] OMG Lead Tasks Backlog",
+    "project_name": "[DeeDee_2024] OMG Lead Tasks Backlog",
+    "database_id": "b875045d-3575-4566-a528-7e2e4e6739a9"
+  },
+  {
+    "id": "89d14bac-3540-45bb-878c-6d0cba81d654",
+    "created_time": "2024-06-19T04:24:00.000Z",
+    "last_edited_time": "2024-07-20T05:25:00.000Z",
+    "properties": {
+      "Deadline": {
+        "start": "2024-06-26",
+        "end": null
+      },
+      "QC": [
+        {
+          "id": "ab1f0c46-b3cb-42e7-b005-9f6f0b7debbe",
+          "name": "Unknown User",
+          "email": null
+        }
+      ],
+      "PiC": [
+        {
+          "id": "69878e2b-be0e-4d11-b640-d7909d1bcd52",
+          "name": "Lê Trịnh",
+          "email": "lett@sangygroup.com"
+        }
+      ],
+      "Link to output": "",
+      "Ep": "106",
+      "Status": "Done",
+      "Task": "Bàn giao Backlog Turnaround cho team Concept"
+    },
+    "_title": "Bàn giao Backlog Turnaround cho team Concept",
+    "database_name": "[DeeDee_2024] OMG Lead Tasks Backlog",
+    "project_name": "[DeeDee_2024] OMG Lead Tasks Backlog",
+    "database_id": "b875045d-3575-4566-a528-7e2e4e6739a9"
+  },
+  {
+    "id": "8e6b6547-5dfb-4686-ae41-2b9a9e2ab05c",
+    "created_time": "2024-06-04T06:44:00.000Z",
+    "last_edited_time": "2024-06-26T03:58:00.000Z",
+    "properties": {
+      "Deadline": {
+        "start": "2024-06-04T12:00:00.000+07:00",
+        "end": null
+      },
+      "QC": [],
+      "PiC": [
+        {
+          "id": "69878e2b-be0e-4d11-b640-d7909d1bcd52",
+          "name": "Lê Trịnh",
+          "email": "lett@sangygroup.com"
+        },
+        {
+          "id": "0b9c48d9-e3d0-4f8c-9b39-ca52da0939c0",
+          "name": "Hưng Nguyễn",
+          "email": "hungnn@sangygroup.com"
+        }
+      ],
+      "Link to output": "X:\\2024_OMG YES\\02. EPISODE\\EP 105\\05. SPECIAL POSE\\#PENDING REVIEW",
+      "Ep": "105",
+      "Status": "Done",
+      "Task": "Special Pose 105"
+    },
+    "_title": "Special Pose 105",
+    "database_name": "[DeeDee_2024] OMG Lead Tasks Backlog",
+    "project_name": "[DeeDee_2024] OMG Lead Tasks Backlog",
+    "database_id": "b875045d-3575-4566-a528-7e2e4e6739a9"
+  },
+  {
+    "id": "92d6fd42-509a-420a-b1ea-c6400a16b4d5",
+    "created_time": "2024-06-03T17:21:00.000Z",
+    "last_edited_time": "2024-06-04T04:25:00.000Z",
+    "properties": {
+      "Deadline": {
+        "start": "2024-06-04T12:00:00.000+07:00",
+        "end": null
+      },
+      "QC": [],
+      "PiC": [
+        {
+          "id": "69878e2b-be0e-4d11-b640-d7909d1bcd52",
+          "name": "Lê Trịnh",
+          "email": "lett@sangygroup.com"
+        }
+      ],
+      "Link to output": "https://docs.google.com/spreadsheets/d/1KPS1lhe8tStsO6HmcNDEod0McH7SqAeVo-UI6kIDZFo/edit#gid=1932797887",
+      "Ep": "Series",
+      "Status": "Done",
+      "Task": "Bảng cập nhật rig real-time"
+    },
+    "_title": "Bảng cập nhật rig real-time",
+    "database_name": "[DeeDee_2024] OMG Lead Tasks Backlog",
+    "project_name": "[DeeDee_2024] OMG Lead Tasks Backlog",
+    "database_id": "b875045d-3575-4566-a528-7e2e4e6739a9"
+  },
+  {
+    "id": "941faba4-1bed-4ce3-b197-c9fa0ad59bc3",
+    "created_time": "2024-06-11T09:51:00.000Z",
+    "last_edited_time": "2024-06-11T09:51:00.000Z",
+    "properties": {
+      "Deadline": null,
+      "QC": [],
+      "PiC": [
+        {
+          "id": "ccd85462-3a79-4e0f-a885-c92afa63697e",
+          "name": "Kiệt Đoàn",
+          "email": "kietda@sangygroup.com"
+        }
+      ],
+      "Link to output": "",
+      "Ep": null,
+      "Status": "Not started",
+      "Task": "Sửa Rig Sunny"
+    },
+    "_title": "Sửa Rig Sunny",
+    "database_name": "[DeeDee_2024] OMG Lead Tasks Backlog",
+    "project_name": "[DeeDee_2024] OMG Lead Tasks Backlog",
+    "database_id": "b875045d-3575-4566-a528-7e2e4e6739a9"
+  },
+  {
+    "id": "9a1f20d6-8cc9-4e35-aa98-09b01942adcd",
+    "created_time": "2024-06-04T04:26:00.000Z",
+    "last_edited_time": "2024-06-05T02:18:00.000Z",
+    "properties": {
+      "Deadline": {
+        "start": "2024-06-04T12:00:00.000+07:00",
+        "end": null
+      },
+      "QC": [],
+      "PiC": [
+        {
+          "id": "69878e2b-be0e-4d11-b640-d7909d1bcd52",
+          "name": "Lê Trịnh",
+          "email": "lett@sangygroup.com"
+        }
+      ],
+      "Link to output": "https://docs.google.com/spreadsheets/d/1KPS1lhe8tStsO6HmcNDEod0McH7SqAeVo-UI6kIDZFo/edit#gid=1109759077",
+      "Ep": "105",
+      "Status": "Done",
+      "Task": "Bảng Special pose yêu cầu từ teammate"
+    },
+    "_title": "Bảng Special pose yêu cầu từ teammate",
+    "database_name": "[DeeDee_2024] OMG Lead Tasks Backlog",
+    "project_name": "[DeeDee_2024] OMG Lead Tasks Backlog",
+    "database_id": "b875045d-3575-4566-a528-7e2e4e6739a9"
+  },
+  {
+    "id": "9d2a2640-69c9-4a1b-95a7-64c3ac2984be",
+    "created_time": "2024-06-03T17:26:00.000Z",
+    "last_edited_time": "2024-06-06T08:53:00.000Z",
+    "properties": {
+      "Deadline": {
+        "start": "2024-06-06T00:00:00.000+07:00",
+        "end": null
+      },
+      "QC": [],
+      "PiC": [
+        {
+          "id": "0b9c48d9-e3d0-4f8c-9b39-ca52da0939c0",
+          "name": "Hưng Nguyễn",
+          "email": "hungnn@sangygroup.com"
+        }
+      ],
+      "Link to output": "",
+      "Ep": "102",
+      "Status": "Done",
+      "Task": "List số góc Rig"
+    },
+    "_title": "List số góc Rig",
+    "database_name": "[DeeDee_2024] OMG Lead Tasks Backlog",
+    "project_name": "[DeeDee_2024] OMG Lead Tasks Backlog",
+    "database_id": "b875045d-3575-4566-a528-7e2e4e6739a9"
+  },
+  {
+    "id": "a97f487c-aa03-42a1-b1ba-e63be2d1fe76",
+    "created_time": "2024-06-03T17:25:00.000Z",
+    "last_edited_time": "2024-06-11T09:53:00.000Z",
+    "properties": {
+      "Deadline": {
+        "start": "2024-06-06T00:00:00.000+07:00",
+        "end": null
+      },
+      "QC": [],
+      "PiC": [
+        {
+          "id": "ccd85462-3a79-4e0f-a885-c92afa63697e",
+          "name": "Kiệt Đoàn",
+          "email": "kietda@sangygroup.com"
+        }
+      ],
+      "Link to output": "",
+      "Ep": "Series",
+      "Status": "Done",
+      "Task": "Bản mô tả yêu cầu Rig nhân vật chính cho OS"
+    },
+    "_title": "Bản mô tả yêu cầu Rig nhân vật chính cho OS",
+    "database_name": "[DeeDee_2024] OMG Lead Tasks Backlog",
+    "project_name": "[DeeDee_2024] OMG Lead Tasks Backlog",
+    "database_id": "b875045d-3575-4566-a528-7e2e4e6739a9"
+  },
+  {
+    "id": "af30b052-41ae-4ee6-9f5a-59dcb5168546",
+    "created_time": "2024-06-18T09:41:00.000Z",
+    "last_edited_time": "2024-07-03T05:06:00.000Z",
+    "properties": {
+      "Deadline": {
+        "start": "2024-06-29",
+        "end": null
+      },
+      "QC": [
+        {
+          "id": "ab1f0c46-b3cb-42e7-b005-9f6f0b7debbe",
+          "name": "Unknown User",
+          "email": null
+        }
+      ],
+      "PiC": [
+        {
+          "id": "69878e2b-be0e-4d11-b640-d7909d1bcd52",
+          "name": "Lê Trịnh",
+          "email": "lett@sangygroup.com"
+        }
+      ],
+      "Link to output": "",
+      "Ep": "103",
+      "Status": "Done",
+      "Task": "Bàn giao Backlog for Extra Props"
+    },
+    "_title": "Bàn giao Backlog for Extra Props",
+    "database_name": "[DeeDee_2024] OMG Lead Tasks Backlog",
+    "project_name": "[DeeDee_2024] OMG Lead Tasks Backlog",
+    "database_id": "b875045d-3575-4566-a528-7e2e4e6739a9"
+  },
+  {
+    "id": "bae48deb-dba4-42c1-85bd-81bf9a85c482",
+    "created_time": "2024-06-03T17:24:00.000Z",
+    "last_edited_time": "2024-06-05T09:22:00.000Z",
+    "properties": {
+      "Deadline": {
+        "start": "2024-06-05T12:00:00.000+07:00",
+        "end": null
+      },
+      "QC": [],
+      "PiC": [
+        {
+          "id": "ccd85462-3a79-4e0f-a885-c92afa63697e",
+          "name": "Kiệt Đoàn",
+          "email": "kietda@sangygroup.com"
+        }
+      ],
+      "Link to output": "",
+      "Ep": "Series",
+      "Status": "Done",
+      "Task": "Bản mô tả yêu cầu Rig nhân vật phụ cho OS"
+    },
+    "_title": "Bản mô tả yêu cầu Rig nhân vật phụ cho OS",
+    "database_name": "[DeeDee_2024] OMG Lead Tasks Backlog",
+    "project_name": "[DeeDee_2024] OMG Lead Tasks Backlog",
+    "database_id": "b875045d-3575-4566-a528-7e2e4e6739a9"
+  },
+  {
+    "id": "bd64ab0d-f719-4e19-8b38-f639aacfdfed",
+    "created_time": "2024-06-03T17:22:00.000Z",
+    "last_edited_time": "2024-06-05T06:51:00.000Z",
+    "properties": {
+      "Deadline": {
+        "start": "2024-06-05T12:00:00.000+07:00",
+        "end": null
+      },
+      "QC": [],
+      "PiC": [
+        {
+          "id": "ccd85462-3a79-4e0f-a885-c92afa63697e",
+          "name": "Kiệt Đoàn",
+          "email": "kietda@sangygroup.com"
+        }
+      ],
+      "Link to output": "",
+      "Ep": "Series",
+      "Status": "Done",
+      "Task": "Template Node Rig cho OS"
+    },
+    "_title": "Template Node Rig cho OS",
+    "database_name": "[DeeDee_2024] OMG Lead Tasks Backlog",
+    "project_name": "[DeeDee_2024] OMG Lead Tasks Backlog",
+    "database_id": "b875045d-3575-4566-a528-7e2e4e6739a9"
+  },
+  {
+    "id": "ca0a6ca5-0809-495f-a751-e8a3ae788f5e",
+    "created_time": "2024-06-05T02:24:00.000Z",
+    "last_edited_time": "2024-06-05T02:36:00.000Z",
+    "properties": {
+      "Deadline": {
+        "start": "2024-06-05",
+        "end": null
+      },
+      "QC": [],
+      "PiC": [
+        {
+          "id": "0b9c48d9-e3d0-4f8c-9b39-ca52da0939c0",
+          "name": "Hưng Nguyễn",
+          "email": "hungnn@sangygroup.com"
+        }
+      ],
+      "Link to output": "",
+      "Ep": "105",
+      "Status": "Done",
+      "Task": "QC Rig 5/6"
+    },
+    "_title": "QC Rig 5/6",
+    "database_name": "[DeeDee_2024] OMG Lead Tasks Backlog",
+    "project_name": "[DeeDee_2024] OMG Lead Tasks Backlog",
+    "database_id": "b875045d-3575-4566-a528-7e2e4e6739a9"
+  },
+  {
+    "id": "da23795b-0117-47c6-be33-a87fe667b7ee",
+    "created_time": "2024-06-10T01:54:00.000Z",
+    "last_edited_time": "2024-06-14T08:39:00.000Z",
+    "properties": {
+      "Deadline": {
+        "start": "2024-06-10T00:00:00.000+07:00",
+        "end": null
+      },
+      "QC": [],
+      "PiC": [
+        {
+          "id": "69878e2b-be0e-4d11-b640-d7909d1bcd52",
+          "name": "Lê Trịnh",
+          "email": "lett@sangygroup.com"
+        }
+      ],
+      "Link to output": "X:\\2024_OMG YES\\02. EPISODE\\EP 105\\07. ANIMATION\\#QCFIXED",
+      "Ep": "105",
+      "Status": "Done",
+      "Task": "QC FIX key 105 sq1"
+    },
+    "_title": "QC FIX key 105 sq1",
+    "database_name": "[DeeDee_2024] OMG Lead Tasks Backlog",
+    "project_name": "[DeeDee_2024] OMG Lead Tasks Backlog",
+    "database_id": "b875045d-3575-4566-a528-7e2e4e6739a9"
+  },
+  {
+    "id": "de13623c-3d91-4179-b155-f6a6401eb5a3",
+    "created_time": "2024-06-03T17:25:00.000Z",
+    "last_edited_time": "2024-06-06T07:23:00.000Z",
+    "properties": {
+      "Deadline": {
+        "start": "2024-06-06T00:00:00.000+07:00",
+        "end": null
+      },
+      "QC": [],
+      "PiC": [
+        {
+          "id": "69878e2b-be0e-4d11-b640-d7909d1bcd52",
+          "name": "Lê Trịnh",
+          "email": "lett@sangygroup.com"
+        }
+      ],
+      "Link to output": "https://docs.google.com/spreadsheets/d/1aI6molI5q5Yb_Uv7A1x5-hiKeHrJmb31ziLib6Mo_cg/edit#gid=74997771",
+      "Ep": "103",
+      "Status": "Done",
+      "Task": "List số góc Rig 103"
+    },
+    "_title": "List số góc Rig 103",
+    "database_name": "[DeeDee_2024] OMG Lead Tasks Backlog",
+    "project_name": "[DeeDee_2024] OMG Lead Tasks Backlog",
+    "database_id": "b875045d-3575-4566-a528-7e2e4e6739a9"
+  },
+  {
+    "id": "e1a8e92a-7c0c-4186-b9c4-6837797d6395",
+    "created_time": "2024-06-03T17:17:00.000Z",
+    "last_edited_time": "2024-06-03T17:21:00.000Z",
+    "properties": {
+      "Deadline": null,
+      "QC": [],
+      "PiC": [
+        {
+          "id": "ccd85462-3a79-4e0f-a885-c92afa63697e",
+          "name": "Kiệt Đoàn",
+          "email": "kietda@sangygroup.com"
+        }
+      ],
+      "Link to output": "",
+      "Ep": "Series",
+      "Status": "Not started",
+      "Task": "Guide FX"
+    },
+    "_title": "Guide FX",
+    "database_name": "[DeeDee_2024] OMG Lead Tasks Backlog",
+    "project_name": "[DeeDee_2024] OMG Lead Tasks Backlog",
+    "database_id": "b875045d-3575-4566-a528-7e2e4e6739a9"
+  },
+  {
+    "id": "ec8e4063-c654-4d12-87da-000aae293a69",
+    "created_time": "2024-06-03T17:17:00.000Z",
+    "last_edited_time": "2024-06-04T05:36:00.000Z",
+    "properties": {
+      "Deadline": {
+        "start": "2024-06-04T12:00:00.000+07:00",
+        "end": null
+      },
+      "QC": [],
+      "PiC": [
+        {
+          "id": "0b9c48d9-e3d0-4f8c-9b39-ca52da0939c0",
+          "name": "Hưng Nguyễn",
+          "email": "hungnn@sangygroup.com"
+        }
+      ],
+      "Link to output": "",
+      "Ep": "Series",
+      "Status": "Done",
+      "Task": "Guide smear"
+    },
+    "_title": "Guide smear",
+    "database_name": "[DeeDee_2024] OMG Lead Tasks Backlog",
+    "project_name": "[DeeDee_2024] OMG Lead Tasks Backlog",
+    "database_id": "b875045d-3575-4566-a528-7e2e4e6739a9"
+  },
+  {
+    "id": "ed40c8f7-ce89-4660-b739-f7573f285fe6",
+    "created_time": "2024-07-04T08:37:00.000Z",
+    "last_edited_time": "2024-08-20T08:20:00.000Z",
+    "properties": {
+      "Deadline": {
+        "start": "2024-07-09",
+        "end": null
+      },
+      "QC": [
+        {
+          "id": "ab1f0c46-b3cb-42e7-b005-9f6f0b7debbe",
+          "name": "Unknown User",
+          "email": null
+        }
+      ],
+      "PiC": [
+        {
+          "id": "0b9c48d9-e3d0-4f8c-9b39-ca52da0939c0",
+          "name": "Hưng Nguyễn",
+          "email": "hungnn@sangygroup.com"
+        }
+      ],
+      "Link to output": "",
+      "Ep": "107",
+      "Status": "Done",
+      "Task": "Scan SP"
+    },
+    "_title": "Scan SP",
+    "database_name": "[DeeDee_2024] OMG Lead Tasks Backlog",
+    "project_name": "[DeeDee_2024] OMG Lead Tasks Backlog",
+    "database_id": "b875045d-3575-4566-a528-7e2e4e6739a9"
+  },
+  {
+    "id": "f6906a75-ea06-4f6c-8856-feb8ccbed78a",
+    "created_time": "2024-06-27T14:08:00.000Z",
+    "last_edited_time": "2024-08-20T08:20:00.000Z",
+    "properties": {
+      "Deadline": {
+        "start": "2024-07-06",
+        "end": null
+      },
+      "QC": [
+        {
+          "id": "ab1f0c46-b3cb-42e7-b005-9f6f0b7debbe",
+          "name": "Unknown User",
+          "email": null
+        }
+      ],
+      "PiC": [
+        {
+          "id": "0b9c48d9-e3d0-4f8c-9b39-ca52da0939c0",
+          "name": "Hưng Nguyễn",
+          "email": "hungnn@sangygroup.com"
+        }
+      ],
+      "Link to output": "",
+      "Ep": "102",
+      "Status": "Done",
+      "Task": "Prep data"
+    },
+    "_title": "Prep data",
+    "database_name": "[DeeDee_2024] OMG Lead Tasks Backlog",
+    "project_name": "[DeeDee_2024] OMG Lead Tasks Backlog",
+    "database_id": "b875045d-3575-4566-a528-7e2e4e6739a9"
+  }
+]

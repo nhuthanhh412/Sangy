@@ -1,0 +1,280 @@
+[
+  {
+    "id": "218abb75-867b-47e3-bc0a-cfa459eca85e",
+    "created_time": "2024-03-08T04:22:00.000Z",
+    "last_edited_time": "2024-03-08T04:23:00.000Z",
+    "properties": {
+      "🔹 [DeeDee_2024] Idle Slayer Database": [
+        "b8335b63-7be1-4181-b640-90713d7cb0db",
+        "6515d985-287d-4330-8cfe-122daaf611a0",
+        "ef0e4e48-18e6-47cc-9be2-b535e74c2bd0",
+        "5d0d1e0b-a4de-48ba-a88d-165665e0c5c4"
+      ],
+      "Note": "",
+      "Độ hoàn thành": 0.25,
+      "Ước tính nỗ lực cảnh": 6,
+      "Version": null,
+      "Team thực hiện ": [
+        {
+          "type": "people",
+          "people": []
+        },
+        {
+          "type": "people",
+          "people": [
+            {
+              "object": "user",
+              "id": "92fdc82b-f21d-47ae-8a9d-f273f293b140"
+            }
+          ]
+        },
+        {
+          "type": "people",
+          "people": [
+            {
+              "object": "user",
+              "id": "bc74d92f-163f-4054-9ff2-f321efce1a63"
+            },
+            {
+              "object": "user",
+              "id": "ef94d237-bbac-4f3a-852f-c653473d8b70"
+            }
+          ]
+        },
+        {
+          "type": "people",
+          "people": [
+            {
+              "object": "user",
+              "id": "bc74d92f-163f-4054-9ff2-f321efce1a63"
+            }
+          ]
+        }
+      ],
+      "Phase": null,
+      "Name": "SC010"
+    },
+    "_title": "SC010",
+    "database_name": "[DeeDee_2024] Heroine QC Space ",
+    "project_name": "[DeeDee_2024] Heroine QC Space",
+    "database_id": "af613939-1cab-49b7-ae7a-d1357de584b6"
+  },
+  {
+    "id": "84da5120-2a5f-4f02-b960-25dcefba11cf",
+    "created_time": "2024-03-08T04:44:00.000Z",
+    "last_edited_time": "2024-03-08T04:44:00.000Z",
+    "properties": {
+      "🔹 [DeeDee_2024] Idle Slayer Database": [
+        "bbd6c28e-740e-4a7f-b685-200118b34a77",
+        "e0b45962-d30c-472f-9a88-c8ff78dcf105",
+        "e8d21e59-ba75-4fde-aaf0-3060c6d7b7b0"
+      ],
+      "Note": "",
+      "Độ hoàn thành": 0.3333333333333333,
+      "Ước tính nỗ lực cảnh": 5,
+      "Version": null,
+      "Team thực hiện ": [
+        {
+          "type": "people",
+          "people": [
+            {
+              "object": "user",
+              "id": "bc74d92f-163f-4054-9ff2-f321efce1a63"
+            },
+            {
+              "object": "user",
+              "id": "04072340-1849-4642-93b8-632bb7dede0f"
+            },
+            {
+              "object": "user",
+              "id": "ce62dd6e-6b4c-4d26-a9c9-929205c03462"
+            }
+          ]
+        },
+        {
+          "type": "people",
+          "people": [
+            {
+              "object": "user",
+              "id": "bc74d92f-163f-4054-9ff2-f321efce1a63"
+            }
+          ]
+        },
+        {
+          "type": "people",
+          "people": []
+        }
+      ],
+      "Phase": null,
+      "Name": "SC020"
+    },
+    "_title": "SC020",
+    "database_name": "[DeeDee_2024] Heroine QC Space ",
+    "project_name": "[DeeDee_2024] Heroine QC Space",
+    "database_id": "af613939-1cab-49b7-ae7a-d1357de584b6"
+  },
+  {
+    "id": "a7c8e375-fb81-4fca-9015-d460ab7bb1a6",
+    "created_time": "2024-03-08T04:25:00.000Z",
+    "last_edited_time": "2024-03-08T04:26:00.000Z",
+    "properties": {
+      "🔹 [DeeDee_2024] Idle Slayer Database": [
+        "b250351c-90bb-40ca-91b4-dbcff24d226f",
+        "b5894deb-a45a-4d01-94dc-bec44d06f7a7",
+        "49faf188-7921-4e3d-bcd4-a86aae932c14",
+        "c93eb4ea-5e6e-4103-baa5-1ee13596b687"
+      ],
+      "Note": "",
+      "Độ hoàn thành": 0.25,
+      "Ước tính nỗ lực cảnh": 0.75,
+      "Version": null,
+      "Team thực hiện ": [
+        {
+          "type": "people",
+          "people": [
+            {
+              "object": "user",
+              "id": "bc74d92f-163f-4054-9ff2-f321efce1a63"
+            },
+            {
+              "object": "user",
+              "id": "04072340-1849-4642-93b8-632bb7dede0f"
+            }
+          ]
+        },
+        {
+          "type": "people",
+          "people": [
+            {
+              "object": "user",
+              "id": "bc74d92f-163f-4054-9ff2-f321efce1a63"
+            }
+          ]
+        },
+        {
+          "type": "people",
+          "people": []
+        },
+        {
+          "type": "people",
+          "people": [
+            {
+              "object": "user",
+              "id": "92fdc82b-f21d-47ae-8a9d-f273f293b140"
+            }
+          ]
+        }
+      ],
+      "Phase": null,
+      "Name": "SC030"
+    },
+    "_title": "SC030",
+    "database_name": "[DeeDee_2024] Heroine QC Space ",
+    "project_name": "[DeeDee_2024] Heroine QC Space",
+    "database_id": "af613939-1cab-49b7-ae7a-d1357de584b6"
+  },
+  {
+    "id": "da1c31e4-03e9-44a2-aee3-c23314ea2a78",
+    "created_time": "2024-03-08T04:42:00.000Z",
+    "last_edited_time": "2024-03-08T04:42:00.000Z",
+    "properties": {
+      "🔹 [DeeDee_2024] Idle Slayer Database": [
+        "bb1b46b1-2d5c-486b-a149-554c8de2428b",
+        "00839b01-2af5-40e1-a335-4f8d846aae83",
+        "a0bc97ef-83da-4be1-8198-93ef8f625a82"
+      ],
+      "Note": "",
+      "Độ hoàn thành": 0.3333333333333333,
+      "Ước tính nỗ lực cảnh": 5,
+      "Version": null,
+      "Team thực hiện ": [
+        {
+          "type": "people",
+          "people": [
+            {
+              "object": "user",
+              "id": "04072340-1849-4642-93b8-632bb7dede0f"
+            },
+            {
+              "object": "user",
+              "id": "bc74d92f-163f-4054-9ff2-f321efce1a63"
+            }
+          ]
+        },
+        {
+          "type": "people",
+          "people": [
+            {
+              "object": "user",
+              "id": "9010bd5f-0286-4e69-8749-7e1f89524836"
+            }
+          ]
+        },
+        {
+          "type": "people",
+          "people": []
+        }
+      ],
+      "Phase": null,
+      "Name": "SC040"
+    },
+    "_title": "SC040",
+    "database_name": "[DeeDee_2024] Heroine QC Space ",
+    "project_name": "[DeeDee_2024] Heroine QC Space",
+    "database_id": "af613939-1cab-49b7-ae7a-d1357de584b6"
+  },
+  {
+    "id": "dbaaedbc-65b9-4273-b105-b83a427b02af",
+    "created_time": "2024-03-08T04:44:00.000Z",
+    "last_edited_time": "2024-03-08T04:45:00.000Z",
+    "properties": {
+      "🔹 [DeeDee_2024] Idle Slayer Database": [
+        "254cbc0e-f07a-43f7-a492-45fd000316cb",
+        "ce2ab9f3-8c78-4417-80aa-cf5b5abe2215",
+        "cc4caad2-5a8f-4a6f-abbb-b2ecaff44d71"
+      ],
+      "Note": "",
+      "Độ hoàn thành": 0.3333333333333333,
+      "Ước tính nỗ lực cảnh": 1.5,
+      "Version": null,
+      "Team thực hiện ": [
+        {
+          "type": "people",
+          "people": []
+        },
+        {
+          "type": "people",
+          "people": [
+            {
+              "object": "user",
+              "id": "bc74d92f-163f-4054-9ff2-f321efce1a63"
+            },
+            {
+              "object": "user",
+              "id": "04072340-1849-4642-93b8-632bb7dede0f"
+            },
+            {
+              "object": "user",
+              "id": "ce62dd6e-6b4c-4d26-a9c9-929205c03462"
+            }
+          ]
+        },
+        {
+          "type": "people",
+          "people": [
+            {
+              "object": "user",
+              "id": "bc74d92f-163f-4054-9ff2-f321efce1a63"
+            }
+          ]
+        }
+      ],
+      "Phase": null,
+      "Name": "SC050"
+    },
+    "_title": "SC050",
+    "database_name": "[DeeDee_2024] Heroine QC Space ",
+    "project_name": "[DeeDee_2024] Heroine QC Space",
+    "database_id": "af613939-1cab-49b7-ae7a-d1357de584b6"
+  }
+]

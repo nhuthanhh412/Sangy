@@ -1,0 +1,122 @@
+[
+  {
+    "id": "19143a2a-9d7c-4580-894e-bf0d7ddfd4e6",
+    "created_time": "2024-04-09T03:18:00.000Z",
+    "last_edited_time": "2024-04-09T03:18:00.000Z",
+    "properties": {
+      "Discussed": false,
+      "Details": "Need to deal with a lot of streams of work",
+      "Team Member": [
+        {
+          "id": "48c2a2ce-e3c5-497b-88ef-3e43d4cbf783",
+          "name": "Unknown User",
+          "email": null
+        }
+      ],
+      "Select": "WHAT WENT WRONG",
+      "Links": null,
+      "Name": "Communication"
+    },
+    "_title": "Communication",
+    "database_name": "Retrospective",
+    "project_name": "Retrospective",
+    "database_id": "9612dea4-78e5-4e27-b8ad-755ac12eacad"
+  },
+  {
+    "id": "1b98269b-7813-4348-941a-c0a91dad0552",
+    "created_time": "2024-04-09T03:18:00.000Z",
+    "last_edited_time": "2024-04-09T03:18:00.000Z",
+    "properties": {
+      "Discussed": false,
+      "Details": "Constant calls with the clients are great source of feedback, we must keep on doing it!",
+      "Team Member": [
+        {
+          "id": "48c2a2ce-e3c5-497b-88ef-3e43d4cbf783",
+          "name": "Unknown User",
+          "email": null
+        }
+      ],
+      "Select": "WHAT WENT RIGHT",
+      "Links": null,
+      "Name": "Weekly client calls"
+    },
+    "_title": "Weekly client calls",
+    "database_name": "Retrospective",
+    "project_name": "Retrospective",
+    "database_id": "9612dea4-78e5-4e27-b8ad-755ac12eacad"
+  },
+  {
+    "id": "3e88d80c-c8a7-4231-b3d0-e2f3b091db10",
+    "created_time": "2024-04-09T03:18:00.000Z",
+    "last_edited_time": "2024-04-09T03:18:00.000Z",
+    "properties": {
+      "Discussed": false,
+      "Details": "I now have better understanding of who to reach out to from the other team in case I need some info",
+      "Team Member": [
+        {
+          "id": "48c2a2ce-e3c5-497b-88ef-3e43d4cbf783",
+          "name": "Unknown User",
+          "email": null
+        }
+      ],
+      "Select": "WHAT WE LEARNED",
+      "Links": null,
+      "Name": "Inter team workings"
+    },
+    "_title": "Inter team workings",
+    "database_name": "Retrospective",
+    "project_name": "Retrospective",
+    "database_id": "9612dea4-78e5-4e27-b8ad-755ac12eacad"
+  },
+  {
+    "id": "996137fd-0203-44c4-818b-0bb99681e662",
+    "created_time": "2024-04-09T03:18:00.000Z",
+    "last_edited_time": "2024-04-09T03:18:00.000Z",
+    "properties": {
+      "Discussed": false,
+      "Details": "The way we did this thing was great! We should continue doing it",
+      "Team Member": [],
+      "Select": "WHAT WENT RIGHT",
+      "Links": null,
+      "Name": "This went well"
+    },
+    "_title": "This went well",
+    "database_name": "Retrospective",
+    "project_name": "Retrospective",
+    "database_id": "9612dea4-78e5-4e27-b8ad-755ac12eacad"
+  },
+  {
+    "id": "c284d9bc-ba0c-4574-bb80-7fdeefe3892d",
+    "created_time": "2024-04-09T03:18:00.000Z",
+    "last_edited_time": "2024-04-09T03:18:00.000Z",
+    "properties": {
+      "Discussed": false,
+      "Details": "This thing that we're following is not working for us. Maybe we could do try\n- This\n- And this\n- And that\nAs an alternative?",
+      "Team Member": [],
+      "Select": "WHAT WENT WRONG",
+      "Links": null,
+      "Name": "This needs to change"
+    },
+    "_title": "This needs to change",
+    "database_name": "Retrospective",
+    "project_name": "Retrospective",
+    "database_id": "9612dea4-78e5-4e27-b8ad-755ac12eacad"
+  },
+  {
+    "id": "d64a9954-50df-4d6d-997f-a263945eed31",
+    "created_time": "2024-04-09T03:18:00.000Z",
+    "last_edited_time": "2024-04-09T03:18:00.000Z",
+    "properties": {
+      "Discussed": false,
+      "Details": "",
+      "Team Member": [],
+      "Select": "WHAT WE LEARNED",
+      "Links": null,
+      "Name": "I had a 101 session about this feature"
+    },
+    "_title": "I had a 101 session about this feature",
+    "database_name": "Retrospective",
+    "project_name": "Retrospective",
+    "database_id": "9612dea4-78e5-4e27-b8ad-755ac12eacad"
+  }
+]

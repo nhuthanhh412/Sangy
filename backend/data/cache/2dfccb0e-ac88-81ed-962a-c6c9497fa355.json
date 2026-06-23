@@ -1,0 +1,2649 @@
+[
+  {
+    "id": "2dfccb0e-ac88-8004-8527-d3d59c8ac681",
+    "created_time": "2026-01-05T07:51:00.000Z",
+    "last_edited_time": "2026-01-19T04:55:00.000Z",
+    "properties": {
+      "Comp": [
+        "Ánh sáng mặt trời"
+      ],
+      "FX": "khói",
+      "Đã có prop": false,
+      "Combo": null,
+      "Note anim": "",
+      "Layout": null,
+      "Prop & mô tả prop": "Vạc",
+      "Key": "D",
+      "IBW": "E",
+      "Nhân vật": [
+        "Aurora",
+        "Mosse",
+        "BlueberryCat",
+        "Genevie",
+        "Cherrycat"
+      ],
+      "Scene": "01"
+    },
+    "_title": "01",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-81ed-962a-c6c9497fa355"
+  },
+  {
+    "id": "2dfccb0e-ac88-8005-b17a-f4f7b33fd18a",
+    "created_time": "2026-01-05T09:33:00.000Z",
+    "last_edited_time": "2026-01-19T04:55:00.000Z",
+    "properties": {
+      "Comp": [],
+      "FX": "",
+      "Đã có prop": false,
+      "Combo": "7",
+      "Note anim": "",
+      "Layout": "Cần LO trước",
+      "Prop & mô tả prop": "",
+      "Key": "B",
+      "IBW": "D",
+      "Nhân vật": [
+        "BlueberryCat",
+        "Genevie",
+        "Cherrycat",
+        "Mosse",
+        "Aurora"
+      ],
+      "Scene": "90"
+    },
+    "_title": "90",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-81ed-962a-c6c9497fa355"
+  },
+  {
+    "id": "2dfccb0e-ac88-800a-8623-ebb9217f83ae",
+    "created_time": "2026-01-05T09:43:00.000Z",
+    "last_edited_time": "2026-01-19T04:55:00.000Z",
+    "properties": {
+      "Comp": [],
+      "FX": "",
+      "Đã có prop": false,
+      "Combo": null,
+      "Note anim": "",
+      "Layout": "Cần LO trước",
+      "Prop & mô tả prop": "",
+      "Key": "D",
+      "IBW": "E",
+      "Nhân vật": [
+        "Mosse",
+        "BlueberryCat",
+        "Genevie",
+        "Cherrycat",
+        "Aurora"
+      ],
+      "Scene": "91"
+    },
+    "_title": "91",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-81ed-962a-c6c9497fa355"
+  },
+  {
+    "id": "2dfccb0e-ac88-8012-938f-dc60597bd735",
+    "created_time": "2026-01-05T09:43:00.000Z",
+    "last_edited_time": "2026-01-19T04:55:00.000Z",
+    "properties": {
+      "Comp": [],
+      "FX": "",
+      "Đã có prop": false,
+      "Combo": "7",
+      "Note anim": "dùng set up cảnh cùng combo",
+      "Layout": "Cần LO trước",
+      "Prop & mô tả prop": "",
+      "Key": "C",
+      "IBW": "D",
+      "Nhân vật": [
+        "Mosse",
+        "BlueberryCat",
+        "Genevie",
+        "Cherrycat",
+        "Aurora"
+      ],
+      "Scene": "92"
+    },
+    "_title": "92",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-81ed-962a-c6c9497fa355"
+  },
+  {
+    "id": "2dfccb0e-ac88-8015-b46c-ff881528be07",
+    "created_time": "2026-01-05T09:33:00.000Z",
+    "last_edited_time": "2026-01-19T04:55:00.000Z",
+    "properties": {
+      "Comp": [],
+      "FX": "phép thuật",
+      "Đã có prop": false,
+      "Combo": "6",
+      "Note anim": "lấy setup cảnh cùng combo, reuse fx",
+      "Layout": null,
+      "Prop & mô tả prop": "",
+      "Key": "D",
+      "IBW": "E",
+      "Nhân vật": [
+        "Gembugs",
+        "Gembugs biến hình"
+      ],
+      "Scene": "85"
+    },
+    "_title": "85",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-81ed-962a-c6c9497fa355"
+  },
+  {
+    "id": "2dfccb0e-ac88-8035-bcf9-d3a71a30a809",
+    "created_time": "2026-01-05T09:44:00.000Z",
+    "last_edited_time": "2026-01-19T04:55:00.000Z",
+    "properties": {
+      "Comp": [],
+      "FX": "",
+      "Đã có prop": false,
+      "Combo": "8",
+      "Note anim": "chú ý forrm khối xa gần",
+      "Layout": "Cần LO trước",
+      "Prop & mô tả prop": "",
+      "Key": "D",
+      "IBW": "E",
+      "Nhân vật": [
+        "Mosse"
+      ],
+      "Scene": "95"
+    },
+    "_title": "95",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-81ed-962a-c6c9497fa355"
+  },
+  {
+    "id": "2dfccb0e-ac88-803a-9f12-f8f1fea87c49",
+    "created_time": "2026-01-05T09:33:00.000Z",
+    "last_edited_time": "2026-01-19T04:55:00.000Z",
+    "properties": {
+      "Comp": [],
+      "FX": "",
+      "Đã có prop": false,
+      "Combo": null,
+      "Note anim": "",
+      "Layout": "Cần LO trước",
+      "Prop & mô tả prop": "",
+      "Key": "B",
+      "IBW": "D",
+      "Nhân vật": [
+        "BlueberryCat",
+        "Genevie",
+        "Cherrycat",
+        "Mosse"
+      ],
+      "Scene": "89"
+    },
+    "_title": "89",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-81ed-962a-c6c9497fa355"
+  },
+  {
+    "id": "2dfccb0e-ac88-803e-9cde-da08b5c20cde",
+    "created_time": "2026-01-05T09:33:00.000Z",
+    "last_edited_time": "2026-01-19T04:55:00.000Z",
+    "properties": {
+      "Comp": [],
+      "FX": "",
+      "Đã có prop": false,
+      "Combo": null,
+      "Note anim": "",
+      "Layout": "Cần LO trước",
+      "Prop & mô tả prop": "",
+      "Key": "D",
+      "IBW": "E",
+      "Nhân vật": [
+        "Mosse",
+        "BlueberryCat",
+        "Genevie",
+        "Gembugs biến hình",
+        "Cherrycat"
+      ],
+      "Scene": "82"
+    },
+    "_title": "82",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-81ed-962a-c6c9497fa355"
+  },
+  {
+    "id": "2dfccb0e-ac88-8041-b904-c91ba0828d69",
+    "created_time": "2026-01-05T09:33:00.000Z",
+    "last_edited_time": "2026-01-19T04:55:00.000Z",
+    "properties": {
+      "Comp": [],
+      "FX": "",
+      "Đã có prop": false,
+      "Combo": null,
+      "Note anim": "",
+      "Layout": "Cần LO trước",
+      "Prop & mô tả prop": "vạc",
+      "Key": "C",
+      "IBW": "E",
+      "Nhân vật": [
+        "Mosse",
+        "BlueberryCat",
+        "Genevie",
+        "Cherrycat",
+        "Aurora"
+      ],
+      "Scene": "87"
+    },
+    "_title": "87",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-81ed-962a-c6c9497fa355"
+  },
+  {
+    "id": "2dfccb0e-ac88-8046-aa41-d875b3e63fe1",
+    "created_time": "2026-01-05T09:47:00.000Z",
+    "last_edited_time": "2026-01-19T04:55:00.000Z",
+    "properties": {
+      "Comp": [],
+      "FX": "",
+      "Đã có prop": false,
+      "Combo": null,
+      "Note anim": "",
+      "Layout": null,
+      "Prop & mô tả prop": "",
+      "Key": "D",
+      "IBW": "F",
+      "Nhân vật": [
+        "Gembugs",
+        "Aurora"
+      ],
+      "Scene": "97"
+    },
+    "_title": "97",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-81ed-962a-c6c9497fa355"
+  },
+  {
+    "id": "2dfccb0e-ac88-8051-a801-d9d0fd6b4d3d",
+    "created_time": "2026-01-05T09:44:00.000Z",
+    "last_edited_time": "2026-01-19T04:55:00.000Z",
+    "properties": {
+      "Comp": [],
+      "FX": "",
+      "Đã có prop": false,
+      "Combo": "7",
+      "Note anim": "dùng set up cảnh cùng combo",
+      "Layout": "Cần LO trước",
+      "Prop & mô tả prop": "",
+      "Key": "D",
+      "IBW": "E",
+      "Nhân vật": [
+        "Mosse",
+        "Cherrycat",
+        "Aurora"
+      ],
+      "Scene": "94"
+    },
+    "_title": "94",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-81ed-962a-c6c9497fa355"
+  },
+  {
+    "id": "2dfccb0e-ac88-805e-a118-cbb3b00fa068",
+    "created_time": "2026-01-05T09:43:00.000Z",
+    "last_edited_time": "2026-01-19T04:55:00.000Z",
+    "properties": {
+      "Comp": [],
+      "FX": "",
+      "Đã có prop": false,
+      "Combo": "8",
+      "Note anim": "chú ý forrm khối xa gần",
+      "Layout": "Cần LO trước",
+      "Prop & mô tả prop": "",
+      "Key": "D",
+      "IBW": "E",
+      "Nhân vật": [
+        "BlueberryCat",
+        "Genevie"
+      ],
+      "Scene": "93"
+    },
+    "_title": "93",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-81ed-962a-c6c9497fa355"
+  },
+  {
+    "id": "2dfccb0e-ac88-8065-9310-e9d9b0eb7167",
+    "created_time": "2026-01-05T09:44:00.000Z",
+    "last_edited_time": "2026-01-19T04:55:00.000Z",
+    "properties": {
+      "Comp": [],
+      "FX": "",
+      "Đã có prop": false,
+      "Combo": "7",
+      "Note anim": "dùng set up cảnh cùng combo",
+      "Layout": "Cần LO trước",
+      "Prop & mô tả prop": "",
+      "Key": "C",
+      "IBW": "E",
+      "Nhân vật": [
+        "Gembugs",
+        "Aurora",
+        "Cherrycat"
+      ],
+      "Scene": "96"
+    },
+    "_title": "96",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-81ed-962a-c6c9497fa355"
+  },
+  {
+    "id": "2dfccb0e-ac88-8065-936b-c7dee643961e",
+    "created_time": "2026-01-05T09:33:00.000Z",
+    "last_edited_time": "2026-01-19T04:55:00.000Z",
+    "properties": {
+      "Comp": [],
+      "FX": "phép thuật\nkhói",
+      "Đã có prop": false,
+      "Combo": null,
+      "Note anim": "",
+      "Layout": "Cần LO trước",
+      "Prop & mô tả prop": "vạc \nxe",
+      "Key": "D",
+      "IBW": "E",
+      "Nhân vật": [
+        "Mosse",
+        "BlueberryCat",
+        "Genevie",
+        "Cherrycat",
+        "Aurora"
+      ],
+      "Scene": "86"
+    },
+    "_title": "86",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-81ed-962a-c6c9497fa355"
+  },
+  {
+    "id": "2dfccb0e-ac88-806a-a11a-c1fff8a9cd34",
+    "created_time": "2026-01-05T09:33:00.000Z",
+    "last_edited_time": "2026-01-19T04:55:00.000Z",
+    "properties": {
+      "Comp": [],
+      "FX": "",
+      "Đã có prop": false,
+      "Combo": null,
+      "Note anim": "",
+      "Layout": "Cần LO trước",
+      "Prop & mô tả prop": "xe\nvạc",
+      "Key": "B",
+      "IBW": "D",
+      "Nhân vật": [
+        "Mosse",
+        "BlueberryCat",
+        "Genevie",
+        "Cherrycat",
+        "Aurora",
+        "Gembugs biến hình"
+      ],
+      "Scene": "81"
+    },
+    "_title": "81",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-81ed-962a-c6c9497fa355"
+  },
+  {
+    "id": "2dfccb0e-ac88-806c-9e33-fad3568c42ef",
+    "created_time": "2026-01-05T09:47:00.000Z",
+    "last_edited_time": "2026-01-19T04:55:00.000Z",
+    "properties": {
+      "Comp": [],
+      "FX": "",
+      "Đã có prop": false,
+      "Combo": null,
+      "Note anim": "đoạn này nhân vật ôm, nắm tay ⇒ làm rõ tương tác đó",
+      "Layout": "Cần LO trước",
+      "Prop & mô tả prop": "",
+      "Key": "B",
+      "IBW": "D",
+      "Nhân vật": [
+        "Mosse",
+        "BlueberryCat",
+        "Genevie",
+        "Cherrycat",
+        "Gembugs",
+        "Aurora"
+      ],
+      "Scene": "99"
+    },
+    "_title": "99",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-81ed-962a-c6c9497fa355"
+  },
+  {
+    "id": "2dfccb0e-ac88-8074-92e6-d9e88790dffa",
+    "created_time": "2026-01-05T09:33:00.000Z",
+    "last_edited_time": "2026-01-19T04:55:00.000Z",
+    "properties": {
+      "Comp": [],
+      "FX": "",
+      "Đã có prop": false,
+      "Combo": null,
+      "Note anim": "diễn linh hoạt tính cách nhân vật auora",
+      "Layout": null,
+      "Prop & mô tả prop": "vạc",
+      "Key": "C",
+      "IBW": "D",
+      "Nhân vật": [
+        "Gembugs",
+        "Gembugs biến hình",
+        "Aurora"
+      ],
+      "Scene": "84"
+    },
+    "_title": "84",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-81ed-962a-c6c9497fa355"
+  },
+  {
+    "id": "2dfccb0e-ac88-807b-8dc7-fdd92a8a4b93",
+    "created_time": "2026-01-05T09:33:00.000Z",
+    "last_edited_time": "2026-01-19T04:55:00.000Z",
+    "properties": {
+      "Comp": [],
+      "FX": "",
+      "Đã có prop": false,
+      "Combo": null,
+      "Note anim": "",
+      "Layout": "Cần LO trước",
+      "Prop & mô tả prop": "xe",
+      "Key": "B",
+      "IBW": "D",
+      "Nhân vật": [
+        "BlueberryCat",
+        "Genevie",
+        "Cherrycat",
+        "Mosse"
+      ],
+      "Scene": "88"
+    },
+    "_title": "88",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-81ed-962a-c6c9497fa355"
+  },
+  {
+    "id": "2dfccb0e-ac88-8081-b50d-fdaf155469b5",
+    "created_time": "2026-01-05T09:33:00.000Z",
+    "last_edited_time": "2026-01-19T04:55:00.000Z",
+    "properties": {
+      "Comp": [],
+      "FX": "phép thuật",
+      "Đã có prop": false,
+      "Combo": null,
+      "Note anim": "cần diễn ra đc điệu cười sound\ndiễn linh hoạt tính cách nhân vật auora",
+      "Layout": null,
+      "Prop & mô tả prop": "vạc",
+      "Key": "C",
+      "IBW": "D",
+      "Nhân vật": [
+        "Gembugs",
+        "Aurora"
+      ],
+      "Scene": "83"
+    },
+    "_title": "83",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-81ed-962a-c6c9497fa355"
+  },
+  {
+    "id": "2dfccb0e-ac88-80d0-9404-caed481754e9",
+    "created_time": "2026-01-05T09:52:00.000Z",
+    "last_edited_time": "2026-01-19T04:55:00.000Z",
+    "properties": {
+      "Comp": [],
+      "FX": "",
+      "Đã có prop": false,
+      "Combo": "8",
+      "Note anim": "chú ý forrm khối xa gần",
+      "Layout": "Cần LO trước",
+      "Prop & mô tả prop": "",
+      "Key": "C",
+      "IBW": "D",
+      "Nhân vật": [
+        "Mosse",
+        "BlueberryCat",
+        "Genevie",
+        "Cherrycat",
+        "Gembugs",
+        "Aurora"
+      ],
+      "Scene": "100"
+    },
+    "_title": "100",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-81ed-962a-c6c9497fa355"
+  },
+  {
+    "id": "2dfccb0e-ac88-80dc-b41d-e7f98a37eb14",
+    "created_time": "2026-01-05T09:47:00.000Z",
+    "last_edited_time": "2026-01-19T04:55:00.000Z",
+    "properties": {
+      "Comp": [],
+      "FX": "",
+      "Đã có prop": false,
+      "Combo": null,
+      "Note anim": "",
+      "Layout": "Cần LO trước",
+      "Prop & mô tả prop": "",
+      "Key": "B",
+      "IBW": "D",
+      "Nhân vật": [
+        "Mosse",
+        "BlueberryCat",
+        "Genevie",
+        "Cherrycat",
+        "Gembugs",
+        "Aurora"
+      ],
+      "Scene": "98"
+    },
+    "_title": "98",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-81ed-962a-c6c9497fa355"
+  },
+  {
+    "id": "2dfccb0e-ac88-8106-9b13-d648bcd4ce6e",
+    "created_time": "2026-01-05T03:51:00.000Z",
+    "last_edited_time": "2026-01-19T04:55:00.000Z",
+    "properties": {
+      "Comp": [],
+      "FX": "",
+      "Đã có prop": false,
+      "Combo": "3",
+      "Note anim": "lấy setup cảnh 56",
+      "Layout": "Cần LO trước",
+      "Prop & mô tả prop": " quả bóng đá",
+      "Key": "D",
+      "IBW": "E",
+      "Nhân vật": [
+        "Mosse",
+        "BlueberryCat",
+        "Genevie",
+        "Cherrycat",
+        "Gembugs biến hình"
+      ],
+      "Scene": "58"
+    },
+    "_title": "58",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-81ed-962a-c6c9497fa355"
+  },
+  {
+    "id": "2dfccb0e-ac88-8108-bcda-e452da89fbb7",
+    "created_time": "2026-01-05T03:51:00.000Z",
+    "last_edited_time": "2026-01-19T04:55:00.000Z",
+    "properties": {
+      "Comp": [],
+      "FX": "",
+      "Đã có prop": false,
+      "Combo": null,
+      "Note anim": "",
+      "Layout": "Cần LO trước",
+      "Prop & mô tả prop": "",
+      "Key": "E",
+      "IBW": "F",
+      "Nhân vật": [
+        "C4tr0n"
+      ],
+      "Scene": "35"
+    },
+    "_title": "35",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-81ed-962a-c6c9497fa355"
+  },
+  {
+    "id": "2dfccb0e-ac88-8109-a93b-ce67f9e79821",
+    "created_time": "2026-01-05T03:51:00.000Z",
+    "last_edited_time": "2026-01-19T04:55:00.000Z",
+    "properties": {
+      "Comp": [
+        "Speedline"
+      ],
+      "FX": "",
+      "Đã có prop": false,
+      "Combo": null,
+      "Note anim": "",
+      "Layout": null,
+      "Prop & mô tả prop": "",
+      "Key": "Omiited",
+      "IBW": "Omiited",
+      "Nhân vật": [],
+      "Scene": "77"
+    },
+    "_title": "77",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-81ed-962a-c6c9497fa355"
+  },
+  {
+    "id": "2dfccb0e-ac88-810b-9eab-fbfe9871029c",
+    "created_time": "2026-01-05T03:51:00.000Z",
+    "last_edited_time": "2026-01-19T04:55:00.000Z",
+    "properties": {
+      "Comp": [],
+      "FX": "",
+      "Đã có prop": false,
+      "Combo": null,
+      "Note anim": "",
+      "Layout": "Cần LO trước",
+      "Prop & mô tả prop": "",
+      "Key": "E",
+      "IBW": "F",
+      "Nhân vật": [
+        "Mosse",
+        "Genevie"
+      ],
+      "Scene": "70"
+    },
+    "_title": "70",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-81ed-962a-c6c9497fa355"
+  },
+  {
+    "id": "2dfccb0e-ac88-8114-8adc-d08f56f2c0fe",
+    "created_time": "2026-01-05T03:51:00.000Z",
+    "last_edited_time": "2026-01-19T04:55:00.000Z",
+    "properties": {
+      "Comp": [],
+      "FX": "",
+      "Đã có prop": false,
+      "Combo": null,
+      "Note anim": "",
+      "Layout": null,
+      "Prop & mô tả prop": "",
+      "Key": "C",
+      "IBW": "E",
+      "Nhân vật": [
+        "Mosse",
+        "BlueberryCat",
+        "Genevie",
+        "Cherrycat",
+        "Gembugs",
+        "Gembugs biến hình",
+        "C4tr0n"
+      ],
+      "Scene": "32"
+    },
+    "_title": "32",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-81ed-962a-c6c9497fa355"
+  },
+  {
+    "id": "2dfccb0e-ac88-8114-a285-d8656467d53e",
+    "created_time": "2026-01-05T03:51:00.000Z",
+    "last_edited_time": "2026-01-19T04:55:00.000Z",
+    "properties": {
+      "Comp": [],
+      "FX": "",
+      "Đã có prop": false,
+      "Combo": "4",
+      "Note anim": "cần bám sát cách xe di chuyển trong animaticut",
+      "Layout": "Cần LO trước",
+      "Prop & mô tả prop": "xe các góc như animaticcut",
+      "Key": "C",
+      "IBW": "E",
+      "Nhân vật": [
+        "Genevie",
+        "BlueberryCat",
+        "Cherrycat",
+        "Mosse"
+      ],
+      "Scene": "45"
+    },
+    "_title": "45",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-81ed-962a-c6c9497fa355"
+  },
+  {
+    "id": "2dfccb0e-ac88-8117-beb1-e06794617627",
+    "created_time": "2026-01-05T03:51:00.000Z",
+    "last_edited_time": "2026-01-19T04:55:00.000Z",
+    "properties": {
+      "Comp": [],
+      "FX": "",
+      "Đã có prop": false,
+      "Combo": null,
+      "Note anim": "",
+      "Layout": null,
+      "Prop & mô tả prop": "",
+      "Key": "D",
+      "IBW": "E",
+      "Nhân vật": [
+        "Mosse",
+        "BlueberryCat",
+        "Genevie",
+        "Gembugs"
+      ],
+      "Scene": "28"
+    },
+    "_title": "28",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-81ed-962a-c6c9497fa355"
+  },
+  {
+    "id": "2dfccb0e-ac88-811a-9267-e85a3f94356e",
+    "created_time": "2026-01-05T03:51:00.000Z",
+    "last_edited_time": "2026-01-05T09:57:00.000Z",
+    "properties": {
+      "Comp": [],
+      "FX": "",
+      "Đã có prop": false,
+      "Combo": "Reuse tập cũ",
+      "Note anim": "",
+      "Layout": null,
+      "Prop & mô tả prop": "",
+      "Key": "Omiited",
+      "IBW": "Omiited",
+      "Nhân vật": [],
+      "Scene": "000"
+    },
+    "_title": "000",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-81ed-962a-c6c9497fa355"
+  },
+  {
+    "id": "2dfccb0e-ac88-812a-a617-c8815c2269b8",
+    "created_time": "2026-01-05T03:51:00.000Z",
+    "last_edited_time": "2026-01-19T04:55:00.000Z",
+    "properties": {
+      "Comp": [],
+      "FX": "phép thuật",
+      "Đã có prop": false,
+      "Combo": null,
+      "Note anim": "",
+      "Layout": null,
+      "Prop & mô tả prop": " quả bóng đá",
+      "Key": "E",
+      "IBW": "F",
+      "Nhân vật": [
+        "Gembugs",
+        "Gembugs biến hình"
+      ],
+      "Scene": "55"
+    },
+    "_title": "55",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-81ed-962a-c6c9497fa355"
+  },
+  {
+    "id": "2dfccb0e-ac88-812c-84d3-d48c9f1b4253",
+    "created_time": "2026-01-05T03:51:00.000Z",
+    "last_edited_time": "2026-01-19T04:55:00.000Z",
+    "properties": {
+      "Comp": [],
+      "FX": "",
+      "Đã có prop": false,
+      "Combo": "4",
+      "Note anim": "cần bám sát cách xe di chuyển trong animaticut\nlấy setup cảnh cùng combo",
+      "Layout": null,
+      "Prop & mô tả prop": "xe các góc như animaticcut",
+      "Key": "E",
+      "IBW": "E",
+      "Nhân vật": [
+        "Genevie",
+        "BlueberryCat",
+        "Cherrycat",
+        "Mosse"
+      ],
+      "Scene": "61"
+    },
+    "_title": "61",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-81ed-962a-c6c9497fa355"
+  },
+  {
+    "id": "2dfccb0e-ac88-8130-adfd-cce2891b8512",
+    "created_time": "2026-01-05T03:51:00.000Z",
+    "last_edited_time": "2026-01-19T04:55:00.000Z",
+    "properties": {
+      "Comp": [],
+      "FX": "",
+      "Đã có prop": false,
+      "Combo": null,
+      "Note anim": "",
+      "Layout": null,
+      "Prop & mô tả prop": "",
+      "Key": "F",
+      "IBW": "F",
+      "Nhân vật": [
+        "C4tr0n"
+      ],
+      "Scene": "37"
+    },
+    "_title": "37",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-81ed-962a-c6c9497fa355"
+  },
+  {
+    "id": "2dfccb0e-ac88-8131-9eb5-cfc723b1a5b1",
+    "created_time": "2026-01-05T03:51:00.000Z",
+    "last_edited_time": "2026-01-19T04:55:00.000Z",
+    "properties": {
+      "Comp": [],
+      "FX": "",
+      "Đã có prop": false,
+      "Combo": null,
+      "Note anim": "",
+      "Layout": null,
+      "Prop & mô tả prop": "Chìa khóa",
+      "Key": "E",
+      "IBW": "F",
+      "Nhân vật": [
+        "Mosse"
+      ],
+      "Scene": "23"
+    },
+    "_title": "23",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-81ed-962a-c6c9497fa355"
+  },
+  {
+    "id": "2dfccb0e-ac88-8136-99cc-cfbf5f729255",
+    "created_time": "2026-01-05T03:51:00.000Z",
+    "last_edited_time": "2026-01-19T04:55:00.000Z",
+    "properties": {
+      "Comp": [],
+      "FX": "",
+      "Đã có prop": false,
+      "Combo": null,
+      "Note anim": "",
+      "Layout": null,
+      "Prop & mô tả prop": "miếng pizza",
+      "Key": "D",
+      "IBW": "E",
+      "Nhân vật": [
+        "Mosse",
+        "C4tr0n"
+      ],
+      "Scene": "40"
+    },
+    "_title": "40",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-81ed-962a-c6c9497fa355"
+  },
+  {
+    "id": "2dfccb0e-ac88-813a-9af3-cdbe0afdae31",
+    "created_time": "2026-01-05T03:51:00.000Z",
+    "last_edited_time": "2026-01-19T04:55:00.000Z",
+    "properties": {
+      "Comp": [],
+      "FX": "phép thuật",
+      "Đã có prop": false,
+      "Combo": null,
+      "Note anim": "",
+      "Layout": "Cần LO trước",
+      "Prop & mô tả prop": "hộp pizza đổi góc",
+      "Key": "C",
+      "IBW": "D",
+      "Nhân vật": [
+        "Genevie",
+        "Gembugs",
+        "C4tr0n",
+        "Gembugs biến hình"
+      ],
+      "Scene": "30"
+    },
+    "_title": "30",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-81ed-962a-c6c9497fa355"
+  },
+  {
+    "id": "2dfccb0e-ac88-813d-907d-e29aae429a04",
+    "created_time": "2026-01-05T03:51:00.000Z",
+    "last_edited_time": "2026-01-19T04:55:00.000Z",
+    "properties": {
+      "Comp": [],
+      "FX": "",
+      "Đã có prop": false,
+      "Combo": null,
+      "Note anim": "",
+      "Layout": null,
+      "Prop & mô tả prop": "cửa",
+      "Key": "D",
+      "IBW": "F",
+      "Nhân vật": [
+        "BlueberryCat"
+      ],
+      "Scene": "22"
+    },
+    "_title": "22",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-81ed-962a-c6c9497fa355"
+  },
+  {
+    "id": "2dfccb0e-ac88-8144-ae4b-dac2829882d1",
+    "created_time": "2026-01-05T03:51:00.000Z",
+    "last_edited_time": "2026-01-19T04:55:00.000Z",
+    "properties": {
+      "Comp": [],
+      "FX": "",
+      "Đã có prop": false,
+      "Combo": "3",
+      "Note anim": "",
+      "Layout": "Cần LO trước",
+      "Prop & mô tả prop": " quả bóng đá",
+      "Key": "B",
+      "IBW": "D",
+      "Nhân vật": [
+        "Mosse",
+        "BlueberryCat",
+        "Genevie",
+        "Cherrycat",
+        "Gembugs biến hình"
+      ],
+      "Scene": "56"
+    },
+    "_title": "56",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-81ed-962a-c6c9497fa355"
+  },
+  {
+    "id": "2dfccb0e-ac88-814d-af18-c6178f107ca5",
+    "created_time": "2026-01-05T03:51:00.000Z",
+    "last_edited_time": "2026-01-19T04:55:00.000Z",
+    "properties": {
+      "Comp": [],
+      "FX": "",
+      "Đã có prop": false,
+      "Combo": null,
+      "Note anim": "",
+      "Layout": null,
+      "Prop & mô tả prop": "hộp pizza",
+      "Key": "E",
+      "IBW": "E",
+      "Nhân vật": [
+        "C4tr0n"
+      ],
+      "Scene": "29"
+    },
+    "_title": "29",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-81ed-962a-c6c9497fa355"
+  },
+  {
+    "id": "2dfccb0e-ac88-814e-9079-f3ffafb776b9",
+    "created_time": "2026-01-05T03:51:00.000Z",
+    "last_edited_time": "2026-01-19T04:55:00.000Z",
+    "properties": {
+      "Comp": [],
+      "FX": "",
+      "Đã có prop": false,
+      "Combo": null,
+      "Note anim": "cần bám sát cách xe di chuyển trong animaticut\n",
+      "Layout": "Cần LO trước",
+      "Prop & mô tả prop": "xe các góc\nvạc",
+      "Key": "B",
+      "IBW": "D",
+      "Nhân vật": [
+        "Mosse",
+        "BlueberryCat",
+        "Genevie",
+        "Cherrycat",
+        "Gembugs"
+      ],
+      "Scene": "78"
+    },
+    "_title": "78",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-81ed-962a-c6c9497fa355"
+  },
+  {
+    "id": "2dfccb0e-ac88-814e-92ff-c550dd141137",
+    "created_time": "2026-01-05T03:51:00.000Z",
+    "last_edited_time": "2026-01-19T04:55:00.000Z",
+    "properties": {
+      "Comp": [],
+      "FX": "",
+      "Đã có prop": false,
+      "Combo": null,
+      "Note anim": "",
+      "Layout": "Cần LO trước",
+      "Prop & mô tả prop": "vạc\nđĩa bánh\nthìa",
+      "Key": "D",
+      "IBW": "E",
+      "Nhân vật": [
+        "Mosse",
+        "BlueberryCat",
+        "Genevie",
+        "Cherrycat"
+      ],
+      "Scene": "06"
+    },
+    "_title": "06",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-81ed-962a-c6c9497fa355"
+  },
+  {
+    "id": "2dfccb0e-ac88-814f-aa17-d60952572cad",
+    "created_time": "2026-01-05T03:51:00.000Z",
+    "last_edited_time": "2026-01-19T04:55:00.000Z",
+    "properties": {
+      "Comp": [
+        "Glow"
+      ],
+      "FX": "",
+      "Đã có prop": false,
+      "Combo": null,
+      "Note anim": "",
+      "Layout": null,
+      "Prop & mô tả prop": "bảng báo, cạnh tách ra phát sáng",
+      "Key": "C",
+      "IBW": "E",
+      "Nhân vật": [
+        "Gembugs"
+      ],
+      "Scene": "73"
+    },
+    "_title": "73",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-81ed-962a-c6c9497fa355"
+  },
+  {
+    "id": "2dfccb0e-ac88-8154-b62b-f3e586ecf994",
+    "created_time": "2026-01-05T03:51:00.000Z",
+    "last_edited_time": "2026-01-19T04:55:00.000Z",
+    "properties": {
+      "Comp": [],
+      "FX": "",
+      "Đã có prop": false,
+      "Combo": "5",
+      "Note anim": "",
+      "Layout": "Cần LO trước",
+      "Prop & mô tả prop": "xe\ndây an toàn",
+      "Key": "D",
+      "IBW": "E",
+      "Nhân vật": [
+        "BlueberryCat",
+        "Cherrycat",
+        "Genevie"
+      ],
+      "Scene": "63"
+    },
+    "_title": "63",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-81ed-962a-c6c9497fa355"
+  },
+  {
+    "id": "2dfccb0e-ac88-8154-b8be-e870a8a69d5f",
+    "created_time": "2026-01-05T03:51:00.000Z",
+    "last_edited_time": "2026-01-19T04:55:00.000Z",
+    "properties": {
+      "Comp": [],
+      "FX": "phép thuật\nbong bóng nổi lên\nkhói",
+      "Đã có prop": false,
+      "Combo": null,
+      "Note anim": "",
+      "Layout": "Cần LO trước",
+      "Prop & mô tả prop": "vạc",
+      "Key": "B",
+      "IBW": "D",
+      "Nhân vật": [
+        "Genevie",
+        "Aurora"
+      ],
+      "Scene": "02"
+    },
+    "_title": "02",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-81ed-962a-c6c9497fa355"
+  },
+  {
+    "id": "2dfccb0e-ac88-8159-92e1-c19c76f826b4",
+    "created_time": "2026-01-05T03:51:00.000Z",
+    "last_edited_time": "2026-01-19T04:55:00.000Z",
+    "properties": {
+      "Comp": [],
+      "FX": "",
+      "Đã có prop": false,
+      "Combo": null,
+      "Note anim": "",
+      "Layout": null,
+      "Prop & mô tả prop": "",
+      "Key": "D",
+      "IBW": "E",
+      "Nhân vật": [
+        "Genevie",
+        "Gembugs"
+      ],
+      "Scene": "18"
+    },
+    "_title": "18",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-81ed-962a-c6c9497fa355"
+  },
+  {
+    "id": "2dfccb0e-ac88-8159-98e0-ca257972fbe4",
+    "created_time": "2026-01-05T03:51:00.000Z",
+    "last_edited_time": "2026-01-19T04:55:00.000Z",
+    "properties": {
+      "Comp": [],
+      "FX": "bùn đất bắn lên chuyển cảnh",
+      "Đã có prop": false,
+      "Combo": null,
+      "Note anim": "cần bám sát cách xe di chuyển trong animaticut",
+      "Layout": "Cần LO trước",
+      "Prop & mô tả prop": "xe các góc như animaticcut",
+      "Key": "D",
+      "IBW": "E",
+      "Nhân vật": [
+        "Genevie",
+        "BlueberryCat",
+        "Cherrycat",
+        "Mosse"
+      ],
+      "Scene": "25"
+    },
+    "_title": "25",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-81ed-962a-c6c9497fa355"
+  },
+  {
+    "id": "2dfccb0e-ac88-815a-af73-f911c00945f6",
+    "created_time": "2026-01-05T03:51:00.000Z",
+    "last_edited_time": "2026-01-19T04:55:00.000Z",
+    "properties": {
+      "Comp": [],
+      "FX": "",
+      "Đã có prop": false,
+      "Combo": null,
+      "Note anim": "",
+      "Layout": "Cần LO trước",
+      "Prop & mô tả prop": "xe",
+      "Key": "C",
+      "IBW": "E",
+      "Nhân vật": [
+        "Mosse",
+        "BlueberryCat",
+        "Genevie",
+        "Cherrycat",
+        "Gembugs"
+      ],
+      "Scene": "79"
+    },
+    "_title": "79",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-81ed-962a-c6c9497fa355"
+  },
+  {
+    "id": "2dfccb0e-ac88-815c-9d45-d0944658b295",
+    "created_time": "2026-01-05T03:51:00.000Z",
+    "last_edited_time": "2026-01-19T04:55:00.000Z",
+    "properties": {
+      "Comp": [],
+      "FX": "",
+      "Đã có prop": false,
+      "Combo": null,
+      "Note anim": "",
+      "Layout": null,
+      "Prop & mô tả prop": "vạc\nđĩa bánh\nthìa",
+      "Key": "C",
+      "IBW": "E",
+      "Nhân vật": [
+        "Mosse",
+        "BlueberryCat",
+        "Genevie",
+        "Cherrycat"
+      ],
+      "Scene": "05"
+    },
+    "_title": "05",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-81ed-962a-c6c9497fa355"
+  },
+  {
+    "id": "2dfccb0e-ac88-815c-be80-eaad3da0cecb",
+    "created_time": "2026-01-05T03:51:00.000Z",
+    "last_edited_time": "2026-01-19T04:55:00.000Z",
+    "properties": {
+      "Comp": [],
+      "FX": "",
+      "Đã có prop": false,
+      "Combo": "Ommited",
+      "Note anim": "",
+      "Layout": null,
+      "Prop & mô tả prop": "",
+      "Key": "Omiited",
+      "IBW": "Omiited",
+      "Nhân vật": [],
+      "Scene": "19"
+    },
+    "_title": "19",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-81ed-962a-c6c9497fa355"
+  },
+  {
+    "id": "2dfccb0e-ac88-815e-b973-f4abefee9d03",
+    "created_time": "2026-01-05T03:51:00.000Z",
+    "last_edited_time": "2026-01-19T04:55:00.000Z",
+    "properties": {
+      "Comp": [],
+      "FX": "",
+      "Đã có prop": false,
+      "Combo": null,
+      "Note anim": "",
+      "Layout": null,
+      "Prop & mô tả prop": "",
+      "Key": "Omiited",
+      "IBW": "F",
+      "Nhân vật": [],
+      "Scene": "33"
+    },
+    "_title": "33",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-81ed-962a-c6c9497fa355"
+  },
+  {
+    "id": "2dfccb0e-ac88-8163-81f0-cc8ceef9d250",
+    "created_time": "2026-01-05T03:51:00.000Z",
+    "last_edited_time": "2026-01-19T04:55:00.000Z",
+    "properties": {
+      "Comp": [],
+      "FX": "",
+      "Đã có prop": false,
+      "Combo": null,
+      "Note anim": "",
+      "Layout": "Cần LO trước",
+      "Prop & mô tả prop": " quả bóng rổ",
+      "Key": "D",
+      "IBW": "E",
+      "Nhân vật": [
+        "Midnight Jack"
+      ],
+      "Scene": "49"
+    },
+    "_title": "49",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-81ed-962a-c6c9497fa355"
+  },
+  {
+    "id": "2dfccb0e-ac88-8164-8166-ea1feb7ba1fd",
+    "created_time": "2026-01-05T03:51:00.000Z",
+    "last_edited_time": "2026-01-19T04:55:00.000Z",
+    "properties": {
+      "Comp": [],
+      "FX": "",
+      "Đã có prop": false,
+      "Combo": null,
+      "Note anim": "nhân vật cần cử động nhẹ 1 chút",
+      "Layout": "Cần LO trước",
+      "Prop & mô tả prop": "",
+      "Key": "D",
+      "IBW": "E",
+      "Nhân vật": [
+        "Mosse",
+        "BlueberryCat",
+        "Genevie"
+      ],
+      "Scene": "71"
+    },
+    "_title": "71",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-81ed-962a-c6c9497fa355"
+  },
+  {
+    "id": "2dfccb0e-ac88-8164-9c5d-f25f651159e4",
+    "created_time": "2026-01-05T03:51:00.000Z",
+    "last_edited_time": "2026-01-19T04:55:00.000Z",
+    "properties": {
+      "Comp": [],
+      "FX": "phép thuật",
+      "Đã có prop": false,
+      "Combo": null,
+      "Note anim": "",
+      "Layout": null,
+      "Prop & mô tả prop": "",
+      "Key": "E",
+      "IBW": "F",
+      "Nhân vật": [
+        "Gembugs",
+        "Gembugs biến hình"
+      ],
+      "Scene": "10"
+    },
+    "_title": "10",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-81ed-962a-c6c9497fa355"
+  },
+  {
+    "id": "2dfccb0e-ac88-8164-b306-dc166912e7a1",
+    "created_time": "2026-01-05T03:51:00.000Z",
+    "last_edited_time": "2026-01-19T04:55:00.000Z",
+    "properties": {
+      "Comp": [],
+      "FX": "",
+      "Đã có prop": false,
+      "Combo": null,
+      "Note anim": "",
+      "Layout": null,
+      "Prop & mô tả prop": "xe",
+      "Key": "D",
+      "IBW": "E",
+      "Nhân vật": [
+        "Mosse",
+        "BlueberryCat",
+        "Genevie"
+      ],
+      "Scene": "67"
+    },
+    "_title": "67",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-81ed-962a-c6c9497fa355"
+  },
+  {
+    "id": "2dfccb0e-ac88-8166-ae64-fb8d401d0b85",
+    "created_time": "2026-01-05T03:51:00.000Z",
+    "last_edited_time": "2026-01-19T04:55:00.000Z",
+    "properties": {
+      "Comp": [],
+      "FX": "phép thuật\nkhói",
+      "Đã có prop": false,
+      "Combo": null,
+      "Note anim": "",
+      "Layout": null,
+      "Prop & mô tả prop": "vạc\ncầu trượt\nô tô",
+      "Key": "C",
+      "IBW": "E",
+      "Nhân vật": [
+        "Aurora",
+        "Mosse",
+        "BlueberryCat",
+        "Genevie",
+        "Cherrycat"
+      ],
+      "Scene": "04"
+    },
+    "_title": "04",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-81ed-962a-c6c9497fa355"
+  },
+  {
+    "id": "2dfccb0e-ac88-8168-a582-d066ef753f0e",
+    "created_time": "2026-01-05T03:51:00.000Z",
+    "last_edited_time": "2026-01-19T04:55:00.000Z",
+    "properties": {
+      "Comp": [],
+      "FX": "",
+      "Đã có prop": false,
+      "Combo": null,
+      "Note anim": "",
+      "Layout": null,
+      "Prop & mô tả prop": " quả bóng đá tách các cạnh",
+      "Key": "E",
+      "IBW": "F",
+      "Nhân vật": [
+        "BlueberryCat",
+        "Genevie",
+        "Cherrycat"
+      ],
+      "Scene": "57"
+    },
+    "_title": "57",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-81ed-962a-c6c9497fa355"
+  },
+  {
+    "id": "2dfccb0e-ac88-8169-ab68-da437ec29234",
+    "created_time": "2026-01-05T03:51:00.000Z",
+    "last_edited_time": "2026-01-19T04:55:00.000Z",
+    "properties": {
+      "Comp": [],
+      "FX": "",
+      "Đã có prop": false,
+      "Combo": null,
+      "Note anim": "chú ý xa gần",
+      "Layout": "Cần LO trước",
+      "Prop & mô tả prop": "",
+      "Key": "D",
+      "IBW": "E",
+      "Nhân vật": [
+        "Mosse",
+        "BlueberryCat",
+        "Genevie",
+        "Cherrycat"
+      ],
+      "Scene": "62"
+    },
+    "_title": "62",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-81ed-962a-c6c9497fa355"
+  },
+  {
+    "id": "2dfccb0e-ac88-816b-a684-dc713e17cebc",
+    "created_time": "2026-01-05T03:51:00.000Z",
+    "last_edited_time": "2026-01-19T04:55:00.000Z",
+    "properties": {
+      "Comp": [],
+      "FX": "",
+      "Đã có prop": false,
+      "Combo": null,
+      "Note anim": "",
+      "Layout": "Cần LO trước",
+      "Prop & mô tả prop": "",
+      "Key": "E",
+      "IBW": "E",
+      "Nhân vật": [
+        "Cherrycat",
+        "C4tr0n"
+      ],
+      "Scene": "38"
+    },
+    "_title": "38",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-81ed-962a-c6c9497fa355"
+  },
+  {
+    "id": "2dfccb0e-ac88-8171-b9b6-f8e5c6b3f8f4",
+    "created_time": "2026-01-05T03:51:00.000Z",
+    "last_edited_time": "2026-01-19T04:55:00.000Z",
+    "properties": {
+      "Comp": [],
+      "FX": "",
+      "Đã có prop": false,
+      "Combo": "1",
+      "Note anim": "dùng lại set up cảnh 34, cho nhân vật di chuyển 1 chút xíu",
+      "Layout": null,
+      "Prop & mô tả prop": "",
+      "Key": "E",
+      "IBW": "F",
+      "Nhân vật": [
+        "Mosse",
+        "BlueberryCat",
+        "Genevie",
+        "Cherrycat"
+      ],
+      "Scene": "36"
+    },
+    "_title": "36",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-81ed-962a-c6c9497fa355"
+  },
+  {
+    "id": "2dfccb0e-ac88-8179-82c0-e770e7088d4e",
+    "created_time": "2026-01-05T03:51:00.000Z",
+    "last_edited_time": "2026-01-19T04:55:00.000Z",
+    "properties": {
+      "Comp": [],
+      "FX": "",
+      "Đã có prop": false,
+      "Combo": null,
+      "Note anim": "",
+      "Layout": "Cần LO trước",
+      "Prop & mô tả prop": "bong bóng và cầu trượt như animatic cut",
+      "Key": "D",
+      "IBW": "E",
+      "Nhân vật": [
+        "Cherrycat",
+        "BlueberryCat"
+      ],
+      "Scene": "07"
+    },
+    "_title": "07",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-81ed-962a-c6c9497fa355"
+  },
+  {
+    "id": "2dfccb0e-ac88-817c-9c55-eb57c3af6f47",
+    "created_time": "2026-01-05T03:51:00.000Z",
+    "last_edited_time": "2026-01-19T04:55:00.000Z",
+    "properties": {
+      "Comp": [],
+      "FX": "",
+      "Đã có prop": false,
+      "Combo": null,
+      "Note anim": "",
+      "Layout": "Cần LO trước",
+      "Prop & mô tả prop": " quả bóng đá",
+      "Key": "D",
+      "IBW": "E",
+      "Nhân vật": [
+        "BlueberryCat",
+        "Gembugs biến hình",
+        "Cherrycat"
+      ],
+      "Scene": "53"
+    },
+    "_title": "53",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-81ed-962a-c6c9497fa355"
+  },
+  {
+    "id": "2dfccb0e-ac88-817d-97eb-cec98aa2f653",
+    "created_time": "2026-01-05T03:51:00.000Z",
+    "last_edited_time": "2026-01-19T04:55:00.000Z",
+    "properties": {
+      "Comp": [],
+      "FX": "",
+      "Đã có prop": false,
+      "Combo": null,
+      "Note anim": "cần diễn nhân vật thêm 1 chút so với animatic",
+      "Layout": null,
+      "Prop & mô tả prop": "",
+      "Key": "D",
+      "IBW": "E",
+      "Nhân vật": [
+        "Mosse",
+        "BlueberryCat",
+        "Genevie"
+      ],
+      "Scene": "69"
+    },
+    "_title": "69",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-81ed-962a-c6c9497fa355"
+  },
+  {
+    "id": "2dfccb0e-ac88-817e-b5d9-e48323b20b12",
+    "created_time": "2026-01-05T03:51:00.000Z",
+    "last_edited_time": "2026-01-19T04:55:00.000Z",
+    "properties": {
+      "Comp": [],
+      "FX": "",
+      "Đã có prop": false,
+      "Combo": null,
+      "Note anim": "",
+      "Layout": "Cần LO trước",
+      "Prop & mô tả prop": "xe",
+      "Key": "C",
+      "IBW": "E",
+      "Nhân vật": [
+        "Mosse",
+        "BlueberryCat",
+        "Genevie",
+        "Cherrycat"
+      ],
+      "Scene": "75"
+    },
+    "_title": "75",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-81ed-962a-c6c9497fa355"
+  },
+  {
+    "id": "2dfccb0e-ac88-817f-92f0-ea3786174d0e",
+    "created_time": "2026-01-05T03:51:00.000Z",
+    "last_edited_time": "2026-01-19T04:55:00.000Z",
+    "properties": {
+      "Comp": [],
+      "FX": "",
+      "Đã có prop": false,
+      "Combo": null,
+      "Note anim": "",
+      "Layout": null,
+      "Prop & mô tả prop": "Mũ bảo hiểm",
+      "Key": "E",
+      "IBW": "F",
+      "Nhân vật": [
+        "Genevie"
+      ],
+      "Scene": "20"
+    },
+    "_title": "20",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-81ed-962a-c6c9497fa355"
+  },
+  {
+    "id": "2dfccb0e-ac88-817f-9660-f9376306b8d0",
+    "created_time": "2026-01-05T03:51:00.000Z",
+    "last_edited_time": "2026-01-19T04:55:00.000Z",
+    "properties": {
+      "Comp": [],
+      "FX": "",
+      "Đã có prop": false,
+      "Combo": null,
+      "Note anim": "",
+      "Layout": null,
+      "Prop & mô tả prop": "",
+      "Key": "E",
+      "IBW": "F",
+      "Nhân vật": [
+        "Cherrycat"
+      ],
+      "Scene": "21"
+    },
+    "_title": "21",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-81ed-962a-c6c9497fa355"
+  },
+  {
+    "id": "2dfccb0e-ac88-8180-9911-ceef2de9e29c",
+    "created_time": "2026-01-05T03:51:00.000Z",
+    "last_edited_time": "2026-01-19T04:55:00.000Z",
+    "properties": {
+      "Comp": [],
+      "FX": "",
+      "Đã có prop": false,
+      "Combo": null,
+      "Note anim": "",
+      "Layout": null,
+      "Prop & mô tả prop": "",
+      "Key": "D",
+      "IBW": "E",
+      "Nhân vật": [
+        "BlueberryCat",
+        "Genevie",
+        "Cherrycat"
+      ],
+      "Scene": "76"
+    },
+    "_title": "76",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-81ed-962a-c6c9497fa355"
+  },
+  {
+    "id": "2dfccb0e-ac88-8182-9bde-da85afd1870a",
+    "created_time": "2026-01-05T03:51:00.000Z",
+    "last_edited_time": "2026-01-19T04:55:00.000Z",
+    "properties": {
+      "Comp": [],
+      "FX": "",
+      "Đã có prop": false,
+      "Combo": null,
+      "Note anim": "anim cửa",
+      "Layout": "Cần LO trước",
+      "Prop & mô tả prop": "cửa mở ra đóng vào",
+      "Key": "B",
+      "IBW": "D",
+      "Nhân vật": [
+        "Mosse",
+        "BlueberryCat",
+        "Genevie",
+        "Cherrycat",
+        "Gembugs",
+        "C4tr0n"
+      ],
+      "Scene": "27"
+    },
+    "_title": "27",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-81ed-962a-c6c9497fa355"
+  },
+  {
+    "id": "2dfccb0e-ac88-8187-acf8-e5ff718ee2ab",
+    "created_time": "2026-01-05T03:51:00.000Z",
+    "last_edited_time": "2026-01-19T04:55:00.000Z",
+    "properties": {
+      "Comp": [],
+      "FX": "",
+      "Đã có prop": false,
+      "Combo": "2",
+      "Note anim": "",
+      "Layout": "Cần LO trước",
+      "Prop & mô tả prop": " quả bóng đá",
+      "Key": "E",
+      "IBW": "E",
+      "Nhân vật": [
+        "Jasper"
+      ],
+      "Scene": "50"
+    },
+    "_title": "50",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-81ed-962a-c6c9497fa355"
+  },
+  {
+    "id": "2dfccb0e-ac88-8199-98b8-e5c01e06dea3",
+    "created_time": "2026-01-05T03:51:00.000Z",
+    "last_edited_time": "2026-01-19T04:55:00.000Z",
+    "properties": {
+      "Comp": [],
+      "FX": "",
+      "Đã có prop": false,
+      "Combo": null,
+      "Note anim": "đủ key nhân vật di chuyển trong phối cảnh và nhảy xuống xe",
+      "Layout": "Cần LO trước",
+      "Prop & mô tả prop": "Xe",
+      "Key": "B",
+      "IBW": "C",
+      "Nhân vật": [
+        "Mosse",
+        "BlueberryCat",
+        "Genevie",
+        "Cherrycat",
+        "Gembugs"
+      ],
+      "Scene": "26"
+    },
+    "_title": "26",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-81ed-962a-c6c9497fa355"
+  },
+  {
+    "id": "2dfccb0e-ac88-81a6-9860-e3202b680604",
+    "created_time": "2026-01-05T03:51:00.000Z",
+    "last_edited_time": "2026-01-19T04:55:00.000Z",
+    "properties": {
+      "Comp": [],
+      "FX": "phép thuật",
+      "Đã có prop": false,
+      "Combo": null,
+      "Note anim": "",
+      "Layout": null,
+      "Prop & mô tả prop": "",
+      "Key": "E",
+      "IBW": "F",
+      "Nhân vật": [
+        "Gembugs",
+        "Gembugs biến hình"
+      ],
+      "Scene": "74"
+    },
+    "_title": "74",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-81ed-962a-c6c9497fa355"
+  },
+  {
+    "id": "2dfccb0e-ac88-81a6-9d82-f48265135ab1",
+    "created_time": "2026-01-05T03:51:00.000Z",
+    "last_edited_time": "2026-01-19T04:55:00.000Z",
+    "properties": {
+      "Comp": [],
+      "FX": "",
+      "Đã có prop": false,
+      "Combo": null,
+      "Note anim": "",
+      "Layout": null,
+      "Prop & mô tả prop": "",
+      "Key": "C",
+      "IBW": "E",
+      "Nhân vật": [
+        "Aurora",
+        "Genevie",
+        "Mosse",
+        "Gembugs biến hình"
+      ],
+      "Scene": "14"
+    },
+    "_title": "14",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-81ed-962a-c6c9497fa355"
+  },
+  {
+    "id": "2dfccb0e-ac88-81a7-ae1b-d567dbc72e45",
+    "created_time": "2026-01-05T03:51:00.000Z",
+    "last_edited_time": "2026-01-19T04:55:00.000Z",
+    "properties": {
+      "Comp": [],
+      "FX": "bùn đất bắn lên chuyển cảnh",
+      "Đã có prop": false,
+      "Combo": null,
+      "Note anim": "cần bám sát cách xe di chuyển trong animaticut",
+      "Layout": "Cần LO trước",
+      "Prop & mô tả prop": "xe các góc như animaticcut",
+      "Key": "B",
+      "IBW": "D",
+      "Nhân vật": [
+        "Mosse",
+        "BlueberryCat",
+        "Genevie",
+        "Cherrycat"
+      ],
+      "Scene": "24"
+    },
+    "_title": "24",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-81ed-962a-c6c9497fa355"
+  },
+  {
+    "id": "2dfccb0e-ac88-81aa-b7de-c352882baf20",
+    "created_time": "2026-01-05T03:51:00.000Z",
+    "last_edited_time": "2026-01-19T04:55:00.000Z",
+    "properties": {
+      "Comp": [],
+      "FX": "",
+      "Đã có prop": false,
+      "Combo": null,
+      "Note anim": "dung set up cảnh 64",
+      "Layout": null,
+      "Prop & mô tả prop": "",
+      "Key": "E",
+      "IBW": "F",
+      "Nhân vật": [
+        "Mosse",
+        "BlueberryCat",
+        "Genevie",
+        "Cherrycat"
+      ],
+      "Scene": "66"
+    },
+    "_title": "66",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-81ed-962a-c6c9497fa355"
+  },
+  {
+    "id": "2dfccb0e-ac88-81ab-9f7e-c5c4c0265835",
+    "created_time": "2026-01-05T03:51:00.000Z",
+    "last_edited_time": "2026-01-19T04:55:00.000Z",
+    "properties": {
+      "Comp": [],
+      "FX": "",
+      "Đã có prop": false,
+      "Combo": null,
+      "Note anim": "",
+      "Layout": null,
+      "Prop & mô tả prop": "",
+      "Key": "B",
+      "IBW": "C",
+      "Nhân vật": [
+        "Mosse",
+        "BlueberryCat",
+        "Genevie",
+        "Cherrycat",
+        "Aurora",
+        "Gembugs",
+        "Gembugs biến hình"
+      ],
+      "Scene": "17"
+    },
+    "_title": "17",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-81ed-962a-c6c9497fa355"
+  },
+  {
+    "id": "2dfccb0e-ac88-81ab-b2f5-f1f31550212c",
+    "created_time": "2026-01-05T03:51:00.000Z",
+    "last_edited_time": "2026-01-19T04:55:00.000Z",
+    "properties": {
+      "Comp": [],
+      "FX": "",
+      "Đã có prop": false,
+      "Combo": null,
+      "Note anim": "",
+      "Layout": null,
+      "Prop & mô tả prop": "đĩa",
+      "Key": "C",
+      "IBW": "E",
+      "Nhân vật": [
+        "Gembugs biến hình",
+        "Mosse"
+      ],
+      "Scene": "12"
+    },
+    "_title": "12",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-81ed-962a-c6c9497fa355"
+  },
+  {
+    "id": "2dfccb0e-ac88-81ac-8909-dd585a2ac2b9",
+    "created_time": "2026-01-05T03:51:00.000Z",
+    "last_edited_time": "2026-01-19T04:55:00.000Z",
+    "properties": {
+      "Comp": [],
+      "FX": "",
+      "Đã có prop": false,
+      "Combo": null,
+      "Note anim": "overshoot khi dừng",
+      "Layout": "Cần LO trước",
+      "Prop & mô tả prop": "xe\nbảng báo",
+      "Key": "D",
+      "IBW": "F",
+      "Nhân vật": [
+        "Mosse",
+        "BlueberryCat",
+        "Genevie"
+      ],
+      "Scene": "68"
+    },
+    "_title": "68",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-81ed-962a-c6c9497fa355"
+  },
+  {
+    "id": "2dfccb0e-ac88-81b0-acfd-f024863a100e",
+    "created_time": "2026-01-05T03:51:00.000Z",
+    "last_edited_time": "2026-01-19T04:55:00.000Z",
+    "properties": {
+      "Comp": [],
+      "FX": "phép thuật",
+      "Đã có prop": false,
+      "Combo": null,
+      "Note anim": "",
+      "Layout": null,
+      "Prop & mô tả prop": "",
+      "Key": "E",
+      "IBW": "F",
+      "Nhân vật": [
+        "Gembugs biến hình",
+        "Mosse"
+      ],
+      "Scene": "13"
+    },
+    "_title": "13",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-81ed-962a-c6c9497fa355"
+  },
+  {
+    "id": "2dfccb0e-ac88-81b3-b6c0-ffb2279aefa2",
+    "created_time": "2026-01-05T03:51:00.000Z",
+    "last_edited_time": "2026-01-19T04:55:00.000Z",
+    "properties": {
+      "Comp": [],
+      "FX": "phép thuật\nbong bóng nổi lên\nnước",
+      "Đã có prop": false,
+      "Combo": "6",
+      "Note anim": "reuse fx tập 1",
+      "Layout": "Cần LO trước",
+      "Prop & mô tả prop": "",
+      "Key": "C",
+      "IBW": "D",
+      "Nhân vật": [
+        "Genevie",
+        "Gembugs",
+        "Aurora"
+      ],
+      "Scene": "03"
+    },
+    "_title": "03",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-81ed-962a-c6c9497fa355"
+  },
+  {
+    "id": "2dfccb0e-ac88-81c0-93fe-f4c817793e81",
+    "created_time": "2026-01-05T03:51:00.000Z",
+    "last_edited_time": "2026-01-19T04:55:00.000Z",
+    "properties": {
+      "Comp": [],
+      "FX": "",
+      "Đã có prop": false,
+      "Combo": "5",
+      "Note anim": "dung set up cảnh cùng combo",
+      "Layout": null,
+      "Prop & mô tả prop": "xe\ndây an toàn",
+      "Key": "E",
+      "IBW": "E",
+      "Nhân vật": [
+        "BlueberryCat",
+        "Cherrycat",
+        "Genevie"
+      ],
+      "Scene": "65"
+    },
+    "_title": "65",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-81ed-962a-c6c9497fa355"
+  },
+  {
+    "id": "2dfccb0e-ac88-81c9-a980-cc4e4095e27a",
+    "created_time": "2026-01-05T03:51:00.000Z",
+    "last_edited_time": "2026-01-19T04:55:00.000Z",
+    "properties": {
+      "Comp": [],
+      "FX": "",
+      "Đã có prop": false,
+      "Combo": null,
+      "Note anim": "",
+      "Layout": null,
+      "Prop & mô tả prop": "",
+      "Key": "E",
+      "IBW": "E",
+      "Nhân vật": [
+        "Cherrycat",
+        "C4tr0n"
+      ],
+      "Scene": "42"
+    },
+    "_title": "42",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-81ed-962a-c6c9497fa355"
+  },
+  {
+    "id": "2dfccb0e-ac88-81c9-b4bb-e8dd25dcd752",
+    "created_time": "2026-01-05T03:51:00.000Z",
+    "last_edited_time": "2026-01-19T04:55:00.000Z",
+    "properties": {
+      "Comp": [],
+      "FX": "phép thuật",
+      "Đã có prop": false,
+      "Combo": null,
+      "Note anim": "",
+      "Layout": "Cần LO trước",
+      "Prop & mô tả prop": " quả bóng đá",
+      "Key": "E",
+      "IBW": "E",
+      "Nhân vật": [
+        "Cherrycat",
+        "Gembugs",
+        "Gembugs biến hình",
+        "Genevie",
+        "BlueberryCat",
+        "Mosse"
+      ],
+      "Scene": "52"
+    },
+    "_title": "52",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-81ed-962a-c6c9497fa355"
+  },
+  {
+    "id": "2dfccb0e-ac88-81ca-8b57-eb2267f1cbb4",
+    "created_time": "2026-01-05T03:51:00.000Z",
+    "last_edited_time": "2026-01-19T04:55:00.000Z",
+    "properties": {
+      "Comp": [
+        "Speedline"
+      ],
+      "FX": "",
+      "Đã có prop": false,
+      "Combo": null,
+      "Note anim": "",
+      "Layout": null,
+      "Prop & mô tả prop": "",
+      "Key": "Omiited",
+      "IBW": "Omiited",
+      "Nhân vật": [],
+      "Scene": "47"
+    },
+    "_title": "47",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-81ed-962a-c6c9497fa355"
+  },
+  {
+    "id": "2dfccb0e-ac88-81ce-8f02-fe0a2473a88d",
+    "created_time": "2026-01-05T03:51:00.000Z",
+    "last_edited_time": "2026-01-19T04:55:00.000Z",
+    "properties": {
+      "Comp": [],
+      "FX": "",
+      "Đã có prop": false,
+      "Combo": null,
+      "Note anim": "mossse cầm vô lăng lái lái",
+      "Layout": null,
+      "Prop & mô tả prop": "",
+      "Key": "D",
+      "IBW": "E",
+      "Nhân vật": [
+        "Mosse",
+        "BlueberryCat",
+        "Genevie",
+        "Cherrycat"
+      ],
+      "Scene": "64"
+    },
+    "_title": "64",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-81ed-962a-c6c9497fa355"
+  },
+  {
+    "id": "2dfccb0e-ac88-81d0-b141-c56fc5d67db1",
+    "created_time": "2026-01-05T03:51:00.000Z",
+    "last_edited_time": "2026-01-19T04:55:00.000Z",
+    "properties": {
+      "Comp": [],
+      "FX": "",
+      "Đã có prop": false,
+      "Combo": "2",
+      "Note anim": "",
+      "Layout": "Cần LO trước",
+      "Prop & mô tả prop": " quả bóng đá",
+      "Key": "D",
+      "IBW": "E",
+      "Nhân vật": [
+        "Jasper"
+      ],
+      "Scene": "48"
+    },
+    "_title": "48",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-81ed-962a-c6c9497fa355"
+  },
+  {
+    "id": "2dfccb0e-ac88-81d4-80c3-ea319b847e1c",
+    "created_time": "2026-01-05T03:51:00.000Z",
+    "last_edited_time": "2026-01-19T04:55:00.000Z",
+    "properties": {
+      "Comp": [],
+      "FX": "",
+      "Đã có prop": false,
+      "Combo": "1",
+      "Note anim": "",
+      "Layout": null,
+      "Prop & mô tả prop": "",
+      "Key": "E",
+      "IBW": "E",
+      "Nhân vật": [
+        "Mosse",
+        "BlueberryCat",
+        "Genevie",
+        "Cherrycat"
+      ],
+      "Scene": "34"
+    },
+    "_title": "34",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-81ed-962a-c6c9497fa355"
+  },
+  {
+    "id": "2dfccb0e-ac88-81d7-b142-f5053dcd9edc",
+    "created_time": "2026-01-05T03:51:00.000Z",
+    "last_edited_time": "2026-01-19T04:55:00.000Z",
+    "properties": {
+      "Comp": [],
+      "FX": "",
+      "Đã có prop": false,
+      "Combo": null,
+      "Note anim": "",
+      "Layout": null,
+      "Prop & mô tả prop": "hộp pizza\nmiếng pizza\nmiếng gì đó trên pizza",
+      "Key": "E",
+      "IBW": "E",
+      "Nhân vật": [
+        "C4tr0n"
+      ],
+      "Scene": "39"
+    },
+    "_title": "39",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-81ed-962a-c6c9497fa355"
+  },
+  {
+    "id": "2dfccb0e-ac88-81d8-8c29-dc03ecedc291",
+    "created_time": "2026-01-05T03:51:00.000Z",
+    "last_edited_time": "2026-01-19T04:55:00.000Z",
+    "properties": {
+      "Comp": [],
+      "FX": "",
+      "Đã có prop": false,
+      "Combo": null,
+      "Note anim": "",
+      "Layout": "Cần LO trước",
+      "Prop & mô tả prop": "",
+      "Key": "D",
+      "IBW": "E",
+      "Nhân vật": [
+        "Aurora"
+      ],
+      "Scene": "80"
+    },
+    "_title": "80",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-81ed-962a-c6c9497fa355"
+  },
+  {
+    "id": "2dfccb0e-ac88-81d8-b041-e0fc6cd1b84d",
+    "created_time": "2026-01-05T03:51:00.000Z",
+    "last_edited_time": "2026-01-19T04:55:00.000Z",
+    "properties": {
+      "Comp": [],
+      "FX": "phép thuật\nkhói",
+      "Đã có prop": false,
+      "Combo": null,
+      "Note anim": "",
+      "Layout": null,
+      "Prop & mô tả prop": "vạc",
+      "Key": "B",
+      "IBW": "D",
+      "Nhân vật": [
+        "Aurora",
+        "Gembugs"
+      ],
+      "Scene": "09"
+    },
+    "_title": "09",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-81ed-962a-c6c9497fa355"
+  },
+  {
+    "id": "2dfccb0e-ac88-81d8-b2a2-c9d621daffbb",
+    "created_time": "2026-01-05T03:51:00.000Z",
+    "last_edited_time": "2026-01-19T04:55:00.000Z",
+    "properties": {
+      "Comp": [],
+      "FX": "",
+      "Đã có prop": false,
+      "Combo": null,
+      "Note anim": "xe dừng lại cần overshoot",
+      "Layout": null,
+      "Prop & mô tả prop": "xe ",
+      "Key": "D",
+      "IBW": "E",
+      "Nhân vật": [
+        "Genevie",
+        "BlueberryCat",
+        "Cherrycat",
+        "Mosse"
+      ],
+      "Scene": "46"
+    },
+    "_title": "46",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-81ed-962a-c6c9497fa355"
+  },
+  {
+    "id": "2dfccb0e-ac88-81e0-a05f-ff091381a9d3",
+    "created_time": "2026-01-05T03:51:00.000Z",
+    "last_edited_time": "2026-01-19T04:55:00.000Z",
+    "properties": {
+      "Comp": [],
+      "FX": "",
+      "Đã có prop": false,
+      "Combo": null,
+      "Note anim": "",
+      "Layout": "Cần LO trước",
+      "Prop & mô tả prop": "",
+      "Key": "B",
+      "IBW": "D",
+      "Nhân vật": [
+        "Mosse",
+        "BlueberryCat",
+        "Genevie",
+        "Cherrycat",
+        "Gembugs"
+      ],
+      "Scene": "41"
+    },
+    "_title": "41",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-81ed-962a-c6c9497fa355"
+  },
+  {
+    "id": "2dfccb0e-ac88-81e0-bb1d-e3c5dc4477d6",
+    "created_time": "2026-01-05T03:51:00.000Z",
+    "last_edited_time": "2026-01-19T04:55:00.000Z",
+    "properties": {
+      "Comp": [
+        "Glow"
+      ],
+      "FX": "",
+      "Đã có prop": false,
+      "Combo": null,
+      "Note anim": "",
+      "Layout": null,
+      "Prop & mô tả prop": "hình bát giác",
+      "Key": "B",
+      "IBW": "D",
+      "Nhân vật": [
+        "Aurora"
+      ],
+      "Scene": "16"
+    },
+    "_title": "16",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-81ed-962a-c6c9497fa355"
+  },
+  {
+    "id": "2dfccb0e-ac88-81e3-bd35-d06f42ca4743",
+    "created_time": "2026-01-05T03:51:00.000Z",
+    "last_edited_time": "2026-01-19T04:55:00.000Z",
+    "properties": {
+      "Comp": [],
+      "FX": "",
+      "Đã có prop": false,
+      "Combo": null,
+      "Note anim": "",
+      "Layout": "Cần LO trước",
+      "Prop & mô tả prop": " quả bóng đá",
+      "Key": "D",
+      "IBW": "E",
+      "Nhân vật": [
+        "Mosse",
+        "BlueberryCat",
+        "Genevie",
+        "Cherrycat",
+        "Gembugs"
+      ],
+      "Scene": "51"
+    },
+    "_title": "51",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-81ed-962a-c6c9497fa355"
+  },
+  {
+    "id": "2dfccb0e-ac88-81e6-84d9-d4822ecb8bb2",
+    "created_time": "2026-01-05T03:51:00.000Z",
+    "last_edited_time": "2026-01-19T04:55:00.000Z",
+    "properties": {
+      "Comp": [],
+      "FX": "",
+      "Đã có prop": false,
+      "Combo": null,
+      "Note anim": "",
+      "Layout": null,
+      "Prop & mô tả prop": "",
+      "Key": "D",
+      "IBW": "D",
+      "Nhân vật": [
+        "Mosse",
+        "BlueberryCat",
+        "Genevie",
+        "Cherrycat"
+      ],
+      "Scene": "72"
+    },
+    "_title": "72",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-81ed-962a-c6c9497fa355"
+  },
+  {
+    "id": "2dfccb0e-ac88-81e6-b38a-d3be5adcf6e0",
+    "created_time": "2026-01-05T03:51:00.000Z",
+    "last_edited_time": "2026-01-19T04:55:00.000Z",
+    "properties": {
+      "Comp": [
+        "Speedline"
+      ],
+      "FX": "",
+      "Đã có prop": false,
+      "Combo": null,
+      "Note anim": "",
+      "Layout": null,
+      "Prop & mô tả prop": "",
+      "Key": "Omiited",
+      "IBW": "Omiited",
+      "Nhân vật": [],
+      "Scene": "44"
+    },
+    "_title": "44",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-81ed-962a-c6c9497fa355"
+  },
+  {
+    "id": "2dfccb0e-ac88-81ed-a49b-c774d3b91348",
+    "created_time": "2026-01-05T03:51:00.000Z",
+    "last_edited_time": "2026-01-19T04:55:00.000Z",
+    "properties": {
+      "Comp": [],
+      "FX": "phép thuật\nkhói",
+      "Đã có prop": false,
+      "Combo": null,
+      "Note anim": "",
+      "Layout": null,
+      "Prop & mô tả prop": "vạc\nđĩa",
+      "Key": "B",
+      "IBW": "D",
+      "Nhân vật": [
+        "Aurora",
+        "BlueberryCat",
+        "Cherrycat",
+        "Genevie",
+        "Mosse",
+        "Gembugs biến hình"
+      ],
+      "Scene": "11"
+    },
+    "_title": "11",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-81ed-962a-c6c9497fa355"
+  },
+  {
+    "id": "2dfccb0e-ac88-81f2-a210-de3286fddf63",
+    "created_time": "2026-01-05T03:51:00.000Z",
+    "last_edited_time": "2026-01-19T04:55:00.000Z",
+    "properties": {
+      "Comp": [],
+      "FX": "",
+      "Đã có prop": false,
+      "Combo": null,
+      "Note anim": "",
+      "Layout": null,
+      "Prop & mô tả prop": "xe",
+      "Key": "B",
+      "IBW": "D",
+      "Nhân vật": [
+        "Mosse",
+        "BlueberryCat",
+        "Genevie",
+        "Cherrycat",
+        "Gembugs"
+      ],
+      "Scene": "60"
+    },
+    "_title": "60",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-81ed-962a-c6c9497fa355"
+  },
+  {
+    "id": "2dfccb0e-ac88-81f6-b6c1-f7e0313ff6a7",
+    "created_time": "2026-01-05T03:51:00.000Z",
+    "last_edited_time": "2026-01-19T04:55:00.000Z",
+    "properties": {
+      "Comp": [],
+      "FX": "",
+      "Đã có prop": false,
+      "Combo": null,
+      "Note anim": "",
+      "Layout": "Cần LO trước",
+      "Prop & mô tả prop": "vạc\nô tô",
+      "Key": "C",
+      "IBW": "E",
+      "Nhân vật": [
+        "Genevie",
+        "Aurora"
+      ],
+      "Scene": "08"
+    },
+    "_title": "08",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-81ed-962a-c6c9497fa355"
+  },
+  {
+    "id": "2dfccb0e-ac88-81f7-ab9f-e22302673c28",
+    "created_time": "2026-01-05T03:51:00.000Z",
+    "last_edited_time": "2026-01-19T04:55:00.000Z",
+    "properties": {
+      "Comp": [],
+      "FX": "",
+      "Đã có prop": false,
+      "Combo": null,
+      "Note anim": "anim cửa",
+      "Layout": "Cần LO trước",
+      "Prop & mô tả prop": "cửa mở ra đóng vào",
+      "Key": "B",
+      "IBW": "D",
+      "Nhân vật": [
+        "Mosse",
+        "BlueberryCat",
+        "Genevie",
+        "Cherrycat",
+        "Gembugs",
+        "C4tr0n"
+      ],
+      "Scene": "43"
+    },
+    "_title": "43",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-81ed-962a-c6c9497fa355"
+  },
+  {
+    "id": "2dfccb0e-ac88-81fb-98a8-c2966c1d85ac",
+    "created_time": "2026-01-05T03:51:00.000Z",
+    "last_edited_time": "2026-01-19T04:55:00.000Z",
+    "properties": {
+      "Comp": [],
+      "FX": "",
+      "Đã có prop": false,
+      "Combo": null,
+      "Note anim": "",
+      "Layout": "Cần LO trước",
+      "Prop & mô tả prop": " quả bóng đá",
+      "Key": "D",
+      "IBW": "E",
+      "Nhân vật": [
+        "Mosse",
+        "BlueberryCat",
+        "Jasper"
+      ],
+      "Scene": "59"
+    },
+    "_title": "59",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-81ed-962a-c6c9497fa355"
+  },
+  {
+    "id": "2dfccb0e-ac88-81fb-afaa-e9fbddb0b031",
+    "created_time": "2026-01-05T03:51:00.000Z",
+    "last_edited_time": "2026-01-19T04:55:00.000Z",
+    "properties": {
+      "Comp": [],
+      "FX": "phép thuật",
+      "Đã có prop": false,
+      "Combo": null,
+      "Note anim": "",
+      "Layout": null,
+      "Prop & mô tả prop": "hình bát giác",
+      "Key": "D",
+      "IBW": "E",
+      "Nhân vật": [
+        "Aurora"
+      ],
+      "Scene": "15"
+    },
+    "_title": "15",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-81ed-962a-c6c9497fa355"
+  },
+  {
+    "id": "2dfccb0e-ac88-81fc-9280-ddc639ea2422",
+    "created_time": "2026-01-05T03:51:00.000Z",
+    "last_edited_time": "2026-01-19T04:55:00.000Z",
+    "properties": {
+      "Comp": [],
+      "FX": "",
+      "Đã có prop": false,
+      "Combo": null,
+      "Note anim": "",
+      "Layout": "Cần LO trước",
+      "Prop & mô tả prop": " quả bóng đá",
+      "Key": "E",
+      "IBW": "E",
+      "Nhân vật": [
+        "BlueberryCat",
+        "Cherrycat"
+      ],
+      "Scene": "54"
+    },
+    "_title": "54",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-81ed-962a-c6c9497fa355"
+  },
+  {
+    "id": "2dfccb0e-ac88-81fe-807d-cf6fc8885b26",
+    "created_time": "2026-01-05T03:51:00.000Z",
+    "last_edited_time": "2026-01-19T04:55:00.000Z",
+    "properties": {
+      "Comp": [],
+      "FX": "",
+      "Đã có prop": false,
+      "Combo": null,
+      "Note anim": "",
+      "Layout": "Cần LO trước",
+      "Prop & mô tả prop": "hộp pizza",
+      "Key": "C",
+      "IBW": "E",
+      "Nhân vật": [
+        "C4tr0n",
+        "Genevie",
+        "BlueberryCat",
+        "Gembugs biến hình"
+      ],
+      "Scene": "31"
+    },
+    "_title": "31",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-81ed-962a-c6c9497fa355"
+  }
+]

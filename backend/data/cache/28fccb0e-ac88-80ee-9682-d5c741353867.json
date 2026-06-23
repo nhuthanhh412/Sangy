@@ -1,0 +1,172 @@
+[
+  {
+    "id": "28fccb0e-ac88-8030-b8d7-f7bc206da125",
+    "created_time": "2025-10-17T04:00:00.000Z",
+    "last_edited_time": "2025-11-11T06:43:00.000Z",
+    "properties": {
+      "Episode": "EP 01",
+      "Task count ": 1,
+      "Total Fixed": 0,
+      "Required by": null,
+      "Owner": [],
+      "Loại cảnh": "A",
+      "Status": "QC Approved",
+      "Tasks ": [
+        "28fccb0e-ac88-80ab-b6bd-de323288e2ba"
+      ],
+      "Task Create": null,
+      "Task count + 1": 2,
+      "Total Main": 0,
+      "Point Status": "Confirmed",
+      "Product point": 50,
+      "Check task done": null,
+      "Due Date": null,
+      "Product type": "Background",
+      "Total QC": 1,
+      "Product": "1"
+    },
+    "_title": "1",
+    "database_name": "[Test n8n] Product (1)",
+    "project_name": "[Test n8n] Product (1)",
+    "database_id": "28fccb0e-ac88-80ee-9682-d5c741353867"
+  },
+  {
+    "id": "28fccb0e-ac88-8088-80fc-f1c9c82a2842",
+    "created_time": "2025-10-17T04:00:00.000Z",
+    "last_edited_time": "2025-11-13T02:12:00.000Z",
+    "properties": {
+      "Episode": "EP 01",
+      "Task count ": 0,
+      "Total Fixed": 0,
+      "Required by": null,
+      "Owner": [],
+      "Loại cảnh": "S",
+      "Status": "Pending Review",
+      "Tasks ": [],
+      "Task Create": null,
+      "Task count + 1": 1,
+      "Total Main": null,
+      "Point Status": "Unconfirmed",
+      "Product point": 60,
+      "Check task done": null,
+      "Due Date": null,
+      "Product type": "Background",
+      "Total QC": 0,
+      "Product": "2"
+    },
+    "_title": "2",
+    "database_name": "[Test n8n] Product (1)",
+    "project_name": "[Test n8n] Product (1)",
+    "database_id": "28fccb0e-ac88-80ee-9682-d5c741353867"
+  },
+  {
+    "id": "28fccb0e-ac88-80c7-8730-ff60438acd22",
+    "created_time": "2025-10-17T04:00:00.000Z",
+    "last_edited_time": "2025-11-11T08:38:00.000Z",
+    "properties": {
+      "Episode": "EP 01",
+      "Task count ": 1,
+      "Total Fixed": 0,
+      "Required by": "Internal",
+      "Owner": [
+        {
+          "id": "a4759bda-297c-47c5-8ab7-6a1e4ca0f526",
+          "name": "Thu Lê",
+          "email": "thulh@sangygroup.com"
+        }
+      ],
+      "Loại cảnh": "D",
+      "Status": "Need Fix",
+      "Tasks ": [
+        "28fccb0e-ac88-8071-bf23-d0168123fe1d"
+      ],
+      "Task Create": null,
+      "Task count + 1": 2,
+      "Total Main": 0,
+      "Point Status": "Unconfirmed",
+      "Product point": 14,
+      "Check task done": null,
+      "Due Date": null,
+      "Product type": "Inbetween",
+      "Total QC": 0,
+      "Product": "4"
+    },
+    "_title": "4",
+    "database_name": "[Test n8n] Product (1)",
+    "project_name": "[Test n8n] Product (1)",
+    "database_id": "28fccb0e-ac88-80ee-9682-d5c741353867"
+  },
+  {
+    "id": "28fccb0e-ac88-80e2-b5a5-c7938f1f2ea5",
+    "created_time": "2025-10-17T04:00:00.000Z",
+    "last_edited_time": "2025-11-11T06:43:00.000Z",
+    "properties": {
+      "Episode": null,
+      "Task count ": 1,
+      "Total Fixed": 0,
+      "Required by": null,
+      "Owner": [],
+      "Loại cảnh": "A",
+      "Status": "QC Approved",
+      "Tasks ": [
+        "28fccb0e-ac88-805e-8a60-e7e463edef91"
+      ],
+      "Task Create": null,
+      "Task count + 1": 2,
+      "Total Main": 0,
+      "Point Status": "Confirmed",
+      "Product point": 50,
+      "Check task done": null,
+      "Due Date": null,
+      "Product type": "Comp",
+      "Total QC": 1,
+      "Product": "3"
+    },
+    "_title": "3",
+    "database_name": "[Test n8n] Product (1)",
+    "project_name": "[Test n8n] Product (1)",
+    "database_id": "28fccb0e-ac88-80ee-9682-d5c741353867"
+  },
+  {
+    "id": "2e0ccb0e-ac88-803c-8bf4-fd9580c2ad05",
+    "created_time": "2026-01-06T03:15:00.000Z",
+    "last_edited_time": "2026-01-06T03:20:00.000Z",
+    "properties": {
+      "Episode": null,
+      "Task count ": 6,
+      "Total Fixed": 0,
+      "Required by": null,
+      "Owner": [
+        {
+          "id": "134d872b-594c-8101-981a-0002a8c4661d",
+          "name": "Lê Thịnh",
+          "email": "thinhlv@sangygroup.com"
+        }
+      ],
+      "Loại cảnh": "A",
+      "Status": "Pending Review",
+      "Tasks ": [
+        "2e0ccb0e-ac88-8097-bfea-ec0cd484bc8c",
+        "2e0ccb0e-ac88-81e8-863a-ea06e015a794",
+        "2e0ccb0e-ac88-81f7-bfb5-f5e7790a9050",
+        "2e0ccb0e-ac88-813c-bc47-c9612ab4add1",
+        "2e0ccb0e-ac88-81cb-bbc8-f7b74b85eca6",
+        "2e0ccb0e-ac88-817c-8ce6-c2b41d4b76ef"
+      ],
+      "Task Create": null,
+      "Task count + 1": 7,
+      "Total Main": 1,
+      "Point Status": "Unconfirmed",
+      "Product point": 50,
+      "Check task done": null,
+      "Due Date": null,
+      "Product type": "SP",
+      "Total QC": 5,
+      "Product": "5"
+    },
+    "_title": "5",
+    "database_name": "[Test n8n] Product (1)",
+    "project_name": "[Test n8n] Product (1)",
+    "database_id": "28fccb0e-ac88-80ee-9682-d5c741353867"
+  }
+]

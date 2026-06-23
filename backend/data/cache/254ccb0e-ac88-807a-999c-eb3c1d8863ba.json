@@ -1,0 +1,1993 @@
+[
+  {
+    "id": "27fccb0e-ac88-801c-9aeb-c3390eb08af3",
+    "created_time": "2025-10-01T04:00:00.000Z",
+    "last_edited_time": "2025-12-24T04:19:00.000Z",
+    "properties": {
+      "Product ": [
+        "27fccb0e-ac88-8068-8848-d99718d2987a"
+      ],
+      "Task main": "2",
+      "Task QC": "2/6",
+      "Run n8n": false,
+      "TP giả định": 20.69,
+      "Trọng số TP": 1,
+      "Product Type": [
+        "Keyframe"
+      ],
+      "[Dev] Total main": 1,
+      "Task type": "Main",
+      "Product Status": [
+        "Pending Review"
+      ],
+      "Task Status": "Done",
+      "Episode": [
+        "EP 01"
+      ],
+      "Done Date": null,
+      "Product Point": [
+        60
+      ],
+      "TP giả định 2": 24,
+      "Assignee": [
+        {
+          "id": "c206b06c-81cf-4010-81e4-3d725774afdd",
+          "name": "Unknown User",
+          "email": null
+        }
+      ],
+      "TP thực tế": 20.69,
+      "Task fix": "2/6",
+      "Created time": null,
+      "Tasks": "Key 003 ver1",
+      "Sprint": [
+        "254ccb0e-ac88-80ac-8317-ecfb8f6e8401"
+      ]
+    },
+    "_title": "Key 003 ver1",
+    "database_name": "[Demo] Tasks ",
+    "project_name": "[Demo] Tasks",
+    "database_id": "254ccb0e-ac88-807a-999c-eb3c1d8863ba"
+  },
+  {
+    "id": "27fccb0e-ac88-801c-a44d-d3ca5bc89d8f",
+    "created_time": "2025-10-01T07:14:00.000Z",
+    "last_edited_time": "2025-12-24T04:19:00.000Z",
+    "properties": {
+      "Product ": [
+        "27fccb0e-ac88-80b7-b3a1-fbd78f6b0244"
+      ],
+      "Task main": "3",
+      "Task QC": "2/6",
+      "Run n8n": false,
+      "TP giả định": 6.94,
+      "Trọng số TP": 1,
+      "Product Type": [
+        "Keyframe"
+      ],
+      "[Dev] Total main": 1,
+      "Task type": "Main",
+      "Product Status": [
+        "Pending Review"
+      ],
+      "Task Status": "Done",
+      "Episode": [
+        "EP 01"
+      ],
+      "Done Date": null,
+      "Product Point": [
+        25
+      ],
+      "TP giả định 2": 10,
+      "Assignee": [
+        {
+          "id": "38ad2754-5cc0-4675-ba8c-bab49ef690d9",
+          "name": "Trinh Ngụy",
+          "email": "production@deedeestudio.net"
+        }
+      ],
+      "TP thực tế": 6.94,
+      "Task fix": "1/6",
+      "Created time": null,
+      "Tasks": "Key 006 ver3",
+      "Sprint": [
+        "254ccb0e-ac88-80ac-8317-ecfb8f6e8401"
+      ]
+    },
+    "_title": "Key 006 ver3",
+    "database_name": "[Demo] Tasks ",
+    "project_name": "[Demo] Tasks",
+    "database_id": "254ccb0e-ac88-807a-999c-eb3c1d8863ba"
+  },
+  {
+    "id": "27fccb0e-ac88-802b-9bdc-d6c702ceeb69",
+    "created_time": "2025-10-01T07:08:00.000Z",
+    "last_edited_time": "2025-12-24T04:19:00.000Z",
+    "properties": {
+      "Product ": [
+        "27fccb0e-ac88-8068-8848-d99718d2987a"
+      ],
+      "Task main": "2",
+      "Task QC": "2/6",
+      "Run n8n": false,
+      "TP giả định": 5.14,
+      "Trọng số TP": 0.3,
+      "Product Type": [
+        "Keyframe"
+      ],
+      "[Dev] Total main": 0,
+      "Task type": "Fix",
+      "Product Status": [
+        "Pending Review"
+      ],
+      "Task Status": "Done",
+      "Episode": [
+        "EP 01"
+      ],
+      "Done Date": null,
+      "Product Point": [
+        60
+      ],
+      "TP giả định 2": 7.2,
+      "Assignee": [
+        {
+          "id": "c206b06c-81cf-4010-81e4-3d725774afdd",
+          "name": "Unknown User",
+          "email": null
+        }
+      ],
+      "TP thực tế": 6.21,
+      "Task fix": "2/6",
+      "Created time": null,
+      "Tasks": "Key 003 ver4",
+      "Sprint": [
+        "254ccb0e-ac88-80ac-8317-ecfb8f6e8401"
+      ]
+    },
+    "_title": "Key 003 ver4",
+    "database_name": "[Demo] Tasks ",
+    "project_name": "[Demo] Tasks",
+    "database_id": "254ccb0e-ac88-807a-999c-eb3c1d8863ba"
+  },
+  {
+    "id": "27fccb0e-ac88-8031-83fa-dd32d241b76c",
+    "created_time": "2025-10-01T08:48:00.000Z",
+    "last_edited_time": "2025-12-24T04:19:00.000Z",
+    "properties": {
+      "Product ": [
+        "27fccb0e-ac88-80fe-aad7-c5e7d2f0d9ca"
+      ],
+      "Task main": "2",
+      "Task QC": "0/2",
+      "Run n8n": false,
+      "TP giả định": 30,
+      "Trọng số TP": 1,
+      "Product Type": [
+        "Keyframe"
+      ],
+      "[Dev] Total main": 1,
+      "Task type": "Main",
+      "Product Status": [
+        "Pending Review"
+      ],
+      "Task Status": "Done",
+      "Episode": [
+        {
+          "type": "select",
+          "select": null
+        }
+      ],
+      "Done Date": null,
+      "Product Point": [
+        60
+      ],
+      "TP giả định 2": 24,
+      "Assignee": [
+        {
+          "id": "c206b06c-81cf-4010-81e4-3d725774afdd",
+          "name": "Unknown User",
+          "email": null
+        }
+      ],
+      "TP thực tế": 30,
+      "Task fix": "0/2",
+      "Created time": null,
+      "Tasks": "Key 007 ver1",
+      "Sprint": [
+        "254ccb0e-ac88-80ac-8317-ecfb8f6e8401"
+      ]
+    },
+    "_title": "Key 007 ver1",
+    "database_name": "[Demo] Tasks ",
+    "project_name": "[Demo] Tasks",
+    "database_id": "254ccb0e-ac88-807a-999c-eb3c1d8863ba"
+  },
+  {
+    "id": "27fccb0e-ac88-8039-aeed-e4f2826fa667",
+    "created_time": "2025-10-01T04:00:00.000Z",
+    "last_edited_time": "2025-12-24T04:19:00.000Z",
+    "properties": {
+      "Product ": [
+        "27fccb0e-ac88-8068-8848-d99718d2987a"
+      ],
+      "Task main": "2",
+      "Task QC": "2/6",
+      "Run n8n": false,
+      "TP giả định": 5.14,
+      "Trọng số TP": 0.3,
+      "Product Type": [
+        "Keyframe"
+      ],
+      "[Dev] Total main": 0,
+      "Task type": "Fix",
+      "Product Status": [
+        "Pending Review"
+      ],
+      "Task Status": "Done",
+      "Episode": [
+        "EP 01"
+      ],
+      "Done Date": null,
+      "Product Point": [
+        60
+      ],
+      "TP giả định 2": 7.2,
+      "Assignee": [
+        {
+          "id": "c206b06c-81cf-4010-81e4-3d725774afdd",
+          "name": "Unknown User",
+          "email": null
+        }
+      ],
+      "TP thực tế": 6.21,
+      "Task fix": "2/6",
+      "Created time": null,
+      "Tasks": "Key 003 ver2",
+      "Sprint": [
+        "254ccb0e-ac88-80ac-8317-ecfb8f6e8401"
+      ]
+    },
+    "_title": "Key 003 ver2",
+    "database_name": "[Demo] Tasks ",
+    "project_name": "[Demo] Tasks",
+    "database_id": "254ccb0e-ac88-807a-999c-eb3c1d8863ba"
+  },
+  {
+    "id": "27fccb0e-ac88-8044-a7c8-e953e9e8bdc6",
+    "created_time": "2025-10-01T07:13:00.000Z",
+    "last_edited_time": "2025-12-24T04:19:00.000Z",
+    "properties": {
+      "Product ": [
+        "27fccb0e-ac88-80b7-b3a1-fbd78f6b0244"
+      ],
+      "Task main": "3",
+      "Task QC": "2/6",
+      "Run n8n": false,
+      "TP giả định": 6.94,
+      "Trọng số TP": 1,
+      "Product Type": [
+        "Keyframe"
+      ],
+      "[Dev] Total main": 1,
+      "Task type": "Main",
+      "Product Status": [
+        "Pending Review"
+      ],
+      "Task Status": "Done",
+      "Episode": [
+        "EP 01"
+      ],
+      "Done Date": null,
+      "Product Point": [
+        25
+      ],
+      "TP giả định 2": 10,
+      "Assignee": [
+        {
+          "id": "c206b06c-81cf-4010-81e4-3d725774afdd",
+          "name": "Unknown User",
+          "email": null
+        }
+      ],
+      "TP thực tế": 6.94,
+      "Task fix": "1/6",
+      "Created time": null,
+      "Tasks": "Key 006 ver1",
+      "Sprint": [
+        "254ccb0e-ac88-80ac-8317-ecfb8f6e8401"
+      ]
+    },
+    "_title": "Key 006 ver1",
+    "database_name": "[Demo] Tasks ",
+    "project_name": "[Demo] Tasks",
+    "database_id": "254ccb0e-ac88-807a-999c-eb3c1d8863ba"
+  },
+  {
+    "id": "27fccb0e-ac88-8068-be0f-ee933aa980a2",
+    "created_time": "2025-10-01T04:00:00.000Z",
+    "last_edited_time": "2025-12-24T04:19:00.000Z",
+    "properties": {
+      "Product ": [
+        "27fccb0e-ac88-8068-8848-d99718d2987a"
+      ],
+      "Task main": "2",
+      "Task QC": "2/6",
+      "Run n8n": false,
+      "TP giả định": 2.57,
+      "Trọng số TP": 0.15,
+      "Product Type": [
+        "Keyframe"
+      ],
+      "[Dev] Total main": 0,
+      "Task type": "QC",
+      "Product Status": [
+        "Pending Review"
+      ],
+      "Task Status": "Done",
+      "Episode": [
+        "EP 01"
+      ],
+      "Done Date": null,
+      "Product Point": [
+        60
+      ],
+      "TP giả định 2": 3.6,
+      "Assignee": [
+        {
+          "id": "c206b06c-81cf-4010-81e4-3d725774afdd",
+          "name": "Unknown User",
+          "email": null
+        }
+      ],
+      "TP thực tế": 3.1,
+      "Task fix": "2/6",
+      "Created time": null,
+      "Tasks": "Key 003 ver3",
+      "Sprint": [
+        "254ccb0e-ac88-80ac-8317-ecfb8f6e8401"
+      ]
+    },
+    "_title": "Key 003 ver3",
+    "database_name": "[Demo] Tasks ",
+    "project_name": "[Demo] Tasks",
+    "database_id": "254ccb0e-ac88-807a-999c-eb3c1d8863ba"
+  },
+  {
+    "id": "27fccb0e-ac88-8091-84fb-de22f88a61f4",
+    "created_time": "2025-10-01T07:15:00.000Z",
+    "last_edited_time": "2025-12-24T04:19:00.000Z",
+    "properties": {
+      "Product ": [
+        "27fccb0e-ac88-80b7-b3a1-fbd78f6b0244"
+      ],
+      "Task main": "3",
+      "Task QC": "2/6",
+      "Run n8n": false,
+      "TP giả định": 1.67,
+      "Trọng số TP": 0.3,
+      "Product Type": [
+        "Keyframe"
+      ],
+      "[Dev] Total main": 0,
+      "Task type": "Fix",
+      "Product Status": [
+        "Pending Review"
+      ],
+      "Task Status": "Done",
+      "Episode": [
+        "EP 01"
+      ],
+      "Done Date": null,
+      "Product Point": [
+        25
+      ],
+      "TP giả định 2": 3,
+      "Assignee": [
+        {
+          "id": "c206b06c-81cf-4010-81e4-3d725774afdd",
+          "name": "Unknown User",
+          "email": null
+        }
+      ],
+      "TP thực tế": 2.08,
+      "Task fix": "1/6",
+      "Created time": null,
+      "Tasks": "Key 006 ver2",
+      "Sprint": [
+        "254ccb0e-ac88-80ac-8317-ecfb8f6e8401"
+      ]
+    },
+    "_title": "Key 006 ver2",
+    "database_name": "[Demo] Tasks ",
+    "project_name": "[Demo] Tasks",
+    "database_id": "254ccb0e-ac88-807a-999c-eb3c1d8863ba"
+  },
+  {
+    "id": "27fccb0e-ac88-815f-9b79-c6f9ab423d10",
+    "created_time": "2025-10-01T07:08:00.000Z",
+    "last_edited_time": "2025-12-24T04:19:00.000Z",
+    "properties": {
+      "Product ": [
+        "27fccb0e-ac88-8068-8848-d99718d2987a"
+      ],
+      "Task main": "2",
+      "Task QC": "2/6",
+      "Run n8n": false,
+      "TP giả định": 2.57,
+      "Trọng số TP": 0.15,
+      "Product Type": [
+        "Keyframe"
+      ],
+      "[Dev] Total main": 0,
+      "Task type": "QC",
+      "Product Status": [
+        "Pending Review"
+      ],
+      "Task Status": "Done QC",
+      "Episode": [
+        "EP 01"
+      ],
+      "Done Date": null,
+      "Product Point": [
+        60
+      ],
+      "TP giả định 2": 3.6,
+      "Assignee": [
+        {
+          "id": "38ad2754-5cc0-4675-ba8c-bab49ef690d9",
+          "name": "Trinh Ngụy",
+          "email": "production@deedeestudio.net"
+        }
+      ],
+      "TP thực tế": 3.1,
+      "Task fix": "2/6",
+      "Created time": null,
+      "Tasks": "Key 003 ver6",
+      "Sprint": [
+        "254ccb0e-ac88-80ac-8317-ecfb8f6e8401"
+      ]
+    },
+    "_title": "Key 003 ver6",
+    "database_name": "[Demo] Tasks ",
+    "project_name": "[Demo] Tasks",
+    "database_id": "254ccb0e-ac88-807a-999c-eb3c1d8863ba"
+  },
+  {
+    "id": "27fccb0e-ac88-816d-bafd-ec82e23a809d",
+    "created_time": "2025-10-01T07:14:00.000Z",
+    "last_edited_time": "2025-12-24T04:19:00.000Z",
+    "properties": {
+      "Product ": [
+        "27fccb0e-ac88-80b7-b3a1-fbd78f6b0244"
+      ],
+      "Task main": "3",
+      "Task QC": "2/6",
+      "Run n8n": false,
+      "TP giả định": 0.83,
+      "Trọng số TP": 0.15,
+      "Product Type": [
+        "Keyframe"
+      ],
+      "[Dev] Total main": 0,
+      "Task type": "QC",
+      "Product Status": [
+        "Pending Review"
+      ],
+      "Task Status": "Done QC",
+      "Episode": [
+        "EP 01"
+      ],
+      "Done Date": null,
+      "Product Point": [
+        25
+      ],
+      "TP giả định 2": 1.5,
+      "Assignee": [
+        {
+          "id": "38ad2754-5cc0-4675-ba8c-bab49ef690d9",
+          "name": "Trinh Ngụy",
+          "email": "production@deedeestudio.net"
+        }
+      ],
+      "TP thực tế": 1.04,
+      "Task fix": "1/6",
+      "Created time": null,
+      "Tasks": "Key 006 ver2",
+      "Sprint": [
+        "254ccb0e-ac88-80ac-8317-ecfb8f6e8401"
+      ]
+    },
+    "_title": "Key 006 ver2",
+    "database_name": "[Demo] Tasks ",
+    "project_name": "[Demo] Tasks",
+    "database_id": "254ccb0e-ac88-807a-999c-eb3c1d8863ba"
+  },
+  {
+    "id": "27fccb0e-ac88-81f8-8294-d91eacdf2793",
+    "created_time": "2025-10-01T07:00:00.000Z",
+    "last_edited_time": "2025-12-24T04:19:00.000Z",
+    "properties": {
+      "Product ": [
+        "26bccb0e-ac88-801e-afa5-db8ab463ee41"
+      ],
+      "Task main": "0",
+      "Task QC": "1/1",
+      "Run n8n": false,
+      "TP giả định": 6,
+      "Trọng số TP": 0.15,
+      "Product Type": [
+        "Keyframe"
+      ],
+      "[Dev] Total main": 0,
+      "Task type": "QC",
+      "Product Status": [
+        "Not started"
+      ],
+      "Task Status": "Done QC",
+      "Episode": [
+        "EP 01"
+      ],
+      "Done Date": null,
+      "Product Point": [
+        60
+      ],
+      "TP giả định 2": 3.6,
+      "Assignee": [
+        {
+          "id": "38ad2754-5cc0-4675-ba8c-bab49ef690d9",
+          "name": "Trinh Ngụy",
+          "email": "production@deedeestudio.net"
+        }
+      ],
+      "TP thực tế": 60,
+      "Task fix": "0/1",
+      "Created time": null,
+      "Tasks": "Key 001 ver3",
+      "Sprint": [
+        "254ccb0e-ac88-80ac-8317-ecfb8f6e8401"
+      ]
+    },
+    "_title": "Key 001 ver3",
+    "database_name": "[Demo] Tasks ",
+    "project_name": "[Demo] Tasks",
+    "database_id": "254ccb0e-ac88-807a-999c-eb3c1d8863ba"
+  },
+  {
+    "id": "27fccb0e-ac88-81fd-91ec-ee54a31505b7",
+    "created_time": "2025-10-01T07:17:00.000Z",
+    "last_edited_time": "2025-12-24T04:19:00.000Z",
+    "properties": {
+      "Product ": [
+        "27fccb0e-ac88-80b7-b3a1-fbd78f6b0244"
+      ],
+      "Task main": "3",
+      "Task QC": "2/6",
+      "Run n8n": false,
+      "TP giả định": 0.83,
+      "Trọng số TP": 0.15,
+      "Product Type": [
+        "Keyframe"
+      ],
+      "[Dev] Total main": 0,
+      "Task type": "QC",
+      "Product Status": [
+        "Pending Review"
+      ],
+      "Task Status": "Done QC",
+      "Episode": [
+        "EP 01"
+      ],
+      "Done Date": null,
+      "Product Point": [
+        25
+      ],
+      "TP giả định 2": 1.5,
+      "Assignee": [
+        {
+          "id": "38ad2754-5cc0-4675-ba8c-bab49ef690d9",
+          "name": "Trinh Ngụy",
+          "email": "production@deedeestudio.net"
+        }
+      ],
+      "TP thực tế": 1.04,
+      "Task fix": "1/6",
+      "Created time": null,
+      "Tasks": "Key 006 ver6",
+      "Sprint": [
+        "254ccb0e-ac88-80ac-8317-ecfb8f6e8401"
+      ]
+    },
+    "_title": "Key 006 ver6",
+    "database_name": "[Demo] Tasks ",
+    "project_name": "[Demo] Tasks",
+    "database_id": "254ccb0e-ac88-807a-999c-eb3c1d8863ba"
+  },
+  {
+    "id": "28fccb0e-ac88-81da-8151-ef71fd9598cf",
+    "created_time": "2025-10-17T04:00:00.000Z",
+    "last_edited_time": "2025-10-17T04:00:00.000Z",
+    "properties": {
+      "Product ": [],
+      "Task main": null,
+      "Task QC": null,
+      "Run n8n": false,
+      "TP giả định": 0,
+      "Trọng số TP": 0.15,
+      "Product Type": null,
+      "[Dev] Total main": 0,
+      "Task type": "QC",
+      "Product Status": null,
+      "Task Status": "Done QC",
+      "Episode": null,
+      "Done Date": null,
+      "Product Point": null,
+      "TP giả định 2": 0,
+      "Assignee": [
+        {
+          "id": "134d872b-594c-8101-981a-0002a8c4661d",
+          "name": "Lê Thịnh",
+          "email": "thinhlv@sangygroup.com"
+        }
+      ],
+      "TP thực tế": 0,
+      "Task fix": null,
+      "Created time": null,
+      "Tasks": "",
+      "Sprint": []
+    },
+    "_title": "",
+    "database_name": "[Demo] Tasks ",
+    "project_name": "[Demo] Tasks",
+    "database_id": "254ccb0e-ac88-807a-999c-eb3c1d8863ba"
+  },
+  {
+    "id": "29accb0e-ac88-80c9-ae1a-f3b6f46afae5",
+    "created_time": "2025-10-28T02:37:00.000Z",
+    "last_edited_time": "2025-12-24T04:19:00.000Z",
+    "properties": {
+      "Product ": [
+        "29accb0e-ac88-80b1-89ff-eb83b4fce2fa"
+      ],
+      "Task main": "2",
+      "Task QC": "0/2",
+      "Run n8n": false,
+      "TP giả định": 30,
+      "Trọng số TP": 1,
+      "Product Type": [
+        "Keyframe"
+      ],
+      "[Dev] Total main": 1,
+      "Task type": "Main",
+      "Product Status": [
+        "Pending Review"
+      ],
+      "Task Status": "Done",
+      "Episode": [
+        {
+          "type": "select",
+          "select": null
+        }
+      ],
+      "Done Date": null,
+      "Product Point": [
+        60
+      ],
+      "TP giả định 2": 24,
+      "Assignee": [
+        {
+          "id": "c206b06c-81cf-4010-81e4-3d725774afdd",
+          "name": "Unknown User",
+          "email": null
+        }
+      ],
+      "TP thực tế": 30,
+      "Task fix": "0/2",
+      "Created time": null,
+      "Tasks": "Key 008 ver1",
+      "Sprint": [
+        "254ccb0e-ac88-80ac-8317-ecfb8f6e8401"
+      ]
+    },
+    "_title": "Key 008 ver1",
+    "database_name": "[Demo] Tasks ",
+    "project_name": "[Demo] Tasks",
+    "database_id": "254ccb0e-ac88-807a-999c-eb3c1d8863ba"
+  },
+  {
+    "id": "2dfccb0e-ac88-8021-8934-fbf7790d9205",
+    "created_time": "2026-01-05T07:21:00.000Z",
+    "last_edited_time": "2026-01-05T07:22:00.000Z",
+    "properties": {
+      "Product ": [
+        "2dfccb0e-ac88-801c-9580-f375074aa6e4"
+      ],
+      "Task main": "1",
+      "Task QC": "1/3",
+      "Run n8n": false,
+      "TP giả định": 34.48,
+      "Trọng số TP": 1,
+      "Product Type": [
+        "Keyframe"
+      ],
+      "[Dev] Total main": 1,
+      "Task type": "Main",
+      "Product Status": [
+        "Need Fix Client"
+      ],
+      "Task Status": "Done",
+      "Episode": [
+        "EP 03"
+      ],
+      "Done Date": null,
+      "Product Point": [
+        50
+      ],
+      "TP giả định 2": 20,
+      "Assignee": [
+        {
+          "id": "a4759bda-297c-47c5-8ab7-6a1e4ca0f526",
+          "name": "Thu Lê",
+          "email": "thulh@sangygroup.com"
+        }
+      ],
+      "TP thực tế": 34.48,
+      "Task fix": "1/3",
+      "Created time": null,
+      "Tasks": "Thu test 4 ver3",
+      "Sprint": [
+        "254ccb0e-ac88-80ac-8317-ecfb8f6e8401"
+      ]
+    },
+    "_title": "Thu test 4 ver3",
+    "database_name": "[Demo] Tasks ",
+    "project_name": "[Demo] Tasks",
+    "database_id": "254ccb0e-ac88-807a-999c-eb3c1d8863ba"
+  },
+  {
+    "id": "2dfccb0e-ac88-8049-ba15-e1efc0dc84f4",
+    "created_time": "2026-01-05T07:21:00.000Z",
+    "last_edited_time": "2026-01-05T07:22:00.000Z",
+    "properties": {
+      "Product ": [
+        "2dfccb0e-ac88-807e-a7fa-c877d0d31b98"
+      ],
+      "Task main": "1",
+      "Task QC": "2/4",
+      "Run n8n": false,
+      "TP giả định": 3,
+      "Trọng số TP": 0.3,
+      "Product Type": [
+        "Keyframe"
+      ],
+      "[Dev] Total main": 0,
+      "Task type": "Fix",
+      "Product Status": [
+        "Need Fix"
+      ],
+      "Task Status": "Done",
+      "Episode": [
+        "EP 03"
+      ],
+      "Done Date": null,
+      "Product Point": [
+        25
+      ],
+      "TP giả định 2": 3,
+      "Assignee": [
+        {
+          "id": "a4759bda-297c-47c5-8ab7-6a1e4ca0f526",
+          "name": "Thu Lê",
+          "email": "thulh@sangygroup.com"
+        }
+      ],
+      "TP thực tế": 4.69,
+      "Task fix": "1/4",
+      "Created time": null,
+      "Tasks": "Thu test 5 ver3",
+      "Sprint": [
+        "254ccb0e-ac88-80ac-8317-ecfb8f6e8401"
+      ]
+    },
+    "_title": "Thu test 5 ver3",
+    "database_name": "[Demo] Tasks ",
+    "project_name": "[Demo] Tasks",
+    "database_id": "254ccb0e-ac88-807a-999c-eb3c1d8863ba"
+  },
+  {
+    "id": "2dfccb0e-ac88-8089-99ff-c82b9b70ab4d",
+    "created_time": "2026-01-05T07:21:00.000Z",
+    "last_edited_time": "2026-01-05T07:21:00.000Z",
+    "properties": {
+      "Product ": [
+        "2dfccb0e-ac88-807e-a7fa-c877d0d31b98"
+      ],
+      "Task main": "1",
+      "Task QC": "2/4",
+      "Run n8n": false,
+      "TP giả định": 15.63,
+      "Trọng số TP": 1,
+      "Product Type": [
+        "Keyframe"
+      ],
+      "[Dev] Total main": 1,
+      "Task type": "Main",
+      "Product Status": [
+        "Need Fix"
+      ],
+      "Task Status": "Done",
+      "Episode": [
+        "EP 03"
+      ],
+      "Done Date": null,
+      "Product Point": [
+        25
+      ],
+      "TP giả định 2": 10,
+      "Assignee": [
+        {
+          "id": "a4759bda-297c-47c5-8ab7-6a1e4ca0f526",
+          "name": "Thu Lê",
+          "email": "thulh@sangygroup.com"
+        }
+      ],
+      "TP thực tế": 15.63,
+      "Task fix": "1/4",
+      "Created time": null,
+      "Tasks": "Thu test 5 ver1",
+      "Sprint": [
+        "254ccb0e-ac88-80ac-8317-ecfb8f6e8401"
+      ]
+    },
+    "_title": "Thu test 5 ver1",
+    "database_name": "[Demo] Tasks ",
+    "project_name": "[Demo] Tasks",
+    "database_id": "254ccb0e-ac88-807a-999c-eb3c1d8863ba"
+  },
+  {
+    "id": "2dfccb0e-ac88-8099-9cfc-ee73823d055f",
+    "created_time": "2026-01-05T07:21:00.000Z",
+    "last_edited_time": "2026-01-05T07:21:00.000Z",
+    "properties": {
+      "Product ": [
+        "2dfccb0e-ac88-801c-9580-f375074aa6e4"
+      ],
+      "Task main": "1",
+      "Task QC": "1/3",
+      "Run n8n": false,
+      "TP giả định": 6,
+      "Trọng số TP": 0.3,
+      "Product Type": [
+        "Keyframe"
+      ],
+      "[Dev] Total main": 0,
+      "Task type": "Fix",
+      "Product Status": [
+        "Need Fix Client"
+      ],
+      "Task Status": "Done",
+      "Episode": [
+        "EP 03"
+      ],
+      "Done Date": null,
+      "Product Point": [
+        50
+      ],
+      "TP giả định 2": 6,
+      "Assignee": [
+        {
+          "id": "a4759bda-297c-47c5-8ab7-6a1e4ca0f526",
+          "name": "Thu Lê",
+          "email": "thulh@sangygroup.com"
+        }
+      ],
+      "TP thực tế": 10.34,
+      "Task fix": "1/3",
+      "Created time": null,
+      "Tasks": "Thu test 4 ver1",
+      "Sprint": [
+        "254ccb0e-ac88-80ac-8317-ecfb8f6e8401"
+      ]
+    },
+    "_title": "Thu test 4 ver1",
+    "database_name": "[Demo] Tasks ",
+    "project_name": "[Demo] Tasks",
+    "database_id": "254ccb0e-ac88-807a-999c-eb3c1d8863ba"
+  },
+  {
+    "id": "2dfccb0e-ac88-81ac-bd25-dff7a364dded",
+    "created_time": "2026-01-05T07:21:00.000Z",
+    "last_edited_time": "2026-01-05T07:21:00.000Z",
+    "properties": {
+      "Product ": [
+        "2dfccb0e-ac88-801c-9580-f375074aa6e4"
+      ],
+      "Task main": "1",
+      "Task QC": "1/3",
+      "Run n8n": false,
+      "TP giả định": 3,
+      "Trọng số TP": 0.15,
+      "Product Type": [
+        "Keyframe"
+      ],
+      "[Dev] Total main": 0,
+      "Task type": "QC",
+      "Product Status": [
+        "Need Fix Client"
+      ],
+      "Task Status": "Done QC",
+      "Episode": [
+        "EP 03"
+      ],
+      "Done Date": null,
+      "Product Point": [
+        50
+      ],
+      "TP giả định 2": 3,
+      "Assignee": [
+        {
+          "id": "a4759bda-297c-47c5-8ab7-6a1e4ca0f526",
+          "name": "Thu Lê",
+          "email": "thulh@sangygroup.com"
+        }
+      ],
+      "TP thực tế": 5.17,
+      "Task fix": "1/3",
+      "Created time": null,
+      "Tasks": "Thu test 4 ver2",
+      "Sprint": [
+        "254ccb0e-ac88-80ac-8317-ecfb8f6e8401"
+      ]
+    },
+    "_title": "Thu test 4 ver2",
+    "database_name": "[Demo] Tasks ",
+    "project_name": "[Demo] Tasks",
+    "database_id": "254ccb0e-ac88-807a-999c-eb3c1d8863ba"
+  },
+  {
+    "id": "2dfccb0e-ac88-81f8-8486-f79317978cb6",
+    "created_time": "2026-01-05T07:21:00.000Z",
+    "last_edited_time": "2026-01-05T07:21:00.000Z",
+    "properties": {
+      "Product ": [
+        "2dfccb0e-ac88-807e-a7fa-c877d0d31b98"
+      ],
+      "Task main": "1",
+      "Task QC": "2/4",
+      "Run n8n": false,
+      "TP giả định": 1.5,
+      "Trọng số TP": 0.15,
+      "Product Type": [
+        "Keyframe"
+      ],
+      "[Dev] Total main": 0,
+      "Task type": "QC",
+      "Product Status": [
+        "Need Fix"
+      ],
+      "Task Status": "Done QC",
+      "Episode": [
+        "EP 03"
+      ],
+      "Done Date": null,
+      "Product Point": [
+        25
+      ],
+      "TP giả định 2": 1.5,
+      "Assignee": [
+        {
+          "id": "a4759bda-297c-47c5-8ab7-6a1e4ca0f526",
+          "name": "Thu Lê",
+          "email": "thulh@sangygroup.com"
+        }
+      ],
+      "TP thực tế": 2.34,
+      "Task fix": "1/4",
+      "Created time": null,
+      "Tasks": "Thu test 5 ver2",
+      "Sprint": [
+        "254ccb0e-ac88-80ac-8317-ecfb8f6e8401"
+      ]
+    },
+    "_title": "Thu test 5 ver2",
+    "database_name": "[Demo] Tasks ",
+    "project_name": "[Demo] Tasks",
+    "database_id": "254ccb0e-ac88-807a-999c-eb3c1d8863ba"
+  },
+  {
+    "id": "2e0ccb0e-ac88-8177-a8fe-eb44fc456036",
+    "created_time": "2026-01-06T02:58:00.000Z",
+    "last_edited_time": "2026-01-06T02:58:00.000Z",
+    "properties": {
+      "Product ": [
+        "2dfccb0e-ac88-80a5-b063-e13cdd783e9c"
+      ],
+      "Task main": "0",
+      "Task QC": "3/7",
+      "Run n8n": false,
+      "TP giả định": 6,
+      "Trọng số TP": 0.15,
+      "Product Type": [
+        "Keyframe"
+      ],
+      "[Dev] Total main": 0,
+      "Task type": "QC",
+      "Product Status": [
+        "Pending Review"
+      ],
+      "Task Status": "Done QC",
+      "Episode": [
+        "EP 02"
+      ],
+      "Done Date": null,
+      "Product Point": [
+        60
+      ],
+      "TP giả định 2": 3.6,
+      "Assignee": [
+        {
+          "id": "a4759bda-297c-47c5-8ab7-6a1e4ca0f526",
+          "name": "Thu Lê",
+          "email": "thulh@sangygroup.com"
+        }
+      ],
+      "TP thực tế": 5.45,
+      "Task fix": "4/7",
+      "Created time": null,
+      "Tasks": "Thu test 2 ver1",
+      "Sprint": []
+    },
+    "_title": "Thu test 2 ver1",
+    "database_name": "[Demo] Tasks ",
+    "project_name": "[Demo] Tasks",
+    "database_id": "254ccb0e-ac88-807a-999c-eb3c1d8863ba"
+  },
+  {
+    "id": "2e0ccb0e-ac88-81e3-93d6-c4c79552c8e4",
+    "created_time": "2026-01-06T02:58:00.000Z",
+    "last_edited_time": "2026-01-06T02:58:00.000Z",
+    "properties": {
+      "Product ": [
+        "2dfccb0e-ac88-807e-a7fa-c877d0d31b98"
+      ],
+      "Task main": "1",
+      "Task QC": "2/4",
+      "Run n8n": false,
+      "TP giả định": 1.5,
+      "Trọng số TP": 0.15,
+      "Product Type": [
+        "Keyframe"
+      ],
+      "[Dev] Total main": 0,
+      "Task type": "QC",
+      "Product Status": [
+        "Need Fix"
+      ],
+      "Task Status": "Done QC",
+      "Episode": [
+        "EP 03"
+      ],
+      "Done Date": null,
+      "Product Point": [
+        25
+      ],
+      "TP giả định 2": 1.5,
+      "Assignee": [
+        {
+          "id": "a4759bda-297c-47c5-8ab7-6a1e4ca0f526",
+          "name": "Thu Lê",
+          "email": "thulh@sangygroup.com"
+        }
+      ],
+      "TP thực tế": 2.34,
+      "Task fix": "1/4",
+      "Created time": null,
+      "Tasks": "Thu test 5 ver4",
+      "Sprint": [
+        "254ccb0e-ac88-80ac-8317-ecfb8f6e8401"
+      ]
+    },
+    "_title": "Thu test 5 ver4",
+    "database_name": "[Demo] Tasks ",
+    "project_name": "[Demo] Tasks",
+    "database_id": "254ccb0e-ac88-807a-999c-eb3c1d8863ba"
+  },
+  {
+    "id": "2e2ccb0e-ac88-8030-bba6-f65773e4655d",
+    "created_time": "2026-01-08T03:00:00.000Z",
+    "last_edited_time": "2026-01-08T03:01:00.000Z",
+    "properties": {
+      "Product ": [
+        "2a0ccb0e-ac88-8076-952e-e687dff0b91d"
+      ],
+      "Task main": "2",
+      "Task QC": "0/2",
+      "Run n8n": false,
+      "TP giả định": 0,
+      "Trọng số TP": 1,
+      "Product Type": [
+        "Background"
+      ],
+      "[Dev] Total main": 1,
+      "Task type": "Main",
+      "Product Status": [
+        "Pending Review"
+      ],
+      "Task Status": "Done",
+      "Episode": [
+        "EP 03"
+      ],
+      "Done Date": null,
+      "Product Point": [
+        0
+      ],
+      "TP giả định 2": 0,
+      "Assignee": [
+        {
+          "id": "c206b06c-81cf-4010-81e4-3d725774afdd",
+          "name": "Unknown User",
+          "email": null
+        }
+      ],
+      "TP thực tế": 0,
+      "Task fix": "0/2",
+      "Created time": null,
+      "Tasks": "BG 290 ver2",
+      "Sprint": [
+        "254ccb0e-ac88-80ac-8317-ecfb8f6e8401"
+      ]
+    },
+    "_title": "BG 290 ver2",
+    "database_name": "[Demo] Tasks ",
+    "project_name": "[Demo] Tasks",
+    "database_id": "254ccb0e-ac88-807a-999c-eb3c1d8863ba"
+  },
+  {
+    "id": "2e2ccb0e-ac88-8036-8c50-dd9f91e8a17e",
+    "created_time": "2026-01-08T04:53:00.000Z",
+    "last_edited_time": "2026-01-08T04:53:00.000Z",
+    "properties": {
+      "Product ": [
+        "2dfccb0e-ac88-80a5-b063-e13cdd783e9c"
+      ],
+      "Task main": "0",
+      "Task QC": "3/7",
+      "Run n8n": false,
+      "TP giả định": 12,
+      "Trọng số TP": 0.3,
+      "Product Type": [
+        "Keyframe"
+      ],
+      "[Dev] Total main": 0,
+      "Task type": "Fix",
+      "Product Status": [
+        "Pending Review"
+      ],
+      "Task Status": "Done",
+      "Episode": [
+        "EP 02"
+      ],
+      "Done Date": null,
+      "Product Point": [
+        60
+      ],
+      "TP giả định 2": 7.2,
+      "Assignee": [
+        {
+          "id": "8931b6f2-64d2-470a-a04f-316a3fd59530",
+          "name": "Quang Đặng",
+          "email": "quang@deedeestudio.net"
+        }
+      ],
+      "TP thực tế": 10.91,
+      "Task fix": "4/7",
+      "Created time": null,
+      "Tasks": "Thu test 2 ver4",
+      "Sprint": []
+    },
+    "_title": "Thu test 2 ver4",
+    "database_name": "[Demo] Tasks ",
+    "project_name": "[Demo] Tasks",
+    "database_id": "254ccb0e-ac88-807a-999c-eb3c1d8863ba"
+  },
+  {
+    "id": "2e2ccb0e-ac88-8044-a09c-e7fcd96518cd",
+    "created_time": "2026-01-08T03:00:00.000Z",
+    "last_edited_time": "2026-01-08T03:01:00.000Z",
+    "properties": {
+      "Product ": [
+        "27fccb0e-ac88-80fe-aad7-c5e7d2f0d9ca"
+      ],
+      "Task main": "2",
+      "Task QC": "0/2",
+      "Run n8n": false,
+      "TP giả định": 30,
+      "Trọng số TP": 1,
+      "Product Type": [
+        "Keyframe"
+      ],
+      "[Dev] Total main": 1,
+      "Task type": "Main",
+      "Product Status": [
+        "Pending Review"
+      ],
+      "Task Status": "Done",
+      "Episode": [
+        {
+          "type": "select",
+          "select": null
+        }
+      ],
+      "Done Date": null,
+      "Product Point": [
+        60
+      ],
+      "TP giả định 2": 24,
+      "Assignee": [
+        {
+          "id": "c206b06c-81cf-4010-81e4-3d725774afdd",
+          "name": "Unknown User",
+          "email": null
+        }
+      ],
+      "TP thực tế": 30,
+      "Task fix": "0/2",
+      "Created time": null,
+      "Tasks": "Key 007 ver2",
+      "Sprint": [
+        "254ccb0e-ac88-80ac-8317-ecfb8f6e8401"
+      ]
+    },
+    "_title": "Key 007 ver2",
+    "database_name": "[Demo] Tasks ",
+    "project_name": "[Demo] Tasks",
+    "database_id": "254ccb0e-ac88-807a-999c-eb3c1d8863ba"
+  },
+  {
+    "id": "2e2ccb0e-ac88-805d-916d-e45069b50479",
+    "created_time": "2026-01-08T02:58:00.000Z",
+    "last_edited_time": "2026-01-08T02:58:00.000Z",
+    "properties": {
+      "Product ": [
+        "2a0ccb0e-ac88-8076-952e-e687dff0b91d"
+      ],
+      "Task main": "2",
+      "Task QC": "0/2",
+      "Run n8n": false,
+      "TP giả định": 0,
+      "Trọng số TP": 1,
+      "Product Type": [
+        "Background"
+      ],
+      "[Dev] Total main": 1,
+      "Task type": "Main",
+      "Product Status": [
+        "Pending Review"
+      ],
+      "Task Status": "Not started",
+      "Episode": [
+        "EP 03"
+      ],
+      "Done Date": null,
+      "Product Point": [
+        0
+      ],
+      "TP giả định 2": 0,
+      "Assignee": [
+        {
+          "id": "c206b06c-81cf-4010-81e4-3d725774afdd",
+          "name": "Unknown User",
+          "email": null
+        }
+      ],
+      "TP thực tế": 0,
+      "Task fix": "0/2",
+      "Created time": null,
+      "Tasks": "BG 290 ver1",
+      "Sprint": []
+    },
+    "_title": "BG 290 ver1",
+    "database_name": "[Demo] Tasks ",
+    "project_name": "[Demo] Tasks",
+    "database_id": "254ccb0e-ac88-807a-999c-eb3c1d8863ba"
+  },
+  {
+    "id": "2e2ccb0e-ac88-805f-a7fd-f40fc4c6653a",
+    "created_time": "2026-01-08T04:57:00.000Z",
+    "last_edited_time": "2026-01-08T04:57:00.000Z",
+    "properties": {
+      "Product ": [
+        "2dfccb0e-ac88-80a5-b063-e13cdd783e9c"
+      ],
+      "Task main": "0",
+      "Task QC": "3/7",
+      "Run n8n": false,
+      "TP giả định": 12,
+      "Trọng số TP": 0.3,
+      "Product Type": [
+        "Keyframe"
+      ],
+      "[Dev] Total main": 0,
+      "Task type": "Fix",
+      "Product Status": [
+        "Pending Review"
+      ],
+      "Task Status": "Done",
+      "Episode": [
+        "EP 02"
+      ],
+      "Done Date": null,
+      "Product Point": [
+        60
+      ],
+      "TP giả định 2": 7.2,
+      "Assignee": [
+        {
+          "id": "8931b6f2-64d2-470a-a04f-316a3fd59530",
+          "name": "Quang Đặng",
+          "email": "quang@deedeestudio.net"
+        }
+      ],
+      "TP thực tế": 10.91,
+      "Task fix": "4/7",
+      "Created time": null,
+      "Tasks": "Thu test 2 ver7",
+      "Sprint": []
+    },
+    "_title": "Thu test 2 ver7",
+    "database_name": "[Demo] Tasks ",
+    "project_name": "[Demo] Tasks",
+    "database_id": "254ccb0e-ac88-807a-999c-eb3c1d8863ba"
+  },
+  {
+    "id": "2e2ccb0e-ac88-8060-b8f4-c6f5276cee69",
+    "created_time": "2026-01-08T02:57:00.000Z",
+    "last_edited_time": "2026-01-08T02:57:00.000Z",
+    "properties": {
+      "Product ": [
+        "27dccb0e-ac88-80cb-bc81-d58b4274867a"
+      ],
+      "Task main": "1",
+      "Task QC": "0/1",
+      "Run n8n": false,
+      "TP giả định": 0,
+      "Trọng số TP": 1,
+      "Product Type": [
+        "SP"
+      ],
+      "[Dev] Total main": 1,
+      "Task type": "Main",
+      "Product Status": [
+        "Pending Review"
+      ],
+      "Task Status": "Done",
+      "Episode": [
+        "EP 01"
+      ],
+      "Done Date": null,
+      "Product Point": [
+        0
+      ],
+      "TP giả định 2": 0,
+      "Assignee": [
+        {
+          "id": "c206b06c-81cf-4010-81e4-3d725774afdd",
+          "name": "Unknown User",
+          "email": null
+        }
+      ],
+      "TP thực tế": 0,
+      "Task fix": "0/1",
+      "Created time": null,
+      "Tasks": "SP 001 ver1",
+      "Sprint": [
+        "254ccb0e-ac88-80ac-8317-ecfb8f6e8401"
+      ]
+    },
+    "_title": "SP 001 ver1",
+    "database_name": "[Demo] Tasks ",
+    "project_name": "[Demo] Tasks",
+    "database_id": "254ccb0e-ac88-807a-999c-eb3c1d8863ba"
+  },
+  {
+    "id": "2e2ccb0e-ac88-8074-bbb8-cbb887be32f6",
+    "created_time": "2026-01-08T03:01:00.000Z",
+    "last_edited_time": "2026-01-08T03:01:00.000Z",
+    "properties": {
+      "Product ": [
+        "27fccb0e-ac88-808f-8f3e-cd09a90437c4"
+      ],
+      "Task main": "1",
+      "Task QC": "0/1",
+      "Run n8n": false,
+      "TP giả định": 60,
+      "Trọng số TP": 1,
+      "Product Type": [
+        "Keyframe"
+      ],
+      "[Dev] Total main": 1,
+      "Task type": "Main",
+      "Product Status": [
+        "Pending Review"
+      ],
+      "Task Status": "Done",
+      "Episode": [
+        "EP 01"
+      ],
+      "Done Date": null,
+      "Product Point": [
+        60
+      ],
+      "TP giả định 2": 24,
+      "Assignee": [
+        {
+          "id": "c206b06c-81cf-4010-81e4-3d725774afdd",
+          "name": "Unknown User",
+          "email": null
+        }
+      ],
+      "TP thực tế": 60,
+      "Task fix": "0/1",
+      "Created time": null,
+      "Tasks": "Key 005 ver1",
+      "Sprint": [
+        "254ccb0e-ac88-80ac-8317-ecfb8f6e8401"
+      ]
+    },
+    "_title": "Key 005 ver1",
+    "database_name": "[Demo] Tasks ",
+    "project_name": "[Demo] Tasks",
+    "database_id": "254ccb0e-ac88-807a-999c-eb3c1d8863ba"
+  },
+  {
+    "id": "2e2ccb0e-ac88-807d-8970-d2d7f0a2c7a1",
+    "created_time": "2026-01-08T03:01:00.000Z",
+    "last_edited_time": "2026-01-08T03:01:00.000Z",
+    "properties": {
+      "Product ": [
+        "27fccb0e-ac88-8068-8848-d99718d2987a"
+      ],
+      "Task main": "2",
+      "Task QC": "2/6",
+      "Run n8n": false,
+      "TP giả định": 20.69,
+      "Trọng số TP": 1,
+      "Product Type": [
+        "Keyframe"
+      ],
+      "[Dev] Total main": 1,
+      "Task type": "Main",
+      "Product Status": [
+        "Pending Review"
+      ],
+      "Task Status": "Done",
+      "Episode": [
+        "EP 01"
+      ],
+      "Done Date": null,
+      "Product Point": [
+        60
+      ],
+      "TP giả định 2": 24,
+      "Assignee": [
+        {
+          "id": "c206b06c-81cf-4010-81e4-3d725774afdd",
+          "name": "Unknown User",
+          "email": null
+        }
+      ],
+      "TP thực tế": 20.69,
+      "Task fix": "2/6",
+      "Created time": null,
+      "Tasks": "Key 003 ver6",
+      "Sprint": [
+        "254ccb0e-ac88-80ac-8317-ecfb8f6e8401"
+      ]
+    },
+    "_title": "Key 003 ver6",
+    "database_name": "[Demo] Tasks ",
+    "project_name": "[Demo] Tasks",
+    "database_id": "254ccb0e-ac88-807a-999c-eb3c1d8863ba"
+  },
+  {
+    "id": "2e2ccb0e-ac88-807d-ae00-e809f7f8e1c4",
+    "created_time": "2026-01-08T02:58:00.000Z",
+    "last_edited_time": "2026-01-08T02:58:00.000Z",
+    "properties": {
+      "Product ": [
+        "2e2ccb0e-ac88-8063-a385-fa1ebb39f5d6"
+      ],
+      "Task main": "1",
+      "Task QC": "0/1",
+      "Run n8n": false,
+      "TP giả định": 0,
+      "Trọng số TP": 1,
+      "Product Type": [
+        {
+          "type": "select",
+          "select": null
+        }
+      ],
+      "[Dev] Total main": 1,
+      "Task type": "Main",
+      "Product Status": [
+        "Pending Review"
+      ],
+      "Task Status": "Done",
+      "Episode": [
+        {
+          "type": "select",
+          "select": null
+        }
+      ],
+      "Done Date": null,
+      "Product Point": [
+        0
+      ],
+      "TP giả định 2": 0,
+      "Assignee": [
+        {
+          "id": "c206b06c-81cf-4010-81e4-3d725774afdd",
+          "name": "Unknown User",
+          "email": null
+        }
+      ],
+      "TP thực tế": 0,
+      "Task fix": "0/1",
+      "Created time": null,
+      "Tasks": "Linh test ver1",
+      "Sprint": []
+    },
+    "_title": "Linh test ver1",
+    "database_name": "[Demo] Tasks ",
+    "project_name": "[Demo] Tasks",
+    "database_id": "254ccb0e-ac88-807a-999c-eb3c1d8863ba"
+  },
+  {
+    "id": "2e2ccb0e-ac88-807f-bb32-c1bde3d2d271",
+    "created_time": "2026-01-08T03:01:00.000Z",
+    "last_edited_time": "2026-01-08T03:01:00.000Z",
+    "properties": {
+      "Product ": [
+        "27dccb0e-ac88-806b-a48f-c1baa6dd3567"
+      ],
+      "Task main": "1",
+      "Task QC": "0/1",
+      "Run n8n": false,
+      "TP giả định": 0,
+      "Trọng số TP": 1,
+      "Product Type": [
+        "Comp"
+      ],
+      "[Dev] Total main": 1,
+      "Task type": "Main",
+      "Product Status": [
+        "Pending Review"
+      ],
+      "Task Status": "Done",
+      "Episode": [
+        {
+          "type": "select",
+          "select": null
+        }
+      ],
+      "Done Date": null,
+      "Product Point": [
+        0
+      ],
+      "TP giả định 2": 0,
+      "Assignee": [
+        {
+          "id": "c206b06c-81cf-4010-81e4-3d725774afdd",
+          "name": "Unknown User",
+          "email": null
+        }
+      ],
+      "TP thực tế": 0,
+      "Task fix": "0/1",
+      "Created time": null,
+      "Tasks": "Comp 002 ver1",
+      "Sprint": [
+        "254ccb0e-ac88-80ac-8317-ecfb8f6e8401"
+      ]
+    },
+    "_title": "Comp 002 ver1",
+    "database_name": "[Demo] Tasks ",
+    "project_name": "[Demo] Tasks",
+    "database_id": "254ccb0e-ac88-807a-999c-eb3c1d8863ba"
+  },
+  {
+    "id": "2e2ccb0e-ac88-8087-b763-e1830b78e25f",
+    "created_time": "2026-01-08T02:59:00.000Z",
+    "last_edited_time": "2026-01-08T03:01:00.000Z",
+    "properties": {
+      "Product ": [
+        "29accb0e-ac88-80b1-89ff-eb83b4fce2fa"
+      ],
+      "Task main": "2",
+      "Task QC": "0/2",
+      "Run n8n": false,
+      "TP giả định": 30,
+      "Trọng số TP": 1,
+      "Product Type": [
+        "Keyframe"
+      ],
+      "[Dev] Total main": 1,
+      "Task type": "Main",
+      "Product Status": [
+        "Pending Review"
+      ],
+      "Task Status": "Done QC",
+      "Episode": [
+        {
+          "type": "select",
+          "select": null
+        }
+      ],
+      "Done Date": null,
+      "Product Point": [
+        60
+      ],
+      "TP giả định 2": 24,
+      "Assignee": [
+        {
+          "id": "c206b06c-81cf-4010-81e4-3d725774afdd",
+          "name": "Unknown User",
+          "email": null
+        }
+      ],
+      "TP thực tế": 30,
+      "Task fix": "0/2",
+      "Created time": null,
+      "Tasks": "Key 008 ver2",
+      "Sprint": [
+        "254ccb0e-ac88-80ac-8317-ecfb8f6e8401"
+      ]
+    },
+    "_title": "Key 008 ver2",
+    "database_name": "[Demo] Tasks ",
+    "project_name": "[Demo] Tasks",
+    "database_id": "254ccb0e-ac88-807a-999c-eb3c1d8863ba"
+  },
+  {
+    "id": "2e2ccb0e-ac88-809b-8270-c30949f83f36",
+    "created_time": "2026-01-08T04:53:00.000Z",
+    "last_edited_time": "2026-01-08T04:53:00.000Z",
+    "properties": {
+      "Product ": [
+        "2dfccb0e-ac88-80a5-b063-e13cdd783e9c"
+      ],
+      "Task main": "0",
+      "Task QC": "3/7",
+      "Run n8n": false,
+      "TP giả định": 6,
+      "Trọng số TP": 0.15,
+      "Product Type": [
+        "Keyframe"
+      ],
+      "[Dev] Total main": 0,
+      "Task type": "QC",
+      "Product Status": [
+        "Pending Review"
+      ],
+      "Task Status": "Done",
+      "Episode": [
+        "EP 02"
+      ],
+      "Done Date": null,
+      "Product Point": [
+        60
+      ],
+      "TP giả định 2": 3.6,
+      "Assignee": [
+        {
+          "id": "8931b6f2-64d2-470a-a04f-316a3fd59530",
+          "name": "Quang Đặng",
+          "email": "quang@deedeestudio.net"
+        }
+      ],
+      "TP thực tế": 5.45,
+      "Task fix": "4/7",
+      "Created time": null,
+      "Tasks": "Thu test 2 ver5",
+      "Sprint": []
+    },
+    "_title": "Thu test 2 ver5",
+    "database_name": "[Demo] Tasks ",
+    "project_name": "[Demo] Tasks",
+    "database_id": "254ccb0e-ac88-807a-999c-eb3c1d8863ba"
+  },
+  {
+    "id": "2e2ccb0e-ac88-809d-94c4-f837ba5b54a4",
+    "created_time": "2026-01-08T04:54:00.000Z",
+    "last_edited_time": "2026-01-08T04:54:00.000Z",
+    "properties": {
+      "Product ": [
+        "2dfccb0e-ac88-80a5-b063-e13cdd783e9c"
+      ],
+      "Task main": "0",
+      "Task QC": "3/7",
+      "Run n8n": false,
+      "TP giả định": 12,
+      "Trọng số TP": 0.3,
+      "Product Type": [
+        "Keyframe"
+      ],
+      "[Dev] Total main": 0,
+      "Task type": "Fix",
+      "Product Status": [
+        "Pending Review"
+      ],
+      "Task Status": "Done QC",
+      "Episode": [
+        "EP 02"
+      ],
+      "Done Date": null,
+      "Product Point": [
+        60
+      ],
+      "TP giả định 2": 7.2,
+      "Assignee": [
+        {
+          "id": "8931b6f2-64d2-470a-a04f-316a3fd59530",
+          "name": "Quang Đặng",
+          "email": "quang@deedeestudio.net"
+        }
+      ],
+      "TP thực tế": 10.91,
+      "Task fix": "4/7",
+      "Created time": null,
+      "Tasks": "Thu test 2 ver6",
+      "Sprint": []
+    },
+    "_title": "Thu test 2 ver6",
+    "database_name": "[Demo] Tasks ",
+    "project_name": "[Demo] Tasks",
+    "database_id": "254ccb0e-ac88-807a-999c-eb3c1d8863ba"
+  },
+  {
+    "id": "2e2ccb0e-ac88-80ab-bdc7-e4e134fc8a5c",
+    "created_time": "2026-01-08T04:19:00.000Z",
+    "last_edited_time": "2026-01-08T04:19:00.000Z",
+    "properties": {
+      "Product ": [
+        "2dfccb0e-ac88-80a5-b063-e13cdd783e9c"
+      ],
+      "Task main": "0",
+      "Task QC": "3/7",
+      "Run n8n": false,
+      "TP giả định": 6,
+      "Trọng số TP": 0.15,
+      "Product Type": [
+        "Keyframe"
+      ],
+      "[Dev] Total main": 0,
+      "Task type": "QC",
+      "Product Status": [
+        "Pending Review"
+      ],
+      "Task Status": "Done",
+      "Episode": [
+        "EP 02"
+      ],
+      "Done Date": null,
+      "Product Point": [
+        60
+      ],
+      "TP giả định 2": 3.6,
+      "Assignee": [
+        {
+          "id": "8931b6f2-64d2-470a-a04f-316a3fd59530",
+          "name": "Quang Đặng",
+          "email": "quang@deedeestudio.net"
+        }
+      ],
+      "TP thực tế": 5.45,
+      "Task fix": "4/7",
+      "Created time": null,
+      "Tasks": "Thu test 2 ver3",
+      "Sprint": []
+    },
+    "_title": "Thu test 2 ver3",
+    "database_name": "[Demo] Tasks ",
+    "project_name": "[Demo] Tasks",
+    "database_id": "254ccb0e-ac88-807a-999c-eb3c1d8863ba"
+  },
+  {
+    "id": "2e2ccb0e-ac88-80b0-843b-f15ba4e3b019",
+    "created_time": "2026-01-08T02:59:00.000Z",
+    "last_edited_time": "2026-01-08T03:01:00.000Z",
+    "properties": {
+      "Product ": [
+        "2a0ccb0e-ac88-8033-9595-ede4878890c5"
+      ],
+      "Task main": "1",
+      "Task QC": "0/1",
+      "Run n8n": false,
+      "TP giả định": 0,
+      "Trọng số TP": 1,
+      "Product Type": [
+        "Background"
+      ],
+      "[Dev] Total main": 1,
+      "Task type": "Main",
+      "Product Status": [
+        "Pending Review"
+      ],
+      "Task Status": "Done",
+      "Episode": [
+        "EP 03"
+      ],
+      "Done Date": null,
+      "Product Point": [
+        0
+      ],
+      "TP giả định 2": 0,
+      "Assignee": [
+        {
+          "id": "c206b06c-81cf-4010-81e4-3d725774afdd",
+          "name": "Unknown User",
+          "email": null
+        }
+      ],
+      "TP thực tế": 0,
+      "Task fix": "0/1",
+      "Created time": null,
+      "Tasks": "BG 230 ver1",
+      "Sprint": [
+        "254ccb0e-ac88-80ac-8317-ecfb8f6e8401"
+      ]
+    },
+    "_title": "BG 230 ver1",
+    "database_name": "[Demo] Tasks ",
+    "project_name": "[Demo] Tasks",
+    "database_id": "254ccb0e-ac88-807a-999c-eb3c1d8863ba"
+  },
+  {
+    "id": "2e2ccb0e-ac88-80ba-bde9-e9dde9d652de",
+    "created_time": "2026-01-08T04:18:00.000Z",
+    "last_edited_time": "2026-01-08T04:18:00.000Z",
+    "properties": {
+      "Product ": [
+        "2dfccb0e-ac88-80a5-b063-e13cdd783e9c"
+      ],
+      "Task main": "0",
+      "Task QC": "3/7",
+      "Run n8n": false,
+      "TP giả định": 12,
+      "Trọng số TP": 0.3,
+      "Product Type": [
+        "Keyframe"
+      ],
+      "[Dev] Total main": 0,
+      "Task type": "Fix",
+      "Product Status": [
+        "Pending Review"
+      ],
+      "Task Status": "Done",
+      "Episode": [
+        "EP 02"
+      ],
+      "Done Date": null,
+      "Product Point": [
+        60
+      ],
+      "TP giả định 2": 7.2,
+      "Assignee": [
+        {
+          "id": "8931b6f2-64d2-470a-a04f-316a3fd59530",
+          "name": "Quang Đặng",
+          "email": "quang@deedeestudio.net"
+        }
+      ],
+      "TP thực tế": 10.91,
+      "Task fix": "4/7",
+      "Created time": null,
+      "Tasks": "Thu test 2 ver2",
+      "Sprint": []
+    },
+    "_title": "Thu test 2 ver2",
+    "database_name": "[Demo] Tasks ",
+    "project_name": "[Demo] Tasks",
+    "database_id": "254ccb0e-ac88-807a-999c-eb3c1d8863ba"
+  },
+  {
+    "id": "2e2ccb0e-ac88-80c9-82a6-ed58d41ffd3e",
+    "created_time": "2026-01-08T03:00:00.000Z",
+    "last_edited_time": "2026-01-08T03:01:00.000Z",
+    "properties": {
+      "Product ": [
+        "27fccb0e-ac88-80b7-b3a1-fbd78f6b0244"
+      ],
+      "Task main": "3",
+      "Task QC": "2/6",
+      "Run n8n": false,
+      "TP giả định": 6.94,
+      "Trọng số TP": 1,
+      "Product Type": [
+        "Keyframe"
+      ],
+      "[Dev] Total main": 1,
+      "Task type": "Main",
+      "Product Status": [
+        "Pending Review"
+      ],
+      "Task Status": "Done",
+      "Episode": [
+        "EP 01"
+      ],
+      "Done Date": null,
+      "Product Point": [
+        25
+      ],
+      "TP giả định 2": 10,
+      "Assignee": [
+        {
+          "id": "c206b06c-81cf-4010-81e4-3d725774afdd",
+          "name": "Unknown User",
+          "email": null
+        }
+      ],
+      "TP thực tế": 6.94,
+      "Task fix": "1/6",
+      "Created time": null,
+      "Tasks": "Key 006 ver6",
+      "Sprint": [
+        "254ccb0e-ac88-80ac-8317-ecfb8f6e8401"
+      ]
+    },
+    "_title": "Key 006 ver6",
+    "database_name": "[Demo] Tasks ",
+    "project_name": "[Demo] Tasks",
+    "database_id": "254ccb0e-ac88-807a-999c-eb3c1d8863ba"
+  },
+  {
+    "id": "2e2ccb0e-ac88-80ca-b4d7-cc4dfba634b4",
+    "created_time": "2026-01-08T03:01:00.000Z",
+    "last_edited_time": "2026-01-08T03:01:00.000Z",
+    "properties": {
+      "Product ": [
+        "27fccb0e-ac88-8067-8352-dc5cb7058c95"
+      ],
+      "Task main": "1",
+      "Task QC": "0/1",
+      "Run n8n": false,
+      "TP giả định": 5,
+      "Trọng số TP": 1,
+      "Product Type": [
+        "Keyframe"
+      ],
+      "[Dev] Total main": 1,
+      "Task type": "Main",
+      "Product Status": [
+        "Pending Review"
+      ],
+      "Task Status": "Done",
+      "Episode": [
+        "EP 01"
+      ],
+      "Done Date": null,
+      "Product Point": [
+        5
+      ],
+      "TP giả định 2": 2,
+      "Assignee": [
+        {
+          "id": "c206b06c-81cf-4010-81e4-3d725774afdd",
+          "name": "Unknown User",
+          "email": null
+        }
+      ],
+      "TP thực tế": 5,
+      "Task fix": "0/1",
+      "Created time": null,
+      "Tasks": "Key 004 ver1",
+      "Sprint": [
+        "254ccb0e-ac88-80ac-8317-ecfb8f6e8401"
+      ]
+    },
+    "_title": "Key 004 ver1",
+    "database_name": "[Demo] Tasks ",
+    "project_name": "[Demo] Tasks",
+    "database_id": "254ccb0e-ac88-807a-999c-eb3c1d8863ba"
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "id": "2d8ccb0e-ac88-8197-8e53-e00e73fea18e",
+    "created_time": "2025-12-29T02:49:00.000Z",
+    "last_edited_time": "2025-12-29T02:49:00.000Z",
+    "properties": {
+      "Năng xuất thực tế - unconfirmed point": 0,
+      "NL nghỉ": null,
+      "Năng xuất thực tế - confirmed point": 0,
+      "NLTT của task point unconfirmed": null,
+      "NL hoàn hảo": null,
+      "Năng suất yêu cầu (point/nl)": null,
+      "Mức độ đạt yêu cầu - năng xuất": "0%",
+      "NL không chuyên môn": null,
+      "Task point thực tế unconfirmed": null,
+      "NLTT của task point confirmed": null,
+      "Sprint": "",
+      "NL dự án khác": null,
+      "Mức độ đạt yêu cầu - kết quả": "0%",
+      "NL chuyên môn": 0,
+      "Task point yêu cầu dự án": 0,
+      "Task point thực tế confirmed": null,
+      "NL chuyên môn thực tế": null,
+      "Name": ""
+    },
+    "_title": "",
+    "database_name": "Báo cáo Review (Không xóa dữ liệu)",
+    "project_name": "Báo cáo Review (Không xóa dữ liệu)",
+    "database_id": "2d8ccb0e-ac88-80f1-b187-eb06e4075af3"
+  }
+]

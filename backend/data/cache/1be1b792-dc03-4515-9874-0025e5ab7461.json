@@ -1,0 +1,338 @@
+[
+  {
+    "id": "2dda5498-0941-401a-aafe-a752e23becf4",
+    "created_time": "2023-09-06T11:41:00.000Z",
+    "last_edited_time": "2023-09-07T03:17:00.000Z",
+    "properties": {
+      "Last edited time": null,
+      "Sprint": null,
+      "Task Status": "In progress",
+      "Deadlines": null,
+      "Status trong Sprint": "Not started",
+      "Ước tính nỗ lực": null,
+      "Scenes": "JB_011",
+      "Last edited by": null,
+      "Ước tính khả thi": null,
+      "Nhân sự": [
+        {
+          "id": "73549d25-5369-40ff-95c4-386c2c3fb15a",
+          "name": "Unknown User",
+          "email": null
+        }
+      ],
+      "Tasks": "SF 011"
+    },
+    "_title": "SF 011",
+    "database_name": "[DeeDee - 2023] Jelly’s Bean mini project",
+    "project_name": "[DeeDee - 2023] Jelly’s Bean mini project",
+    "database_id": "1be1b792-dc03-4515-9874-0025e5ab7461"
+  },
+  {
+    "id": "48eb42f7-cd27-4016-81c3-7408d2c9eaf8",
+    "created_time": "2023-09-06T11:41:00.000Z",
+    "last_edited_time": "2023-10-04T02:18:00.000Z",
+    "properties": {
+      "Last edited time": null,
+      "Sprint": null,
+      "Task Status": null,
+      "Deadlines": null,
+      "Status trong Sprint": "Not started",
+      "Ước tính nỗ lực": null,
+      "Scenes": "JB_002",
+      "Last edited by": null,
+      "Ước tính khả thi": null,
+      "Nhân sự": [
+        {
+          "id": "7df1e055-a49c-408d-a503-6e572952aafd",
+          "name": "Unknown User",
+          "email": null
+        }
+      ],
+      "Tasks": "SF 002"
+    },
+    "_title": "SF 002",
+    "database_name": "[DeeDee - 2023] Jelly’s Bean mini project",
+    "project_name": "[DeeDee - 2023] Jelly’s Bean mini project",
+    "database_id": "1be1b792-dc03-4515-9874-0025e5ab7461"
+  },
+  {
+    "id": "529e54ce-fbf6-4ff7-b8a3-7b427b9af1f2",
+    "created_time": "2023-09-06T11:41:00.000Z",
+    "last_edited_time": "2023-09-07T01:46:00.000Z",
+    "properties": {
+      "Last edited time": null,
+      "Sprint": null,
+      "Task Status": "In progress",
+      "Deadlines": null,
+      "Status trong Sprint": "Not started",
+      "Ước tính nỗ lực": null,
+      "Scenes": "JB_012",
+      "Last edited by": null,
+      "Ước tính khả thi": null,
+      "Nhân sự": [
+        {
+          "id": "48eb043c-4af9-42f6-86bc-fdcc03609205",
+          "name": "Khôi Cao",
+          "email": "khoicm@sangygroup.com"
+        }
+      ],
+      "Tasks": "SF 012"
+    },
+    "_title": "SF 012",
+    "database_name": "[DeeDee - 2023] Jelly’s Bean mini project",
+    "project_name": "[DeeDee - 2023] Jelly’s Bean mini project",
+    "database_id": "1be1b792-dc03-4515-9874-0025e5ab7461"
+  },
+  {
+    "id": "5ded2336-1368-471a-bb6a-b53f0bb26fdb",
+    "created_time": "2023-09-06T11:41:00.000Z",
+    "last_edited_time": "2023-09-07T03:17:00.000Z",
+    "properties": {
+      "Last edited time": null,
+      "Sprint": null,
+      "Task Status": "In progress",
+      "Deadlines": null,
+      "Status trong Sprint": "Not started",
+      "Ước tính nỗ lực": null,
+      "Scenes": "JB_005",
+      "Last edited by": null,
+      "Ước tính khả thi": null,
+      "Nhân sự": [
+        {
+          "id": "12b49246-6d3d-4240-9707-bd9816c08743",
+          "name": "Unknown User",
+          "email": null
+        }
+      ],
+      "Tasks": "SF 005"
+    },
+    "_title": "SF 005",
+    "database_name": "[DeeDee - 2023] Jelly’s Bean mini project",
+    "project_name": "[DeeDee - 2023] Jelly’s Bean mini project",
+    "database_id": "1be1b792-dc03-4515-9874-0025e5ab7461"
+  },
+  {
+    "id": "7e6615db-8896-4822-be28-9bd10197a9e8",
+    "created_time": "2023-09-06T11:40:00.000Z",
+    "last_edited_time": "2023-09-09T10:32:00.000Z",
+    "properties": {
+      "Last edited time": null,
+      "Sprint": null,
+      "Task Status": "Pending Review",
+      "Deadlines": null,
+      "Status trong Sprint": "Not started",
+      "Ước tính nỗ lực": null,
+      "Scenes": "JB_001",
+      "Last edited by": null,
+      "Ước tính khả thi": null,
+      "Nhân sự": [
+        {
+          "id": "26483817-2631-49e6-9cda-69ca62f3d19a",
+          "name": "Unknown User",
+          "email": null
+        }
+      ],
+      "Tasks": "SF 001"
+    },
+    "_title": "SF 001",
+    "database_name": "[DeeDee - 2023] Jelly’s Bean mini project",
+    "project_name": "[DeeDee - 2023] Jelly’s Bean mini project",
+    "database_id": "1be1b792-dc03-4515-9874-0025e5ab7461"
+  },
+  {
+    "id": "889814ce-f3cf-415d-9a46-623dfcb11df2",
+    "created_time": "2023-09-06T11:41:00.000Z",
+    "last_edited_time": "2023-09-11T01:27:00.000Z",
+    "properties": {
+      "Last edited time": null,
+      "Sprint": null,
+      "Task Status": "Pending Review",
+      "Deadlines": null,
+      "Status trong Sprint": "Not started",
+      "Ước tính nỗ lực": null,
+      "Scenes": "JB_004",
+      "Last edited by": null,
+      "Ước tính khả thi": null,
+      "Nhân sự": [
+        {
+          "id": "2fad7eed-5790-471c-91d1-4db9e628a769",
+          "name": "Yến Nguyễn",
+          "email": "yennx@sangygroup.com"
+        }
+      ],
+      "Tasks": "SF 004"
+    },
+    "_title": "SF 004",
+    "database_name": "[DeeDee - 2023] Jelly’s Bean mini project",
+    "project_name": "[DeeDee - 2023] Jelly’s Bean mini project",
+    "database_id": "1be1b792-dc03-4515-9874-0025e5ab7461"
+  },
+  {
+    "id": "8c4b9278-376d-4e12-bb20-657010eaba3c",
+    "created_time": "2023-09-06T11:41:00.000Z",
+    "last_edited_time": "2023-10-11T08:27:00.000Z",
+    "properties": {
+      "Last edited time": null,
+      "Sprint": null,
+      "Task Status": "In progress",
+      "Deadlines": null,
+      "Status trong Sprint": "Not started",
+      "Ước tính nỗ lực": null,
+      "Scenes": "JB_007",
+      "Last edited by": null,
+      "Ước tính khả thi": null,
+      "Nhân sự": [
+        {
+          "id": "82ba9b87-e198-4438-a1c2-7b873cd364b5",
+          "name": "Phúc Nguyễn",
+          "email": "phucnt@sangygroup.com"
+        }
+      ],
+      "Tasks": "SF 007"
+    },
+    "_title": "SF 007",
+    "database_name": "[DeeDee - 2023] Jelly’s Bean mini project",
+    "project_name": "[DeeDee - 2023] Jelly’s Bean mini project",
+    "database_id": "1be1b792-dc03-4515-9874-0025e5ab7461"
+  },
+  {
+    "id": "a73e94b5-72e6-4c0c-bad2-e2575f8c5226",
+    "created_time": "2023-09-06T11:41:00.000Z",
+    "last_edited_time": "2023-09-07T03:17:00.000Z",
+    "properties": {
+      "Last edited time": null,
+      "Sprint": null,
+      "Task Status": "In progress",
+      "Deadlines": null,
+      "Status trong Sprint": "Not started",
+      "Ước tính nỗ lực": null,
+      "Scenes": "JB_009",
+      "Last edited by": null,
+      "Ước tính khả thi": null,
+      "Nhân sự": [
+        {
+          "id": "b83083a0-7fc0-43ea-98a4-5b6e27082fa3",
+          "name": "Unknown User",
+          "email": null
+        }
+      ],
+      "Tasks": "SF 009"
+    },
+    "_title": "SF 009",
+    "database_name": "[DeeDee - 2023] Jelly’s Bean mini project",
+    "project_name": "[DeeDee - 2023] Jelly’s Bean mini project",
+    "database_id": "1be1b792-dc03-4515-9874-0025e5ab7461"
+  },
+  {
+    "id": "ac87f537-98cc-45af-8f04-56df42f24489",
+    "created_time": "2023-09-06T11:41:00.000Z",
+    "last_edited_time": "2023-09-07T03:17:00.000Z",
+    "properties": {
+      "Last edited time": null,
+      "Sprint": null,
+      "Task Status": "In progress",
+      "Deadlines": null,
+      "Status trong Sprint": "Not started",
+      "Ước tính nỗ lực": null,
+      "Scenes": "JB_003",
+      "Last edited by": null,
+      "Ước tính khả thi": null,
+      "Nhân sự": [
+        {
+          "id": "508830f8-a383-4b7f-9395-19e9088aac2b",
+          "name": "Nhung Trần",
+          "email": "nhungtth@sangygroup.com"
+        }
+      ],
+      "Tasks": "SF 003"
+    },
+    "_title": "SF 003",
+    "database_name": "[DeeDee - 2023] Jelly’s Bean mini project",
+    "project_name": "[DeeDee - 2023] Jelly’s Bean mini project",
+    "database_id": "1be1b792-dc03-4515-9874-0025e5ab7461"
+  },
+  {
+    "id": "ae0b015a-97b1-4b66-962f-97509384fb06",
+    "created_time": "2023-09-06T11:41:00.000Z",
+    "last_edited_time": "2023-09-07T03:00:00.000Z",
+    "properties": {
+      "Last edited time": null,
+      "Sprint": null,
+      "Task Status": "In progress",
+      "Deadlines": null,
+      "Status trong Sprint": "Not started",
+      "Ước tính nỗ lực": null,
+      "Scenes": "JB_010",
+      "Last edited by": null,
+      "Ước tính khả thi": null,
+      "Nhân sự": [
+        {
+          "id": "513760cb-f9a6-4210-8a71-8ff101e41eb5",
+          "name": "Quỳnh Trương",
+          "email": "quynhtpm@sangygroup.com"
+        }
+      ],
+      "Tasks": "SF 010"
+    },
+    "_title": "SF 010",
+    "database_name": "[DeeDee - 2023] Jelly’s Bean mini project",
+    "project_name": "[DeeDee - 2023] Jelly’s Bean mini project",
+    "database_id": "1be1b792-dc03-4515-9874-0025e5ab7461"
+  },
+  {
+    "id": "aee92c19-465b-4f0d-b3a9-70041c169672",
+    "created_time": "2023-09-06T11:41:00.000Z",
+    "last_edited_time": "2023-09-07T02:34:00.000Z",
+    "properties": {
+      "Last edited time": null,
+      "Sprint": null,
+      "Task Status": "In progress",
+      "Deadlines": null,
+      "Status trong Sprint": "Not started",
+      "Ước tính nỗ lực": null,
+      "Scenes": "JB_008",
+      "Last edited by": null,
+      "Ước tính khả thi": null,
+      "Nhân sự": [
+        {
+          "id": "ecfcb3a2-84a8-4fac-963f-2d7c5b0deffe",
+          "name": "Unknown User",
+          "email": null
+        }
+      ],
+      "Tasks": "SF 008"
+    },
+    "_title": "SF 008",
+    "database_name": "[DeeDee - 2023] Jelly’s Bean mini project",
+    "project_name": "[DeeDee - 2023] Jelly’s Bean mini project",
+    "database_id": "1be1b792-dc03-4515-9874-0025e5ab7461"
+  },
+  {
+    "id": "c403c8b9-c9a4-441d-aafc-1f09dfad6c63",
+    "created_time": "2023-09-06T11:41:00.000Z",
+    "last_edited_time": "2023-09-07T02:19:00.000Z",
+    "properties": {
+      "Last edited time": null,
+      "Sprint": null,
+      "Task Status": "In progress",
+      "Deadlines": null,
+      "Status trong Sprint": "Not started",
+      "Ước tính nỗ lực": null,
+      "Scenes": "JB_006",
+      "Last edited by": null,
+      "Ước tính khả thi": null,
+      "Nhân sự": [
+        {
+          "id": "a8b38e3d-2194-4ec4-bbfd-56f062d3f049",
+          "name": "Thi Hoàng",
+          "email": "thihnm@sangygroup.com"
+        }
+      ],
+      "Tasks": "SF 006"
+    },
+    "_title": "SF 006",
+    "database_name": "[DeeDee - 2023] Jelly’s Bean mini project",
+    "project_name": "[DeeDee - 2023] Jelly’s Bean mini project",
+    "database_id": "1be1b792-dc03-4515-9874-0025e5ab7461"
+  }
+]

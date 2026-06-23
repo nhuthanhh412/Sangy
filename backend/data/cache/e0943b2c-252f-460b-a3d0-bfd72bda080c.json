@@ -1,0 +1,59 @@
+[
+  {
+    "id": "186d4941-542a-4d99-80ae-0bf9d6cac907",
+    "created_time": "2024-03-02T08:56:00.000Z",
+    "last_edited_time": "2024-03-02T08:56:00.000Z",
+    "properties": {
+      "Sprint name": "Sprint 2",
+      "Dates": null,
+      "Sprint ID": null,
+      "Tasks": [],
+      "Total tasks": 0,
+      "Completed tasks": null,
+      "Sprint status": "Next"
+    },
+    "_title": "Sprint 2",
+    "database_name": "Sprints",
+    "project_name": "Sprints",
+    "database_id": "e0943b2c-252f-460b-a3d0-bfd72bda080c"
+  },
+  {
+    "id": "85bbf755-d634-4279-a5f7-4f0d6a2f6f2e",
+    "created_time": "2024-03-02T08:56:00.000Z",
+    "last_edited_time": "2024-03-02T08:56:00.000Z",
+    "properties": {
+      "Sprint name": "Sprint 1",
+      "Dates": {
+        "start": "2024-02-26",
+        "end": "2024-03-10"
+      },
+      "Sprint ID": null,
+      "Tasks": [],
+      "Total tasks": 0,
+      "Completed tasks": null,
+      "Sprint status": "Current"
+    },
+    "_title": "Sprint 1",
+    "database_name": "Sprints",
+    "project_name": "Sprints",
+    "database_id": "e0943b2c-252f-460b-a3d0-bfd72bda080c"
+  },
+  {
+    "id": "f9068d4d-3707-4361-8c47-ec76756a7fa2",
+    "created_time": "2024-03-02T08:56:00.000Z",
+    "last_edited_time": "2024-03-02T08:56:00.000Z",
+    "properties": {
+      "Sprint name": "Sprint 3",
+      "Dates": null,
+      "Sprint ID": null,
+      "Tasks": [],
+      "Total tasks": 0,
+      "Completed tasks": null,
+      "Sprint status": "Future"
+    },
+    "_title": "Sprint 3",
+    "database_name": "Sprints",
+    "project_name": "Sprints",
+    "database_id": "e0943b2c-252f-460b-a3d0-bfd72bda080c"
+  }
+]

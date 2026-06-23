@@ -1,0 +1,2368 @@
+[
+  {
+    "id": "2dfccb0e-ac88-8009-ada4-ccca1c6da701",
+    "created_time": "2026-01-05T07:42:00.000Z",
+    "last_edited_time": "2026-01-05T07:43:00.000Z",
+    "properties": {
+      "Comp": [],
+      "FX": "",
+      "Đã có prop": false,
+      "Combo": null,
+      "Note anim": "",
+      "Layout": null,
+      "Prop & mô tả prop": "Kẹo và gậy masmallow\nMũ bảo hiểm Gen đội",
+      "Key": "E",
+      "IBW": "E",
+      "Nhân vật": [
+        "Genevie đội mũ bảo hiểm"
+      ],
+      "Scene": "93"
+    },
+    "_title": "93",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-8121-8b2b-d49d7d560a8f"
+  },
+  {
+    "id": "2dfccb0e-ac88-8012-aba4-e6425bc0b7b7",
+    "created_time": "2026-01-05T07:33:00.000Z",
+    "last_edited_time": "2026-01-06T10:43:00.000Z",
+    "properties": {
+      "Comp": [
+        "Lửa",
+        "Filter tối"
+      ],
+      "FX": "",
+      "Đã có prop": false,
+      "Combo": "12",
+      "Note anim": "dùng set up cảnh 56",
+      "Layout": null,
+      "Prop & mô tả prop": "Kẹo và gậy masmallow\nMũ bảo hiểm Gen đội",
+      "Key": "E",
+      "IBW": "E",
+      "Nhân vật": [
+        "Mosse",
+        "BlueberryCat",
+        "Genevie đội mũ bảo hiểm",
+        "Fish",
+        "Cherrycat"
+      ],
+      "Scene": "89"
+    },
+    "_title": "89",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-8121-8b2b-d49d7d560a8f"
+  },
+  {
+    "id": "2dfccb0e-ac88-8039-9b65-dd29d898cae6",
+    "created_time": "2026-01-05T07:38:00.000Z",
+    "last_edited_time": "2026-01-05T07:43:00.000Z",
+    "properties": {
+      "Comp": [
+        "Lửa",
+        "Filter tối"
+      ],
+      "FX": "lửa",
+      "Đã có prop": false,
+      "Combo": null,
+      "Note anim": "",
+      "Layout": null,
+      "Prop & mô tả prop": "Kẹo và gậy masmallow\nMũ bảo hiểm Gen đội",
+      "Key": "C",
+      "IBW": "D",
+      "Nhân vật": [
+        "Mosse",
+        "BlueberryCat",
+        "Genevie đội mũ bảo hiểm",
+        "Fish",
+        "Cherrycat",
+        "C4Tr0n",
+        "Dragon",
+        "Fox"
+      ],
+      "Scene": "91"
+    },
+    "_title": "91",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-8121-8b2b-d49d7d560a8f"
+  },
+  {
+    "id": "2dfccb0e-ac88-8045-bac0-e88c7bad919c",
+    "created_time": "2026-01-05T07:44:00.000Z",
+    "last_edited_time": "2026-01-05T07:46:00.000Z",
+    "properties": {
+      "Comp": [
+        "Lửa",
+        "Filter tối",
+        "Glow"
+      ],
+      "FX": "lửa",
+      "Đã có prop": false,
+      "Combo": "12",
+      "Note anim": "dùng set up cảnh 94",
+      "Layout": null,
+      "Prop & mô tả prop": "",
+      "Key": "D",
+      "IBW": "E",
+      "Nhân vật": [
+        "Mosse",
+        "BlueberryCat",
+        "Genevie đội mũ bảo hiểm",
+        "Fish",
+        "Cherrycat",
+        "Nhân vật Hươu thật\\"
+      ],
+      "Scene": "96"
+    },
+    "_title": "96",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-8121-8b2b-d49d7d560a8f"
+  },
+  {
+    "id": "2dfccb0e-ac88-8051-8aaf-d29e53e063b6",
+    "created_time": "2026-01-05T07:33:00.000Z",
+    "last_edited_time": "2026-01-06T10:43:00.000Z",
+    "properties": {
+      "Comp": [],
+      "FX": "",
+      "Đã có prop": false,
+      "Combo": null,
+      "Note anim": "",
+      "Layout": null,
+      "Prop & mô tả prop": "",
+      "Key": "E",
+      "IBW": "F",
+      "Nhân vật": [
+        "Cherrycat"
+      ],
+      "Scene": "84"
+    },
+    "_title": "84",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-8121-8b2b-d49d7d560a8f"
+  },
+  {
+    "id": "2dfccb0e-ac88-8054-ac55-e9b85d4e722e",
+    "created_time": "2026-01-05T07:40:00.000Z",
+    "last_edited_time": "2026-01-05T07:42:00.000Z",
+    "properties": {
+      "Comp": [
+        "Filter tối"
+      ],
+      "FX": "",
+      "Đã có prop": false,
+      "Combo": "13",
+      "Note anim": "dùng set up cảnh 90",
+      "Layout": null,
+      "Prop & mô tả prop": "",
+      "Key": "E",
+      "IBW": "E",
+      "Nhân vật": [
+        "Fox",
+        "Dragon",
+        "C4Tr0n"
+      ],
+      "Scene": "92"
+    },
+    "_title": "92",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-8121-8b2b-d49d7d560a8f"
+  },
+  {
+    "id": "2dfccb0e-ac88-8060-b082-ec5b6403c69c",
+    "created_time": "2026-01-05T07:28:00.000Z",
+    "last_edited_time": "2026-01-07T07:21:00.000Z",
+    "properties": {
+      "Comp": [],
+      "FX": "",
+      "Đã có prop": false,
+      "Combo": null,
+      "Note anim": "",
+      "Layout": null,
+      "Prop & mô tả prop": "Mũ bảo hiểm Gen đội",
+      "Key": "D",
+      "IBW": "E",
+      "Nhân vật": [
+        "Mosse",
+        "BlueberryCat",
+        "Genevie đội mũ bảo hiểm",
+        "Cherrycat",
+        "Fish"
+      ],
+      "Scene": "81"
+    },
+    "_title": "81",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-8121-8b2b-d49d7d560a8f"
+  },
+  {
+    "id": "2dfccb0e-ac88-806d-9f5a-fd4b7f728319",
+    "created_time": "2026-01-05T07:28:00.000Z",
+    "last_edited_time": "2026-01-15T03:18:00.000Z",
+    "properties": {
+      "Comp": [
+        "Nước",
+        "Bóng phản chiếu dưới nước"
+      ],
+      "FX": "",
+      "Đã có prop": false,
+      "Combo": null,
+      "Note anim": "cần diễn Moose nhiều hơn ",
+      "Layout": null,
+      "Prop & mô tả prop": "",
+      "Key": "E",
+      "IBW": "E",
+      "Nhân vật": [
+        "Mosse"
+      ],
+      "Scene": "83"
+    },
+    "_title": "83",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-8121-8b2b-d49d7d560a8f"
+  },
+  {
+    "id": "2dfccb0e-ac88-8073-a006-db8b26e2259c",
+    "created_time": "2026-01-05T07:33:00.000Z",
+    "last_edited_time": "2026-01-06T10:43:00.000Z",
+    "properties": {
+      "Comp": [
+        "Filter tối",
+        "Lửa",
+        "Glow"
+      ],
+      "FX": "lửa",
+      "Đã có prop": false,
+      "Combo": "12",
+      "Note anim": "",
+      "Layout": null,
+      "Prop & mô tả prop": "Kẹo và gậy masmallow \nMũ bảo hiểm Gen đội",
+      "Key": "D",
+      "IBW": "E",
+      "Nhân vật": [
+        "Mosse",
+        "BlueberryCat",
+        "Genevie đội mũ bảo hiểm",
+        "Fish",
+        "Cherrycat"
+      ],
+      "Scene": "86"
+    },
+    "_title": "86",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-8121-8b2b-d49d7d560a8f"
+  },
+  {
+    "id": "2dfccb0e-ac88-80a1-aebc-f2cf69787476",
+    "created_time": "2026-01-05T07:33:00.000Z",
+    "last_edited_time": "2026-01-06T10:43:00.000Z",
+    "properties": {
+      "Comp": [
+        "Filter tối",
+        "Lửa"
+      ],
+      "FX": "lửa",
+      "Đã có prop": false,
+      "Combo": null,
+      "Note anim": "",
+      "Layout": null,
+      "Prop & mô tả prop": "Mũ bảo hiểm Gen đội",
+      "Key": "D",
+      "IBW": "E",
+      "Nhân vật": [
+        "Genevie đội mũ bảo hiểm",
+        "Cherrycat",
+        "Mosse"
+      ],
+      "Scene": "87"
+    },
+    "_title": "87",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-8121-8b2b-d49d7d560a8f"
+  },
+  {
+    "id": "2dfccb0e-ac88-80be-8d86-ce7562db3ae6",
+    "created_time": "2026-01-05T07:33:00.000Z",
+    "last_edited_time": "2026-01-06T10:43:00.000Z",
+    "properties": {
+      "Comp": [
+        "Hiệu ứng chuyển cảnh như animatic",
+        "Ám sáng chiều tà"
+      ],
+      "FX": "bong bóng\nvân nước",
+      "Đã có prop": false,
+      "Combo": null,
+      "Note anim": "",
+      "Layout": null,
+      "Prop & mô tả prop": "",
+      "Key": "D",
+      "IBW": "E",
+      "Nhân vật": [
+        "Genevie đội mũ bảo hiểm",
+        "Fish",
+        "BlueberryCat"
+      ],
+      "Scene": "85"
+    },
+    "_title": "85",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-8121-8b2b-d49d7d560a8f"
+  },
+  {
+    "id": "2dfccb0e-ac88-80c5-b63e-dbd22db3c694",
+    "created_time": "2026-01-05T07:42:00.000Z",
+    "last_edited_time": "2026-01-05T07:44:00.000Z",
+    "properties": {
+      "Comp": [
+        "Lửa",
+        "Filter tối"
+      ],
+      "FX": "lửa",
+      "Đã có prop": false,
+      "Combo": null,
+      "Note anim": "",
+      "Layout": null,
+      "Prop & mô tả prop": "Kẹo và gậy masmallow",
+      "Key": "E",
+      "IBW": "E",
+      "Nhân vật": [
+        "Cherrycat",
+        "Fox"
+      ],
+      "Scene": "95"
+    },
+    "_title": "95",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-8121-8b2b-d49d7d560a8f"
+  },
+  {
+    "id": "2dfccb0e-ac88-80c7-9da6-fa71bb45d86e",
+    "created_time": "2026-01-05T07:28:00.000Z",
+    "last_edited_time": "2026-01-15T03:18:00.000Z",
+    "properties": {
+      "Comp": [
+        "Nước",
+        "Bóng phản chiếu dưới nước"
+      ],
+      "FX": "",
+      "Đã có prop": false,
+      "Combo": null,
+      "Note anim": "",
+      "Layout": null,
+      "Prop & mô tả prop": "",
+      "Key": "E",
+      "IBW": "F",
+      "Nhân vật": [
+        "Mosse"
+      ],
+      "Scene": "82"
+    },
+    "_title": "82",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-8121-8b2b-d49d7d560a8f"
+  },
+  {
+    "id": "2dfccb0e-ac88-80d3-b370-f7f96b2ca1d9",
+    "created_time": "2026-01-05T07:38:00.000Z",
+    "last_edited_time": "2026-01-05T07:42:00.000Z",
+    "properties": {
+      "Comp": [
+        "Filter tối"
+      ],
+      "FX": "",
+      "Đã có prop": false,
+      "Combo": "13",
+      "Note anim": "",
+      "Layout": null,
+      "Prop & mô tả prop": "",
+      "Key": "D",
+      "IBW": "E",
+      "Nhân vật": [
+        "Fox",
+        "Dragon",
+        "C4Tr0n"
+      ],
+      "Scene": "90"
+    },
+    "_title": "90",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-8121-8b2b-d49d7d560a8f"
+  },
+  {
+    "id": "2dfccb0e-ac88-80e7-9e09-e3fe3ca406a9",
+    "created_time": "2026-01-05T07:33:00.000Z",
+    "last_edited_time": "2026-01-06T10:43:00.000Z",
+    "properties": {
+      "Comp": [
+        "Filter tối"
+      ],
+      "FX": "bong bóng\nlửa",
+      "Đã có prop": false,
+      "Combo": null,
+      "Note anim": "",
+      "Layout": null,
+      "Prop & mô tả prop": "",
+      "Key": "E",
+      "IBW": "E",
+      "Nhân vật": [
+        "BlueberryCat",
+        "Fish"
+      ],
+      "Scene": "88"
+    },
+    "_title": "88",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-8121-8b2b-d49d7d560a8f"
+  },
+  {
+    "id": "2dfccb0e-ac88-80f0-98a0-de34ecbd5ba4",
+    "created_time": "2026-01-05T07:42:00.000Z",
+    "last_edited_time": "2026-01-05T07:44:00.000Z",
+    "properties": {
+      "Comp": [
+        "Lửa",
+        "Filter tối",
+        "Glow"
+      ],
+      "FX": "lửa",
+      "Đã có prop": false,
+      "Combo": "12",
+      "Note anim": "dùng set up cảnh 89",
+      "Layout": null,
+      "Prop & mô tả prop": "",
+      "Key": "D",
+      "IBW": "E",
+      "Nhân vật": [
+        "Mosse",
+        "BlueberryCat",
+        "Genevie đội mũ bảo hiểm",
+        "Fish",
+        "Cherrycat"
+      ],
+      "Scene": "94"
+    },
+    "_title": "94",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-8121-8b2b-d49d7d560a8f"
+  },
+  {
+    "id": "2dfccb0e-ac88-8107-91c4-e71606fd3fa2",
+    "created_time": "2026-01-05T03:51:00.000Z",
+    "last_edited_time": "2026-01-05T07:26:00.000Z",
+    "properties": {
+      "Comp": [],
+      "FX": "",
+      "Đã có prop": false,
+      "Combo": "1",
+      "Note anim": "các nhân vật cần tương tác với nhau\nGene tay lái lái Vô lăng",
+      "Layout": null,
+      "Prop & mô tả prop": "\nMũ bảo hiểm Gen đội",
+      "Key": "D",
+      "IBW": "E",
+      "Nhân vật": [
+        "Genevie đội mũ bảo hiểm",
+        "Cherrycat",
+        "BlueberryCat",
+        "Mosse",
+        "Fish"
+      ],
+      "Scene": "34"
+    },
+    "_title": "34",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-8121-8b2b-d49d7d560a8f"
+  },
+  {
+    "id": "2dfccb0e-ac88-8107-9877-e8876014bf5a",
+    "created_time": "2026-01-05T03:51:00.000Z",
+    "last_edited_time": "2026-01-05T07:26:00.000Z",
+    "properties": {
+      "Comp": [],
+      "FX": "Khói bụi từ xe lúc di chuyển",
+      "Đã có prop": false,
+      "Combo": null,
+      "Note anim": "bám sát animatic cut, dừng lại cần overshoot",
+      "Layout": null,
+      "Prop & mô tả prop": "\nMũ bảo hiểm Gen đội",
+      "Key": "D",
+      "IBW": "D",
+      "Nhân vật": [
+        "Genevie đội mũ bảo hiểm",
+        "Cherrycat",
+        "BlueberryCat",
+        "Mosse",
+        "Fish"
+      ],
+      "Scene": "68"
+    },
+    "_title": "68",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-8121-8b2b-d49d7d560a8f"
+  },
+  {
+    "id": "2dfccb0e-ac88-8109-96cb-d72967603f22",
+    "created_time": "2026-01-05T03:51:00.000Z",
+    "last_edited_time": "2026-01-06T10:43:00.000Z",
+    "properties": {
+      "Comp": [
+        "Ánh sáng mặt trời"
+      ],
+      "FX": "",
+      "Đã có prop": false,
+      "Combo": "10",
+      "Note anim": "",
+      "Layout": null,
+      "Prop & mô tả prop": "",
+      "Key": "E",
+      "IBW": "E",
+      "Nhân vật": [
+        "Cherrycat",
+        "Genevie đội mũ bảo hiểm"
+      ],
+      "Scene": "77"
+    },
+    "_title": "77",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-8121-8b2b-d49d7d560a8f"
+  },
+  {
+    "id": "2dfccb0e-ac88-810e-8395-f6944acfc239",
+    "created_time": "2026-01-05T03:51:00.000Z",
+    "last_edited_time": "2026-01-05T07:26:00.000Z",
+    "properties": {
+      "Comp": [],
+      "FX": "",
+      "Đã có prop": false,
+      "Combo": "2",
+      "Note anim": "dùng set up cảnh 12 nên giảm độ khó cảnh\nchú ý raccord pose Moose",
+      "Layout": null,
+      "Prop & mô tả prop": "Ô Tô góc như Animatic cut\nMũ bảo hiểm Gen đội",
+      "Key": "E",
+      "IBW": "F",
+      "Nhân vật": [
+        "Genevie đội mũ bảo hiểm",
+        "Cherrycat",
+        "BlueberryCat",
+        "Mosse",
+        "Fish"
+      ],
+      "Scene": "29"
+    },
+    "_title": "29",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-8121-8b2b-d49d7d560a8f"
+  },
+  {
+    "id": "2dfccb0e-ac88-811c-ae4e-ee0a9dc92acd",
+    "created_time": "2026-01-05T03:51:00.000Z",
+    "last_edited_time": "2026-01-06T10:43:00.000Z",
+    "properties": {
+      "Comp": [],
+      "FX": "",
+      "Đã có prop": false,
+      "Combo": null,
+      "Note anim": "",
+      "Layout": null,
+      "Prop & mô tả prop": "",
+      "Key": "E",
+      "IBW": "F",
+      "Nhân vật": [
+        "Cherrycat",
+        "Fish"
+      ],
+      "Scene": "72"
+    },
+    "_title": "72",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-8121-8b2b-d49d7d560a8f"
+  },
+  {
+    "id": "2dfccb0e-ac88-811d-bd28-d129de9a5697",
+    "created_time": "2026-01-05T03:51:00.000Z",
+    "last_edited_time": "2026-01-05T07:07:00.000Z",
+    "properties": {
+      "Comp": [],
+      "FX": "",
+      "Đã có prop": false,
+      "Combo": "7",
+      "Note anim": "smear, cho rung giảm dần r dừng lại",
+      "Layout": null,
+      "Prop & mô tả prop": "Ghế\nnút",
+      "Key": "D",
+      "IBW": "E",
+      "Nhân vật": [
+        "Mosse"
+      ],
+      "Scene": "58"
+    },
+    "_title": "58",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-8121-8b2b-d49d7d560a8f"
+  },
+  {
+    "id": "2dfccb0e-ac88-8120-a08e-f5721fc6deb3",
+    "created_time": "2026-01-05T03:51:00.000Z",
+    "last_edited_time": "2026-01-05T07:08:00.000Z",
+    "properties": {
+      "Comp": [],
+      "FX": "",
+      "Đã có prop": false,
+      "Combo": null,
+      "Note anim": "",
+      "Layout": null,
+      "Prop & mô tả prop": "",
+      "Key": "E",
+      "IBW": "F",
+      "Nhân vật": [
+        "BlueberryCat",
+        "Chim",
+        "Cherrycat"
+      ],
+      "Scene": "55"
+    },
+    "_title": "55",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-8121-8b2b-d49d7d560a8f"
+  },
+  {
+    "id": "2dfccb0e-ac88-8121-a151-fcdcb166efd7",
+    "created_time": "2026-01-05T03:51:00.000Z",
+    "last_edited_time": "2026-01-05T07:26:00.000Z",
+    "properties": {
+      "Comp": [],
+      "FX": "Khói bụi từ xe lúc di chuyển",
+      "Đã có prop": false,
+      "Combo": null,
+      "Note anim": "Chú ý phối cảnh từ xa đến gần\n",
+      "Layout": null,
+      "Prop & mô tả prop": "Ô Tô góc như Animatic cut\nMũ bảo hiểm Gen đội",
+      "Key": "D",
+      "IBW": "E",
+      "Nhân vật": [
+        "Genevie đội mũ bảo hiểm",
+        "Cherrycat",
+        "BlueberryCat",
+        "Mosse",
+        "Fish"
+      ],
+      "Scene": "18"
+    },
+    "_title": "18",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-8121-8b2b-d49d7d560a8f"
+  },
+  {
+    "id": "2dfccb0e-ac88-8124-98ef-e6475f42a9b9",
+    "created_time": "2026-01-05T03:51:00.000Z",
+    "last_edited_time": "2026-01-05T07:14:00.000Z",
+    "properties": {
+      "Comp": [],
+      "FX": "",
+      "Đã có prop": false,
+      "Combo": null,
+      "Note anim": "",
+      "Layout": null,
+      "Prop & mô tả prop": "Ô Tô góc như Animatic cut",
+      "Key": "E",
+      "IBW": "F",
+      "Nhân vật": [],
+      "Scene": "64"
+    },
+    "_title": "64",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-8121-8b2b-d49d7d560a8f"
+  },
+  {
+    "id": "2dfccb0e-ac88-8127-b920-fce3a59fd33a",
+    "created_time": "2026-01-05T03:51:00.000Z",
+    "last_edited_time": "2026-01-05T07:26:00.000Z",
+    "properties": {
+      "Comp": [],
+      "FX": "Khói bụi từ xe lúc di chuyển",
+      "Đã có prop": false,
+      "Combo": null,
+      "Note anim": "nhân vật nhìn theo hướng di chuyển",
+      "Layout": null,
+      "Prop & mô tả prop": "\nMũ bảo hiểm Gen đội",
+      "Key": "D",
+      "IBW": "D",
+      "Nhân vật": [
+        "Genevie đội mũ bảo hiểm",
+        "Cherrycat",
+        "BlueberryCat",
+        "Mosse",
+        "Fish"
+      ],
+      "Scene": "63"
+    },
+    "_title": "63",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-8121-8b2b-d49d7d560a8f"
+  },
+  {
+    "id": "2dfccb0e-ac88-812b-84c2-d2db034d33bc",
+    "created_time": "2026-01-05T03:51:00.000Z",
+    "last_edited_time": "2026-01-05T07:26:00.000Z",
+    "properties": {
+      "Comp": [],
+      "FX": "Khói bụi từ xe lúc di chuyển",
+      "Đã có prop": false,
+      "Combo": "2",
+      "Note anim": "",
+      "Layout": null,
+      "Prop & mô tả prop": "Ô Tô góc như Animatic cut\nMũ bảo hiểm Gen đội",
+      "Key": "D",
+      "IBW": "E",
+      "Nhân vật": [
+        "Genevie đội mũ bảo hiểm",
+        "Cherrycat",
+        "BlueberryCat",
+        "Mosse",
+        "Fish"
+      ],
+      "Scene": "12"
+    },
+    "_title": "12",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-8121-8b2b-d49d7d560a8f"
+  },
+  {
+    "id": "2dfccb0e-ac88-812f-b0b0-ec57d51d83bf",
+    "created_time": "2026-01-05T03:51:00.000Z",
+    "last_edited_time": "2026-01-05T06:43:00.000Z",
+    "properties": {
+      "Comp": [],
+      "FX": "",
+      "Đã có prop": false,
+      "Combo": "7",
+      "Note anim": "smear",
+      "Layout": null,
+      "Prop & mô tả prop": "Ghế\nnút",
+      "Key": "D",
+      "IBW": "E",
+      "Nhân vật": [
+        "Mosse"
+      ],
+      "Scene": "50"
+    },
+    "_title": "50",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-8121-8b2b-d49d7d560a8f"
+  },
+  {
+    "id": "2dfccb0e-ac88-8132-99e1-c254bd47c637",
+    "created_time": "2026-01-05T03:51:00.000Z",
+    "last_edited_time": "2026-01-05T07:26:00.000Z",
+    "properties": {
+      "Comp": [],
+      "FX": "",
+      "Đã có prop": false,
+      "Combo": null,
+      "Note anim": "các nhân vật cần tương tác với nhau",
+      "Layout": null,
+      "Prop & mô tả prop": "Gậy + túi treo trên gậy\ntúi Moose cầm\nCuộn Blueberry cat cầm\nBalo Gen đeo\nMũ bảo hiểm Gen đội",
+      "Key": "D",
+      "IBW": "E",
+      "Nhân vật": [
+        "Mosse",
+        "BlueberryCat",
+        "Genevie đội mũ bảo hiểm",
+        "Fish",
+        "Cherrycat",
+        "C4Tr0n"
+      ],
+      "Scene": "42"
+    },
+    "_title": "42",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-8121-8b2b-d49d7d560a8f"
+  },
+  {
+    "id": "2dfccb0e-ac88-813a-9c1d-de1b38230d2a",
+    "created_time": "2026-01-05T03:51:00.000Z",
+    "last_edited_time": "2026-01-06T10:43:00.000Z",
+    "properties": {
+      "Comp": [],
+      "FX": "bong bóng",
+      "Đã có prop": false,
+      "Combo": null,
+      "Note anim": "",
+      "Layout": null,
+      "Prop & mô tả prop": "",
+      "Key": "E",
+      "IBW": "F",
+      "Nhân vật": [
+        "Fish"
+      ],
+      "Scene": "73"
+    },
+    "_title": "73",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-8121-8b2b-d49d7d560a8f"
+  },
+  {
+    "id": "2dfccb0e-ac88-813b-a33e-e0c79c14427e",
+    "created_time": "2026-01-05T03:51:00.000Z",
+    "last_edited_time": "2026-01-05T07:26:00.000Z",
+    "properties": {
+      "Comp": [],
+      "FX": "Khói bụi từ xe lúc di chuyển",
+      "Đã có prop": false,
+      "Combo": null,
+      "Note anim": "nhân vật nhìn theo hướng di chuyển\nChú ý có bám animaticcut, xe dừng lại lùi lại rồi rẽ sang để lên\nchú ý xe cần đổi khối khi rẽ trái phải\n",
+      "Layout": null,
+      "Prop & mô tả prop": "\nMũ bảo hiểm Gen đội",
+      "Key": "C",
+      "IBW": "D",
+      "Nhân vật": [
+        "Genevie đội mũ bảo hiểm",
+        "Cherrycat",
+        "BlueberryCat",
+        "Mosse",
+        "Fish"
+      ],
+      "Scene": "67"
+    },
+    "_title": "67",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-8121-8b2b-d49d7d560a8f"
+  },
+  {
+    "id": "2dfccb0e-ac88-8140-b4e1-d82e9e3a2bff",
+    "created_time": "2026-01-05T03:51:00.000Z",
+    "last_edited_time": "2026-01-06T10:43:00.000Z",
+    "properties": {
+      "Comp": [],
+      "FX": "",
+      "Đã có prop": false,
+      "Combo": "11",
+      "Note anim": "",
+      "Layout": null,
+      "Prop & mô tả prop": "\nMũ bảo hiểm Gen đội",
+      "Key": "E",
+      "IBW": "F",
+      "Nhân vật": [
+        "Mosse",
+        "BlueberryCat",
+        "Genevie đội mũ bảo hiểm",
+        "Cherrycat",
+        "Fish"
+      ],
+      "Scene": "80"
+    },
+    "_title": "80",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-8121-8b2b-d49d7d560a8f"
+  },
+  {
+    "id": "2dfccb0e-ac88-8143-85d7-def2c793a8da",
+    "created_time": "2026-01-05T03:51:00.000Z",
+    "last_edited_time": "2026-01-05T07:26:00.000Z",
+    "properties": {
+      "Comp": [],
+      "FX": "",
+      "Đã có prop": false,
+      "Combo": "6",
+      "Note anim": "1 2 nhân vật chớp mắt, mặt vô cảm, đơ đơ ko hiểu gì",
+      "Layout": null,
+      "Prop & mô tả prop": "Gậy + túi treo trên gậy\ntúi Moose cầm\nCuộn Blueberry cat cầm\nBalo Gen đeo\nMũ bảo hiểm Gen đội",
+      "Key": "E",
+      "IBW": "F",
+      "Nhân vật": [
+        "Mosse",
+        "BlueberryCat",
+        "Genevie đội mũ bảo hiểm",
+        "Fish",
+        "Cherrycat"
+      ],
+      "Scene": "43"
+    },
+    "_title": "43",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-8121-8b2b-d49d7d560a8f"
+  },
+  {
+    "id": "2dfccb0e-ac88-8143-992b-f1dbe54802fb",
+    "created_time": "2026-01-05T03:51:00.000Z",
+    "last_edited_time": "2026-01-05T07:26:00.000Z",
+    "properties": {
+      "Comp": [],
+      "FX": "",
+      "Đã có prop": false,
+      "Combo": null,
+      "Note anim": "",
+      "Layout": null,
+      "Prop & mô tả prop": "Balo Gen đeo\nMũ bảo hiểm Gen đội",
+      "Key": "C",
+      "IBW": "D",
+      "Nhân vật": [
+        "Genevie đội mũ bảo hiểm",
+        "Cherrycat",
+        "BlueberryCat",
+        "Mosse",
+        "Fish",
+        "Dragon",
+        "Fox"
+      ],
+      "Scene": "62"
+    },
+    "_title": "62",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-8121-8b2b-d49d7d560a8f"
+  },
+  {
+    "id": "2dfccb0e-ac88-8147-b0e9-d7d70fb7069a",
+    "created_time": "2026-01-05T03:51:00.000Z",
+    "last_edited_time": "2026-01-05T07:26:00.000Z",
+    "properties": {
+      "Comp": [],
+      "FX": "",
+      "Đã có prop": false,
+      "Combo": null,
+      "Note anim": "Gene tay lái lái Vô lăng",
+      "Layout": null,
+      "Prop & mô tả prop": "\nMũ bảo hiểm Gen đội",
+      "Key": "E",
+      "IBW": "E",
+      "Nhân vật": [
+        "Genevie đội mũ bảo hiểm",
+        "Fish",
+        "Cherrycat"
+      ],
+      "Scene": "33"
+    },
+    "_title": "33",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-8121-8b2b-d49d7d560a8f"
+  },
+  {
+    "id": "2dfccb0e-ac88-8149-8992-ef047df20588",
+    "created_time": "2026-01-05T03:51:00.000Z",
+    "last_edited_time": "2026-01-05T07:26:00.000Z",
+    "properties": {
+      "Comp": [],
+      "FX": "",
+      "Đã có prop": false,
+      "Combo": null,
+      "Note anim": "chú ý cherry cat cầm gậy đồ chạy đến",
+      "Layout": null,
+      "Prop & mô tả prop": "Gậy + túi treo trên gậy\ntúi Moose cầm\nMũ bảo hiểm Gen đội",
+      "Key": "C",
+      "IBW": "D",
+      "Nhân vật": [
+        "Mosse",
+        "BlueberryCat",
+        "Genevie đội mũ bảo hiểm",
+        "Fish",
+        "Cherrycat",
+        "C4Tr0n"
+      ],
+      "Scene": "40"
+    },
+    "_title": "40",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-8121-8b2b-d49d7d560a8f"
+  },
+  {
+    "id": "2dfccb0e-ac88-814a-ab37-f7e755543d97",
+    "created_time": "2026-01-05T03:51:00.000Z",
+    "last_edited_time": "2026-01-05T07:26:00.000Z",
+    "properties": {
+      "Comp": [],
+      "FX": "Khói bụi từ xe lúc di chuyển",
+      "Đã có prop": false,
+      "Combo": null,
+      "Note anim": "Chú ý phối cảnh từ xa đến gần\nXe có đoạn nảy lên trên không rồi chạm đất",
+      "Layout": null,
+      "Prop & mô tả prop": "Ô Tô góc như Animatic cut\nMũ bảo hiểm Gen đội",
+      "Key": "C",
+      "IBW": "E",
+      "Nhân vật": [
+        "Genevie đội mũ bảo hiểm",
+        "Cherrycat",
+        "BlueberryCat",
+        "Mosse",
+        "Fish"
+      ],
+      "Scene": "19"
+    },
+    "_title": "19",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-8121-8b2b-d49d7d560a8f"
+  },
+  {
+    "id": "2dfccb0e-ac88-814b-8506-e97d0dbe192e",
+    "created_time": "2026-01-05T03:51:00.000Z",
+    "last_edited_time": "2026-01-05T04:51:00.000Z",
+    "properties": {
+      "Comp": [],
+      "FX": "",
+      "Đã có prop": false,
+      "Combo": "4",
+      "Note anim": "dùng set up cảnh 13 nên giảm độ khó cảnh\nchú ý raccord pose Moose",
+      "Layout": null,
+      "Prop & mô tả prop": "",
+      "Key": "E",
+      "IBW": "E",
+      "Nhân vật": [],
+      "Scene": "32"
+    },
+    "_title": "32",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-8121-8b2b-d49d7d560a8f"
+  },
+  {
+    "id": "2dfccb0e-ac88-814c-ab90-f3605171bb2b",
+    "created_time": "2026-01-05T03:51:00.000Z",
+    "last_edited_time": "2026-01-06T10:43:00.000Z",
+    "properties": {
+      "Comp": [],
+      "FX": "Khói bụi từ xe lúc di chuyển",
+      "Đã có prop": false,
+      "Combo": null,
+      "Note anim": "bám sát animatic cut, dừng lại cần overshoot\nsmear",
+      "Layout": null,
+      "Prop & mô tả prop": "\nMũ bảo hiểm Gen đội",
+      "Key": "C",
+      "IBW": "D",
+      "Nhân vật": [
+        "Genevie đội mũ bảo hiểm",
+        "Cherrycat",
+        "BlueberryCat",
+        "Mosse",
+        "Fish"
+      ],
+      "Scene": "70"
+    },
+    "_title": "70",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-8121-8b2b-d49d7d560a8f"
+  },
+  {
+    "id": "2dfccb0e-ac88-8150-956e-e6ea143b5e3f",
+    "created_time": "2026-01-05T03:51:00.000Z",
+    "last_edited_time": "2026-01-05T07:26:00.000Z",
+    "properties": {
+      "Comp": [],
+      "FX": "Khói bụi từ xe lúc di chuyển",
+      "Đã có prop": false,
+      "Combo": "5",
+      "Note anim": "",
+      "Layout": null,
+      "Prop & mô tả prop": "Ô Tô góc như Animatic cut\nMũ bảo hiểm Gen đội",
+      "Key": "D",
+      "IBW": "F",
+      "Nhân vật": [
+        "Genevie đội mũ bảo hiểm",
+        "Cherrycat",
+        "BlueberryCat",
+        "Mosse",
+        "Fish"
+      ],
+      "Scene": "23"
+    },
+    "_title": "23",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-8121-8b2b-d49d7d560a8f"
+  },
+  {
+    "id": "2dfccb0e-ac88-8154-8115-fc3dba6bfbe4",
+    "created_time": "2026-01-05T03:51:00.000Z",
+    "last_edited_time": "2026-01-05T06:44:00.000Z",
+    "properties": {
+      "Comp": [
+        "Speedline",
+        "Ánh sáng mặt trời"
+      ],
+      "FX": "Nước chảy\nbọt bắn lên",
+      "Đã có prop": false,
+      "Combo": "8",
+      "Note anim": "\nanim con chim bằng hình bg cung cấp\n\n",
+      "Layout": null,
+      "Prop & mô tả prop": "Ti vi\nmàn hình tắt bật\nchim 2 pose như animatic cut",
+      "Key": "D",
+      "IBW": "E",
+      "Nhân vật": [
+        "Cherrycat",
+        "Chim"
+      ],
+      "Scene": "51"
+    },
+    "_title": "51",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-8121-8b2b-d49d7d560a8f"
+  },
+  {
+    "id": "2dfccb0e-ac88-8154-8c3d-c00b5e354e33",
+    "created_time": "2026-01-05T03:51:00.000Z",
+    "last_edited_time": "2026-01-05T07:26:00.000Z",
+    "properties": {
+      "Comp": [],
+      "FX": "Khói bụi từ xe lúc di chuyển",
+      "Đã có prop": false,
+      "Combo": null,
+      "Note anim": "Chú ý phối cảnh từ xa đến gần\nLàm lá bay lên như animatic cut",
+      "Layout": null,
+      "Prop & mô tả prop": "Ô Tô góc như Animatic cut\nMũ bảo hiểm Gen đội",
+      "Key": "D",
+      "IBW": "E",
+      "Nhân vật": [
+        "Genevie đội mũ bảo hiểm",
+        "Cherrycat",
+        "BlueberryCat",
+        "Mosse",
+        "Fish"
+      ],
+      "Scene": "11"
+    },
+    "_title": "11",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-8121-8b2b-d49d7d560a8f"
+  },
+  {
+    "id": "2dfccb0e-ac88-8154-985a-fd8e4622f14b",
+    "created_time": "2026-01-05T03:51:00.000Z",
+    "last_edited_time": "2026-01-05T04:46:00.000Z",
+    "properties": {
+      "Comp": [],
+      "FX": "",
+      "Đã có prop": false,
+      "Combo": null,
+      "Note anim": "F",
+      "Layout": null,
+      "Prop & mô tả prop": "",
+      "Key": "Omiited",
+      "IBW": "F",
+      "Nhân vật": [],
+      "Scene": "25"
+    },
+    "_title": "25",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-8121-8b2b-d49d7d560a8f"
+  },
+  {
+    "id": "2dfccb0e-ac88-8156-a117-d54845ea2da7",
+    "created_time": "2026-01-05T03:51:00.000Z",
+    "last_edited_time": "2026-01-05T07:26:00.000Z",
+    "properties": {
+      "Comp": [],
+      "FX": "Khói bụi từ xe lúc di chuyển",
+      "Đã có prop": false,
+      "Combo": null,
+      "Note anim": "Làm rõ đoạn dừng lại có Overshot follow theo sound\n",
+      "Layout": null,
+      "Prop & mô tả prop": "Ô Tô góc như Animatic cut\nMũ bảo hiểm Gen đội",
+      "Key": "D",
+      "IBW": "E",
+      "Nhân vật": [
+        "Genevie đội mũ bảo hiểm",
+        "Cherrycat",
+        "BlueberryCat",
+        "Mosse",
+        "Fish"
+      ],
+      "Scene": "36"
+    },
+    "_title": "36",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-8121-8b2b-d49d7d560a8f"
+  },
+  {
+    "id": "2dfccb0e-ac88-8157-9444-eb075604ab7d",
+    "created_time": "2026-01-05T03:51:00.000Z",
+    "last_edited_time": "2026-01-05T07:10:00.000Z",
+    "properties": {
+      "Comp": [],
+      "FX": "Nước ",
+      "Đã có prop": false,
+      "Combo": null,
+      "Note anim": "",
+      "Layout": null,
+      "Prop & mô tả prop": "",
+      "Key": "D",
+      "IBW": "D",
+      "Nhân vật": [
+        "Fox",
+        "Dragon"
+      ],
+      "Scene": "61"
+    },
+    "_title": "61",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-8121-8b2b-d49d7d560a8f"
+  },
+  {
+    "id": "2dfccb0e-ac88-815a-9ac9-dd1f03776461",
+    "created_time": "2026-01-05T03:51:00.000Z",
+    "last_edited_time": "2026-01-05T07:26:00.000Z",
+    "properties": {
+      "Comp": [],
+      "FX": "",
+      "Đã có prop": false,
+      "Combo": null,
+      "Note anim": "",
+      "Layout": null,
+      "Prop & mô tả prop": "Balo Gen đeo\nMũ bảo hiểm Gen đội",
+      "Key": "D",
+      "IBW": "E",
+      "Nhân vật": [
+        "Genevie đội mũ bảo hiểm"
+      ],
+      "Scene": "57"
+    },
+    "_title": "57",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-8121-8b2b-d49d7d560a8f"
+  },
+  {
+    "id": "2dfccb0e-ac88-8160-8152-ff2906782817",
+    "created_time": "2026-01-05T03:51:00.000Z",
+    "last_edited_time": "2026-01-05T04:46:00.000Z",
+    "properties": {
+      "Comp": [],
+      "FX": "",
+      "Đã có prop": false,
+      "Combo": "3",
+      "Note anim": "",
+      "Layout": null,
+      "Prop & mô tả prop": "",
+      "Key": "E",
+      "IBW": "E",
+      "Nhân vật": [
+        "Mosse"
+      ],
+      "Scene": "21"
+    },
+    "_title": "21",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-8121-8b2b-d49d7d560a8f"
+  },
+  {
+    "id": "2dfccb0e-ac88-8162-8984-dcb21bb05906",
+    "created_time": "2026-01-05T03:51:00.000Z",
+    "last_edited_time": "2026-01-05T04:31:00.000Z",
+    "properties": {
+      "Comp": [],
+      "FX": "",
+      "Đã có prop": false,
+      "Combo": null,
+      "Note anim": "cần đảm bảo key ở dưới thì có chui trong cái dây an toàn",
+      "Layout": null,
+      "Prop & mô tả prop": "dây an toàn",
+      "Key": "E",
+      "IBW": "E",
+      "Nhân vật": [
+        "Cherrycat",
+        "BlueberryCat"
+      ],
+      "Scene": "14"
+    },
+    "_title": "14",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-8121-8b2b-d49d7d560a8f"
+  },
+  {
+    "id": "2dfccb0e-ac88-8167-8ce4-dab2a9d0792f",
+    "created_time": "2026-01-05T03:51:00.000Z",
+    "last_edited_time": "2026-01-05T07:26:00.000Z",
+    "properties": {
+      "Comp": [],
+      "FX": "khói\nnước nhỏ xuống từ người Blueberry cat",
+      "Đã có prop": false,
+      "Combo": null,
+      "Note anim": "nhân vật nhảy bật lên thành ⇒ chú ý xử lý fx nước tương tác chung với nhân vật",
+      "Layout": null,
+      "Prop & mô tả prop": "Balo Gen đeo\nMũ bảo hiểm Gen đội",
+      "Key": "D",
+      "IBW": "E",
+      "Nhân vật": [
+        "Genevie đội mũ bảo hiểm",
+        "BlueberryCat"
+      ],
+      "Scene": "54"
+    },
+    "_title": "54",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-8121-8b2b-d49d7d560a8f"
+  },
+  {
+    "id": "2dfccb0e-ac88-8168-ab7d-c07a340839a5",
+    "created_time": "2026-01-05T03:51:00.000Z",
+    "last_edited_time": "2026-01-05T07:08:00.000Z",
+    "properties": {
+      "Comp": [],
+      "FX": "",
+      "Đã có prop": false,
+      "Combo": "Ommited",
+      "Note anim": "",
+      "Layout": null,
+      "Prop & mô tả prop": "",
+      "Key": "Omiited",
+      "IBW": "Omiited",
+      "Nhân vật": [],
+      "Scene": "56"
+    },
+    "_title": "56",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-8121-8b2b-d49d7d560a8f"
+  },
+  {
+    "id": "2dfccb0e-ac88-8169-838a-d1e97dcbc153",
+    "created_time": "2026-01-05T03:51:00.000Z",
+    "last_edited_time": "2026-01-05T07:26:00.000Z",
+    "properties": {
+      "Comp": [],
+      "FX": "",
+      "Đã có prop": false,
+      "Combo": null,
+      "Note anim": "",
+      "Layout": null,
+      "Prop & mô tả prop": "Gậy + túi treo trên gậy\ntúi Moose cầm\nCuộn Blueberry cat cầm\nBalo Gen đeo\nMũ bảo hiểm Gen đội",
+      "Key": "D",
+      "IBW": "E",
+      "Nhân vật": [
+        "Mosse",
+        "BlueberryCat",
+        "Genevie đội mũ bảo hiểm",
+        "Fish",
+        "Cherrycat",
+        "Fox",
+        "Dragon"
+      ],
+      "Scene": "47"
+    },
+    "_title": "47",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-8121-8b2b-d49d7d560a8f"
+  },
+  {
+    "id": "2dfccb0e-ac88-8172-a20f-ec1ed1ef19c5",
+    "created_time": "2026-01-05T03:51:00.000Z",
+    "last_edited_time": "2026-01-06T10:43:00.000Z",
+    "properties": {
+      "Comp": [],
+      "FX": "",
+      "Đã có prop": false,
+      "Combo": "10",
+      "Note anim": "",
+      "Layout": null,
+      "Prop & mô tả prop": "\nMũ bảo hiểm Gen đội",
+      "Key": "E",
+      "IBW": "E",
+      "Nhân vật": [
+        "Genevie đội mũ bảo hiểm"
+      ],
+      "Scene": "75"
+    },
+    "_title": "75",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-8121-8b2b-d49d7d560a8f"
+  },
+  {
+    "id": "2dfccb0e-ac88-817c-9d60-f1073ffc9edc",
+    "created_time": "2026-01-05T03:51:00.000Z",
+    "last_edited_time": "2026-01-05T04:21:00.000Z",
+    "properties": {
+      "Comp": [],
+      "FX": "",
+      "Đã có prop": false,
+      "Combo": "Reuse tập cũ",
+      "Note anim": "",
+      "Layout": "Reuse",
+      "Prop & mô tả prop": "",
+      "Key": "Omiited",
+      "IBW": "Omiited",
+      "Nhân vật": [],
+      "Scene": "01-09"
+    },
+    "_title": "01-09",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-8121-8b2b-d49d7d560a8f"
+  },
+  {
+    "id": "2dfccb0e-ac88-817d-b392-d14139a823b5",
+    "created_time": "2026-01-05T03:51:00.000Z",
+    "last_edited_time": "2026-01-05T05:15:00.000Z",
+    "properties": {
+      "Comp": [],
+      "FX": "",
+      "Đã có prop": false,
+      "Combo": null,
+      "Note anim": "",
+      "Layout": null,
+      "Prop & mô tả prop": "Bóng",
+      "Key": "E",
+      "IBW": "F",
+      "Nhân vật": [],
+      "Scene": "44"
+    },
+    "_title": "44",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-8121-8b2b-d49d7d560a8f"
+  },
+  {
+    "id": "2dfccb0e-ac88-8186-bdfe-da48979e70ab",
+    "created_time": "2026-01-05T03:51:00.000Z",
+    "last_edited_time": "2026-01-05T04:49:00.000Z",
+    "properties": {
+      "Comp": [],
+      "FX": "",
+      "Đã có prop": false,
+      "Combo": "3",
+      "Note anim": "",
+      "Layout": null,
+      "Prop & mô tả prop": "",
+      "Key": "E",
+      "IBW": "E",
+      "Nhân vật": [
+        "Mosse"
+      ],
+      "Scene": "30"
+    },
+    "_title": "30",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-8121-8b2b-d49d7d560a8f"
+  },
+  {
+    "id": "2dfccb0e-ac88-8190-94f3-dd49a1926b1b",
+    "created_time": "2026-01-05T03:51:00.000Z",
+    "last_edited_time": "2026-01-05T04:44:00.000Z",
+    "properties": {
+      "Comp": [],
+      "FX": "",
+      "Đã có prop": false,
+      "Combo": null,
+      "Note anim": "",
+      "Layout": null,
+      "Prop & mô tả prop": "",
+      "Key": "Omiited",
+      "IBW": "F",
+      "Nhân vật": [],
+      "Scene": "22"
+    },
+    "_title": "22",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-8121-8b2b-d49d7d560a8f"
+  },
+  {
+    "id": "2dfccb0e-ac88-8193-ae8c-f8eff3b6f553",
+    "created_time": "2026-01-05T03:51:00.000Z",
+    "last_edited_time": "2026-01-05T07:26:00.000Z",
+    "properties": {
+      "Comp": [],
+      "FX": "Khói bụi từ xe lúc di chuyển",
+      "Đã có prop": false,
+      "Combo": "5",
+      "Note anim": "Làm rõ đoạn dừng lại có Overshot follow theo sound\ngiảm độ khó cảnh ⇒ dùng set up cảnh 23\n",
+      "Layout": null,
+      "Prop & mô tả prop": "Ô Tô góc như Animatic cut\nMũ bảo hiểm Gen đội",
+      "Key": "E",
+      "IBW": "E",
+      "Nhân vật": [
+        "Genevie đội mũ bảo hiểm",
+        "Cherrycat",
+        "BlueberryCat",
+        "Mosse",
+        "Fish"
+      ],
+      "Scene": "37"
+    },
+    "_title": "37",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-8121-8b2b-d49d7d560a8f"
+  },
+  {
+    "id": "2dfccb0e-ac88-8194-a0cf-c4532250d5ae",
+    "created_time": "2026-01-05T03:51:00.000Z",
+    "last_edited_time": "2026-01-05T07:26:00.000Z",
+    "properties": {
+      "Comp": [],
+      "FX": "Khói bụi từ xe lúc di chuyển",
+      "Đã có prop": false,
+      "Combo": null,
+      "Note anim": "Chú ý phối cảnh từ xa đến gần\n",
+      "Layout": null,
+      "Prop & mô tả prop": "Ô Tô góc như Animatic cut\nMũ bảo hiểm Gen đội",
+      "Key": "E",
+      "IBW": "E",
+      "Nhân vật": [
+        "Genevie đội mũ bảo hiểm",
+        "Cherrycat",
+        "BlueberryCat",
+        "Mosse",
+        "Fish"
+      ],
+      "Scene": "35"
+    },
+    "_title": "35",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-8121-8b2b-d49d7d560a8f"
+  },
+  {
+    "id": "2dfccb0e-ac88-8195-90ba-dafbe9ef0146",
+    "created_time": "2026-01-05T03:51:00.000Z",
+    "last_edited_time": "2026-01-06T10:43:00.000Z",
+    "properties": {
+      "Comp": [],
+      "FX": "",
+      "Đã có prop": false,
+      "Combo": "9",
+      "Note anim": "",
+      "Layout": null,
+      "Prop & mô tả prop": "",
+      "Key": "E",
+      "IBW": "E",
+      "Nhân vật": [
+        "Cherrycat"
+      ],
+      "Scene": "74"
+    },
+    "_title": "74",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-8121-8b2b-d49d7d560a8f"
+  },
+  {
+    "id": "2dfccb0e-ac88-8196-8278-e6f4b04543ac",
+    "created_time": "2026-01-05T03:51:00.000Z",
+    "last_edited_time": "2026-01-05T07:26:00.000Z",
+    "properties": {
+      "Comp": [
+        "Ánh sáng mặt trời"
+      ],
+      "FX": "khói",
+      "Đã có prop": false,
+      "Combo": null,
+      "Note anim": "",
+      "Layout": null,
+      "Prop & mô tả prop": "Balo Gen đeo\nMũ bảo hiểm Gen đội",
+      "Key": "D",
+      "IBW": "E",
+      "Nhân vật": [
+        "Genevie đội mũ bảo hiểm",
+        "Cherrycat",
+        "BlueberryCat",
+        "Mosse",
+        "Fish",
+        "Chim"
+      ],
+      "Scene": "53"
+    },
+    "_title": "53",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-8121-8b2b-d49d7d560a8f"
+  },
+  {
+    "id": "2dfccb0e-ac88-819b-982c-d234abd20f2a",
+    "created_time": "2026-01-05T03:51:00.000Z",
+    "last_edited_time": "2026-01-05T07:26:00.000Z",
+    "properties": {
+      "Comp": [],
+      "FX": "",
+      "Đã có prop": false,
+      "Combo": "1",
+      "Note anim": "dùng set up theo combo, cho rung lắc là đc\nGen vẫn cầm lái xoay vô lăng\nthêm followthoug mạnh vì xóc",
+      "Layout": null,
+      "Prop & mô tả prop": "\nMũ bảo hiểm Gen đội",
+      "Key": "E",
+      "IBW": "E",
+      "Nhân vật": [
+        "Genevie đội mũ bảo hiểm",
+        "Cherrycat",
+        "BlueberryCat",
+        "Mosse",
+        "Fish"
+      ],
+      "Scene": "69"
+    },
+    "_title": "69",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-8121-8b2b-d49d7d560a8f"
+  },
+  {
+    "id": "2dfccb0e-ac88-81a4-966f-e9166f325dad",
+    "created_time": "2026-01-05T03:51:00.000Z",
+    "last_edited_time": "2026-01-05T07:26:00.000Z",
+    "properties": {
+      "Comp": [],
+      "FX": "Khói bụi từ xe lúc di chuyển",
+      "Đã có prop": false,
+      "Combo": null,
+      "Note anim": "nhân vật nhìn theo hướng di chuyển\nChú ý phối cảnh từ xa đến gần\n",
+      "Layout": null,
+      "Prop & mô tả prop": "\nMũ bảo hiểm Gen đội",
+      "Key": "D",
+      "IBW": "E",
+      "Nhân vật": [
+        "Genevie đội mũ bảo hiểm",
+        "Cherrycat",
+        "BlueberryCat",
+        "Mosse",
+        "Fish"
+      ],
+      "Scene": "66"
+    },
+    "_title": "66",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-8121-8b2b-d49d7d560a8f"
+  },
+  {
+    "id": "2dfccb0e-ac88-81a9-924a-e1deea6389ca",
+    "created_time": "2026-01-05T03:51:00.000Z",
+    "last_edited_time": "2026-01-05T07:07:00.000Z",
+    "properties": {
+      "Comp": [
+        "Ánh sáng mặt trời"
+      ],
+      "FX": "Nước chảy\nbọt bắn lên",
+      "Đã có prop": false,
+      "Combo": "8",
+      "Note anim": "\nanim con chim bằng hình bg cung cấp\n\n",
+      "Layout": null,
+      "Prop & mô tả prop": "Ti vi\nmàn hình ",
+      "Key": "E",
+      "IBW": "E",
+      "Nhân vật": [
+        "Cherrycat"
+      ],
+      "Scene": "59"
+    },
+    "_title": "59",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-8121-8b2b-d49d7d560a8f"
+  },
+  {
+    "id": "2dfccb0e-ac88-81b2-8fb6-de00f56b01e8",
+    "created_time": "2026-01-05T03:51:00.000Z",
+    "last_edited_time": "2026-01-05T07:26:00.000Z",
+    "properties": {
+      "Comp": [],
+      "FX": "",
+      "Đã có prop": false,
+      "Combo": "2",
+      "Note anim": "dùng set up cảnh 29 nên giảm độ khó cảnh\nchú ý raccord pose Moose",
+      "Layout": null,
+      "Prop & mô tả prop": "Ô Tô góc như Animatic cut\nMũ bảo hiểm Gen đội",
+      "Key": "E",
+      "IBW": "E",
+      "Nhân vật": [
+        "Genevie đội mũ bảo hiểm",
+        "Cherrycat",
+        "BlueberryCat",
+        "Mosse",
+        "Fish"
+      ],
+      "Scene": "31"
+    },
+    "_title": "31",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-8121-8b2b-d49d7d560a8f"
+  },
+  {
+    "id": "2dfccb0e-ac88-81b5-a306-f1958f6686da",
+    "created_time": "2026-01-05T03:51:00.000Z",
+    "last_edited_time": "2026-01-05T07:26:00.000Z",
+    "properties": {
+      "Comp": [],
+      "FX": "",
+      "Đã có prop": false,
+      "Combo": "1",
+      "Note anim": "các nhân vật cần tương tác với nhau\nGene tay lái lái Vô lăng",
+      "Layout": null,
+      "Prop & mô tả prop": "Vô lăng\nÔ Tô góc như Animatic cut\nMũ bảo hiểm Gen đội",
+      "Key": "C",
+      "IBW": "E",
+      "Nhân vật": [
+        "Genevie đội mũ bảo hiểm",
+        "Cherrycat",
+        "BlueberryCat",
+        "Mosse",
+        "Fish"
+      ],
+      "Scene": "15"
+    },
+    "_title": "15",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-8121-8b2b-d49d7d560a8f"
+  },
+  {
+    "id": "2dfccb0e-ac88-81ba-b8ec-e4b20bf13216",
+    "created_time": "2026-01-05T03:51:00.000Z",
+    "last_edited_time": "2026-01-05T07:26:00.000Z",
+    "properties": {
+      "Comp": [],
+      "FX": "Khói bụi từ xe lúc di chuyển",
+      "Đã có prop": false,
+      "Combo": null,
+      "Note anim": "",
+      "Layout": null,
+      "Prop & mô tả prop": "Ô Tô góc như Animatic cut\nMũ bảo hiểm Gen đội",
+      "Key": "E",
+      "IBW": "E",
+      "Nhân vật": [
+        "Genevie đội mũ bảo hiểm",
+        "Cherrycat",
+        "BlueberryCat",
+        "Mosse",
+        "Fish"
+      ],
+      "Scene": "10"
+    },
+    "_title": "10",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-8121-8b2b-d49d7d560a8f"
+  },
+  {
+    "id": "2dfccb0e-ac88-81c3-bddb-c8c6ec667544",
+    "created_time": "2026-01-05T03:51:00.000Z",
+    "last_edited_time": "2026-01-05T07:26:00.000Z",
+    "properties": {
+      "Comp": [],
+      "FX": "",
+      "Đã có prop": false,
+      "Combo": null,
+      "Note anim": "",
+      "Layout": null,
+      "Prop & mô tả prop": "Gậy + túi treo trên gậy\ntúi Moose cầm\nCuộn Blueberry cat cầm\nBalo Gen đeo\nMũ bảo hiểm Gen đội",
+      "Key": "C",
+      "IBW": "D",
+      "Nhân vật": [
+        "Mosse",
+        "BlueberryCat",
+        "Genevie đội mũ bảo hiểm",
+        "Fish",
+        "Cherrycat",
+        "C4Tr0n"
+      ],
+      "Scene": "41"
+    },
+    "_title": "41",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-8121-8b2b-d49d7d560a8f"
+  },
+  {
+    "id": "2dfccb0e-ac88-81c5-a112-cec985aed4ca",
+    "created_time": "2026-01-05T03:51:00.000Z",
+    "last_edited_time": "2026-01-05T07:26:00.000Z",
+    "properties": {
+      "Comp": [],
+      "FX": "",
+      "Đã có prop": false,
+      "Combo": null,
+      "Note anim": "",
+      "Layout": null,
+      "Prop & mô tả prop": "cửa góc như animatic cut",
+      "Key": "E",
+      "IBW": "F",
+      "Nhân vật": [
+        "BlueberryCat",
+        "Genevie đội mũ bảo hiểm"
+      ],
+      "Scene": "39"
+    },
+    "_title": "39",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-8121-8b2b-d49d7d560a8f"
+  },
+  {
+    "id": "2dfccb0e-ac88-81c9-b806-fc79ca7149df",
+    "created_time": "2026-01-05T03:51:00.000Z",
+    "last_edited_time": "2026-01-06T10:43:00.000Z",
+    "properties": {
+      "Comp": [],
+      "FX": "",
+      "Đã có prop": false,
+      "Combo": "9",
+      "Note anim": "",
+      "Layout": null,
+      "Prop & mô tả prop": "",
+      "Key": "F",
+      "IBW": "F",
+      "Nhân vật": [
+        "Cherrycat"
+      ],
+      "Scene": "76"
+    },
+    "_title": "76",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-8121-8b2b-d49d7d560a8f"
+  },
+  {
+    "id": "2dfccb0e-ac88-81cc-a31d-e5df6c560a01",
+    "created_time": "2026-01-05T03:51:00.000Z",
+    "last_edited_time": "2026-01-05T07:26:00.000Z",
+    "properties": {
+      "Comp": [],
+      "FX": "",
+      "Đã có prop": false,
+      "Combo": "1",
+      "Note anim": "các nhân vật cần tương tác với nhau\nGene tay lái lái Vô lăng",
+      "Layout": null,
+      "Prop & mô tả prop": "Mũ bảo hiểm Gen đội",
+      "Key": "D",
+      "IBW": "E",
+      "Nhân vật": [
+        "Genevie đội mũ bảo hiểm",
+        "Cherrycat",
+        "BlueberryCat",
+        "Mosse",
+        "Fish"
+      ],
+      "Scene": "17"
+    },
+    "_title": "17",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-8121-8b2b-d49d7d560a8f"
+  },
+  {
+    "id": "2dfccb0e-ac88-81d1-a92d-c3fe3ac87872",
+    "created_time": "2026-01-05T03:51:00.000Z",
+    "last_edited_time": "2026-01-05T07:26:00.000Z",
+    "properties": {
+      "Comp": [],
+      "FX": "",
+      "Đã có prop": false,
+      "Combo": "6",
+      "Note anim": "smear như animatic cut, đủ cả key lấy đà nhún xuống rồi Out scene nhé",
+      "Layout": null,
+      "Prop & mô tả prop": "Gậy + túi treo trên gậy\ntúi Moose cầm\nCuộn Blueberry cat cầm\nBalo Gen đeo\nMũ bảo hiểm Gen đội",
+      "Key": "D",
+      "IBW": "E",
+      "Nhân vật": [
+        "Mosse",
+        "BlueberryCat",
+        "Genevie đội mũ bảo hiểm",
+        "Fish",
+        "Cherrycat"
+      ],
+      "Scene": "45"
+    },
+    "_title": "45",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-8121-8b2b-d49d7d560a8f"
+  },
+  {
+    "id": "2dfccb0e-ac88-81d1-b63d-fb66e62ae4b6",
+    "created_time": "2026-01-05T03:51:00.000Z",
+    "last_edited_time": "2026-01-05T07:26:00.000Z",
+    "properties": {
+      "Comp": [],
+      "FX": "",
+      "Đã có prop": false,
+      "Combo": "2",
+      "Note anim": "dùng set up cảnh 20 nên giảm độ khó cảnh\nchú ý raccord pose Moose",
+      "Layout": null,
+      "Prop & mô tả prop": "Ô Tô góc như Animatic cut\nMũ bảo hiểm Gen đội",
+      "Key": "E",
+      "IBW": "E",
+      "Nhân vật": [
+        "Genevie đội mũ bảo hiểm",
+        "Cherrycat",
+        "BlueberryCat",
+        "Mosse",
+        "Fish"
+      ],
+      "Scene": "26"
+    },
+    "_title": "26",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-8121-8b2b-d49d7d560a8f"
+  },
+  {
+    "id": "2dfccb0e-ac88-81d3-b119-fb3af758698d",
+    "created_time": "2026-01-05T03:51:00.000Z",
+    "last_edited_time": "2026-01-06T10:43:00.000Z",
+    "properties": {
+      "Comp": [
+        "Speedline"
+      ],
+      "FX": "khói ",
+      "Đã có prop": false,
+      "Combo": null,
+      "Note anim": "smear",
+      "Layout": null,
+      "Prop & mô tả prop": "\nMũ bảo hiểm Gen đội",
+      "Key": "D",
+      "IBW": "E",
+      "Nhân vật": [
+        "Mosse",
+        "BlueberryCat",
+        "Genevie đội mũ bảo hiểm",
+        "Fish"
+      ],
+      "Scene": "78"
+    },
+    "_title": "78",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-8121-8b2b-d49d7d560a8f"
+  },
+  {
+    "id": "2dfccb0e-ac88-81d4-b78e-da84c9258493",
+    "created_time": "2026-01-05T03:51:00.000Z",
+    "last_edited_time": "2026-01-05T07:26:00.000Z",
+    "properties": {
+      "Comp": [],
+      "FX": "",
+      "Đã có prop": false,
+      "Combo": null,
+      "Note anim": "smear",
+      "Layout": null,
+      "Prop & mô tả prop": "Balo Gen đeo\nMũ bảo hiểm Gen đội",
+      "Key": "D",
+      "IBW": "E",
+      "Nhân vật": [
+        "Genevie đội mũ bảo hiểm",
+        "Fox",
+        "Mosse"
+      ],
+      "Scene": "49"
+    },
+    "_title": "49",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-8121-8b2b-d49d7d560a8f"
+  },
+  {
+    "id": "2dfccb0e-ac88-81d6-94f1-f2cfafe4d1ef",
+    "created_time": "2026-01-05T03:51:00.000Z",
+    "last_edited_time": "2026-01-05T04:34:00.000Z",
+    "properties": {
+      "Comp": [],
+      "FX": "",
+      "Đã có prop": false,
+      "Combo": null,
+      "Note anim": "",
+      "Layout": null,
+      "Prop & mô tả prop": "",
+      "Key": "D",
+      "IBW": "E",
+      "Nhân vật": [
+        "BlueberryCat",
+        "Fish"
+      ],
+      "Scene": "16"
+    },
+    "_title": "16",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-8121-8b2b-d49d7d560a8f"
+  },
+  {
+    "id": "2dfccb0e-ac88-81d9-9714-f8b927298d20",
+    "created_time": "2026-01-05T03:51:00.000Z",
+    "last_edited_time": "2026-01-05T07:26:00.000Z",
+    "properties": {
+      "Comp": [],
+      "FX": "Khói bụi từ xe lúc di chuyển",
+      "Đã có prop": false,
+      "Combo": null,
+      "Note anim": "nhân vật nhìn theo hướng di chuyển\nChú ý phối cảnh từ xa đến gần\n",
+      "Layout": null,
+      "Prop & mô tả prop": "\nMũ bảo hiểm Gen đội",
+      "Key": "D",
+      "IBW": "E",
+      "Nhân vật": [
+        "Genevie đội mũ bảo hiểm",
+        "Cherrycat",
+        "BlueberryCat",
+        "Mosse",
+        "Fish"
+      ],
+      "Scene": "65"
+    },
+    "_title": "65",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-8121-8b2b-d49d7d560a8f"
+  },
+  {
+    "id": "2dfccb0e-ac88-81df-9247-c2184fafbfce",
+    "created_time": "2026-01-05T03:51:00.000Z",
+    "last_edited_time": "2026-01-05T04:46:00.000Z",
+    "properties": {
+      "Comp": [],
+      "FX": "",
+      "Đã có prop": false,
+      "Combo": "3",
+      "Note anim": "",
+      "Layout": null,
+      "Prop & mô tả prop": "",
+      "Key": "E",
+      "IBW": "E",
+      "Nhân vật": [
+        "Mosse"
+      ],
+      "Scene": "24"
+    },
+    "_title": "24",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-8121-8b2b-d49d7d560a8f"
+  },
+  {
+    "id": "2dfccb0e-ac88-81df-9933-e2ded9b68951",
+    "created_time": "2026-01-05T03:51:00.000Z",
+    "last_edited_time": "2026-01-05T04:47:00.000Z",
+    "properties": {
+      "Comp": [],
+      "FX": "",
+      "Đã có prop": false,
+      "Combo": null,
+      "Note anim": "F",
+      "Layout": null,
+      "Prop & mô tả prop": "",
+      "Key": "Omiited",
+      "IBW": "F",
+      "Nhân vật": [],
+      "Scene": "27"
+    },
+    "_title": "27",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-8121-8b2b-d49d7d560a8f"
+  },
+  {
+    "id": "2dfccb0e-ac88-81e0-b755-ca7c5dcf58b4",
+    "created_time": "2026-01-05T03:51:00.000Z",
+    "last_edited_time": "2026-01-05T05:30:00.000Z",
+    "properties": {
+      "Comp": [
+        "Speedline"
+      ],
+      "FX": "bọt nước sôi\nkhói\nnước tương tác với nhân vật",
+      "Đã có prop": false,
+      "Combo": null,
+      "Note anim": "chú ý làm fx có sự tương tác với nhân vật lúc nhúng cả người vào ",
+      "Layout": null,
+      "Prop & mô tả prop": "",
+      "Key": "D",
+      "IBW": "E",
+      "Nhân vật": [
+        "BlueberryCat"
+      ],
+      "Scene": "52"
+    },
+    "_title": "52",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-8121-8b2b-d49d7d560a8f"
+  },
+  {
+    "id": "2dfccb0e-ac88-81e1-bf0b-e250276ebe23",
+    "created_time": "2026-01-05T03:51:00.000Z",
+    "last_edited_time": "2026-01-05T07:26:00.000Z",
+    "properties": {
+      "Comp": [],
+      "FX": "",
+      "Đã có prop": false,
+      "Combo": null,
+      "Note anim": "smear\ncut in action \n1. chery cat nhảy xuống\n2. nhân vật đang bước doạn cuối\n",
+      "Layout": null,
+      "Prop & mô tả prop": "Balo Gen đeo\nMũ bảo hiểm Gen đội",
+      "Key": "C",
+      "IBW": "D",
+      "Nhân vật": [
+        "Genevie đội mũ bảo hiểm",
+        "Cherrycat",
+        "BlueberryCat",
+        "Mosse",
+        "Fish",
+        "Fox"
+      ],
+      "Scene": "60"
+    },
+    "_title": "60",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-8121-8b2b-d49d7d560a8f"
+  },
+  {
+    "id": "2dfccb0e-ac88-81e4-9d88-fff7f1babc1f",
+    "created_time": "2026-01-05T03:51:00.000Z",
+    "last_edited_time": "2026-01-06T10:43:00.000Z",
+    "properties": {
+      "Comp": [],
+      "FX": "",
+      "Đã có prop": false,
+      "Combo": null,
+      "Note anim": "",
+      "Layout": null,
+      "Prop & mô tả prop": "\nMũ bảo hiểm Gen đội",
+      "Key": "E",
+      "IBW": "E",
+      "Nhân vật": [
+        "Mosse",
+        "Genevie đội mũ bảo hiểm"
+      ],
+      "Scene": "71"
+    },
+    "_title": "71",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-8121-8b2b-d49d7d560a8f"
+  },
+  {
+    "id": "2dfccb0e-ac88-81eb-b85d-fb0958ebf1bb",
+    "created_time": "2026-01-05T03:51:00.000Z",
+    "last_edited_time": "2026-01-05T05:03:00.000Z",
+    "properties": {
+      "Comp": [],
+      "FX": "",
+      "Đã có prop": false,
+      "Combo": null,
+      "Note anim": "làm đủ hành động như animatic cut, có đoạn nhảy ra ngoài xe\n",
+      "Layout": null,
+      "Prop & mô tả prop": "",
+      "Key": "C",
+      "IBW": "D",
+      "Nhân vật": [
+        "Mosse",
+        "BlueberryCat",
+        "Fish",
+        "Cherrycat"
+      ],
+      "Scene": "38"
+    },
+    "_title": "38",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-8121-8b2b-d49d7d560a8f"
+  },
+  {
+    "id": "2dfccb0e-ac88-81ec-8323-e9a8c0292c4e",
+    "created_time": "2026-01-05T03:51:00.000Z",
+    "last_edited_time": "2026-01-05T07:26:00.000Z",
+    "properties": {
+      "Comp": [],
+      "FX": "",
+      "Đã có prop": false,
+      "Combo": null,
+      "Note anim": "bám sát animatic cut, đây là đoạn các nhân vật cần diễn đầu tư chút\n1. Blue berry cat linh hoạt khéo léo parkour nhảy lên các đồ vật rồi tiếp đất chuyên nghiệp\n2. Moose hậu đậu chân dài dễ mất thăng bằng, nhấc chân cao rồi hạ, hay đung đưa, chú ý cái túi cx cần follow though đúng\n3.  Gen thận trọng hơn đi chậm mà chắc, giống Moose nhưng bước không lủng mà đi đều đặn\n4. Cherry cat và Fish chỉ nhảy nhảy và đi né né như bình thường\n5. đảm bảo có tương tác vs đồ vật khi chạm vào, để ý sound\n",
+      "Layout": null,
+      "Prop & mô tả prop": "Gậy + túi treo trên gậy\ntúi Moose cầm\nCuộn Blueberry cat cầm\nBalo Gen đeo\nMũ bảo hiểm Gen đội\nĐống đồ dưới đất được tách ra để anim",
+      "Key": "B",
+      "IBW": "C",
+      "Nhân vật": [
+        "Mosse",
+        "BlueberryCat",
+        "Genevie đội mũ bảo hiểm",
+        "Fish",
+        "Cherrycat",
+        "Fox",
+        "Dragon"
+      ],
+      "Scene": "46"
+    },
+    "_title": "46",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-8121-8b2b-d49d7d560a8f"
+  },
+  {
+    "id": "2dfccb0e-ac88-81f1-a27a-e683031fd2fd",
+    "created_time": "2026-01-05T03:51:00.000Z",
+    "last_edited_time": "2026-01-06T10:43:00.000Z",
+    "properties": {
+      "Comp": [],
+      "FX": "",
+      "Đã có prop": false,
+      "Combo": "11",
+      "Note anim": "",
+      "Layout": null,
+      "Prop & mô tả prop": "\nMũ bảo hiểm Gen đội",
+      "Key": "D",
+      "IBW": "E",
+      "Nhân vật": [
+        "Mosse",
+        "BlueberryCat",
+        "Genevie đội mũ bảo hiểm",
+        "Cherrycat",
+        "Fish"
+      ],
+      "Scene": "79"
+    },
+    "_title": "79",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-8121-8b2b-d49d7d560a8f"
+  },
+  {
+    "id": "2dfccb0e-ac88-81f4-9981-d3235c5ef003",
+    "created_time": "2026-01-05T03:51:00.000Z",
+    "last_edited_time": "2026-01-05T07:26:00.000Z",
+    "properties": {
+      "Comp": [
+        "Speedline"
+      ],
+      "FX": "Khói bụi từ xe lúc di chuyển",
+      "Đã có prop": false,
+      "Combo": null,
+      "Note anim": "Chú ý phối cảnh từ xa đến gần\nXe có độ chuyển khi rẽ trái phải",
+      "Layout": null,
+      "Prop & mô tả prop": "Ô Tô góc như Animatic cut\nMũ bảo hiểm Gen đội",
+      "Key": "C",
+      "IBW": "E",
+      "Nhân vật": [
+        "Genevie đội mũ bảo hiểm",
+        "Cherrycat",
+        "BlueberryCat",
+        "Mosse",
+        "Fish"
+      ],
+      "Scene": "28"
+    },
+    "_title": "28",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-8121-8b2b-d49d7d560a8f"
+  },
+  {
+    "id": "2dfccb0e-ac88-81f8-a5c6-c29edfe10cb2",
+    "created_time": "2026-01-05T03:51:00.000Z",
+    "last_edited_time": "2026-01-05T07:26:00.000Z",
+    "properties": {
+      "Comp": [],
+      "FX": "Khói bụi từ xe lúc di chuyển",
+      "Đã có prop": false,
+      "Combo": "2",
+      "Note anim": "dùng set up cảnh 12 nên giảm độ khó cảnh",
+      "Layout": null,
+      "Prop & mô tả prop": "Ô Tô góc như Animatic cut\nMũ bảo hiểm Gen đội",
+      "Key": "E",
+      "IBW": "F",
+      "Nhân vật": [
+        "Genevie đội mũ bảo hiểm",
+        "Cherrycat",
+        "BlueberryCat",
+        "Mosse",
+        "Fish"
+      ],
+      "Scene": "20"
+    },
+    "_title": "20",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-8121-8b2b-d49d7d560a8f"
+  },
+  {
+    "id": "2dfccb0e-ac88-81fc-8a61-dc9c92b70a30",
+    "created_time": "2026-01-05T03:51:00.000Z",
+    "last_edited_time": "2026-01-05T04:51:00.000Z",
+    "properties": {
+      "Comp": [],
+      "FX": "",
+      "Đã có prop": false,
+      "Combo": "4",
+      "Note anim": "cho nhảy theo nhạc",
+      "Layout": null,
+      "Prop & mô tả prop": "",
+      "Key": "C",
+      "IBW": "D",
+      "Nhân vật": [
+        "Cherrycat",
+        "BlueberryCat",
+        "Mosse"
+      ],
+      "Scene": "13"
+    },
+    "_title": "13",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-8121-8b2b-d49d7d560a8f"
+  },
+  {
+    "id": "2dfccb0e-ac88-81fd-8240-dfc6e9045513",
+    "created_time": "2026-01-05T03:51:00.000Z",
+    "last_edited_time": "2026-01-05T05:23:00.000Z",
+    "properties": {
+      "Comp": [],
+      "FX": "",
+      "Đã có prop": false,
+      "Combo": null,
+      "Note anim": "",
+      "Layout": null,
+      "Prop & mô tả prop": "",
+      "Key": "E",
+      "IBW": "F",
+      "Nhân vật": [
+        "Fox"
+      ],
+      "Scene": "48"
+    },
+    "_title": "48",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-8121-8b2b-d49d7d560a8f"
+  }
+]

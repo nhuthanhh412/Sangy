@@ -1,0 +1,555 @@
+[
+  {
+    "id": "28fccb0e-ac88-805e-8a60-e7e463edef91",
+    "created_time": "2025-10-17T04:01:00.000Z",
+    "last_edited_time": "2025-12-13T02:14:00.000Z",
+    "properties": {
+      "[Test n8n] Product (1)": [
+        "28fccb0e-ac88-80e2-b5a5-c7938f1f2ea5"
+      ],
+      "Task main": "0",
+      "Task QC": "1/1",
+      "Rollup": [
+        "QC Approved"
+      ],
+      "Run n8n": false,
+      "TP giả định": 5,
+      "Trọng số TP": 0.15,
+      "Product Type": null,
+      "NLTT": 1.5,
+      "[Dev] Total main": 0,
+      "Task type": "QC",
+      "Rollup 1": [
+        "Confirmed"
+      ],
+      "Product Status": [
+        "QC Approved"
+      ],
+      "Task Status": "In progress",
+      "Episode": null,
+      "Done Date": null,
+      "Product Point": [
+        50
+      ],
+      "TP giả định 2": 3,
+      "Assignee": [
+        {
+          "id": "134d872b-594c-8101-981a-0002a8c4661d",
+          "name": "Lê Thịnh",
+          "email": "thinhlv@sangygroup.com"
+        }
+      ],
+      "TP thực tế": 50,
+      "Task fix": "0/1",
+      "Created time": null,
+      "Tasks": "Task 3",
+      "Sprint": [
+        "2c8ccb0e-ac88-80f1-a799-e6b4bd16848c"
+      ]
+    },
+    "_title": "Task 3",
+    "database_name": "[Testn8n] Tasks (1)",
+    "project_name": "[Testn8n] Tasks (1)",
+    "database_id": "28fccb0e-ac88-800c-b144-fc0088b248a8"
+  },
+  {
+    "id": "28fccb0e-ac88-8071-bf23-d0168123fe1d",
+    "created_time": "2025-10-17T04:01:00.000Z",
+    "last_edited_time": "2025-12-13T02:14:00.000Z",
+    "properties": {
+      "[Test n8n] Product (1)": [
+        "28fccb0e-ac88-80c7-8730-ff60438acd22"
+      ],
+      "Task main": "0",
+      "Task QC": "0/1",
+      "Rollup": [
+        "Need Fix"
+      ],
+      "Run n8n": false,
+      "TP giả định": 0,
+      "Trọng số TP": 0,
+      "Product Type": null,
+      "NLTT": 0.25,
+      "[Dev] Total main": 0,
+      "Task type": null,
+      "Rollup 1": [
+        "Unconfirmed"
+      ],
+      "Product Status": [
+        "Need Fix"
+      ],
+      "Task Status": "Completed QC",
+      "Episode": null,
+      "Done Date": null,
+      "Product Point": [
+        14
+      ],
+      "TP giả định 2": 0,
+      "Assignee": [
+        {
+          "id": "134d872b-594c-8101-981a-0002a8c4661d",
+          "name": "Lê Thịnh",
+          "email": "thinhlv@sangygroup.com"
+        }
+      ],
+      "TP thực tế": 0,
+      "Task fix": "0/1",
+      "Created time": null,
+      "Tasks": "Task 4",
+      "Sprint": [
+        "2c8ccb0e-ac88-80f1-a799-e6b4bd16848c"
+      ]
+    },
+    "_title": "Task 4",
+    "database_name": "[Testn8n] Tasks (1)",
+    "project_name": "[Testn8n] Tasks (1)",
+    "database_id": "28fccb0e-ac88-800c-b144-fc0088b248a8"
+  },
+  {
+    "id": "28fccb0e-ac88-8083-a3ce-eabd9c0d5d3b",
+    "created_time": "2025-10-17T04:01:00.000Z",
+    "last_edited_time": "2025-12-13T02:14:00.000Z",
+    "properties": {
+      "[Test n8n] Product (1)": [],
+      "Task main": null,
+      "Task QC": null,
+      "Rollup": null,
+      "Run n8n": false,
+      "TP giả định": 0,
+      "Trọng số TP": 0.3,
+      "Product Type": null,
+      "NLTT": 1,
+      "[Dev] Total main": 0,
+      "Task type": "Fix",
+      "Rollup 1": null,
+      "Product Status": null,
+      "Task Status": "Completed QC",
+      "Episode": null,
+      "Done Date": null,
+      "Product Point": null,
+      "TP giả định 2": 0,
+      "Assignee": [
+        {
+          "id": "38ad2754-5cc0-4675-ba8c-bab49ef690d9",
+          "name": "Trinh Ngụy",
+          "email": "production@deedeestudio.net"
+        }
+      ],
+      "TP thực tế": 0,
+      "Task fix": null,
+      "Created time": null,
+      "Tasks": "Task 7",
+      "Sprint": [
+        "2c8ccb0e-ac88-80f1-a799-e6b4bd16848c"
+      ]
+    },
+    "_title": "Task 7",
+    "database_name": "[Testn8n] Tasks (1)",
+    "project_name": "[Testn8n] Tasks (1)",
+    "database_id": "28fccb0e-ac88-800c-b144-fc0088b248a8"
+  },
+  {
+    "id": "28fccb0e-ac88-80ab-b6bd-de323288e2ba",
+    "created_time": "2025-10-17T04:01:00.000Z",
+    "last_edited_time": "2025-12-13T02:14:00.000Z",
+    "properties": {
+      "[Test n8n] Product (1)": [
+        "28fccb0e-ac88-8030-b8d7-f7bc206da125"
+      ],
+      "Task main": "0",
+      "Task QC": "1/1",
+      "Rollup": [
+        "QC Approved"
+      ],
+      "Run n8n": false,
+      "TP giả định": 5,
+      "Trọng số TP": 0.15,
+      "Product Type": null,
+      "NLTT": 2,
+      "[Dev] Total main": 0,
+      "Task type": "QC",
+      "Rollup 1": [
+        "Confirmed"
+      ],
+      "Product Status": [
+        "QC Approved"
+      ],
+      "Task Status": "Done",
+      "Episode": null,
+      "Done Date": null,
+      "Product Point": [
+        50
+      ],
+      "TP giả định 2": 3,
+      "Assignee": [
+        {
+          "id": "134d872b-594c-8101-981a-0002a8c4661d",
+          "name": "Lê Thịnh",
+          "email": "thinhlv@sangygroup.com"
+        }
+      ],
+      "TP thực tế": 50,
+      "Task fix": "0/1",
+      "Created time": null,
+      "Tasks": "Task 1",
+      "Sprint": [
+        "2c8ccb0e-ac88-80f1-a799-e6b4bd16848c"
+      ]
+    },
+    "_title": "Task 1",
+    "database_name": "[Testn8n] Tasks (1)",
+    "project_name": "[Testn8n] Tasks (1)",
+    "database_id": "28fccb0e-ac88-800c-b144-fc0088b248a8"
+  },
+  {
+    "id": "28fccb0e-ac88-80f3-a6b2-c9e91f0120d7",
+    "created_time": "2025-10-17T04:01:00.000Z",
+    "last_edited_time": "2025-12-13T02:14:00.000Z",
+    "properties": {
+      "[Test n8n] Product (1)": [],
+      "Task main": null,
+      "Task QC": null,
+      "Rollup": null,
+      "Run n8n": false,
+      "TP giả định": 0,
+      "Trọng số TP": 0.15,
+      "Product Type": null,
+      "NLTT": 0.75,
+      "[Dev] Total main": 0,
+      "Task type": "QC",
+      "Rollup 1": null,
+      "Product Status": null,
+      "Task Status": "In progress",
+      "Episode": null,
+      "Done Date": null,
+      "Product Point": null,
+      "TP giả định 2": 0,
+      "Assignee": [
+        {
+          "id": "38ad2754-5cc0-4675-ba8c-bab49ef690d9",
+          "name": "Trinh Ngụy",
+          "email": "production@deedeestudio.net"
+        }
+      ],
+      "TP thực tế": 0,
+      "Task fix": null,
+      "Created time": null,
+      "Tasks": "Task 5",
+      "Sprint": [
+        "2c8ccb0e-ac88-80f1-a799-e6b4bd16848c"
+      ]
+    },
+    "_title": "Task 5",
+    "database_name": "[Testn8n] Tasks (1)",
+    "project_name": "[Testn8n] Tasks (1)",
+    "database_id": "28fccb0e-ac88-800c-b144-fc0088b248a8"
+  },
+  {
+    "id": "2e0ccb0e-ac88-8097-bfea-ec0cd484bc8c",
+    "created_time": "2026-01-06T03:15:00.000Z",
+    "last_edited_time": "2026-01-06T03:16:00.000Z",
+    "properties": {
+      "[Test n8n] Product (1)": [
+        "2e0ccb0e-ac88-803c-8bf4-fd9580c2ad05"
+      ],
+      "Task main": "1",
+      "Task QC": "5/6",
+      "Rollup": [
+        "Pending Review"
+      ],
+      "Run n8n": false,
+      "TP giả định": 28.57,
+      "Trọng số TP": 1,
+      "Product Type": null,
+      "NLTT": null,
+      "[Dev] Total main": 1,
+      "Task type": "Main",
+      "Rollup 1": [
+        "Unconfirmed"
+      ],
+      "Product Status": [
+        "Pending Review"
+      ],
+      "Task Status": "Done",
+      "Episode": null,
+      "Done Date": null,
+      "Product Point": [
+        50
+      ],
+      "TP giả định 2": 20,
+      "Assignee": [
+        {
+          "id": "134d872b-594c-8101-981a-0002a8c4661d",
+          "name": "Lê Thịnh",
+          "email": "thinhlv@sangygroup.com"
+        }
+      ],
+      "TP thực tế": 28.57,
+      "Task fix": "0/6",
+      "Created time": null,
+      "Tasks": "5 Ver1",
+      "Sprint": [
+        "2c8ccb0e-ac88-80f1-a799-e6b4bd16848c"
+      ]
+    },
+    "_title": "5 Ver1",
+    "database_name": "[Testn8n] Tasks (1)",
+    "project_name": "[Testn8n] Tasks (1)",
+    "database_id": "28fccb0e-ac88-800c-b144-fc0088b248a8"
+  },
+  {
+    "id": "2e0ccb0e-ac88-813c-bc47-c9612ab4add1",
+    "created_time": "2026-01-06T03:17:00.000Z",
+    "last_edited_time": "2026-01-06T03:17:00.000Z",
+    "properties": {
+      "[Test n8n] Product (1)": [
+        "2e0ccb0e-ac88-803c-8bf4-fd9580c2ad05"
+      ],
+      "Task main": "1",
+      "Task QC": "5/6",
+      "Rollup": [
+        "Pending Review"
+      ],
+      "Run n8n": false,
+      "TP giả định": 3,
+      "Trọng số TP": 0.15,
+      "Product Type": null,
+      "NLTT": null,
+      "[Dev] Total main": 0,
+      "Task type": "QC",
+      "Rollup 1": [
+        "Unconfirmed"
+      ],
+      "Product Status": [
+        "Pending Review"
+      ],
+      "Task Status": "Done",
+      "Episode": null,
+      "Done Date": null,
+      "Product Point": [
+        50
+      ],
+      "TP giả định 2": 3,
+      "Assignee": [
+        {
+          "id": "134d872b-594c-8101-981a-0002a8c4661d",
+          "name": "Lê Thịnh",
+          "email": "thinhlv@sangygroup.com"
+        }
+      ],
+      "TP thực tế": 4.29,
+      "Task fix": "0/6",
+      "Created time": null,
+      "Tasks": "5Ver4",
+      "Sprint": []
+    },
+    "_title": "5Ver4",
+    "database_name": "[Testn8n] Tasks (1)",
+    "project_name": "[Testn8n] Tasks (1)",
+    "database_id": "28fccb0e-ac88-800c-b144-fc0088b248a8"
+  },
+  {
+    "id": "2e0ccb0e-ac88-817c-8ce6-c2b41d4b76ef",
+    "created_time": "2026-01-06T03:20:00.000Z",
+    "last_edited_time": "2026-01-06T03:20:00.000Z",
+    "properties": {
+      "[Test n8n] Product (1)": [
+        "2e0ccb0e-ac88-803c-8bf4-fd9580c2ad05"
+      ],
+      "Task main": "1",
+      "Task QC": "5/6",
+      "Rollup": [
+        "Pending Review"
+      ],
+      "Run n8n": false,
+      "TP giả định": 3,
+      "Trọng số TP": 0.15,
+      "Product Type": null,
+      "NLTT": null,
+      "[Dev] Total main": 0,
+      "Task type": "QC",
+      "Rollup 1": [
+        "Unconfirmed"
+      ],
+      "Product Status": [
+        "Pending Review"
+      ],
+      "Task Status": "Completed QC",
+      "Episode": null,
+      "Done Date": null,
+      "Product Point": [
+        50
+      ],
+      "TP giả định 2": 3,
+      "Assignee": [
+        {
+          "id": "134d872b-594c-8101-981a-0002a8c4661d",
+          "name": "Lê Thịnh",
+          "email": "thinhlv@sangygroup.com"
+        }
+      ],
+      "TP thực tế": 4.29,
+      "Task fix": "0/6",
+      "Created time": null,
+      "Tasks": "5Ver6",
+      "Sprint": []
+    },
+    "_title": "5Ver6",
+    "database_name": "[Testn8n] Tasks (1)",
+    "project_name": "[Testn8n] Tasks (1)",
+    "database_id": "28fccb0e-ac88-800c-b144-fc0088b248a8"
+  },
+  {
+    "id": "2e0ccb0e-ac88-81cb-bbc8-f7b74b85eca6",
+    "created_time": "2026-01-06T03:18:00.000Z",
+    "last_edited_time": "2026-01-06T03:20:00.000Z",
+    "properties": {
+      "[Test n8n] Product (1)": [
+        "2e0ccb0e-ac88-803c-8bf4-fd9580c2ad05"
+      ],
+      "Task main": "1",
+      "Task QC": "5/6",
+      "Rollup": [
+        "Pending Review"
+      ],
+      "Run n8n": false,
+      "TP giả định": 3,
+      "Trọng số TP": 0.15,
+      "Product Type": null,
+      "NLTT": null,
+      "[Dev] Total main": 0,
+      "Task type": "QC",
+      "Rollup 1": [
+        "Unconfirmed"
+      ],
+      "Product Status": [
+        "Pending Review"
+      ],
+      "Task Status": "Done",
+      "Episode": null,
+      "Done Date": null,
+      "Product Point": [
+        50
+      ],
+      "TP giả định 2": 3,
+      "Assignee": [
+        {
+          "id": "134d872b-594c-8101-981a-0002a8c4661d",
+          "name": "Lê Thịnh",
+          "email": "thinhlv@sangygroup.com"
+        }
+      ],
+      "TP thực tế": 4.29,
+      "Task fix": "0/6",
+      "Created time": null,
+      "Tasks": "5Ver5",
+      "Sprint": []
+    },
+    "_title": "5Ver5",
+    "database_name": "[Testn8n] Tasks (1)",
+    "project_name": "[Testn8n] Tasks (1)",
+    "database_id": "28fccb0e-ac88-800c-b144-fc0088b248a8"
+  },
+  {
+    "id": "2e0ccb0e-ac88-81e8-863a-ea06e015a794",
+    "created_time": "2026-01-06T03:17:00.000Z",
+    "last_edited_time": "2026-01-06T03:17:00.000Z",
+    "properties": {
+      "[Test n8n] Product (1)": [
+        "2e0ccb0e-ac88-803c-8bf4-fd9580c2ad05"
+      ],
+      "Task main": "1",
+      "Task QC": "5/6",
+      "Rollup": [
+        "Pending Review"
+      ],
+      "Run n8n": false,
+      "TP giả định": 3,
+      "Trọng số TP": 0.15,
+      "Product Type": null,
+      "NLTT": null,
+      "[Dev] Total main": 0,
+      "Task type": "QC",
+      "Rollup 1": [
+        "Unconfirmed"
+      ],
+      "Product Status": [
+        "Pending Review"
+      ],
+      "Task Status": "Done",
+      "Episode": null,
+      "Done Date": null,
+      "Product Point": [
+        50
+      ],
+      "TP giả định 2": 3,
+      "Assignee": [
+        {
+          "id": "134d872b-594c-8101-981a-0002a8c4661d",
+          "name": "Lê Thịnh",
+          "email": "thinhlv@sangygroup.com"
+        }
+      ],
+      "TP thực tế": 4.29,
+      "Task fix": "0/6",
+      "Created time": null,
+      "Tasks": "5Ver2",
+      "Sprint": []
+    },
+    "_title": "5Ver2",
+    "database_name": "[Testn8n] Tasks (1)",
+    "project_name": "[Testn8n] Tasks (1)",
+    "database_id": "28fccb0e-ac88-800c-b144-fc0088b248a8"
+  },
+  {
+    "id": "2e0ccb0e-ac88-81f7-bfb5-f5e7790a9050",
+    "created_time": "2026-01-06T03:17:00.000Z",
+    "last_edited_time": "2026-01-06T03:17:00.000Z",
+    "properties": {
+      "[Test n8n] Product (1)": [
+        "2e0ccb0e-ac88-803c-8bf4-fd9580c2ad05"
+      ],
+      "Task main": "1",
+      "Task QC": "5/6",
+      "Rollup": [
+        "Pending Review"
+      ],
+      "Run n8n": false,
+      "TP giả định": 3,
+      "Trọng số TP": 0.15,
+      "Product Type": null,
+      "NLTT": null,
+      "[Dev] Total main": 0,
+      "Task type": "QC",
+      "Rollup 1": [
+        "Unconfirmed"
+      ],
+      "Product Status": [
+        "Pending Review"
+      ],
+      "Task Status": "Done",
+      "Episode": null,
+      "Done Date": null,
+      "Product Point": [
+        50
+      ],
+      "TP giả định 2": 3,
+      "Assignee": [
+        {
+          "id": "134d872b-594c-8101-981a-0002a8c4661d",
+          "name": "Lê Thịnh",
+          "email": "thinhlv@sangygroup.com"
+        }
+      ],
+      "TP thực tế": 4.29,
+      "Task fix": "0/6",
+      "Created time": null,
+      "Tasks": "5Ver3",
+      "Sprint": []
+    },
+    "_title": "5Ver3",
+    "database_name": "[Testn8n] Tasks (1)",
+    "project_name": "[Testn8n] Tasks (1)",
+    "database_id": "28fccb0e-ac88-800c-b144-fc0088b248a8"
+  }
+]

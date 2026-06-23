@@ -1,0 +1,560 @@
+[
+  {
+    "id": "106699e7-f261-49e9-9ba7-67471b531696",
+    "created_time": "2024-06-13T09:00:00.000Z",
+    "last_edited_time": "2024-06-13T09:00:00.000Z",
+    "properties": {
+      "Đã thảo luận": false,
+      "Mô tả": "",
+      "Nhân sự": [
+        {
+          "id": "0e281966-9999-4a71-b6dd-7bb825e4f55c",
+          "name": "Bảo Anh",
+          "email": "anhdtb@sangygroup.com"
+        }
+      ],
+      "Select": "CẦN CẢI THIỆN",
+      "Links": null,
+      "Name": "Form, dáng"
+    },
+    "_title": "Form, dáng",
+    "database_name": "Retrospective",
+    "project_name": "Retrospective",
+    "database_id": "24ce80fd-d5b0-431a-b9d8-4f65cde5e5a1"
+  },
+  {
+    "id": "139f4742-2837-4513-8cc9-2277fdf6832b",
+    "created_time": "2024-06-13T09:06:00.000Z",
+    "last_edited_time": "2024-06-13T09:07:00.000Z",
+    "properties": {
+      "Đã thảo luận": false,
+      "Mô tả": "",
+      "Nhân sự": [
+        {
+          "id": "d08fd54c-8a87-485d-9980-e211a5ed9f67",
+          "name": " Vân Trần",
+          "email": "vanttt@sangygroup.com"
+        }
+      ],
+      "Select": "CẦN PHÁT HUY",
+      "Links": null,
+      "Name": "Master Controller cho những nhân vật chính, xuất hiện nhiều"
+    },
+    "_title": "Master Controller cho những nhân vật chính, xuất hiện nhiều",
+    "database_name": "Retrospective",
+    "project_name": "Retrospective",
+    "database_id": "24ce80fd-d5b0-431a-b9d8-4f65cde5e5a1"
+  },
+  {
+    "id": "353a19c7-04a6-4728-82b5-33267d98dff3",
+    "created_time": "2024-06-13T09:02:00.000Z",
+    "last_edited_time": "2024-06-13T09:02:00.000Z",
+    "properties": {
+      "Đã thảo luận": false,
+      "Mô tả": "",
+      "Nhân sự": [
+        {
+          "id": "5760bc75-00f4-454f-9bef-8c16f7649bde",
+          "name": "Unknown User",
+          "email": null
+        }
+      ],
+      "Select": "BÀI HỌC RÚT RA",
+      "Links": null,
+      "Name": "Đứng lên diễn"
+    },
+    "_title": "Đứng lên diễn",
+    "database_name": "Retrospective",
+    "project_name": "Retrospective",
+    "database_id": "24ce80fd-d5b0-431a-b9d8-4f65cde5e5a1"
+  },
+  {
+    "id": "354be8f7-63df-45d8-b6be-1d33c8869566",
+    "created_time": "2024-06-13T09:02:00.000Z",
+    "last_edited_time": "2024-06-13T09:02:00.000Z",
+    "properties": {
+      "Đã thảo luận": false,
+      "Mô tả": "",
+      "Nhân sự": [
+        {
+          "id": "5760bc75-00f4-454f-9bef-8c16f7649bde",
+          "name": "Unknown User",
+          "email": null
+        }
+      ],
+      "Select": "CẦN CẢI THIỆN",
+      "Links": null,
+      "Name": "Cần check Base + data liên tục"
+    },
+    "_title": "Cần check Base + data liên tục",
+    "database_name": "Retrospective",
+    "project_name": "Retrospective",
+    "database_id": "24ce80fd-d5b0-431a-b9d8-4f65cde5e5a1"
+  },
+  {
+    "id": "43e5e4e1-4240-4ec8-a79f-59797aa64af8",
+    "created_time": "2024-06-13T09:01:00.000Z",
+    "last_edited_time": "2024-06-13T09:01:00.000Z",
+    "properties": {
+      "Đã thảo luận": false,
+      "Mô tả": "",
+      "Nhân sự": [
+        {
+          "id": "0e281966-9999-4a71-b6dd-7bb825e4f55c",
+          "name": "Bảo Anh",
+          "email": "anhdtb@sangygroup.com"
+        }
+      ],
+      "Select": "BÀI HỌC RÚT RA",
+      "Links": null,
+      "Name": "Hiểu hơn về cách bẻ khối mặt"
+    },
+    "_title": "Hiểu hơn về cách bẻ khối mặt",
+    "database_name": "Retrospective",
+    "project_name": "Retrospective",
+    "database_id": "24ce80fd-d5b0-431a-b9d8-4f65cde5e5a1"
+  },
+  {
+    "id": "52fb0342-3eed-4fee-8cf7-6986613fa29e",
+    "created_time": "2024-06-13T08:55:00.000Z",
+    "last_edited_time": "2024-06-13T09:10:00.000Z",
+    "properties": {
+      "Đã thảo luận": false,
+      "Mô tả": "Thử Daily cuối ngày?",
+      "Nhân sự": [
+        {
+          "id": "69878e2b-be0e-4d11-b640-d7909d1bcd52",
+          "name": "Lê Trịnh",
+          "email": "lett@sangygroup.com"
+        },
+        {
+          "id": "48eb043c-4af9-42f6-86bc-fdcc03609205",
+          "name": "Khôi Cao",
+          "email": "khoicm@sangygroup.com"
+        }
+      ],
+      "Select": "CẦN CẢI THIỆN",
+      "Links": null,
+      "Name": "Họp nhiều quá"
+    },
+    "_title": "Họp nhiều quá",
+    "database_name": "Retrospective",
+    "project_name": "Retrospective",
+    "database_id": "24ce80fd-d5b0-431a-b9d8-4f65cde5e5a1"
+  },
+  {
+    "id": "5a07ee56-ac0f-4346-9d96-65bc7cdc7789",
+    "created_time": "2024-06-13T08:58:00.000Z",
+    "last_edited_time": "2024-06-13T09:12:00.000Z",
+    "properties": {
+      "Đã thảo luận": false,
+      "Mô tả": "Do là sprint đầu tiên nên khi ước tính khả năng làm xong chỉ đúng trong khoảng 70%, nếu QC thì sẽ phát sinh thêm NL ko ước tính được",
+      "Nhân sự": [
+        {
+          "id": "3397c9a6-dd39-48d5-9bb5-6651a798e025",
+          "name": "My Nguyễn",
+          "email": "mynth@sangygroup.com"
+        },
+        {
+          "id": "48eb043c-4af9-42f6-86bc-fdcc03609205",
+          "name": "Khôi Cao",
+          "email": "khoicm@sangygroup.com"
+        },
+        {
+          "id": "787eac37-7158-4071-b8e3-504598737fa4",
+          "name": "Minh Ngô  ",
+          "email": "minhnndt@sangygroup.com"
+        },
+        {
+          "id": "69878e2b-be0e-4d11-b640-d7909d1bcd52",
+          "name": "Lê Trịnh",
+          "email": "lett@sangygroup.com"
+        }
+      ],
+      "Select": "CẦN CẢI THIỆN",
+      "Links": null,
+      "Name": "Ước tính nỗ lực chưa chính xác"
+    },
+    "_title": "Ước tính nỗ lực chưa chính xác",
+    "database_name": "Retrospective",
+    "project_name": "Retrospective",
+    "database_id": "24ce80fd-d5b0-431a-b9d8-4f65cde5e5a1"
+  },
+  {
+    "id": "67304e47-8909-4818-aa0d-9ab46e4b07b7",
+    "created_time": "2024-06-13T09:04:00.000Z",
+    "last_edited_time": "2024-06-13T09:04:00.000Z",
+    "properties": {
+      "Đã thảo luận": false,
+      "Mô tả": "",
+      "Nhân sự": [
+        {
+          "id": "69878e2b-be0e-4d11-b640-d7909d1bcd52",
+          "name": "Lê Trịnh",
+          "email": "lett@sangygroup.com"
+        }
+      ],
+      "Select": "CẦN PHÁT HUY",
+      "Links": null,
+      "Name": "Các bạn mới có tiến bộ"
+    },
+    "_title": "Các bạn mới có tiến bộ",
+    "database_name": "Retrospective",
+    "project_name": "Retrospective",
+    "database_id": "24ce80fd-d5b0-431a-b9d8-4f65cde5e5a1"
+  },
+  {
+    "id": "72f82ba5-a756-44a7-b847-7a73cf4299ba",
+    "created_time": "2024-06-13T09:04:00.000Z",
+    "last_edited_time": "2024-06-13T09:11:00.000Z",
+    "properties": {
+      "Đã thảo luận": false,
+      "Mô tả": "",
+      "Nhân sự": [
+        {
+          "id": "69878e2b-be0e-4d11-b640-d7909d1bcd52",
+          "name": "Lê Trịnh",
+          "email": "lett@sangygroup.com"
+        },
+        {
+          "id": "3397c9a6-dd39-48d5-9bb5-6651a798e025",
+          "name": "My Nguyễn",
+          "email": "mynth@sangygroup.com"
+        }
+      ],
+      "Select": "CẦN CẢI THIỆN",
+      "Links": null,
+      "Name": "Chưa tham khảo DO của cảnh khác"
+    },
+    "_title": "Chưa tham khảo DO của cảnh khác",
+    "database_name": "Retrospective",
+    "project_name": "Retrospective",
+    "database_id": "24ce80fd-d5b0-431a-b9d8-4f65cde5e5a1"
+  },
+  {
+    "id": "75b08291-c988-4833-8736-f1dba6808202",
+    "created_time": "2024-06-13T09:03:00.000Z",
+    "last_edited_time": "2024-06-13T09:03:00.000Z",
+    "properties": {
+      "Đã thảo luận": false,
+      "Mô tả": "",
+      "Nhân sự": [
+        {
+          "id": "e2fafbbe-a7de-4dd4-8e7f-3cf451066567",
+          "name": "Ngọc Nguyễn",
+          "email": "ngocngb@sangygroup.com"
+        }
+      ],
+      "Select": "CẦN CẢI THIỆN",
+      "Links": null,
+      "Name": "Vấn đề rig, kĩ thuật"
+    },
+    "_title": "Vấn đề rig, kĩ thuật",
+    "database_name": "Retrospective",
+    "project_name": "Retrospective",
+    "database_id": "24ce80fd-d5b0-431a-b9d8-4f65cde5e5a1"
+  },
+  {
+    "id": "7bdc5c26-8a5c-4c61-9ff2-b7da9b31ceb4",
+    "created_time": "2024-06-13T08:59:00.000Z",
+    "last_edited_time": "2024-06-13T09:17:00.000Z",
+    "properties": {
+      "Đã thảo luận": true,
+      "Mô tả": "Tự học",
+      "Nhân sự": [
+        {
+          "id": "d08fd54c-8a87-485d-9980-e211a5ed9f67",
+          "name": " Vân Trần",
+          "email": "vanttt@sangygroup.com"
+        }
+      ],
+      "Select": "CẦN CẢI THIỆN",
+      "Links": null,
+      "Name": "Team cần chủ động kiếm ref diễn/tự diễn ở nhà"
+    },
+    "_title": "Team cần chủ động kiếm ref diễn/tự diễn ở nhà",
+    "database_name": "Retrospective",
+    "project_name": "Retrospective",
+    "database_id": "24ce80fd-d5b0-431a-b9d8-4f65cde5e5a1"
+  },
+  {
+    "id": "7c554a78-c04c-4fb3-ac4a-00fa6a06230f",
+    "created_time": "2024-06-13T09:00:00.000Z",
+    "last_edited_time": "2024-06-13T09:03:00.000Z",
+    "properties": {
+      "Đã thảo luận": false,
+      "Mô tả": "Đến gần deadline mới biết được nhân vật trong cảnh chưa có RIG và cần cleanup, thiếu layout",
+      "Nhân sự": [
+        {
+          "id": "787eac37-7158-4071-b8e3-504598737fa4",
+          "name": "Minh Ngô  ",
+          "email": "minhnndt@sangygroup.com"
+        }
+      ],
+      "Select": "CẦN CẢI THIỆN",
+      "Links": null,
+      "Name": "Check data kỹ hơn"
+    },
+    "_title": "Check data kỹ hơn",
+    "database_name": "Retrospective",
+    "project_name": "Retrospective",
+    "database_id": "24ce80fd-d5b0-431a-b9d8-4f65cde5e5a1"
+  },
+  {
+    "id": "7ce22dfb-42f3-44fe-9738-f89a4e0632d4",
+    "created_time": "2024-06-13T09:01:00.000Z",
+    "last_edited_time": "2024-06-13T09:03:00.000Z",
+    "properties": {
+      "Đã thảo luận": false,
+      "Mô tả": "",
+      "Nhân sự": [
+        {
+          "id": "5760bc75-00f4-454f-9bef-8c16f7649bde",
+          "name": "Unknown User",
+          "email": null
+        },
+        {
+          "id": "e2fafbbe-a7de-4dd4-8e7f-3cf451066567",
+          "name": "Ngọc Nguyễn",
+          "email": "ngocngb@sangygroup.com"
+        }
+      ],
+      "Select": "CẦN PHÁT HUY",
+      "Links": null,
+      "Name": "Hiểu tính cách nhân vật, cách diễn"
+    },
+    "_title": "Hiểu tính cách nhân vật, cách diễn",
+    "database_name": "Retrospective",
+    "project_name": "Retrospective",
+    "database_id": "24ce80fd-d5b0-431a-b9d8-4f65cde5e5a1"
+  },
+  {
+    "id": "86024352-f7a5-41c6-b539-a1f4762b111a",
+    "created_time": "2024-06-13T09:04:00.000Z",
+    "last_edited_time": "2024-06-13T09:04:00.000Z",
+    "properties": {
+      "Đã thảo luận": false,
+      "Mô tả": "",
+      "Nhân sự": [
+        {
+          "id": "69878e2b-be0e-4d11-b640-d7909d1bcd52",
+          "name": "Lê Trịnh",
+          "email": "lett@sangygroup.com"
+        }
+      ],
+      "Select": "CẦN CẢI THIỆN",
+      "Links": null,
+      "Name": "Tốc độ chậm"
+    },
+    "_title": "Tốc độ chậm",
+    "database_name": "Retrospective",
+    "project_name": "Retrospective",
+    "database_id": "24ce80fd-d5b0-431a-b9d8-4f65cde5e5a1"
+  },
+  {
+    "id": "8998eb14-122a-468a-9036-cdcb157a93b4",
+    "created_time": "2024-06-13T09:05:00.000Z",
+    "last_edited_time": "2024-06-13T09:11:00.000Z",
+    "properties": {
+      "Đã thảo luận": false,
+      "Mô tả": "",
+      "Nhân sự": [
+        {
+          "id": "3397c9a6-dd39-48d5-9bb5-6651a798e025",
+          "name": "My Nguyễn",
+          "email": "mynth@sangygroup.com"
+        },
+        {
+          "id": "69878e2b-be0e-4d11-b640-d7909d1bcd52",
+          "name": "Lê Trịnh",
+          "email": "lett@sangygroup.com"
+        }
+      ],
+      "Select": "CẦN PHÁT HUY",
+      "Links": null,
+      "Name": "Diễn nhân vật thú vị"
+    },
+    "_title": "Diễn nhân vật thú vị",
+    "database_name": "Retrospective",
+    "project_name": "Retrospective",
+    "database_id": "24ce80fd-d5b0-431a-b9d8-4f65cde5e5a1"
+  },
+  {
+    "id": "a89c9b4d-98fe-4b12-a46e-9392a6e207e7",
+    "created_time": "2024-06-13T09:03:00.000Z",
+    "last_edited_time": "2024-06-13T09:08:00.000Z",
+    "properties": {
+      "Đã thảo luận": false,
+      "Mô tả": "",
+      "Nhân sự": [
+        {
+          "id": "69878e2b-be0e-4d11-b640-d7909d1bcd52",
+          "name": "Lê Trịnh",
+          "email": "lett@sangygroup.com"
+        }
+      ],
+      "Select": "CẦN PHÁT HUY",
+      "Links": null,
+      "Name": "Team chủ động"
+    },
+    "_title": "Team chủ động",
+    "database_name": "Retrospective",
+    "project_name": "Retrospective",
+    "database_id": "24ce80fd-d5b0-431a-b9d8-4f65cde5e5a1"
+  },
+  {
+    "id": "aac1967f-19ff-44b0-b3c0-ef19e1bd50ba",
+    "created_time": "2024-06-13T09:03:00.000Z",
+    "last_edited_time": "2024-06-13T09:03:00.000Z",
+    "properties": {
+      "Đã thảo luận": false,
+      "Mô tả": "",
+      "Nhân sự": [
+        {
+          "id": "e2fafbbe-a7de-4dd4-8e7f-3cf451066567",
+          "name": "Ngọc Nguyễn",
+          "email": "ngocngb@sangygroup.com"
+        }
+      ],
+      "Select": "BÀI HỌC RÚT RA",
+      "Links": null,
+      "Name": "Trao đổi nhiều hơn"
+    },
+    "_title": "Trao đổi nhiều hơn",
+    "database_name": "Retrospective",
+    "project_name": "Retrospective",
+    "database_id": "24ce80fd-d5b0-431a-b9d8-4f65cde5e5a1"
+  },
+  {
+    "id": "ded446f9-e324-40e3-97c4-f580b9db392f",
+    "created_time": "2024-06-13T08:57:00.000Z",
+    "last_edited_time": "2024-06-13T08:58:00.000Z",
+    "properties": {
+      "Đã thảo luận": false,
+      "Mô tả": "",
+      "Nhân sự": [
+        {
+          "id": "3397c9a6-dd39-48d5-9bb5-6651a798e025",
+          "name": "My Nguyễn",
+          "email": "mynth@sangygroup.com"
+        },
+        {
+          "id": "787eac37-7158-4071-b8e3-504598737fa4",
+          "name": "Minh Ngô  ",
+          "email": "minhnndt@sangygroup.com"
+        },
+        {
+          "id": "48eb043c-4af9-42f6-86bc-fdcc03609205",
+          "name": "Khôi Cao",
+          "email": "khoicm@sangygroup.com"
+        }
+      ],
+      "Select": "CẦN PHÁT HUY",
+      "Links": null,
+      "Name": "Chủ động nêu ra vấn đề gặp phải"
+    },
+    "_title": "Chủ động nêu ra vấn đề gặp phải",
+    "database_name": "Retrospective",
+    "project_name": "Retrospective",
+    "database_id": "24ce80fd-d5b0-431a-b9d8-4f65cde5e5a1"
+  },
+  {
+    "id": "f8a502d9-2d39-4905-b12c-4b500b75b22a",
+    "created_time": "2024-06-13T09:06:00.000Z",
+    "last_edited_time": "2024-06-13T09:07:00.000Z",
+    "properties": {
+      "Đã thảo luận": false,
+      "Mô tả": "",
+      "Nhân sự": [
+        {
+          "id": "3397c9a6-dd39-48d5-9bb5-6651a798e025",
+          "name": "My Nguyễn",
+          "email": "mynth@sangygroup.com"
+        },
+        {
+          "id": "48eb043c-4af9-42f6-86bc-fdcc03609205",
+          "name": "Khôi Cao",
+          "email": "khoicm@sangygroup.com"
+        },
+        {
+          "id": "787eac37-7158-4071-b8e3-504598737fa4",
+          "name": "Minh Ngô  ",
+          "email": "minhnndt@sangygroup.com"
+        }
+      ],
+      "Select": "CẦN PHÁT HUY",
+      "Links": null,
+      "Name": "Tái sử dụng key, tận dụng DO sẵn có"
+    },
+    "_title": "Tái sử dụng key, tận dụng DO sẵn có",
+    "database_name": "Retrospective",
+    "project_name": "Retrospective",
+    "database_id": "24ce80fd-d5b0-431a-b9d8-4f65cde5e5a1"
+  },
+  {
+    "id": "fe6ece9d-1358-4a76-9f2e-ccff58b97cc6",
+    "created_time": "2024-06-13T09:01:00.000Z",
+    "last_edited_time": "2024-06-13T09:12:00.000Z",
+    "properties": {
+      "Đã thảo luận": false,
+      "Mô tả": "",
+      "Nhân sự": [
+        {
+          "id": "3397c9a6-dd39-48d5-9bb5-6651a798e025",
+          "name": "My Nguyễn",
+          "email": "mynth@sangygroup.com"
+        },
+        {
+          "id": "48eb043c-4af9-42f6-86bc-fdcc03609205",
+          "name": "Khôi Cao",
+          "email": "khoicm@sangygroup.com"
+        },
+        {
+          "id": "787eac37-7158-4071-b8e3-504598737fa4",
+          "name": "Minh Ngô  ",
+          "email": "minhnndt@sangygroup.com"
+        },
+        {
+          "id": "ccd85462-3a79-4e0f-a885-c92afa63697e",
+          "name": "Kiệt Đoàn",
+          "email": "kietda@sangygroup.com"
+        },
+        {
+          "id": "69878e2b-be0e-4d11-b640-d7909d1bcd52",
+          "name": "Lê Trịnh",
+          "email": "lett@sangygroup.com"
+        }
+      ],
+      "Select": "CẦN CẢI THIỆN",
+      "Links": null,
+      "Name": "Cố gắng hạn chế QC Fixed"
+    },
+    "_title": "Cố gắng hạn chế QC Fixed",
+    "database_name": "Retrospective",
+    "project_name": "Retrospective",
+    "database_id": "24ce80fd-d5b0-431a-b9d8-4f65cde5e5a1"
+  },
+  {
+    "id": "fe9ab7c4-34df-467b-99d0-7156aa589893",
+    "created_time": "2024-06-13T09:07:00.000Z",
+    "last_edited_time": "2024-06-13T09:17:00.000Z",
+    "properties": {
+      "Đã thảo luận": true,
+      "Mô tả": "BG-Anim làm việc với nhau như thế nào?",
+      "Nhân sự": [
+        {
+          "id": "787eac37-7158-4071-b8e3-504598737fa4",
+          "name": "Minh Ngô  ",
+          "email": "minhnndt@sangygroup.com"
+        }
+      ],
+      "Select": "CẦN CẢI THIỆN",
+      "Links": null,
+      "Name": "Hiểu quy trình làm việc giữa các team"
+    },
+    "_title": "Hiểu quy trình làm việc giữa các team",
+    "database_name": "Retrospective",
+    "project_name": "Retrospective",
+    "database_id": "24ce80fd-d5b0-431a-b9d8-4f65cde5e5a1"
+  }
+]

@@ -1,0 +1,343 @@
+[
+  {
+    "id": "0d57b1e6-8e1a-4f59-b4e0-c84683ff62e7",
+    "created_time": "2024-05-03T01:59:00.000Z",
+    "last_edited_time": "2024-06-06T07:44:00.000Z",
+    "properties": {
+      "Person": [
+        {
+          "id": "ce62dd6e-6b4c-4d26-a9c9-929205c03462",
+          "name": "Unknown User",
+          "email": null
+        },
+        {
+          "id": "cbb9d8bc-8f0d-4ac6-ae13-d1df5638df05",
+          "name": "Unknown User",
+          "email": null
+        }
+      ],
+      "Created": null,
+      "Tags": [
+        "Archived"
+      ],
+      "Name": "Concept_Weekly Plan_Sprint 03"
+    },
+    "_title": "Concept_Weekly Plan_Sprint 03",
+    "database_name": "[DeeDee_2024] OMG Weekly Scrum",
+    "project_name": "[DeeDee_2024] OMG Weekly Scrum",
+    "database_id": "4013d640-a6eb-4635-8a89-d41707999eb4"
+  },
+  {
+    "id": "16866e77-62e0-42a3-b881-6bd2c2d66ebb",
+    "created_time": "2024-05-27T02:42:00.000Z",
+    "last_edited_time": "2024-06-06T07:45:00.000Z",
+    "properties": {
+      "Person": [
+        {
+          "id": "82ba9b87-e198-4438-a1c2-7b873cd364b5",
+          "name": "Phúc Nguyễn",
+          "email": "phucnt@sangygroup.com"
+        },
+        {
+          "id": "3a81bdc9-11ff-4574-af89-d7fcdb3025ae",
+          "name": "Unknown User",
+          "email": null
+        },
+        {
+          "id": "2b47d5ac-bd39-4aad-8e95-23ea4ab9b925",
+          "name": "Hoàng Hà",
+          "email": "hoanghh@sangygroup.com"
+        }
+      ],
+      "Created": null,
+      "Tags": [
+        "Archived"
+      ],
+      "Name": "SB_Weekly Plan_Sprint 09"
+    },
+    "_title": "SB_Weekly Plan_Sprint 09",
+    "database_name": "[DeeDee_2024] OMG Weekly Scrum",
+    "project_name": "[DeeDee_2024] OMG Weekly Scrum",
+    "database_id": "4013d640-a6eb-4635-8a89-d41707999eb4"
+  },
+  {
+    "id": "1dfc2578-9f30-4e88-a302-3aaa237bb98b",
+    "created_time": "2024-04-23T02:39:00.000Z",
+    "last_edited_time": "2024-05-03T01:58:00.000Z",
+    "properties": {
+      "Person": [
+        {
+          "id": "82ba9b87-e198-4438-a1c2-7b873cd364b5",
+          "name": "Phúc Nguyễn",
+          "email": "phucnt@sangygroup.com"
+        },
+        {
+          "id": "3a81bdc9-11ff-4574-af89-d7fcdb3025ae",
+          "name": "Unknown User",
+          "email": null
+        },
+        {
+          "id": "2b47d5ac-bd39-4aad-8e95-23ea4ab9b925",
+          "name": "Hoàng Hà",
+          "email": "hoanghh@sangygroup.com"
+        }
+      ],
+      "Created": null,
+      "Tags": [
+        "Archived"
+      ],
+      "Name": "SB_Weekly Plan_Sprint 05"
+    },
+    "_title": "SB_Weekly Plan_Sprint 05",
+    "database_name": "[DeeDee_2024] OMG Weekly Scrum",
+    "project_name": "[DeeDee_2024] OMG Weekly Scrum",
+    "database_id": "4013d640-a6eb-4635-8a89-d41707999eb4"
+  },
+  {
+    "id": "2a1eaafb-27d0-4fb0-8354-090112ab3ae8",
+    "created_time": "2024-05-20T07:49:00.000Z",
+    "last_edited_time": "2024-05-27T02:42:00.000Z",
+    "properties": {
+      "Person": [
+        {
+          "id": "82ba9b87-e198-4438-a1c2-7b873cd364b5",
+          "name": "Phúc Nguyễn",
+          "email": "phucnt@sangygroup.com"
+        },
+        {
+          "id": "3a81bdc9-11ff-4574-af89-d7fcdb3025ae",
+          "name": "Unknown User",
+          "email": null
+        },
+        {
+          "id": "2b47d5ac-bd39-4aad-8e95-23ea4ab9b925",
+          "name": "Hoàng Hà",
+          "email": "hoanghh@sangygroup.com"
+        }
+      ],
+      "Created": null,
+      "Tags": [
+        "Archived"
+      ],
+      "Name": "SB_Weekly Plan_Sprint 08"
+    },
+    "_title": "SB_Weekly Plan_Sprint 08",
+    "database_name": "[DeeDee_2024] OMG Weekly Scrum",
+    "project_name": "[DeeDee_2024] OMG Weekly Scrum",
+    "database_id": "4013d640-a6eb-4635-8a89-d41707999eb4"
+  },
+  {
+    "id": "595ccf26-997a-4d6a-8e8a-80d01039b509",
+    "created_time": "2024-06-06T07:44:00.000Z",
+    "last_edited_time": "2024-06-06T10:43:00.000Z",
+    "properties": {
+      "Person": [
+        {
+          "id": "82ba9b87-e198-4438-a1c2-7b873cd364b5",
+          "name": "Phúc Nguyễn",
+          "email": "phucnt@sangygroup.com"
+        },
+        {
+          "id": "3a81bdc9-11ff-4574-af89-d7fcdb3025ae",
+          "name": "Unknown User",
+          "email": null
+        }
+      ],
+      "Created": null,
+      "Tags": [
+        "Current"
+      ],
+      "Name": "SB_Weekly Plan_Sprint 10"
+    },
+    "_title": "SB_Weekly Plan_Sprint 10",
+    "database_name": "[DeeDee_2024] OMG Weekly Scrum",
+    "project_name": "[DeeDee_2024] OMG Weekly Scrum",
+    "database_id": "4013d640-a6eb-4635-8a89-d41707999eb4"
+  },
+  {
+    "id": "658ef46f-8d00-4cc6-8386-2d40d09b561b",
+    "created_time": "2024-04-15T03:11:00.000Z",
+    "last_edited_time": "2024-04-23T02:39:00.000Z",
+    "properties": {
+      "Person": [
+        {
+          "id": "82ba9b87-e198-4438-a1c2-7b873cd364b5",
+          "name": "Phúc Nguyễn",
+          "email": "phucnt@sangygroup.com"
+        },
+        {
+          "id": "3a81bdc9-11ff-4574-af89-d7fcdb3025ae",
+          "name": "Unknown User",
+          "email": null
+        },
+        {
+          "id": "2b47d5ac-bd39-4aad-8e95-23ea4ab9b925",
+          "name": "Hoàng Hà",
+          "email": "hoanghh@sangygroup.com"
+        }
+      ],
+      "Created": null,
+      "Tags": [
+        "Archived"
+      ],
+      "Name": "SB_Weekly Plan_Sprint 04"
+    },
+    "_title": "SB_Weekly Plan_Sprint 04",
+    "database_name": "[DeeDee_2024] OMG Weekly Scrum",
+    "project_name": "[DeeDee_2024] OMG Weekly Scrum",
+    "database_id": "4013d640-a6eb-4635-8a89-d41707999eb4"
+  },
+  {
+    "id": "73c5fc68-3061-4e69-9214-86489448961a",
+    "created_time": "2024-04-15T10:50:00.000Z",
+    "last_edited_time": "2024-04-23T03:08:00.000Z",
+    "properties": {
+      "Person": [
+        {
+          "id": "ce62dd6e-6b4c-4d26-a9c9-929205c03462",
+          "name": "Unknown User",
+          "email": null
+        },
+        {
+          "id": "cbb9d8bc-8f0d-4ac6-ae13-d1df5638df05",
+          "name": "Unknown User",
+          "email": null
+        }
+      ],
+      "Created": null,
+      "Tags": [
+        "Archived"
+      ],
+      "Name": "Concept_Weekly Plan_Sprint 02"
+    },
+    "_title": "Concept_Weekly Plan_Sprint 02",
+    "database_name": "[DeeDee_2024] OMG Weekly Scrum",
+    "project_name": "[DeeDee_2024] OMG Weekly Scrum",
+    "database_id": "4013d640-a6eb-4635-8a89-d41707999eb4"
+  },
+  {
+    "id": "83b37192-6e3c-49db-8be4-f3858f4ba53f",
+    "created_time": "2024-04-09T11:05:00.000Z",
+    "last_edited_time": "2024-04-15T10:50:00.000Z",
+    "properties": {
+      "Person": [
+        {
+          "id": "82ba9b87-e198-4438-a1c2-7b873cd364b5",
+          "name": "Phúc Nguyễn",
+          "email": "phucnt@sangygroup.com"
+        },
+        {
+          "id": "3a81bdc9-11ff-4574-af89-d7fcdb3025ae",
+          "name": "Unknown User",
+          "email": null
+        },
+        {
+          "id": "2b47d5ac-bd39-4aad-8e95-23ea4ab9b925",
+          "name": "Hoàng Hà",
+          "email": "hoanghh@sangygroup.com"
+        }
+      ],
+      "Created": null,
+      "Tags": [],
+      "Name": "SB_Weekly Plan_Sprint 03"
+    },
+    "_title": "SB_Weekly Plan_Sprint 03",
+    "database_name": "[DeeDee_2024] OMG Weekly Scrum",
+    "project_name": "[DeeDee_2024] OMG Weekly Scrum",
+    "database_id": "4013d640-a6eb-4635-8a89-d41707999eb4"
+  },
+  {
+    "id": "8e8402b2-a0cb-40a8-9b40-f784d39ae670",
+    "created_time": "2024-05-03T01:58:00.000Z",
+    "last_edited_time": "2024-05-15T03:20:00.000Z",
+    "properties": {
+      "Person": [
+        {
+          "id": "82ba9b87-e198-4438-a1c2-7b873cd364b5",
+          "name": "Phúc Nguyễn",
+          "email": "phucnt@sangygroup.com"
+        },
+        {
+          "id": "3a81bdc9-11ff-4574-af89-d7fcdb3025ae",
+          "name": "Unknown User",
+          "email": null
+        },
+        {
+          "id": "2b47d5ac-bd39-4aad-8e95-23ea4ab9b925",
+          "name": "Hoàng Hà",
+          "email": "hoanghh@sangygroup.com"
+        }
+      ],
+      "Created": null,
+      "Tags": [
+        "Archived"
+      ],
+      "Name": "SB_Weekly Plan_Sprint 06"
+    },
+    "_title": "SB_Weekly Plan_Sprint 06",
+    "database_name": "[DeeDee_2024] OMG Weekly Scrum",
+    "project_name": "[DeeDee_2024] OMG Weekly Scrum",
+    "database_id": "4013d640-a6eb-4635-8a89-d41707999eb4"
+  },
+  {
+    "id": "90517e9f-4726-48ef-99d4-b04adff1b51e",
+    "created_time": "2024-05-15T03:20:00.000Z",
+    "last_edited_time": "2024-05-20T07:49:00.000Z",
+    "properties": {
+      "Person": [
+        {
+          "id": "82ba9b87-e198-4438-a1c2-7b873cd364b5",
+          "name": "Phúc Nguyễn",
+          "email": "phucnt@sangygroup.com"
+        },
+        {
+          "id": "3a81bdc9-11ff-4574-af89-d7fcdb3025ae",
+          "name": "Unknown User",
+          "email": null
+        },
+        {
+          "id": "2b47d5ac-bd39-4aad-8e95-23ea4ab9b925",
+          "name": "Hoàng Hà",
+          "email": "hoanghh@sangygroup.com"
+        }
+      ],
+      "Created": null,
+      "Tags": [
+        "Archived"
+      ],
+      "Name": "SB_Weekly Plan_Sprint 07"
+    },
+    "_title": "SB_Weekly Plan_Sprint 07",
+    "database_name": "[DeeDee_2024] OMG Weekly Scrum",
+    "project_name": "[DeeDee_2024] OMG Weekly Scrum",
+    "database_id": "4013d640-a6eb-4635-8a89-d41707999eb4"
+  },
+  {
+    "id": "bcbf20db-9322-41f3-a23d-03d3430db786",
+    "created_time": "2024-05-15T03:20:00.000Z",
+    "last_edited_time": "2024-06-06T07:44:00.000Z",
+    "properties": {
+      "Person": [
+        {
+          "id": "ce62dd6e-6b4c-4d26-a9c9-929205c03462",
+          "name": "Unknown User",
+          "email": null
+        },
+        {
+          "id": "cbb9d8bc-8f0d-4ac6-ae13-d1df5638df05",
+          "name": "Unknown User",
+          "email": null
+        }
+      ],
+      "Created": null,
+      "Tags": [
+        "Archived"
+      ],
+      "Name": "Concept_Weekly Plan_Sprint 04"
+    },
+    "_title": "Concept_Weekly Plan_Sprint 04",
+    "database_name": "[DeeDee_2024] OMG Weekly Scrum",
+    "project_name": "[DeeDee_2024] OMG Weekly Scrum",
+    "database_id": "4013d640-a6eb-4635-8a89-d41707999eb4"
+  }
+]

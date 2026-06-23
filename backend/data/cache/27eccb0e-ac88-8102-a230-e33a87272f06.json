@@ -1,0 +1,187 @@
+[
+  {
+    "id": "27eccb0e-ac88-809b-8841-d715a0a5dd41",
+    "created_time": "2025-09-30T10:02:00.000Z",
+    "last_edited_time": "2025-10-06T02:27:00.000Z",
+    "properties": {
+      "Task count ": 0,
+      "Total Fixed": 0,
+      "Required by": null,
+      "Owner": [
+        {
+          "id": "2b47d5ac-bd39-4aad-8e95-23ea4ab9b925",
+          "name": "Hoàng Hà",
+          "email": "hoanghh@sangygroup.com"
+        }
+      ],
+      "Loại cảnh": "C",
+      "Status": "Not started",
+      "Tasks ": [],
+      "Task Create": null,
+      "Task count + 1": 1,
+      "Total Main": 0,
+      "Point Status": "Unconfirmed",
+      "Product point": 25,
+      "Check task done": null,
+      "Due Date": null,
+      "Product type": "Rough",
+      "Total QC": 0,
+      "Product": "Rough 040"
+    },
+    "_title": "Rough 040",
+    "database_name": "[Harben] Product ",
+    "project_name": "[Harben]",
+    "database_id": "27eccb0e-ac88-8102-a230-e33a87272f06"
+  },
+  {
+    "id": "284ccb0e-ac88-8016-b6e4-fd800622f834",
+    "created_time": "2025-10-06T02:21:00.000Z",
+    "last_edited_time": "2025-10-16T02:31:00.000Z",
+    "properties": {
+      "Task count ": 1,
+      "Total Fixed": 0,
+      "Required by": null,
+      "Owner": [
+        {
+          "id": "cc427545-583b-4bbc-8f17-5b0e498d3b91",
+          "name": "Unknown User",
+          "email": null
+        }
+      ],
+      "Loại cảnh": "B",
+      "Status": "Need Fix Client",
+      "Tasks ": [
+        "28cccb0e-ac88-8093-8a18-fd813ee5c483"
+      ],
+      "Task Create": null,
+      "Task count + 1": 2,
+      "Total Main": 1,
+      "Point Status": "Unconfirmed",
+      "Product point": 35,
+      "Check task done": "Not started",
+      "Due Date": null,
+      "Product type": "Cut-out",
+      "Total QC": 0,
+      "Product": "Anim 040"
+    },
+    "_title": "Anim 040",
+    "database_name": "[Harben] Product ",
+    "project_name": "[Harben]",
+    "database_id": "27eccb0e-ac88-8102-a230-e33a87272f06"
+  },
+  {
+    "id": "284ccb0e-ac88-8073-a6cd-eefc0a040278",
+    "created_time": "2025-10-06T02:21:00.000Z",
+    "last_edited_time": "2025-10-14T07:18:00.000Z",
+    "properties": {
+      "Task count ": 3,
+      "Total Fixed": 1,
+      "Required by": null,
+      "Owner": [
+        {
+          "id": "1fc365a3-6caf-4a7b-9866-0e7b43858917",
+          "name": "Lộc Nguyễn",
+          "email": "locng@sangygroup.com"
+        }
+      ],
+      "Loại cảnh": "C",
+      "Status": "QC Approved",
+      "Tasks ": [
+        "284ccb0e-ac88-81ce-b698-d8c1148fb42d",
+        "287ccb0e-ac88-818b-9ca3-d6945dd8fbd5",
+        "28cccb0e-ac88-8134-9b84-f56a11e63943"
+      ],
+      "Task Create": null,
+      "Task count + 1": 4,
+      "Total Main": 1,
+      "Point Status": "Confirmed",
+      "Product point": 25,
+      "Check task done": "Done,Done QC,Done QC",
+      "Due Date": null,
+      "Product type": "Layout",
+      "Total QC": 1,
+      "Product": "LO 040"
+    },
+    "_title": "LO 040",
+    "database_name": "[Harben] Product ",
+    "project_name": "[Harben]",
+    "database_id": "27eccb0e-ac88-8102-a230-e33a87272f06"
+  },
+  {
+    "id": "284ccb0e-ac88-80b1-a5d3-da7bb446aa7f",
+    "created_time": "2025-10-06T02:21:00.000Z",
+    "last_edited_time": "2025-10-20T07:36:00.000Z",
+    "properties": {
+      "Task count ": 3,
+      "Total Fixed": 0,
+      "Required by": null,
+      "Owner": [
+        {
+          "id": "1fc365a3-6caf-4a7b-9866-0e7b43858917",
+          "name": "Lộc Nguyễn",
+          "email": "locng@sangygroup.com"
+        }
+      ],
+      "Loại cảnh": "C",
+      "Status": "QC Approved",
+      "Tasks ": [
+        "287ccb0e-ac88-81d0-80fa-d44f421b2c13",
+        "28cccb0e-ac88-81f8-ae4f-e2fcf6e2280f",
+        "292ccb0e-ac88-81ad-ba92-c517ef708d7b"
+      ],
+      "Task Create": null,
+      "Task count + 1": 4,
+      "Total Main": 1,
+      "Point Status": "Confirmed",
+      "Product point": 25,
+      "Check task done": "Done QC,Done QC,Done QC",
+      "Due Date": null,
+      "Product type": "Background",
+      "Total QC": 2,
+      "Product": "BG 040"
+    },
+    "_title": "BG 040",
+    "database_name": "[Harben] Product ",
+    "project_name": "[Harben]",
+    "database_id": "27eccb0e-ac88-8102-a230-e33a87272f06"
+  },
+  {
+    "id": "2a1ccb0e-ac88-8099-a7e6-d0a20b7ee9f8",
+    "created_time": "2025-11-04T14:12:00.000Z",
+    "last_edited_time": "2025-11-04T14:13:00.000Z",
+    "properties": {
+      "Task count ": 4,
+      "Total Fixed": 3,
+      "Required by": null,
+      "Owner": [
+        {
+          "id": "cc427545-583b-4bbc-8f17-5b0e498d3b91",
+          "name": "Unknown User",
+          "email": null
+        }
+      ],
+      "Loại cảnh": null,
+      "Status": "Client Approved",
+      "Tasks ": [
+        "2a1ccb0e-ac88-81b5-8a7f-d3501789c1f1",
+        "294ccb0e-ac88-8008-8875-da181dfb9694",
+        "295ccb0e-ac88-8032-8f8b-fab19aaba97e",
+        "292ccb0e-ac88-806a-ade9-d62369ff08b1"
+      ],
+      "Task Create": null,
+      "Task count + 1": 5,
+      "Total Main": 0,
+      "Point Status": "Confirmed",
+      "Product point": 0,
+      "Check task done": "Done QC,Not started,Not started,In progress",
+      "Due Date": null,
+      "Product type": null,
+      "Total QC": 1,
+      "Product": "Anim fix client 040"
+    },
+    "_title": "Anim fix client 040",
+    "database_name": "[Harben] Product ",
+    "project_name": "[Harben]",
+    "database_id": "27eccb0e-ac88-8102-a230-e33a87272f06"
+  }
+]

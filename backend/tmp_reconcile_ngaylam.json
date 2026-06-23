@@ -1,0 +1,1147 @@
+{
+  "summary": {
+    "rule": "Only Ngay lam, no fallback",
+    "start": "2026-01-01",
+    "end": "2026-01-31",
+    "totalExpected": 32,
+    "mismatchCount": 26,
+    "exactCount": 6
+  },
+  "mismatches": [
+    {
+      "person": "Doan Anh Kiet",
+      "expectedTask": 448,
+      "actualTask": 30,
+      "taskDiff": -418,
+      "expectedTp": 624.51,
+      "actualTp": 75.21,
+      "tpDiff": -549.3,
+      "reasons": [
+        {
+          "type": "missing_ngay_lam_or_invalid",
+          "task": 1283,
+          "tp": 1581.31
+        },
+        {
+          "type": "ngay_lam_out_of_range",
+          "task": 46,
+          "tp": 266.43
+        }
+      ],
+      "topMissingProjects": [
+        {
+          "project": "Sunny Side Down",
+          "task": 1187,
+          "tp": 1178.34
+        },
+        {
+          "project": "KNIGHTS OF GUINEVERE",
+          "task": 70,
+          "tp": 122.35
+        },
+        {
+          "project": "Immortals",
+          "task": 13,
+          "tp": 90.85
+        }
+      ],
+      "topCountedProjects": [
+        {
+          "project": "Immortals",
+          "task": 18,
+          "tp": 41.77
+        },
+        {
+          "project": "XANHSM",
+          "task": 11,
+          "tp": 32.42
+        },
+        {
+          "project": "Sunny Side Down",
+          "task": 1,
+          "tp": 1.02
+        }
+      ]
+    },
+    {
+      "person": "Hoang Nguyen Minh Thi",
+      "expectedTask": 189,
+      "actualTask": 48,
+      "taskDiff": -141,
+      "expectedTp": 254.07,
+      "actualTp": 119.61,
+      "tpDiff": -134.46,
+      "reasons": [
+        {
+          "type": "missing_ngay_lam_or_invalid",
+          "task": 173,
+          "tp": 216.99
+        },
+        {
+          "type": "ngay_lam_out_of_range",
+          "task": 104,
+          "tp": 412.51
+        }
+      ],
+      "topMissingProjects": [
+        {
+          "project": "FCM",
+          "task": 141,
+          "tp": 134.36
+        },
+        {
+          "project": "Mami",
+          "task": 16,
+          "tp": 57.77
+        },
+        {
+          "project": "Sunny Side Down",
+          "task": 14,
+          "tp": 24.86
+        }
+      ],
+      "topCountedProjects": [
+        {
+          "project": "Gene",
+          "task": 48,
+          "tp": 119.61
+        }
+      ]
+    },
+    {
+      "person": "Nguyen Thi Hoang My",
+      "expectedTask": 98,
+      "actualTask": 58,
+      "taskDiff": -40,
+      "expectedTp": 362.66,
+      "actualTp": 211.3,
+      "tpDiff": -151.36,
+      "reasons": [
+        {
+          "type": "missing_ngay_lam_or_invalid",
+          "task": 91,
+          "tp": 333.7
+        },
+        {
+          "type": "ngay_lam_out_of_range",
+          "task": 156,
+          "tp": 590.77
+        }
+      ],
+      "topMissingProjects": [
+        {
+          "project": "Mami",
+          "task": 87,
+          "tp": 313.38
+        },
+        {
+          "project": "CHIBI",
+          "task": 2,
+          "tp": 0
+        },
+        {
+          "project": "FCM",
+          "task": 2,
+          "tp": 20.32
+        }
+      ],
+      "topCountedProjects": [
+        {
+          "project": "CHIBI",
+          "task": 27,
+          "tp": 62.89
+        },
+        {
+          "project": "Mami",
+          "task": 17,
+          "tp": 48.87
+        },
+        {
+          "project": "FCM",
+          "task": 14,
+          "tp": 99.54
+        }
+      ]
+    },
+    {
+      "person": "Nguyen Nhat Hung",
+      "expectedTask": 45,
+      "actualTask": 17,
+      "taskDiff": -28,
+      "expectedTp": 373.58,
+      "actualTp": 151.97,
+      "tpDiff": -221.61,
+      "reasons": [
+        {
+          "type": "missing_ngay_lam_or_invalid",
+          "task": 60,
+          "tp": 477.44
+        },
+        {
+          "type": "ngay_lam_out_of_range",
+          "task": 18,
+          "tp": 203.54
+        }
+      ],
+      "topMissingProjects": [
+        {
+          "project": "FCM",
+          "task": 28,
+          "tp": 221.61
+        },
+        {
+          "project": "Immortals",
+          "task": 17,
+          "tp": 172.99
+        },
+        {
+          "project": "Harry",
+          "task": 15,
+          "tp": 82.84
+        }
+      ],
+      "topCountedProjects": [
+        {
+          "project": "Immortals",
+          "task": 15,
+          "tp": 114.8
+        },
+        {
+          "project": "XANHSM",
+          "task": 2,
+          "tp": 37.17
+        }
+      ]
+    },
+    {
+      "person": "Do Thanh Trung",
+      "expectedTask": 285,
+      "actualTask": 260,
+      "taskDiff": -25,
+      "expectedTp": 455.61,
+      "actualTp": 388.8,
+      "tpDiff": -66.81,
+      "reasons": [
+        {
+          "type": "missing_ngay_lam_or_invalid",
+          "task": 1639,
+          "tp": 1065.24
+        },
+        {
+          "type": "ngay_lam_out_of_range",
+          "task": 286,
+          "tp": 544.6
+        }
+      ],
+      "topMissingProjects": [
+        {
+          "project": "Mami",
+          "task": 1585,
+          "tp": 1025.46
+        },
+        {
+          "project": "Sunny Side Down",
+          "task": 35,
+          "tp": 19.15
+        },
+        {
+          "project": "FCM",
+          "task": 8,
+          "tp": 18.68
+        }
+      ],
+      "topCountedProjects": [
+        {
+          "project": "Gene",
+          "task": 106,
+          "tp": 0.87
+        },
+        {
+          "project": "FCM",
+          "task": 59,
+          "tp": 183.84
+        },
+        {
+          "project": "CHIBI",
+          "task": 58,
+          "tp": 162.02
+        }
+      ]
+    },
+    {
+      "person": "Dinh Tri Bao Anh",
+      "expectedTask": 104,
+      "actualTask": 90,
+      "taskDiff": -14,
+      "expectedTp": 180.83,
+      "actualTp": 114.39,
+      "tpDiff": -66.44,
+      "reasons": [
+        {
+          "type": "missing_ngay_lam_or_invalid",
+          "task": 34,
+          "tp": 79.99
+        },
+        {
+          "type": "ngay_lam_out_of_range",
+          "task": 198,
+          "tp": 537.2
+        }
+      ],
+      "topMissingProjects": [
+        {
+          "project": "Mami",
+          "task": 28,
+          "tp": 59.32
+        },
+        {
+          "project": "KNIGHTS OF GUINEVERE",
+          "task": 3,
+          "tp": 10.98
+        },
+        {
+          "project": "Immortals",
+          "task": 1,
+          "tp": 0
+        }
+      ],
+      "topCountedProjects": [
+        {
+          "project": "Sunny Side Down",
+          "task": 51,
+          "tp": 43.42
+        },
+        {
+          "project": "FCM",
+          "task": 27,
+          "tp": 43.84
+        },
+        {
+          "project": "Mami",
+          "task": 12,
+          "tp": 27.13
+        }
+      ]
+    },
+    {
+      "person": "Ngo Nguyen Dinh Tuan Minh",
+      "expectedTask": 70,
+      "actualTask": 58,
+      "taskDiff": -12,
+      "expectedTp": 190.6,
+      "actualTp": 147.46,
+      "tpDiff": -43.14,
+      "reasons": [
+        {
+          "type": "missing_ngay_lam_or_invalid",
+          "task": 115,
+          "tp": 164.43
+        },
+        {
+          "type": "ngay_lam_out_of_range",
+          "task": 226,
+          "tp": 444.12
+        }
+      ],
+      "topMissingProjects": [
+        {
+          "project": "Mami",
+          "task": 97,
+          "tp": 133.4
+        },
+        {
+          "project": "FCM",
+          "task": 14,
+          "tp": 29.6
+        },
+        {
+          "project": "Sunny Side Down",
+          "task": 4,
+          "tp": 1.43
+        }
+      ],
+      "topCountedProjects": [
+        {
+          "project": "Sunny Side Down",
+          "task": 33,
+          "tp": 47.75
+        },
+        {
+          "project": "Mami",
+          "task": 18,
+          "tp": 43.54
+        },
+        {
+          "project": "FCM",
+          "task": 7,
+          "tp": 56.17
+        }
+      ]
+    },
+    {
+      "person": "Tran Thi Hong Nhung",
+      "expectedTask": 106,
+      "actualTask": 100,
+      "taskDiff": -6,
+      "expectedTp": 215.13,
+      "actualTp": 205.49,
+      "tpDiff": -9.64,
+      "reasons": [
+        {
+          "type": "missing_ngay_lam_or_invalid",
+          "task": 108,
+          "tp": 353.89
+        },
+        {
+          "type": "ngay_lam_out_of_range",
+          "task": 229,
+          "tp": 557.66
+        }
+      ],
+      "topMissingProjects": [
+        {
+          "project": "Mami",
+          "task": 96,
+          "tp": 329.37
+        },
+        {
+          "project": "CHIBI",
+          "task": 10,
+          "tp": 2.7
+        },
+        {
+          "project": "Immortals",
+          "task": 2,
+          "tp": 21.82
+        }
+      ],
+      "topCountedProjects": [
+        {
+          "project": "CHIBI",
+          "task": 88,
+          "tp": 165.69
+        },
+        {
+          "project": "Mami",
+          "task": 12,
+          "tp": 39.8
+        }
+      ]
+    },
+    {
+      "person": "Ha Huy Hoang",
+      "expectedTask": 89,
+      "actualTask": 83,
+      "taskDiff": -6,
+      "expectedTp": 149.55,
+      "actualTp": 141.66,
+      "tpDiff": -7.89,
+      "reasons": [
+        {
+          "type": "missing_ngay_lam_or_invalid",
+          "task": 115,
+          "tp": 400.35
+        },
+        {
+          "type": "ngay_lam_out_of_range",
+          "task": 39,
+          "tp": 55.9
+        }
+      ],
+      "topMissingProjects": [
+        {
+          "project": "Sunny Side Down",
+          "task": 57,
+          "tp": 120.35
+        },
+        {
+          "project": "Harry",
+          "task": 47,
+          "tp": 235.11
+        },
+        {
+          "project": "CHIBI",
+          "task": 5,
+          "tp": 3.17
+        }
+      ],
+      "topCountedProjects": [
+        {
+          "project": "Sunny Side Down",
+          "task": 45,
+          "tp": 45.35
+        },
+        {
+          "project": "Harry",
+          "task": 25,
+          "tp": 71.3
+        },
+        {
+          "project": "CHIBI",
+          "task": 7,
+          "tp": 7
+        }
+      ]
+    },
+    {
+      "person": "Nguyen Thi Hoa",
+      "expectedTask": 150,
+      "actualTask": 146,
+      "taskDiff": -4,
+      "expectedTp": 257.02,
+      "actualTp": 232.19,
+      "tpDiff": -24.83,
+      "reasons": [
+        {
+          "type": "missing_ngay_lam_or_invalid",
+          "task": 75,
+          "tp": 271.4
+        },
+        {
+          "type": "ngay_lam_out_of_range",
+          "task": 74,
+          "tp": 251.5
+        }
+      ],
+      "topMissingProjects": [
+        {
+          "project": "Gene",
+          "task": 68,
+          "tp": 197.57
+        },
+        {
+          "project": "Immortals",
+          "task": 5,
+          "tp": 49
+        },
+        {
+          "project": "LEG",
+          "task": 2,
+          "tp": 24.83
+        }
+      ],
+      "topCountedProjects": [
+        {
+          "project": "CHIBI",
+          "task": 145,
+          "tp": 231.19
+        },
+        {
+          "project": "Gene",
+          "task": 1,
+          "tp": 1
+        }
+      ]
+    },
+    {
+      "person": "Nguyen Bich Ngoc",
+      "expectedTask": 57,
+      "actualTask": 54,
+      "taskDiff": -3,
+      "expectedTp": 247.13,
+      "actualTp": 227.98,
+      "tpDiff": -19.15,
+      "reasons": [
+        {
+          "type": "missing_ngay_lam_or_invalid",
+          "task": 44,
+          "tp": 219.18
+        },
+        {
+          "type": "ngay_lam_out_of_range",
+          "task": 184,
+          "tp": 609.28
+        }
+      ],
+      "topMissingProjects": [
+        {
+          "project": "Mami",
+          "task": 29,
+          "tp": 129.82
+        },
+        {
+          "project": "Gene",
+          "task": 15,
+          "tp": 89.36
+        }
+      ],
+      "topCountedProjects": [
+        {
+          "project": "Gene",
+          "task": 54,
+          "tp": 227.98
+        }
+      ]
+    },
+    {
+      "person": "Ha Thi Mai",
+      "expectedTask": 64,
+      "actualTask": 67,
+      "taskDiff": 3,
+      "expectedTp": 127.77,
+      "actualTp": 133.53,
+      "tpDiff": 5.76,
+      "reasons": [
+        {
+          "type": "extra_in_range_by_ngay_lam",
+          "task": 3
+        }
+      ],
+      "topMissingProjects": [
+        {
+          "project": "Mami",
+          "task": 59,
+          "tp": 207.99
+        },
+        {
+          "project": "Sunny Side Down",
+          "task": 3,
+          "tp": 12.17
+        }
+      ],
+      "topCountedProjects": [
+        {
+          "project": "Sunny Side Down",
+          "task": 67,
+          "tp": 133.53
+        }
+      ]
+    },
+    {
+      "person": "Le Hoang Quoc Anh",
+      "expectedTask": 65,
+      "actualTask": 63,
+      "taskDiff": -2,
+      "expectedTp": 238.15,
+      "actualTp": 229.45,
+      "tpDiff": -8.7,
+      "reasons": [
+        {
+          "type": "missing_ngay_lam_or_invalid",
+          "task": 49,
+          "tp": 213.63
+        },
+        {
+          "type": "ngay_lam_out_of_range",
+          "task": 197,
+          "tp": 612.22
+        }
+      ],
+      "topMissingProjects": [
+        {
+          "project": "Mami",
+          "task": 36,
+          "tp": 134.37
+        },
+        {
+          "project": "Gene",
+          "task": 13,
+          "tp": 79.26
+        }
+      ],
+      "topCountedProjects": [
+        {
+          "project": "Gene",
+          "task": 63,
+          "tp": 229.45
+        }
+      ]
+    },
+    {
+      "person": "Bui Thi Giang",
+      "expectedTask": 44,
+      "actualTask": 45,
+      "taskDiff": 1,
+      "expectedTp": 188.79,
+      "actualTp": 261.78,
+      "tpDiff": 72.99,
+      "reasons": [
+        {
+          "type": "extra_in_range_by_ngay_lam",
+          "task": 1
+        }
+      ],
+      "topMissingProjects": [
+        {
+          "project": "Gene",
+          "task": 30,
+          "tp": 137.7
+        },
+        {
+          "project": "Sunny Side Down",
+          "task": 5,
+          "tp": 0
+        }
+      ],
+      "topCountedProjects": [
+        {
+          "project": "Sunny Side Down",
+          "task": 32,
+          "tp": 194.51
+        },
+        {
+          "project": "CHIBI",
+          "task": 13,
+          "tp": 67.27
+        }
+      ]
+    },
+    {
+      "person": "Tran Thi Thanh Van",
+      "expectedTask": 317,
+      "actualTask": 318,
+      "taskDiff": 1,
+      "expectedTp": 294.61,
+      "actualTp": 236.35,
+      "tpDiff": -58.26,
+      "reasons": [
+        {
+          "type": "extra_in_range_by_ngay_lam",
+          "task": 1
+        }
+      ],
+      "topMissingProjects": [
+        {
+          "project": "CHIBI",
+          "task": 46,
+          "tp": 7.62
+        },
+        {
+          "project": "Gene",
+          "task": 40,
+          "tp": 109.85
+        },
+        {
+          "project": "Sunny Side Down",
+          "task": 7,
+          "tp": 0
+        }
+      ],
+      "topCountedProjects": [
+        {
+          "project": "CHIBI",
+          "task": 317,
+          "tp": 228.27
+        },
+        {
+          "project": "Immortals",
+          "task": 1,
+          "tp": 8.08
+        }
+      ]
+    },
+    {
+      "person": "Do Quoc Huy",
+      "expectedTask": 162,
+      "actualTask": 163,
+      "taskDiff": 1,
+      "expectedTp": 324.65,
+      "actualTp": 285.33,
+      "tpDiff": -39.32,
+      "reasons": [
+        {
+          "type": "extra_in_range_by_ngay_lam",
+          "task": 1
+        }
+      ],
+      "topMissingProjects": [
+        {
+          "project": "Mami",
+          "task": 50,
+          "tp": 191.04
+        },
+        {
+          "project": "KNIGHTS OF GUINEVERE",
+          "task": 3,
+          "tp": 5.04
+        },
+        {
+          "project": "Immortals",
+          "task": 2,
+          "tp": 25
+        }
+      ],
+      "topCountedProjects": [
+        {
+          "project": "CHIBI",
+          "task": 109,
+          "tp": 222.81
+        },
+        {
+          "project": "Mami",
+          "task": 51,
+          "tp": 61.52
+        },
+        {
+          "project": "Immortals",
+          "task": 3,
+          "tp": 1
+        }
+      ]
+    },
+    {
+      "person": "Luong Thanh Binh",
+      "expectedTask": 35,
+      "actualTask": 34,
+      "taskDiff": -1,
+      "expectedTp": 345.34,
+      "actualTp": 322.96,
+      "tpDiff": -22.38,
+      "reasons": [
+        {
+          "type": "missing_ngay_lam_or_invalid",
+          "task": 8,
+          "tp": 102.76
+        },
+        {
+          "type": "ngay_lam_out_of_range",
+          "task": 126,
+          "tp": 500.08
+        }
+      ],
+      "topMissingProjects": [
+        {
+          "project": "Immortals",
+          "task": 8,
+          "tp": 102.76
+        }
+      ],
+      "topCountedProjects": [
+        {
+          "project": "Gene",
+          "task": 23,
+          "tp": 209.33
+        },
+        {
+          "project": "Immortals",
+          "task": 11,
+          "tp": 113.63
+        }
+      ]
+    },
+    {
+      "person": "Nguyen Xuan Yen",
+      "expectedTask": 54,
+      "actualTask": 53,
+      "taskDiff": -1,
+      "expectedTp": 234.29,
+      "actualTp": 212.55,
+      "tpDiff": -21.74,
+      "reasons": [
+        {
+          "type": "missing_ngay_lam_or_invalid",
+          "task": 17,
+          "tp": 79.31
+        },
+        {
+          "type": "ngay_lam_out_of_range",
+          "task": 148,
+          "tp": 699.9
+        }
+      ],
+      "topMissingProjects": [
+        {
+          "project": "Gene",
+          "task": 16,
+          "tp": 74.62
+        },
+        {
+          "project": "KNIGHTS OF GUINEVERE",
+          "task": 1,
+          "tp": 4.69
+        }
+      ],
+      "topCountedProjects": [
+        {
+          "project": "Gene",
+          "task": 53,
+          "tp": 212.55
+        }
+      ]
+    },
+    {
+      "person": "Truong Phu Mien Quynh",
+      "expectedTask": 65,
+      "actualTask": 64,
+      "taskDiff": -1,
+      "expectedTp": 258.11,
+      "actualTp": 242.48,
+      "tpDiff": -15.63,
+      "reasons": [
+        {
+          "type": "missing_ngay_lam_or_invalid",
+          "task": 20,
+          "tp": 94.58
+        },
+        {
+          "type": "ngay_lam_out_of_range",
+          "task": 167,
+          "tp": 735.43
+        }
+      ],
+      "topMissingProjects": [
+        {
+          "project": "Gene",
+          "task": 20,
+          "tp": 94.58
+        }
+      ],
+      "topCountedProjects": [
+        {
+          "project": "Gene",
+          "task": 64,
+          "tp": 242.48
+        }
+      ]
+    },
+    {
+      "person": "Nguyen Truong Phuc",
+      "expectedTask": 59,
+      "actualTask": 58,
+      "taskDiff": -1,
+      "expectedTp": 139.39,
+      "actualTp": 139.39,
+      "tpDiff": 0,
+      "reasons": [
+        {
+          "type": "missing_ngay_lam_or_invalid",
+          "task": 76,
+          "tp": 210.66
+        },
+        {
+          "type": "ngay_lam_out_of_range",
+          "task": 165,
+          "tp": 485.9
+        }
+      ],
+      "topMissingProjects": [
+        {
+          "project": "Mami",
+          "task": 76,
+          "tp": 210.66
+        }
+      ],
+      "topCountedProjects": [
+        {
+          "project": "Sunny Side Down",
+          "task": 58,
+          "tp": 139.39
+        }
+      ]
+    },
+    {
+      "person": "Nguyen Gia Loc",
+      "expectedTask": 30,
+      "actualTask": 31,
+      "taskDiff": 1,
+      "expectedTp": 229.13,
+      "actualTp": 229.13,
+      "tpDiff": 0,
+      "reasons": [
+        {
+          "type": "extra_in_range_by_ngay_lam",
+          "task": 1
+        }
+      ],
+      "topMissingProjects": [
+        {
+          "project": "Gene",
+          "task": 164,
+          "tp": 345.59
+        },
+        {
+          "project": "Harry",
+          "task": 25,
+          "tp": 111.59
+        }
+      ],
+      "topCountedProjects": [
+        {
+          "project": "Gene",
+          "task": 19,
+          "tp": 128.3
+        },
+        {
+          "project": "Harry",
+          "task": 6,
+          "tp": 58.98
+        },
+        {
+          "project": "XANHSM",
+          "task": 4,
+          "tp": 38
+        }
+      ]
+    },
+    {
+      "person": "Nguyen Khoa Dieu Hang",
+      "expectedTask": 75,
+      "actualTask": 75,
+      "taskDiff": 0,
+      "expectedTp": 301.12,
+      "actualTp": 263.94,
+      "tpDiff": -37.18,
+      "reasons": [],
+      "topMissingProjects": [
+        {
+          "project": "Gene",
+          "task": 39,
+          "tp": 59.77
+        },
+        {
+          "project": "Mami",
+          "task": 17,
+          "tp": 92.67
+        }
+      ],
+      "topCountedProjects": [
+        {
+          "project": "Gene",
+          "task": 75,
+          "tp": 263.94
+        }
+      ]
+    },
+    {
+      "person": "Le Nhat Minh",
+      "expectedTask": 19,
+      "actualTask": 19,
+      "taskDiff": 0,
+      "expectedTp": 181.14,
+      "actualTp": 151.31,
+      "tpDiff": -29.83,
+      "reasons": [],
+      "topMissingProjects": [
+        {
+          "project": "Gene",
+          "task": 14,
+          "tp": 28.64
+        },
+        {
+          "project": "Immortals",
+          "task": 8,
+          "tp": 100.17
+        }
+      ],
+      "topCountedProjects": [
+        {
+          "project": "Gene",
+          "task": 12,
+          "tp": 51.54
+        },
+        {
+          "project": "Immortals",
+          "task": 7,
+          "tp": 99.77
+        }
+      ]
+    },
+    {
+      "person": "Nguyen Thi My Khanh",
+      "expectedTask": 30,
+      "actualTask": 30,
+      "taskDiff": 0,
+      "expectedTp": 312.63,
+      "actualTp": 327.43,
+      "tpDiff": 14.8,
+      "reasons": [],
+      "topMissingProjects": [
+        {
+          "project": "Gene",
+          "task": 19,
+          "tp": 92.81
+        },
+        {
+          "project": "Immortals",
+          "task": 3,
+          "tp": 51.52
+        }
+      ],
+      "topCountedProjects": [
+        {
+          "project": "Gene",
+          "task": 22,
+          "tp": 204.87
+        },
+        {
+          "project": "Immortals",
+          "task": 8,
+          "tp": 122.56
+        }
+      ]
+    },
+    {
+      "person": "Cao Minh Khoi",
+      "expectedTask": 63,
+      "actualTask": 63,
+      "taskDiff": 0,
+      "expectedTp": 173.08,
+      "actualTp": 161.8,
+      "tpDiff": -11.28,
+      "reasons": [],
+      "topMissingProjects": [
+        {
+          "project": "Mami",
+          "task": 65,
+          "tp": 198.8
+        },
+        {
+          "project": "Sunny Side Down",
+          "task": 10,
+          "tp": 20.51
+        }
+      ],
+      "topCountedProjects": [
+        {
+          "project": "Sunny Side Down",
+          "task": 63,
+          "tp": 161.8
+        }
+      ]
+    },
+    {
+      "person": "Doan Trung Kien",
+      "expectedTask": 20,
+      "actualTask": 20,
+      "taskDiff": 0,
+      "expectedTp": 241.16,
+      "actualTp": 237.65,
+      "tpDiff": -3.51,
+      "reasons": [],
+      "topMissingProjects": [
+        {
+          "project": "Gene",
+          "task": 12,
+          "tp": 81.21
+        },
+        {
+          "project": "Immortals",
+          "task": 3,
+          "tp": 37.57
+        },
+        {
+          "project": "Harry",
+          "task": 2,
+          "tp": 1.72
+        }
+      ],
+      "topCountedProjects": [
+        {
+          "project": "Immortals",
+          "task": 8,
+          "tp": 110.56
+        },
+        {
+          "project": "Harry",
+          "task": 8,
+          "tp": 111.74
+        },
+        {
+          "project": "Gene",
+          "task": 4,
+          "tp": 15.35
+        }
+      ]
+    }
+  ]
+}

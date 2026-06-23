@@ -1,0 +1,3828 @@
+[
+  {
+    "id": "302ccb0e-ac88-8019-b9d5-dda1085e1e2d",
+    "created_time": "2026-02-09T09:53:00.000Z",
+    "last_edited_time": "2026-03-06T04:44:00.000Z",
+    "properties": {
+      "Task count ": 4,
+      "Total Fixed": 1,
+      "Episode": null,
+      "UTNL": null,
+      "Required by": "Internal",
+      "Task Create": null,
+      "Ngày làm": null,
+      "Owner": [
+        {
+          "id": "129b1033-6138-40a8-909d-7a4aeb994d99",
+          "name": "Bình Lường",
+          "email": "binhlt@sangygroup.com"
+        }
+      ],
+      "Tasks": [
+        "318ccb0e-ac88-8077-9343-edec649d4cc4",
+        "31accb0e-ac88-8114-bdd7-fc02c005ca6b",
+        "31accb0e-ac88-8025-a78c-d4b0bcae9844",
+        "31bccb0e-ac88-812e-9c84-e4540f073c07"
+      ],
+      "Loại cảnh": "D",
+      "Max": 2,
+      "Status": "QC Approved",
+      "Rollup": [
+        {
+          "type": "people",
+          "people": [
+            {
+              "object": "user",
+              "id": "129b1033-6138-40a8-909d-7a4aeb994d99",
+              "name": "Bình Lường",
+              "avatar_url": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/36f0e54c-999d-4b0c-8402-6e73ffec2b68/my-notion-face-portrait.png",
+              "type": "person",
+              "person": {
+                "email": "binhlt@sangygroup.com"
+              }
+            }
+          ]
+        },
+        {
+          "type": "people",
+          "people": [
+            {
+              "object": "user",
+              "id": "2b47d5ac-bd39-4aad-8e95-23ea4ab9b925"
+            }
+          ]
+        },
+        {
+          "type": "people",
+          "people": [
+            {
+              "object": "user",
+              "id": "129b1033-6138-40a8-909d-7a4aeb994d99",
+              "name": "Bình Lường",
+              "avatar_url": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/36f0e54c-999d-4b0c-8402-6e73ffec2b68/my-notion-face-portrait.png",
+              "type": "person",
+              "person": {
+                "email": "binhlt@sangygroup.com"
+              }
+            }
+          ]
+        },
+        {
+          "type": "people",
+          "people": [
+            {
+              "object": "user",
+              "id": "2b47d5ac-bd39-4aad-8e95-23ea4ab9b925"
+            }
+          ]
+        }
+      ],
+      "DO": null,
+      "Resource": null,
+      "Combo": null,
+      "Task count + 1": 5,
+      "Min": 1,
+      "Total Main": 1,
+      "Point Status": "Confirmed",
+      "Product point": 14,
+      "Check task done": null,
+      "Ưu tiên": null,
+      "Số hình": null,
+      "Due Date": null,
+      "Ghép BG": "Not started",
+      "Product type": "Cutout",
+      "Total QC": 2,
+      "Product": "Cut Out 08"
+    },
+    "_title": "Cut Out 08",
+    "database_name": "[Disk Knight] Product",
+    "project_name": "[Disk Knight]",
+    "database_id": "302ccb0e-ac88-8177-8ae3-cefc1eeadc70"
+  },
+  {
+    "id": "302ccb0e-ac88-8020-aba4-f29d29b5df16",
+    "created_time": "2026-02-09T09:53:00.000Z",
+    "last_edited_time": "2026-03-12T09:03:00.000Z",
+    "properties": {
+      "Task count ": 4,
+      "Total Fixed": 1,
+      "Episode": null,
+      "UTNL": null,
+      "Required by": "Internal",
+      "Task Create": null,
+      "Ngày làm": null,
+      "Owner": [
+        {
+          "id": "129b1033-6138-40a8-909d-7a4aeb994d99",
+          "name": "Bình Lường",
+          "email": "binhlt@sangygroup.com"
+        }
+      ],
+      "Tasks": [
+        "31accb0e-ac88-80e5-9e15-c689a05e97b1",
+        "31bccb0e-ac88-819b-8a0c-d064a4f65cc4",
+        "31bccb0e-ac88-8003-bc48-dc0e7222769b",
+        "321ccb0e-ac88-8192-b1f6-f8e3f040424d"
+      ],
+      "Loại cảnh": "C",
+      "Max": 3.5,
+      "Status": "QC Approved",
+      "Rollup": [
+        {
+          "type": "people",
+          "people": [
+            {
+              "object": "user",
+              "id": "129b1033-6138-40a8-909d-7a4aeb994d99",
+              "name": "Bình Lường",
+              "avatar_url": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/36f0e54c-999d-4b0c-8402-6e73ffec2b68/my-notion-face-portrait.png",
+              "type": "person",
+              "person": {
+                "email": "binhlt@sangygroup.com"
+              }
+            }
+          ]
+        },
+        {
+          "type": "people",
+          "people": [
+            {
+              "object": "user",
+              "id": "2b47d5ac-bd39-4aad-8e95-23ea4ab9b925"
+            }
+          ]
+        },
+        {
+          "type": "people",
+          "people": [
+            {
+              "object": "user",
+              "id": "129b1033-6138-40a8-909d-7a4aeb994d99",
+              "name": "Bình Lường",
+              "avatar_url": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/36f0e54c-999d-4b0c-8402-6e73ffec2b68/my-notion-face-portrait.png",
+              "type": "person",
+              "person": {
+                "email": "binhlt@sangygroup.com"
+              }
+            }
+          ]
+        },
+        {
+          "type": "people",
+          "people": [
+            {
+              "object": "user",
+              "id": "2b47d5ac-bd39-4aad-8e95-23ea4ab9b925"
+            }
+          ]
+        }
+      ],
+      "DO": null,
+      "Resource": null,
+      "Combo": null,
+      "Task count + 1": 5,
+      "Min": 2.25,
+      "Total Main": 1,
+      "Point Status": "Confirmed",
+      "Product point": 25,
+      "Check task done": null,
+      "Ưu tiên": null,
+      "Số hình": null,
+      "Due Date": null,
+      "Ghép BG": "Not started",
+      "Product type": "Cutout",
+      "Total QC": 2,
+      "Product": "Cut Out 11"
+    },
+    "_title": "Cut Out 11",
+    "database_name": "[Disk Knight] Product",
+    "project_name": "[Disk Knight]",
+    "database_id": "302ccb0e-ac88-8177-8ae3-cefc1eeadc70"
+  },
+  {
+    "id": "302ccb0e-ac88-8025-bd9b-d916543d7447",
+    "created_time": "2026-02-09T09:53:00.000Z",
+    "last_edited_time": "2026-02-25T08:35:00.000Z",
+    "properties": {
+      "Task count ": 4,
+      "Total Fixed": 1,
+      "Episode": null,
+      "UTNL": null,
+      "Required by": "Internal",
+      "Task Create": null,
+      "Ngày làm": null,
+      "Owner": [
+        {
+          "id": "ccd85462-3a79-4e0f-a885-c92afa63697e",
+          "name": "Kiệt Đoàn",
+          "email": "kietda@sangygroup.com"
+        }
+      ],
+      "Tasks": [
+        "311ccb0e-ac88-807c-b74f-e05ddf3026cb",
+        "312ccb0e-ac88-8154-abf0-d8510502cd83",
+        "312ccb0e-ac88-802f-adc5-fd004e4f7349",
+        "312ccb0e-ac88-8140-b9e2-f480034ec09c"
+      ],
+      "Loại cảnh": "D",
+      "Max": 2,
+      "Status": "QC Approved",
+      "Rollup": [
+        {
+          "type": "people",
+          "people": [
+            {
+              "object": "user",
+              "id": "ccd85462-3a79-4e0f-a885-c92afa63697e",
+              "name": "Kiệt Đoàn",
+              "avatar_url": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/7c911ef9-56c3-4655-93b0-48d48a7a85ac/FNEYN8AU4UM7Q2TEXH97Y98RCQ774QJ3.jpg",
+              "type": "person",
+              "person": {
+                "email": "kietda@sangygroup.com"
+              }
+            }
+          ]
+        },
+        {
+          "type": "people",
+          "people": [
+            {
+              "object": "user",
+              "id": "2b47d5ac-bd39-4aad-8e95-23ea4ab9b925"
+            }
+          ]
+        },
+        {
+          "type": "people",
+          "people": [
+            {
+              "object": "user",
+              "id": "ccd85462-3a79-4e0f-a885-c92afa63697e",
+              "name": "Kiệt Đoàn",
+              "avatar_url": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/7c911ef9-56c3-4655-93b0-48d48a7a85ac/FNEYN8AU4UM7Q2TEXH97Y98RCQ774QJ3.jpg",
+              "type": "person",
+              "person": {
+                "email": "kietda@sangygroup.com"
+              }
+            }
+          ]
+        },
+        {
+          "type": "people",
+          "people": [
+            {
+              "object": "user",
+              "id": "2b47d5ac-bd39-4aad-8e95-23ea4ab9b925"
+            }
+          ]
+        }
+      ],
+      "DO": null,
+      "Resource": null,
+      "Combo": null,
+      "Task count + 1": 5,
+      "Min": 1,
+      "Total Main": 1,
+      "Point Status": "Confirmed",
+      "Product point": 14,
+      "Check task done": null,
+      "Ưu tiên": null,
+      "Số hình": null,
+      "Due Date": null,
+      "Ghép BG": "Not started",
+      "Product type": "Cutout",
+      "Total QC": 2,
+      "Product": "Cut Out 09"
+    },
+    "_title": "Cut Out 09",
+    "database_name": "[Disk Knight] Product",
+    "project_name": "[Disk Knight]",
+    "database_id": "302ccb0e-ac88-8177-8ae3-cefc1eeadc70"
+  },
+  {
+    "id": "302ccb0e-ac88-8053-910e-f9c6239e3d3f",
+    "created_time": "2026-02-09T09:53:00.000Z",
+    "last_edited_time": "2026-02-23T10:18:00.000Z",
+    "properties": {
+      "Task count ": 2,
+      "Total Fixed": 0,
+      "Episode": null,
+      "UTNL": null,
+      "Required by": "Internal",
+      "Task Create": null,
+      "Ngày làm": null,
+      "Owner": [
+        {
+          "id": "0b9c48d9-e3d0-4f8c-9b39-ca52da0939c0",
+          "name": "Hưng Nguyễn",
+          "email": "hungnn@sangygroup.com"
+        }
+      ],
+      "Tasks": [
+        "310ccb0e-ac88-8012-9d2c-e131da712234",
+        "321ccb0e-ac88-801c-81ee-d27cdffcfce6"
+      ],
+      "Loại cảnh": "D",
+      "Max": 2,
+      "Status": "Client Approved",
+      "Rollup": [
+        {
+          "type": "people",
+          "people": [
+            {
+              "object": "user",
+              "id": "0b9c48d9-e3d0-4f8c-9b39-ca52da0939c0",
+              "name": "Hưng Nguyễn",
+              "avatar_url": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/c6b3f47d-5ee6-46bb-b375-9e9732591e68/image_2024-05-11_233503991.png",
+              "type": "person",
+              "person": {
+                "email": "hungnn@sangygroup.com"
+              }
+            }
+          ]
+        },
+        {
+          "type": "people",
+          "people": [
+            {
+              "object": "user",
+              "id": "2b47d5ac-bd39-4aad-8e95-23ea4ab9b925"
+            }
+          ]
+        }
+      ],
+      "DO": null,
+      "Resource": null,
+      "Combo": null,
+      "Task count + 1": 3,
+      "Min": 1,
+      "Total Main": 1,
+      "Point Status": "Confirmed",
+      "Product point": 14,
+      "Check task done": null,
+      "Ưu tiên": null,
+      "Số hình": null,
+      "Due Date": null,
+      "Ghép BG": "Not started",
+      "Product type": "Cutout",
+      "Total QC": 1,
+      "Product": "Cut Out 05"
+    },
+    "_title": "Cut Out 05",
+    "database_name": "[Disk Knight] Product",
+    "project_name": "[Disk Knight]",
+    "database_id": "302ccb0e-ac88-8177-8ae3-cefc1eeadc70"
+  },
+  {
+    "id": "302ccb0e-ac88-8057-9c81-cf33e4965540",
+    "created_time": "2026-02-09T09:53:00.000Z",
+    "last_edited_time": "2026-03-05T08:59:00.000Z",
+    "properties": {
+      "Task count ": 4,
+      "Total Fixed": 1,
+      "Episode": null,
+      "UTNL": null,
+      "Required by": "Internal",
+      "Task Create": null,
+      "Ngày làm": null,
+      "Owner": [
+        {
+          "id": "0b9c48d9-e3d0-4f8c-9b39-ca52da0939c0",
+          "name": "Hưng Nguyễn",
+          "email": "hungnn@sangygroup.com"
+        }
+      ],
+      "Tasks": [
+        "310ccb0e-ac88-8013-8905-e442fe8673d0",
+        "312ccb0e-ac88-8175-bf01-f67691d82346",
+        "314ccb0e-ac88-8063-9249-f39e5ea0d794",
+        "31accb0e-ac88-8107-857b-fc867190c4f1"
+      ],
+      "Loại cảnh": "D",
+      "Max": 2,
+      "Status": "QC Approved",
+      "Rollup": [
+        {
+          "type": "people",
+          "people": [
+            {
+              "object": "user",
+              "id": "0b9c48d9-e3d0-4f8c-9b39-ca52da0939c0",
+              "name": "Hưng Nguyễn",
+              "avatar_url": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/c6b3f47d-5ee6-46bb-b375-9e9732591e68/image_2024-05-11_233503991.png",
+              "type": "person",
+              "person": {
+                "email": "hungnn@sangygroup.com"
+              }
+            }
+          ]
+        },
+        {
+          "type": "people",
+          "people": [
+            {
+              "object": "user",
+              "id": "2b47d5ac-bd39-4aad-8e95-23ea4ab9b925"
+            }
+          ]
+        },
+        {
+          "type": "people",
+          "people": [
+            {
+              "object": "user",
+              "id": "0b9c48d9-e3d0-4f8c-9b39-ca52da0939c0",
+              "name": "Hưng Nguyễn",
+              "avatar_url": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/c6b3f47d-5ee6-46bb-b375-9e9732591e68/image_2024-05-11_233503991.png",
+              "type": "person",
+              "person": {
+                "email": "hungnn@sangygroup.com"
+              }
+            }
+          ]
+        },
+        {
+          "type": "people",
+          "people": [
+            {
+              "object": "user",
+              "id": "2b47d5ac-bd39-4aad-8e95-23ea4ab9b925"
+            }
+          ]
+        }
+      ],
+      "DO": null,
+      "Resource": null,
+      "Combo": null,
+      "Task count + 1": 5,
+      "Min": 1,
+      "Total Main": 1,
+      "Point Status": "Confirmed",
+      "Product point": 14,
+      "Check task done": null,
+      "Ưu tiên": null,
+      "Số hình": null,
+      "Due Date": null,
+      "Ghép BG": "Not started",
+      "Product type": "Cutout",
+      "Total QC": 2,
+      "Product": "Cut Out 06"
+    },
+    "_title": "Cut Out 06",
+    "database_name": "[Disk Knight] Product",
+    "project_name": "[Disk Knight]",
+    "database_id": "302ccb0e-ac88-8177-8ae3-cefc1eeadc70"
+  },
+  {
+    "id": "302ccb0e-ac88-8058-aafd-dd7f305dee45",
+    "created_time": "2026-02-09T09:53:00.000Z",
+    "last_edited_time": "2026-02-25T08:34:00.000Z",
+    "properties": {
+      "Task count ": 4,
+      "Total Fixed": 1,
+      "Episode": null,
+      "UTNL": null,
+      "Required by": "Internal",
+      "Task Create": null,
+      "Ngày làm": null,
+      "Owner": [
+        {
+          "id": "ccd85462-3a79-4e0f-a885-c92afa63697e",
+          "name": "Kiệt Đoàn",
+          "email": "kietda@sangygroup.com"
+        }
+      ],
+      "Tasks": [
+        "311ccb0e-ac88-80c6-a2ce-eb9011ba74e2",
+        "312ccb0e-ac88-81d4-b6c5-db1826861389",
+        "312ccb0e-ac88-8089-b874-dd33daba58d5",
+        "312ccb0e-ac88-813b-b854-ef7fa6c5ee3d"
+      ],
+      "Loại cảnh": "D",
+      "Max": 2,
+      "Status": "QC Approved",
+      "Rollup": [
+        {
+          "type": "people",
+          "people": [
+            {
+              "object": "user",
+              "id": "ccd85462-3a79-4e0f-a885-c92afa63697e",
+              "name": "Kiệt Đoàn",
+              "avatar_url": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/7c911ef9-56c3-4655-93b0-48d48a7a85ac/FNEYN8AU4UM7Q2TEXH97Y98RCQ774QJ3.jpg",
+              "type": "person",
+              "person": {
+                "email": "kietda@sangygroup.com"
+              }
+            }
+          ]
+        },
+        {
+          "type": "people",
+          "people": [
+            {
+              "object": "user",
+              "id": "2b47d5ac-bd39-4aad-8e95-23ea4ab9b925"
+            }
+          ]
+        },
+        {
+          "type": "people",
+          "people": [
+            {
+              "object": "user",
+              "id": "ccd85462-3a79-4e0f-a885-c92afa63697e",
+              "name": "Kiệt Đoàn",
+              "avatar_url": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/7c911ef9-56c3-4655-93b0-48d48a7a85ac/FNEYN8AU4UM7Q2TEXH97Y98RCQ774QJ3.jpg",
+              "type": "person",
+              "person": {
+                "email": "kietda@sangygroup.com"
+              }
+            }
+          ]
+        },
+        {
+          "type": "people",
+          "people": [
+            {
+              "object": "user",
+              "id": "2b47d5ac-bd39-4aad-8e95-23ea4ab9b925"
+            }
+          ]
+        }
+      ],
+      "DO": null,
+      "Resource": null,
+      "Combo": null,
+      "Task count + 1": 5,
+      "Min": 1,
+      "Total Main": 1,
+      "Point Status": "Confirmed",
+      "Product point": 14,
+      "Check task done": null,
+      "Ưu tiên": null,
+      "Số hình": null,
+      "Due Date": null,
+      "Ghép BG": "Not started",
+      "Product type": "Cutout",
+      "Total QC": 2,
+      "Product": "Cut Out 02"
+    },
+    "_title": "Cut Out 02",
+    "database_name": "[Disk Knight] Product",
+    "project_name": "[Disk Knight]",
+    "database_id": "302ccb0e-ac88-8177-8ae3-cefc1eeadc70"
+  },
+  {
+    "id": "302ccb0e-ac88-806f-827f-fbebffdcb706",
+    "created_time": "2026-02-09T09:53:00.000Z",
+    "last_edited_time": "2026-03-12T09:00:00.000Z",
+    "properties": {
+      "Task count ": 4,
+      "Total Fixed": 1,
+      "Episode": null,
+      "UTNL": null,
+      "Required by": "Internal",
+      "Task Create": null,
+      "Ngày làm": null,
+      "Owner": [
+        {
+          "id": "0b9c48d9-e3d0-4f8c-9b39-ca52da0939c0",
+          "name": "Hưng Nguyễn",
+          "email": "hungnn@sangygroup.com"
+        }
+      ],
+      "Tasks": [
+        "314ccb0e-ac88-8004-b78d-f08055ca3e15",
+        "31accb0e-ac88-812e-afdf-df22a25245f6",
+        "31bccb0e-ac88-8002-992e-e30e14e69ea0",
+        "321ccb0e-ac88-8135-8cf9-d690cb5b9726"
+      ],
+      "Loại cảnh": "C",
+      "Max": 3.5,
+      "Status": "QC Approved",
+      "Rollup": [
+        {
+          "type": "people",
+          "people": [
+            {
+              "object": "user",
+              "id": "0b9c48d9-e3d0-4f8c-9b39-ca52da0939c0",
+              "name": "Hưng Nguyễn",
+              "avatar_url": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/c6b3f47d-5ee6-46bb-b375-9e9732591e68/image_2024-05-11_233503991.png",
+              "type": "person",
+              "person": {
+                "email": "hungnn@sangygroup.com"
+              }
+            }
+          ]
+        },
+        {
+          "type": "people",
+          "people": [
+            {
+              "object": "user",
+              "id": "2b47d5ac-bd39-4aad-8e95-23ea4ab9b925"
+            }
+          ]
+        },
+        {
+          "type": "people",
+          "people": [
+            {
+              "object": "user",
+              "id": "0b9c48d9-e3d0-4f8c-9b39-ca52da0939c0",
+              "name": "Hưng Nguyễn",
+              "avatar_url": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/c6b3f47d-5ee6-46bb-b375-9e9732591e68/image_2024-05-11_233503991.png",
+              "type": "person",
+              "person": {
+                "email": "hungnn@sangygroup.com"
+              }
+            }
+          ]
+        },
+        {
+          "type": "people",
+          "people": [
+            {
+              "object": "user",
+              "id": "2b47d5ac-bd39-4aad-8e95-23ea4ab9b925"
+            }
+          ]
+        }
+      ],
+      "DO": null,
+      "Resource": null,
+      "Combo": null,
+      "Task count + 1": 5,
+      "Min": 2.25,
+      "Total Main": 1,
+      "Point Status": "Confirmed",
+      "Product point": 25,
+      "Check task done": null,
+      "Ưu tiên": null,
+      "Số hình": null,
+      "Due Date": null,
+      "Ghép BG": "Not started",
+      "Product type": "Cutout",
+      "Total QC": 2,
+      "Product": "Cut Out 04"
+    },
+    "_title": "Cut Out 04",
+    "database_name": "[Disk Knight] Product",
+    "project_name": "[Disk Knight]",
+    "database_id": "302ccb0e-ac88-8177-8ae3-cefc1eeadc70"
+  },
+  {
+    "id": "302ccb0e-ac88-8088-adb1-e63971f2fae4",
+    "created_time": "2026-02-09T09:53:00.000Z",
+    "last_edited_time": "2026-03-06T09:55:00.000Z",
+    "properties": {
+      "Task count ": 1,
+      "Total Fixed": 0,
+      "Episode": null,
+      "UTNL": null,
+      "Required by": "Internal",
+      "Task Create": null,
+      "Ngày làm": null,
+      "Owner": [
+        {
+          "id": "129b1033-6138-40a8-909d-7a4aeb994d99",
+          "name": "Bình Lường",
+          "email": "binhlt@sangygroup.com"
+        }
+      ],
+      "Tasks": [
+        "318ccb0e-ac88-8063-86d2-dc3000d2a90c"
+      ],
+      "Loại cảnh": null,
+      "Max": null,
+      "Status": "Pending Review",
+      "Rollup": [
+        {
+          "type": "people",
+          "people": [
+            {
+              "object": "user",
+              "id": "129b1033-6138-40a8-909d-7a4aeb994d99",
+              "name": "Bình Lường",
+              "avatar_url": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/36f0e54c-999d-4b0c-8402-6e73ffec2b68/my-notion-face-portrait.png",
+              "type": "person",
+              "person": {
+                "email": "binhlt@sangygroup.com"
+              }
+            }
+          ]
+        }
+      ],
+      "DO": null,
+      "Resource": null,
+      "Combo": null,
+      "Task count + 1": 2,
+      "Min": null,
+      "Total Main": 1,
+      "Point Status": "Unconfirmed",
+      "Product point": 0,
+      "Check task done": null,
+      "Ưu tiên": null,
+      "Số hình": null,
+      "Due Date": null,
+      "Ghép BG": "Not started",
+      "Product type": "FX",
+      "Total QC": 0,
+      "Product": "FX 10"
+    },
+    "_title": "FX 10",
+    "database_name": "[Disk Knight] Product",
+    "project_name": "[Disk Knight]",
+    "database_id": "302ccb0e-ac88-8177-8ae3-cefc1eeadc70"
+  },
+  {
+    "id": "302ccb0e-ac88-809e-ba3d-d011a73ad7c0",
+    "created_time": "2026-02-09T09:53:00.000Z",
+    "last_edited_time": "2026-03-06T09:04:00.000Z",
+    "properties": {
+      "Task count ": 1,
+      "Total Fixed": 0,
+      "Episode": null,
+      "UTNL": null,
+      "Required by": "Internal",
+      "Task Create": null,
+      "Ngày làm": null,
+      "Owner": [
+        {
+          "id": "129b1033-6138-40a8-909d-7a4aeb994d99",
+          "name": "Bình Lường",
+          "email": "binhlt@sangygroup.com"
+        }
+      ],
+      "Tasks": [
+        "318ccb0e-ac88-800c-8656-f03d83e99a90"
+      ],
+      "Loại cảnh": null,
+      "Max": null,
+      "Status": "Pending Review",
+      "Rollup": [
+        {
+          "type": "people",
+          "people": [
+            {
+              "object": "user",
+              "id": "129b1033-6138-40a8-909d-7a4aeb994d99",
+              "name": "Bình Lường",
+              "avatar_url": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/36f0e54c-999d-4b0c-8402-6e73ffec2b68/my-notion-face-portrait.png",
+              "type": "person",
+              "person": {
+                "email": "binhlt@sangygroup.com"
+              }
+            }
+          ]
+        }
+      ],
+      "DO": null,
+      "Resource": null,
+      "Combo": null,
+      "Task count + 1": 2,
+      "Min": null,
+      "Total Main": 1,
+      "Point Status": "Unconfirmed",
+      "Product point": 0,
+      "Check task done": null,
+      "Ưu tiên": null,
+      "Số hình": null,
+      "Due Date": null,
+      "Ghép BG": "Not started",
+      "Product type": "FX",
+      "Total QC": 0,
+      "Product": "FX 03"
+    },
+    "_title": "FX 03",
+    "database_name": "[Disk Knight] Product",
+    "project_name": "[Disk Knight]",
+    "database_id": "302ccb0e-ac88-8177-8ae3-cefc1eeadc70"
+  },
+  {
+    "id": "302ccb0e-ac88-80b5-b095-c8ad34f1a4e0",
+    "created_time": "2026-02-09T09:53:00.000Z",
+    "last_edited_time": "2026-03-11T04:52:00.000Z",
+    "properties": {
+      "Task count ": 1,
+      "Total Fixed": 0,
+      "Episode": null,
+      "UTNL": null,
+      "Required by": "Internal",
+      "Task Create": null,
+      "Ngày làm": null,
+      "Owner": [
+        {
+          "id": "0b9c48d9-e3d0-4f8c-9b39-ca52da0939c0",
+          "name": "Hưng Nguyễn",
+          "email": "hungnn@sangygroup.com"
+        }
+      ],
+      "Tasks": [
+        "320ccb0e-ac88-8078-809d-c7838af4d411"
+      ],
+      "Loại cảnh": null,
+      "Max": null,
+      "Status": "Pending Review",
+      "Rollup": [
+        {
+          "type": "people",
+          "people": [
+            {
+              "object": "user",
+              "id": "0b9c48d9-e3d0-4f8c-9b39-ca52da0939c0",
+              "name": "Hưng Nguyễn",
+              "avatar_url": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/c6b3f47d-5ee6-46bb-b375-9e9732591e68/image_2024-05-11_233503991.png",
+              "type": "person",
+              "person": {
+                "email": "hungnn@sangygroup.com"
+              }
+            }
+          ]
+        }
+      ],
+      "DO": null,
+      "Resource": null,
+      "Combo": null,
+      "Task count + 1": 2,
+      "Min": null,
+      "Total Main": 1,
+      "Point Status": "Unconfirmed",
+      "Product point": 0,
+      "Check task done": null,
+      "Ưu tiên": null,
+      "Số hình": null,
+      "Due Date": null,
+      "Ghép BG": "Not started",
+      "Product type": "FX",
+      "Total QC": 0,
+      "Product": "FX 12"
+    },
+    "_title": "FX 12",
+    "database_name": "[Disk Knight] Product",
+    "project_name": "[Disk Knight]",
+    "database_id": "302ccb0e-ac88-8177-8ae3-cefc1eeadc70"
+  },
+  {
+    "id": "302ccb0e-ac88-80c4-bbed-eed64ccb65ad",
+    "created_time": "2026-02-09T09:53:00.000Z",
+    "last_edited_time": "2026-03-12T09:03:00.000Z",
+    "properties": {
+      "Task count ": 2,
+      "Total Fixed": 0,
+      "Episode": null,
+      "UTNL": null,
+      "Required by": "Internal",
+      "Task Create": null,
+      "Ngày làm": null,
+      "Owner": [
+        {
+          "id": "0b9c48d9-e3d0-4f8c-9b39-ca52da0939c0",
+          "name": "Hưng Nguyễn",
+          "email": "hungnn@sangygroup.com"
+        }
+      ],
+      "Tasks": [
+        "314ccb0e-ac88-803f-a311-f82f4f758ffc",
+        "321ccb0e-ac88-80ad-939a-eb5cef548899"
+      ],
+      "Loại cảnh": "A",
+      "Max": 7,
+      "Status": "Completed",
+      "Rollup": [
+        {
+          "type": "people",
+          "people": [
+            {
+              "object": "user",
+              "id": "0b9c48d9-e3d0-4f8c-9b39-ca52da0939c0",
+              "name": "Hưng Nguyễn",
+              "avatar_url": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/c6b3f47d-5ee6-46bb-b375-9e9732591e68/image_2024-05-11_233503991.png",
+              "type": "person",
+              "person": {
+                "email": "hungnn@sangygroup.com"
+              }
+            }
+          ]
+        },
+        {
+          "type": "people",
+          "people": [
+            {
+              "object": "user",
+              "id": "2b47d5ac-bd39-4aad-8e95-23ea4ab9b925"
+            }
+          ]
+        }
+      ],
+      "DO": null,
+      "Resource": null,
+      "Combo": null,
+      "Task count + 1": 3,
+      "Min": 5.25,
+      "Total Main": 1,
+      "Point Status": "Unconfirmed",
+      "Product point": 50,
+      "Check task done": null,
+      "Ưu tiên": null,
+      "Số hình": null,
+      "Due Date": null,
+      "Ghép BG": "Not started",
+      "Product type": "Cutout",
+      "Total QC": 1,
+      "Product": "Cut Out 12"
+    },
+    "_title": "Cut Out 12",
+    "database_name": "[Disk Knight] Product",
+    "project_name": "[Disk Knight]",
+    "database_id": "302ccb0e-ac88-8177-8ae3-cefc1eeadc70"
+  },
+  {
+    "id": "302ccb0e-ac88-80cd-bdad-d93785c448da",
+    "created_time": "2026-02-09T09:53:00.000Z",
+    "last_edited_time": "2026-03-03T04:19:00.000Z",
+    "properties": {
+      "Task count ": 1,
+      "Total Fixed": 0,
+      "Episode": null,
+      "UTNL": null,
+      "Required by": "Internal",
+      "Task Create": null,
+      "Ngày làm": null,
+      "Owner": [
+        {
+          "id": "ccd85462-3a79-4e0f-a885-c92afa63697e",
+          "name": "Kiệt Đoàn",
+          "email": "kietda@sangygroup.com"
+        }
+      ],
+      "Tasks": [
+        "318ccb0e-ac88-806b-b5cd-dc853d8deb64"
+      ],
+      "Loại cảnh": null,
+      "Max": null,
+      "Status": "Pending Review",
+      "Rollup": [
+        {
+          "type": "people",
+          "people": [
+            {
+              "object": "user",
+              "id": "ccd85462-3a79-4e0f-a885-c92afa63697e",
+              "name": "Kiệt Đoàn",
+              "avatar_url": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/7c911ef9-56c3-4655-93b0-48d48a7a85ac/FNEYN8AU4UM7Q2TEXH97Y98RCQ774QJ3.jpg",
+              "type": "person",
+              "person": {
+                "email": "kietda@sangygroup.com"
+              }
+            }
+          ]
+        }
+      ],
+      "DO": null,
+      "Resource": null,
+      "Combo": null,
+      "Task count + 1": 2,
+      "Min": null,
+      "Total Main": 1,
+      "Point Status": "Unconfirmed",
+      "Product point": 0,
+      "Check task done": null,
+      "Ưu tiên": null,
+      "Số hình": null,
+      "Due Date": null,
+      "Ghép BG": "Not started",
+      "Product type": "FX",
+      "Total QC": 0,
+      "Product": "FX 09"
+    },
+    "_title": "FX 09",
+    "database_name": "[Disk Knight] Product",
+    "project_name": "[Disk Knight]",
+    "database_id": "302ccb0e-ac88-8177-8ae3-cefc1eeadc70"
+  },
+  {
+    "id": "302ccb0e-ac88-80da-b814-d14f165d1f77",
+    "created_time": "2026-02-09T09:53:00.000Z",
+    "last_edited_time": "2026-03-06T10:29:00.000Z",
+    "properties": {
+      "Task count ": 1,
+      "Total Fixed": 0,
+      "Episode": null,
+      "UTNL": null,
+      "Required by": "Internal",
+      "Task Create": null,
+      "Ngày làm": null,
+      "Owner": [
+        {
+          "id": "129b1033-6138-40a8-909d-7a4aeb994d99",
+          "name": "Bình Lường",
+          "email": "binhlt@sangygroup.com"
+        }
+      ],
+      "Tasks": [
+        "318ccb0e-ac88-8023-92ba-e074b2256d74"
+      ],
+      "Loại cảnh": null,
+      "Max": null,
+      "Status": "Pending Review",
+      "Rollup": [
+        {
+          "type": "people",
+          "people": [
+            {
+              "object": "user",
+              "id": "129b1033-6138-40a8-909d-7a4aeb994d99",
+              "name": "Bình Lường",
+              "avatar_url": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/36f0e54c-999d-4b0c-8402-6e73ffec2b68/my-notion-face-portrait.png",
+              "type": "person",
+              "person": {
+                "email": "binhlt@sangygroup.com"
+              }
+            }
+          ]
+        }
+      ],
+      "DO": null,
+      "Resource": null,
+      "Combo": null,
+      "Task count + 1": 2,
+      "Min": null,
+      "Total Main": 1,
+      "Point Status": "Unconfirmed",
+      "Product point": 0,
+      "Check task done": null,
+      "Ưu tiên": null,
+      "Số hình": null,
+      "Due Date": null,
+      "Ghép BG": "Not started",
+      "Product type": "FX",
+      "Total QC": 0,
+      "Product": "FX 11"
+    },
+    "_title": "FX 11",
+    "database_name": "[Disk Knight] Product",
+    "project_name": "[Disk Knight]",
+    "database_id": "302ccb0e-ac88-8177-8ae3-cefc1eeadc70"
+  },
+  {
+    "id": "302ccb0e-ac88-80dd-8a89-d0edc9dba063",
+    "created_time": "2026-02-09T09:53:00.000Z",
+    "last_edited_time": "2026-02-23T10:18:00.000Z",
+    "properties": {
+      "Task count ": 2,
+      "Total Fixed": 0,
+      "Episode": null,
+      "UTNL": null,
+      "Required by": "Internal",
+      "Task Create": null,
+      "Ngày làm": null,
+      "Owner": [
+        {
+          "id": "129b1033-6138-40a8-909d-7a4aeb994d99",
+          "name": "Bình Lường",
+          "email": "binhlt@sangygroup.com"
+        }
+      ],
+      "Tasks": [
+        "318ccb0e-ac88-8051-8952-d8e9681e7370",
+        "321ccb0e-ac88-8052-86e4-c8558ea4874d"
+      ],
+      "Loại cảnh": "B",
+      "Max": 5,
+      "Status": "Client Approved",
+      "Rollup": [
+        {
+          "type": "people",
+          "people": [
+            {
+              "object": "user",
+              "id": "129b1033-6138-40a8-909d-7a4aeb994d99",
+              "name": "Bình Lường",
+              "avatar_url": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/36f0e54c-999d-4b0c-8402-6e73ffec2b68/my-notion-face-portrait.png",
+              "type": "person",
+              "person": {
+                "email": "binhlt@sangygroup.com"
+              }
+            }
+          ]
+        },
+        {
+          "type": "people",
+          "people": [
+            {
+              "object": "user",
+              "id": "2b47d5ac-bd39-4aad-8e95-23ea4ab9b925"
+            }
+          ]
+        }
+      ],
+      "DO": null,
+      "Resource": null,
+      "Combo": null,
+      "Task count + 1": 3,
+      "Min": 3.75,
+      "Total Main": 1,
+      "Point Status": "Confirmed",
+      "Product point": 35,
+      "Check task done": null,
+      "Ưu tiên": null,
+      "Số hình": null,
+      "Due Date": null,
+      "Ghép BG": "Not started",
+      "Product type": "Cutout",
+      "Total QC": 1,
+      "Product": "Cut Out 03"
+    },
+    "_title": "Cut Out 03",
+    "database_name": "[Disk Knight] Product",
+    "project_name": "[Disk Knight]",
+    "database_id": "302ccb0e-ac88-8177-8ae3-cefc1eeadc70"
+  },
+  {
+    "id": "302ccb0e-ac88-80e3-935a-e9d9dc9bb303",
+    "created_time": "2026-02-09T09:53:00.000Z",
+    "last_edited_time": "2026-02-25T04:11:00.000Z",
+    "properties": {
+      "Task count ": 2,
+      "Total Fixed": 0,
+      "Episode": null,
+      "UTNL": null,
+      "Required by": "Internal",
+      "Task Create": null,
+      "Ngày làm": null,
+      "Owner": [
+        {
+          "id": "ccd85462-3a79-4e0f-a885-c92afa63697e",
+          "name": "Kiệt Đoàn",
+          "email": "kietda@sangygroup.com"
+        }
+      ],
+      "Tasks": [
+        "311ccb0e-ac88-8031-ae8c-e01f4bea990b",
+        "312ccb0e-ac88-81a8-9dcb-cee60181eac6"
+      ],
+      "Loại cảnh": "D",
+      "Max": 2,
+      "Status": "QC Approved",
+      "Rollup": [
+        {
+          "type": "people",
+          "people": [
+            {
+              "object": "user",
+              "id": "ccd85462-3a79-4e0f-a885-c92afa63697e",
+              "name": "Kiệt Đoàn",
+              "avatar_url": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/7c911ef9-56c3-4655-93b0-48d48a7a85ac/FNEYN8AU4UM7Q2TEXH97Y98RCQ774QJ3.jpg",
+              "type": "person",
+              "person": {
+                "email": "kietda@sangygroup.com"
+              }
+            }
+          ]
+        },
+        {
+          "type": "people",
+          "people": [
+            {
+              "object": "user",
+              "id": "2b47d5ac-bd39-4aad-8e95-23ea4ab9b925"
+            }
+          ]
+        }
+      ],
+      "DO": null,
+      "Resource": null,
+      "Combo": null,
+      "Task count + 1": 3,
+      "Min": 1,
+      "Total Main": 1,
+      "Point Status": "Confirmed",
+      "Product point": 14,
+      "Check task done": null,
+      "Ưu tiên": null,
+      "Số hình": null,
+      "Due Date": null,
+      "Ghép BG": "Not started",
+      "Product type": "Cutout",
+      "Total QC": 1,
+      "Product": "Cut Out 10"
+    },
+    "_title": "Cut Out 10",
+    "database_name": "[Disk Knight] Product",
+    "project_name": "[Disk Knight]",
+    "database_id": "302ccb0e-ac88-8177-8ae3-cefc1eeadc70"
+  },
+  {
+    "id": "302ccb0e-ac88-80e7-8895-ec967f022996",
+    "created_time": "2026-02-09T09:53:00.000Z",
+    "last_edited_time": "2026-02-25T08:35:00.000Z",
+    "properties": {
+      "Task count ": 2,
+      "Total Fixed": 0,
+      "Episode": null,
+      "UTNL": null,
+      "Required by": "Internal",
+      "Task Create": null,
+      "Ngày làm": null,
+      "Owner": [
+        {
+          "id": "ccd85462-3a79-4e0f-a885-c92afa63697e",
+          "name": "Kiệt Đoàn",
+          "email": "kietda@sangygroup.com"
+        }
+      ],
+      "Tasks": [
+        "311ccb0e-ac88-805e-8809-d9d1d7d01aa3",
+        "312ccb0e-ac88-81c3-b36a-ccccbf0285a7"
+      ],
+      "Loại cảnh": "D",
+      "Max": 2,
+      "Status": "QC Approved",
+      "Rollup": [
+        {
+          "type": "people",
+          "people": [
+            {
+              "object": "user",
+              "id": "ccd85462-3a79-4e0f-a885-c92afa63697e",
+              "name": "Kiệt Đoàn",
+              "avatar_url": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/7c911ef9-56c3-4655-93b0-48d48a7a85ac/FNEYN8AU4UM7Q2TEXH97Y98RCQ774QJ3.jpg",
+              "type": "person",
+              "person": {
+                "email": "kietda@sangygroup.com"
+              }
+            }
+          ]
+        },
+        {
+          "type": "people",
+          "people": [
+            {
+              "object": "user",
+              "id": "2b47d5ac-bd39-4aad-8e95-23ea4ab9b925"
+            }
+          ]
+        }
+      ],
+      "DO": null,
+      "Resource": null,
+      "Combo": null,
+      "Task count + 1": 3,
+      "Min": 1,
+      "Total Main": 1,
+      "Point Status": "Confirmed",
+      "Product point": 14,
+      "Check task done": null,
+      "Ưu tiên": null,
+      "Số hình": null,
+      "Due Date": null,
+      "Ghép BG": "Not started",
+      "Product type": "Cutout",
+      "Total QC": 1,
+      "Product": "Cut Out 07"
+    },
+    "_title": "Cut Out 07",
+    "database_name": "[Disk Knight] Product",
+    "project_name": "[Disk Knight]",
+    "database_id": "302ccb0e-ac88-8177-8ae3-cefc1eeadc70"
+  },
+  {
+    "id": "302ccb0e-ac88-80f0-84a9-c681064b4d20",
+    "created_time": "2026-02-09T09:53:00.000Z",
+    "last_edited_time": "2026-03-05T08:58:00.000Z",
+    "properties": {
+      "Task count ": 2,
+      "Total Fixed": 0,
+      "Episode": null,
+      "UTNL": null,
+      "Required by": "Internal",
+      "Task Create": null,
+      "Ngày làm": null,
+      "Owner": [
+        {
+          "id": "129b1033-6138-40a8-909d-7a4aeb994d99",
+          "name": "Bình Lường",
+          "email": "binhlt@sangygroup.com"
+        }
+      ],
+      "Tasks": [
+        "318ccb0e-ac88-80ee-b259-fa506aad935d",
+        "31accb0e-ac88-81a4-a706-c0025359600e"
+      ],
+      "Loại cảnh": "C",
+      "Max": 3.5,
+      "Status": "QC Approved",
+      "Rollup": [
+        {
+          "type": "people",
+          "people": [
+            {
+              "object": "user",
+              "id": "129b1033-6138-40a8-909d-7a4aeb994d99",
+              "name": "Bình Lường",
+              "avatar_url": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/36f0e54c-999d-4b0c-8402-6e73ffec2b68/my-notion-face-portrait.png",
+              "type": "person",
+              "person": {
+                "email": "binhlt@sangygroup.com"
+              }
+            }
+          ]
+        },
+        {
+          "type": "people",
+          "people": [
+            {
+              "object": "user",
+              "id": "2b47d5ac-bd39-4aad-8e95-23ea4ab9b925"
+            }
+          ]
+        }
+      ],
+      "DO": null,
+      "Resource": null,
+      "Combo": null,
+      "Task count + 1": 3,
+      "Min": 2.25,
+      "Total Main": 1,
+      "Point Status": "Confirmed",
+      "Product point": 25,
+      "Check task done": null,
+      "Ưu tiên": null,
+      "Số hình": null,
+      "Due Date": null,
+      "Ghép BG": "Not started",
+      "Product type": "Cutout",
+      "Total QC": 1,
+      "Product": "Cut Out 01"
+    },
+    "_title": "Cut Out 01",
+    "database_name": "[Disk Knight] Product",
+    "project_name": "[Disk Knight]",
+    "database_id": "302ccb0e-ac88-8177-8ae3-cefc1eeadc70"
+  },
+  {
+    "id": "310ccb0e-ac88-8005-bb48-e53fcc6eed6e",
+    "created_time": "2026-02-23T09:58:00.000Z",
+    "last_edited_time": "2026-03-23T10:01:00.000Z",
+    "properties": {
+      "Task count ": 0,
+      "Total Fixed": 0,
+      "Episode": null,
+      "UTNL": null,
+      "Required by": "Internal",
+      "Task Create": null,
+      "Ngày làm": null,
+      "Owner": [],
+      "Tasks": [],
+      "Loại cảnh": null,
+      "Max": null,
+      "Status": "Not started",
+      "Rollup": null,
+      "DO": null,
+      "Resource": null,
+      "Combo": null,
+      "Task count + 1": 1,
+      "Min": null,
+      "Total Main": 0,
+      "Point Status": "Unconfirmed",
+      "Product point": 0,
+      "Check task done": null,
+      "Ưu tiên": null,
+      "Số hình": null,
+      "Due Date": null,
+      "Ghép BG": "Not started",
+      "Product type": "Background",
+      "Total QC": 0,
+      "Product": "Background 12"
+    },
+    "_title": "Background 12",
+    "database_name": "[Disk Knight] Product",
+    "project_name": "[Disk Knight]",
+    "database_id": "302ccb0e-ac88-8177-8ae3-cefc1eeadc70"
+  },
+  {
+    "id": "310ccb0e-ac88-8008-a685-c3a9436e1bc5",
+    "created_time": "2026-02-23T09:58:00.000Z",
+    "last_edited_time": "2026-03-23T10:01:00.000Z",
+    "properties": {
+      "Task count ": 0,
+      "Total Fixed": 0,
+      "Episode": null,
+      "UTNL": null,
+      "Required by": "Internal",
+      "Task Create": null,
+      "Ngày làm": null,
+      "Owner": [],
+      "Tasks": [],
+      "Loại cảnh": null,
+      "Max": null,
+      "Status": "Not started",
+      "Rollup": null,
+      "DO": null,
+      "Resource": null,
+      "Combo": null,
+      "Task count + 1": 1,
+      "Min": null,
+      "Total Main": 0,
+      "Point Status": "Unconfirmed",
+      "Product point": 0,
+      "Check task done": null,
+      "Ưu tiên": null,
+      "Số hình": null,
+      "Due Date": null,
+      "Ghép BG": "Not started",
+      "Product type": "Background",
+      "Total QC": 0,
+      "Product": "Background 02"
+    },
+    "_title": "Background 02",
+    "database_name": "[Disk Knight] Product",
+    "project_name": "[Disk Knight]",
+    "database_id": "302ccb0e-ac88-8177-8ae3-cefc1eeadc70"
+  },
+  {
+    "id": "310ccb0e-ac88-800b-add8-fd4eb73cec61",
+    "created_time": "2026-02-23T09:58:00.000Z",
+    "last_edited_time": "2026-03-23T10:01:00.000Z",
+    "properties": {
+      "Task count ": 1,
+      "Total Fixed": 0,
+      "Episode": null,
+      "UTNL": null,
+      "Required by": "Internal",
+      "Task Create": null,
+      "Ngày làm": null,
+      "Owner": [],
+      "Tasks": [
+        "313ccb0e-ac88-8109-b86c-dab1a92415f3"
+      ],
+      "Loại cảnh": null,
+      "Max": null,
+      "Status": "QC Approved",
+      "Rollup": [
+        {
+          "type": "people",
+          "people": [
+            {
+              "object": "user",
+              "id": "2b47d5ac-bd39-4aad-8e95-23ea4ab9b925"
+            }
+          ]
+        }
+      ],
+      "DO": null,
+      "Resource": null,
+      "Combo": null,
+      "Task count + 1": 2,
+      "Min": null,
+      "Total Main": 0,
+      "Point Status": "Confirmed",
+      "Product point": 0,
+      "Check task done": null,
+      "Ưu tiên": null,
+      "Số hình": null,
+      "Due Date": null,
+      "Ghép BG": "Not started",
+      "Product type": "Layout",
+      "Total QC": 1,
+      "Product": "LO 09"
+    },
+    "_title": "LO 09",
+    "database_name": "[Disk Knight] Product",
+    "project_name": "[Disk Knight]",
+    "database_id": "302ccb0e-ac88-8177-8ae3-cefc1eeadc70"
+  },
+  {
+    "id": "310ccb0e-ac88-802c-a68d-de7f1e5a8584",
+    "created_time": "2026-02-23T09:58:00.000Z",
+    "last_edited_time": "2026-03-23T10:01:00.000Z",
+    "properties": {
+      "Task count ": 0,
+      "Total Fixed": 0,
+      "Episode": null,
+      "UTNL": null,
+      "Required by": "Internal",
+      "Task Create": null,
+      "Ngày làm": null,
+      "Owner": [],
+      "Tasks": [],
+      "Loại cảnh": null,
+      "Max": null,
+      "Status": "Not started",
+      "Rollup": null,
+      "DO": null,
+      "Resource": null,
+      "Combo": null,
+      "Task count + 1": 1,
+      "Min": null,
+      "Total Main": 0,
+      "Point Status": "Unconfirmed",
+      "Product point": 0,
+      "Check task done": null,
+      "Ưu tiên": null,
+      "Số hình": null,
+      "Due Date": null,
+      "Ghép BG": "Not started",
+      "Product type": "Background",
+      "Total QC": 0,
+      "Product": "Background 09"
+    },
+    "_title": "Background 09",
+    "database_name": "[Disk Knight] Product",
+    "project_name": "[Disk Knight]",
+    "database_id": "302ccb0e-ac88-8177-8ae3-cefc1eeadc70"
+  },
+  {
+    "id": "310ccb0e-ac88-803c-bbfc-f2e1cc63b027",
+    "created_time": "2026-02-23T09:58:00.000Z",
+    "last_edited_time": "2026-03-23T10:01:00.000Z",
+    "properties": {
+      "Task count ": 1,
+      "Total Fixed": 0,
+      "Episode": null,
+      "UTNL": null,
+      "Required by": "Internal",
+      "Task Create": null,
+      "Ngày làm": null,
+      "Owner": [],
+      "Tasks": [
+        "313ccb0e-ac88-81f4-a2ef-f20b452ffba4"
+      ],
+      "Loại cảnh": null,
+      "Max": null,
+      "Status": "QC Approved",
+      "Rollup": [
+        {
+          "type": "people",
+          "people": [
+            {
+              "object": "user",
+              "id": "2b47d5ac-bd39-4aad-8e95-23ea4ab9b925"
+            }
+          ]
+        }
+      ],
+      "DO": null,
+      "Resource": null,
+      "Combo": null,
+      "Task count + 1": 2,
+      "Min": null,
+      "Total Main": 0,
+      "Point Status": "Confirmed",
+      "Product point": 0,
+      "Check task done": null,
+      "Ưu tiên": null,
+      "Số hình": null,
+      "Due Date": null,
+      "Ghép BG": "Not started",
+      "Product type": "Layout",
+      "Total QC": 1,
+      "Product": "LO 12"
+    },
+    "_title": "LO 12",
+    "database_name": "[Disk Knight] Product",
+    "project_name": "[Disk Knight]",
+    "database_id": "302ccb0e-ac88-8177-8ae3-cefc1eeadc70"
+  },
+  {
+    "id": "310ccb0e-ac88-805a-95ef-dc7260fd8fa7",
+    "created_time": "2026-02-23T09:58:00.000Z",
+    "last_edited_time": "2026-03-23T10:01:00.000Z",
+    "properties": {
+      "Task count ": 1,
+      "Total Fixed": 0,
+      "Episode": null,
+      "UTNL": null,
+      "Required by": "Internal",
+      "Task Create": null,
+      "Ngày làm": null,
+      "Owner": [],
+      "Tasks": [
+        "313ccb0e-ac88-8129-9701-de47bb0689e9"
+      ],
+      "Loại cảnh": null,
+      "Max": null,
+      "Status": "QC Approved",
+      "Rollup": [
+        {
+          "type": "people",
+          "people": [
+            {
+              "object": "user",
+              "id": "2b47d5ac-bd39-4aad-8e95-23ea4ab9b925"
+            }
+          ]
+        }
+      ],
+      "DO": null,
+      "Resource": null,
+      "Combo": null,
+      "Task count + 1": 2,
+      "Min": null,
+      "Total Main": 0,
+      "Point Status": "Confirmed",
+      "Product point": 0,
+      "Check task done": null,
+      "Ưu tiên": null,
+      "Số hình": null,
+      "Due Date": null,
+      "Ghép BG": "Not started",
+      "Product type": "Layout",
+      "Total QC": 1,
+      "Product": "LO 11"
+    },
+    "_title": "LO 11",
+    "database_name": "[Disk Knight] Product",
+    "project_name": "[Disk Knight]",
+    "database_id": "302ccb0e-ac88-8177-8ae3-cefc1eeadc70"
+  },
+  {
+    "id": "310ccb0e-ac88-805b-b2b7-cece47302fd4",
+    "created_time": "2026-02-23T09:58:00.000Z",
+    "last_edited_time": "2026-03-23T10:01:00.000Z",
+    "properties": {
+      "Task count ": 0,
+      "Total Fixed": 0,
+      "Episode": null,
+      "UTNL": null,
+      "Required by": "Internal",
+      "Task Create": null,
+      "Ngày làm": null,
+      "Owner": [],
+      "Tasks": [],
+      "Loại cảnh": null,
+      "Max": null,
+      "Status": "Not started",
+      "Rollup": null,
+      "DO": null,
+      "Resource": null,
+      "Combo": null,
+      "Task count + 1": 1,
+      "Min": null,
+      "Total Main": 0,
+      "Point Status": "Unconfirmed",
+      "Product point": 0,
+      "Check task done": null,
+      "Ưu tiên": null,
+      "Số hình": null,
+      "Due Date": null,
+      "Ghép BG": "Not started",
+      "Product type": "Background",
+      "Total QC": 0,
+      "Product": "Background 05"
+    },
+    "_title": "Background 05",
+    "database_name": "[Disk Knight] Product",
+    "project_name": "[Disk Knight]",
+    "database_id": "302ccb0e-ac88-8177-8ae3-cefc1eeadc70"
+  },
+  {
+    "id": "310ccb0e-ac88-8063-98ca-d9fc41f08c69",
+    "created_time": "2026-02-23T09:58:00.000Z",
+    "last_edited_time": "2026-03-23T10:01:00.000Z",
+    "properties": {
+      "Task count ": 0,
+      "Total Fixed": 0,
+      "Episode": null,
+      "UTNL": null,
+      "Required by": "Internal",
+      "Task Create": null,
+      "Ngày làm": null,
+      "Owner": [],
+      "Tasks": [],
+      "Loại cảnh": null,
+      "Max": null,
+      "Status": "Not started",
+      "Rollup": null,
+      "DO": null,
+      "Resource": null,
+      "Combo": null,
+      "Task count + 1": 1,
+      "Min": null,
+      "Total Main": 0,
+      "Point Status": "Unconfirmed",
+      "Product point": 0,
+      "Check task done": null,
+      "Ưu tiên": null,
+      "Số hình": null,
+      "Due Date": null,
+      "Ghép BG": "Not started",
+      "Product type": "Layout",
+      "Total QC": 0,
+      "Product": "LO 01"
+    },
+    "_title": "LO 01",
+    "database_name": "[Disk Knight] Product",
+    "project_name": "[Disk Knight]",
+    "database_id": "302ccb0e-ac88-8177-8ae3-cefc1eeadc70"
+  },
+  {
+    "id": "310ccb0e-ac88-807a-aa8e-e453b9af5c29",
+    "created_time": "2026-02-23T09:58:00.000Z",
+    "last_edited_time": "2026-03-23T10:01:00.000Z",
+    "properties": {
+      "Task count ": 0,
+      "Total Fixed": 0,
+      "Episode": null,
+      "UTNL": null,
+      "Required by": "Internal",
+      "Task Create": null,
+      "Ngày làm": null,
+      "Owner": [],
+      "Tasks": [],
+      "Loại cảnh": null,
+      "Max": null,
+      "Status": "Not started",
+      "Rollup": null,
+      "DO": null,
+      "Resource": null,
+      "Combo": null,
+      "Task count + 1": 1,
+      "Min": null,
+      "Total Main": 0,
+      "Point Status": "Unconfirmed",
+      "Product point": 0,
+      "Check task done": null,
+      "Ưu tiên": null,
+      "Số hình": null,
+      "Due Date": null,
+      "Ghép BG": "Not started",
+      "Product type": "Layout",
+      "Total QC": 0,
+      "Product": "LO 07"
+    },
+    "_title": "LO 07",
+    "database_name": "[Disk Knight] Product",
+    "project_name": "[Disk Knight]",
+    "database_id": "302ccb0e-ac88-8177-8ae3-cefc1eeadc70"
+  },
+  {
+    "id": "310ccb0e-ac88-807e-ade8-ec3a9ab91aec",
+    "created_time": "2026-02-23T09:58:00.000Z",
+    "last_edited_time": "2026-03-23T10:01:00.000Z",
+    "properties": {
+      "Task count ": 0,
+      "Total Fixed": 0,
+      "Episode": null,
+      "UTNL": null,
+      "Required by": "Internal",
+      "Task Create": null,
+      "Ngày làm": null,
+      "Owner": [],
+      "Tasks": [],
+      "Loại cảnh": null,
+      "Max": null,
+      "Status": "Not started",
+      "Rollup": null,
+      "DO": null,
+      "Resource": null,
+      "Combo": null,
+      "Task count + 1": 1,
+      "Min": null,
+      "Total Main": 0,
+      "Point Status": "Unconfirmed",
+      "Product point": 0,
+      "Check task done": null,
+      "Ưu tiên": null,
+      "Số hình": null,
+      "Due Date": null,
+      "Ghép BG": "Not started",
+      "Product type": "Background",
+      "Total QC": 0,
+      "Product": "Background 07"
+    },
+    "_title": "Background 07",
+    "database_name": "[Disk Knight] Product",
+    "project_name": "[Disk Knight]",
+    "database_id": "302ccb0e-ac88-8177-8ae3-cefc1eeadc70"
+  },
+  {
+    "id": "310ccb0e-ac88-8081-9021-e4578e4eab37",
+    "created_time": "2026-02-23T09:58:00.000Z",
+    "last_edited_time": "2026-03-23T10:01:00.000Z",
+    "properties": {
+      "Task count ": 0,
+      "Total Fixed": 0,
+      "Episode": null,
+      "UTNL": null,
+      "Required by": "Internal",
+      "Task Create": null,
+      "Ngày làm": null,
+      "Owner": [],
+      "Tasks": [],
+      "Loại cảnh": null,
+      "Max": null,
+      "Status": "Not started",
+      "Rollup": null,
+      "DO": null,
+      "Resource": null,
+      "Combo": null,
+      "Task count + 1": 1,
+      "Min": null,
+      "Total Main": 0,
+      "Point Status": "Unconfirmed",
+      "Product point": 0,
+      "Check task done": null,
+      "Ưu tiên": null,
+      "Số hình": null,
+      "Due Date": null,
+      "Ghép BG": "Not started",
+      "Product type": "Background",
+      "Total QC": 0,
+      "Product": "Background 11"
+    },
+    "_title": "Background 11",
+    "database_name": "[Disk Knight] Product",
+    "project_name": "[Disk Knight]",
+    "database_id": "302ccb0e-ac88-8177-8ae3-cefc1eeadc70"
+  },
+  {
+    "id": "310ccb0e-ac88-8088-87e4-e9b9ceba383c",
+    "created_time": "2026-02-23T09:58:00.000Z",
+    "last_edited_time": "2026-03-23T10:01:00.000Z",
+    "properties": {
+      "Task count ": 0,
+      "Total Fixed": 0,
+      "Episode": null,
+      "UTNL": null,
+      "Required by": "Internal",
+      "Task Create": null,
+      "Ngày làm": null,
+      "Owner": [],
+      "Tasks": [],
+      "Loại cảnh": null,
+      "Max": null,
+      "Status": "Not started",
+      "Rollup": null,
+      "DO": null,
+      "Resource": null,
+      "Combo": null,
+      "Task count + 1": 1,
+      "Min": null,
+      "Total Main": 0,
+      "Point Status": "Unconfirmed",
+      "Product point": 0,
+      "Check task done": null,
+      "Ưu tiên": null,
+      "Số hình": null,
+      "Due Date": null,
+      "Ghép BG": "Not started",
+      "Product type": "Background",
+      "Total QC": 0,
+      "Product": "Background 04"
+    },
+    "_title": "Background 04",
+    "database_name": "[Disk Knight] Product",
+    "project_name": "[Disk Knight]",
+    "database_id": "302ccb0e-ac88-8177-8ae3-cefc1eeadc70"
+  },
+  {
+    "id": "310ccb0e-ac88-8094-bbed-c1af56d47f1d",
+    "created_time": "2026-02-23T09:58:00.000Z",
+    "last_edited_time": "2026-03-23T10:01:00.000Z",
+    "properties": {
+      "Task count ": 1,
+      "Total Fixed": 0,
+      "Episode": null,
+      "UTNL": null,
+      "Required by": "Internal",
+      "Task Create": null,
+      "Ngày làm": null,
+      "Owner": [],
+      "Tasks": [
+        "313ccb0e-ac88-81b9-8cea-fe8e47ddb272"
+      ],
+      "Loại cảnh": null,
+      "Max": null,
+      "Status": "QC Approved",
+      "Rollup": [
+        {
+          "type": "people",
+          "people": [
+            {
+              "object": "user",
+              "id": "2b47d5ac-bd39-4aad-8e95-23ea4ab9b925"
+            }
+          ]
+        }
+      ],
+      "DO": null,
+      "Resource": null,
+      "Combo": null,
+      "Task count + 1": 2,
+      "Min": null,
+      "Total Main": 0,
+      "Point Status": "Confirmed",
+      "Product point": 0,
+      "Check task done": null,
+      "Ưu tiên": null,
+      "Số hình": null,
+      "Due Date": null,
+      "Ghép BG": "Not started",
+      "Product type": "Layout",
+      "Total QC": 1,
+      "Product": "LO 08"
+    },
+    "_title": "LO 08",
+    "database_name": "[Disk Knight] Product",
+    "project_name": "[Disk Knight]",
+    "database_id": "302ccb0e-ac88-8177-8ae3-cefc1eeadc70"
+  },
+  {
+    "id": "310ccb0e-ac88-80a2-8b81-e5bc49263e6f",
+    "created_time": "2026-02-23T09:58:00.000Z",
+    "last_edited_time": "2026-03-23T10:01:00.000Z",
+    "properties": {
+      "Task count ": 0,
+      "Total Fixed": 0,
+      "Episode": null,
+      "UTNL": null,
+      "Required by": "Internal",
+      "Task Create": null,
+      "Ngày làm": null,
+      "Owner": [],
+      "Tasks": [],
+      "Loại cảnh": null,
+      "Max": null,
+      "Status": "Not started",
+      "Rollup": null,
+      "DO": null,
+      "Resource": null,
+      "Combo": null,
+      "Task count + 1": 1,
+      "Min": null,
+      "Total Main": 0,
+      "Point Status": "Unconfirmed",
+      "Product point": 0,
+      "Check task done": null,
+      "Ưu tiên": null,
+      "Số hình": null,
+      "Due Date": null,
+      "Ghép BG": "Not started",
+      "Product type": "Background",
+      "Total QC": 0,
+      "Product": "Background 06"
+    },
+    "_title": "Background 06",
+    "database_name": "[Disk Knight] Product",
+    "project_name": "[Disk Knight]",
+    "database_id": "302ccb0e-ac88-8177-8ae3-cefc1eeadc70"
+  },
+  {
+    "id": "310ccb0e-ac88-80a7-a12b-d90a595f64b9",
+    "created_time": "2026-02-23T09:58:00.000Z",
+    "last_edited_time": "2026-03-23T10:01:00.000Z",
+    "properties": {
+      "Task count ": 1,
+      "Total Fixed": 0,
+      "Episode": null,
+      "UTNL": null,
+      "Required by": "Internal",
+      "Task Create": null,
+      "Ngày làm": null,
+      "Owner": [],
+      "Tasks": [
+        "312ccb0e-ac88-819b-b8de-f0c59dde2bf9"
+      ],
+      "Loại cảnh": null,
+      "Max": null,
+      "Status": "QC Approved",
+      "Rollup": [
+        {
+          "type": "people",
+          "people": [
+            {
+              "object": "user",
+              "id": "2b47d5ac-bd39-4aad-8e95-23ea4ab9b925"
+            }
+          ]
+        }
+      ],
+      "DO": null,
+      "Resource": null,
+      "Combo": null,
+      "Task count + 1": 2,
+      "Min": null,
+      "Total Main": 0,
+      "Point Status": "Confirmed",
+      "Product point": 0,
+      "Check task done": null,
+      "Ưu tiên": null,
+      "Số hình": null,
+      "Due Date": null,
+      "Ghép BG": "Not started",
+      "Product type": "Layout",
+      "Total QC": 1,
+      "Product": "LO 03"
+    },
+    "_title": "LO 03",
+    "database_name": "[Disk Knight] Product",
+    "project_name": "[Disk Knight]",
+    "database_id": "302ccb0e-ac88-8177-8ae3-cefc1eeadc70"
+  },
+  {
+    "id": "310ccb0e-ac88-80cc-a763-dd129aeffee6",
+    "created_time": "2026-02-23T09:58:00.000Z",
+    "last_edited_time": "2026-03-23T10:01:00.000Z",
+    "properties": {
+      "Task count ": 0,
+      "Total Fixed": 0,
+      "Episode": null,
+      "UTNL": null,
+      "Required by": "Internal",
+      "Task Create": null,
+      "Ngày làm": null,
+      "Owner": [],
+      "Tasks": [],
+      "Loại cảnh": null,
+      "Max": null,
+      "Status": "Not started",
+      "Rollup": null,
+      "DO": null,
+      "Resource": null,
+      "Combo": null,
+      "Task count + 1": 1,
+      "Min": null,
+      "Total Main": 0,
+      "Point Status": "Unconfirmed",
+      "Product point": 0,
+      "Check task done": null,
+      "Ưu tiên": null,
+      "Số hình": null,
+      "Due Date": null,
+      "Ghép BG": "Not started",
+      "Product type": "Layout",
+      "Total QC": 0,
+      "Product": "LO 10"
+    },
+    "_title": "LO 10",
+    "database_name": "[Disk Knight] Product",
+    "project_name": "[Disk Knight]",
+    "database_id": "302ccb0e-ac88-8177-8ae3-cefc1eeadc70"
+  },
+  {
+    "id": "310ccb0e-ac88-80d7-b51c-ed54c7e94ad5",
+    "created_time": "2026-02-23T09:58:00.000Z",
+    "last_edited_time": "2026-03-23T10:01:00.000Z",
+    "properties": {
+      "Task count ": 0,
+      "Total Fixed": 0,
+      "Episode": null,
+      "UTNL": null,
+      "Required by": "Internal",
+      "Task Create": null,
+      "Ngày làm": null,
+      "Owner": [],
+      "Tasks": [],
+      "Loại cảnh": null,
+      "Max": null,
+      "Status": "Not started",
+      "Rollup": null,
+      "DO": null,
+      "Resource": null,
+      "Combo": null,
+      "Task count + 1": 1,
+      "Min": null,
+      "Total Main": 0,
+      "Point Status": "Unconfirmed",
+      "Product point": 0,
+      "Check task done": null,
+      "Ưu tiên": null,
+      "Số hình": null,
+      "Due Date": null,
+      "Ghép BG": "Not started",
+      "Product type": "Layout",
+      "Total QC": 0,
+      "Product": "LO 04"
+    },
+    "_title": "LO 04",
+    "database_name": "[Disk Knight] Product",
+    "project_name": "[Disk Knight]",
+    "database_id": "302ccb0e-ac88-8177-8ae3-cefc1eeadc70"
+  },
+  {
+    "id": "310ccb0e-ac88-80dd-ab6d-c935e9d47055",
+    "created_time": "2026-02-23T09:58:00.000Z",
+    "last_edited_time": "2026-03-23T10:01:00.000Z",
+    "properties": {
+      "Task count ": 0,
+      "Total Fixed": 0,
+      "Episode": null,
+      "UTNL": null,
+      "Required by": "Internal",
+      "Task Create": null,
+      "Ngày làm": null,
+      "Owner": [],
+      "Tasks": [],
+      "Loại cảnh": null,
+      "Max": null,
+      "Status": "Not started",
+      "Rollup": null,
+      "DO": null,
+      "Resource": null,
+      "Combo": null,
+      "Task count + 1": 1,
+      "Min": null,
+      "Total Main": 0,
+      "Point Status": "Unconfirmed",
+      "Product point": 0,
+      "Check task done": null,
+      "Ưu tiên": null,
+      "Số hình": null,
+      "Due Date": null,
+      "Ghép BG": "Not started",
+      "Product type": "Background",
+      "Total QC": 0,
+      "Product": "Background 08"
+    },
+    "_title": "Background 08",
+    "database_name": "[Disk Knight] Product",
+    "project_name": "[Disk Knight]",
+    "database_id": "302ccb0e-ac88-8177-8ae3-cefc1eeadc70"
+  },
+  {
+    "id": "310ccb0e-ac88-80de-a7b0-d5b3bb12c58c",
+    "created_time": "2026-02-23T09:58:00.000Z",
+    "last_edited_time": "2026-03-23T10:01:00.000Z",
+    "properties": {
+      "Task count ": 0,
+      "Total Fixed": 0,
+      "Episode": null,
+      "UTNL": null,
+      "Required by": "Internal",
+      "Task Create": null,
+      "Ngày làm": null,
+      "Owner": [],
+      "Tasks": [],
+      "Loại cảnh": null,
+      "Max": null,
+      "Status": "Not started",
+      "Rollup": null,
+      "DO": null,
+      "Resource": null,
+      "Combo": null,
+      "Task count + 1": 1,
+      "Min": null,
+      "Total Main": 0,
+      "Point Status": "Unconfirmed",
+      "Product point": 0,
+      "Check task done": null,
+      "Ưu tiên": null,
+      "Số hình": null,
+      "Due Date": null,
+      "Ghép BG": "Not started",
+      "Product type": "Background",
+      "Total QC": 0,
+      "Product": "Background 10"
+    },
+    "_title": "Background 10",
+    "database_name": "[Disk Knight] Product",
+    "project_name": "[Disk Knight]",
+    "database_id": "302ccb0e-ac88-8177-8ae3-cefc1eeadc70"
+  },
+  {
+    "id": "310ccb0e-ac88-80df-a315-c14c968576d9",
+    "created_time": "2026-02-23T09:58:00.000Z",
+    "last_edited_time": "2026-03-23T10:01:00.000Z",
+    "properties": {
+      "Task count ": 0,
+      "Total Fixed": 0,
+      "Episode": null,
+      "UTNL": null,
+      "Required by": "Internal",
+      "Task Create": null,
+      "Ngày làm": null,
+      "Owner": [],
+      "Tasks": [],
+      "Loại cảnh": null,
+      "Max": null,
+      "Status": "Not started",
+      "Rollup": null,
+      "DO": null,
+      "Resource": null,
+      "Combo": null,
+      "Task count + 1": 1,
+      "Min": null,
+      "Total Main": 0,
+      "Point Status": "Unconfirmed",
+      "Product point": 0,
+      "Check task done": null,
+      "Ưu tiên": null,
+      "Số hình": null,
+      "Due Date": null,
+      "Ghép BG": "Not started",
+      "Product type": "Background",
+      "Total QC": 0,
+      "Product": "Background 01"
+    },
+    "_title": "Background 01",
+    "database_name": "[Disk Knight] Product",
+    "project_name": "[Disk Knight]",
+    "database_id": "302ccb0e-ac88-8177-8ae3-cefc1eeadc70"
+  },
+  {
+    "id": "310ccb0e-ac88-80e8-ab37-e14525aae1c5",
+    "created_time": "2026-02-23T09:58:00.000Z",
+    "last_edited_time": "2026-03-23T10:01:00.000Z",
+    "properties": {
+      "Task count ": 1,
+      "Total Fixed": 0,
+      "Episode": null,
+      "UTNL": null,
+      "Required by": "Internal",
+      "Task Create": null,
+      "Ngày làm": null,
+      "Owner": [],
+      "Tasks": [
+        "312ccb0e-ac88-8155-8b7d-d6f9ef02a9d2"
+      ],
+      "Loại cảnh": null,
+      "Max": null,
+      "Status": "QC Approved",
+      "Rollup": [
+        {
+          "type": "people",
+          "people": [
+            {
+              "object": "user",
+              "id": "2b47d5ac-bd39-4aad-8e95-23ea4ab9b925"
+            }
+          ]
+        }
+      ],
+      "DO": null,
+      "Resource": null,
+      "Combo": null,
+      "Task count + 1": 2,
+      "Min": null,
+      "Total Main": 0,
+      "Point Status": "Confirmed",
+      "Product point": 0,
+      "Check task done": null,
+      "Ưu tiên": null,
+      "Số hình": null,
+      "Due Date": null,
+      "Ghép BG": "Not started",
+      "Product type": "Layout",
+      "Total QC": 1,
+      "Product": "LO 05"
+    },
+    "_title": "LO 05",
+    "database_name": "[Disk Knight] Product",
+    "project_name": "[Disk Knight]",
+    "database_id": "302ccb0e-ac88-8177-8ae3-cefc1eeadc70"
+  },
+  {
+    "id": "310ccb0e-ac88-80ec-b4c3-fccd34e66c13",
+    "created_time": "2026-02-23T09:58:00.000Z",
+    "last_edited_time": "2026-03-23T10:01:00.000Z",
+    "properties": {
+      "Task count ": 1,
+      "Total Fixed": 0,
+      "Episode": null,
+      "UTNL": null,
+      "Required by": "Internal",
+      "Task Create": null,
+      "Ngày làm": null,
+      "Owner": [],
+      "Tasks": [
+        "312ccb0e-ac88-815b-8508-d8c4fe4c442e"
+      ],
+      "Loại cảnh": null,
+      "Max": null,
+      "Status": "QC Approved",
+      "Rollup": [
+        {
+          "type": "people",
+          "people": [
+            {
+              "object": "user",
+              "id": "2b47d5ac-bd39-4aad-8e95-23ea4ab9b925"
+            }
+          ]
+        }
+      ],
+      "DO": null,
+      "Resource": null,
+      "Combo": null,
+      "Task count + 1": 2,
+      "Min": null,
+      "Total Main": 0,
+      "Point Status": "Confirmed",
+      "Product point": 0,
+      "Check task done": null,
+      "Ưu tiên": null,
+      "Số hình": null,
+      "Due Date": null,
+      "Ghép BG": "Not started",
+      "Product type": "Layout",
+      "Total QC": 1,
+      "Product": "LO 06"
+    },
+    "_title": "LO 06",
+    "database_name": "[Disk Knight] Product",
+    "project_name": "[Disk Knight]",
+    "database_id": "302ccb0e-ac88-8177-8ae3-cefc1eeadc70"
+  },
+  {
+    "id": "310ccb0e-ac88-80f2-90ac-cbea24f08a10",
+    "created_time": "2026-02-23T09:58:00.000Z",
+    "last_edited_time": "2026-03-23T10:01:00.000Z",
+    "properties": {
+      "Task count ": 1,
+      "Total Fixed": 0,
+      "Episode": null,
+      "UTNL": null,
+      "Required by": "Internal",
+      "Task Create": null,
+      "Ngày làm": null,
+      "Owner": [],
+      "Tasks": [
+        "312ccb0e-ac88-8108-8832-d47fed18a3eb"
+      ],
+      "Loại cảnh": null,
+      "Max": null,
+      "Status": "QC Approved",
+      "Rollup": [
+        {
+          "type": "people",
+          "people": [
+            {
+              "object": "user",
+              "id": "2b47d5ac-bd39-4aad-8e95-23ea4ab9b925"
+            }
+          ]
+        }
+      ],
+      "DO": null,
+      "Resource": null,
+      "Combo": null,
+      "Task count + 1": 2,
+      "Min": null,
+      "Total Main": 0,
+      "Point Status": "Confirmed",
+      "Product point": 0,
+      "Check task done": null,
+      "Ưu tiên": null,
+      "Số hình": null,
+      "Due Date": null,
+      "Ghép BG": "Not started",
+      "Product type": "Layout",
+      "Total QC": 1,
+      "Product": "LO 02"
+    },
+    "_title": "LO 02",
+    "database_name": "[Disk Knight] Product",
+    "project_name": "[Disk Knight]",
+    "database_id": "302ccb0e-ac88-8177-8ae3-cefc1eeadc70"
+  },
+  {
+    "id": "310ccb0e-ac88-80f8-bac4-e700620f93bc",
+    "created_time": "2026-02-23T09:58:00.000Z",
+    "last_edited_time": "2026-03-23T10:01:00.000Z",
+    "properties": {
+      "Task count ": 0,
+      "Total Fixed": 0,
+      "Episode": null,
+      "UTNL": null,
+      "Required by": "Internal",
+      "Task Create": null,
+      "Ngày làm": null,
+      "Owner": [],
+      "Tasks": [],
+      "Loại cảnh": null,
+      "Max": null,
+      "Status": "Not started",
+      "Rollup": null,
+      "DO": null,
+      "Resource": null,
+      "Combo": null,
+      "Task count + 1": 1,
+      "Min": null,
+      "Total Main": 0,
+      "Point Status": "Unconfirmed",
+      "Product point": 0,
+      "Check task done": null,
+      "Ưu tiên": null,
+      "Số hình": null,
+      "Due Date": null,
+      "Ghép BG": "Not started",
+      "Product type": "Background",
+      "Total QC": 0,
+      "Product": "Background 03"
+    },
+    "_title": "Background 03",
+    "database_name": "[Disk Knight] Product",
+    "project_name": "[Disk Knight]",
+    "database_id": "302ccb0e-ac88-8177-8ae3-cefc1eeadc70"
+  },
+  {
+    "id": "318ccb0e-ac88-808f-97a4-fae7bb152372",
+    "created_time": "2026-03-03T07:58:00.000Z",
+    "last_edited_time": "2026-03-23T10:01:00.000Z",
+    "properties": {
+      "Task count ": 1,
+      "Total Fixed": 0,
+      "Episode": null,
+      "UTNL": null,
+      "Required by": "Internal",
+      "Task Create": null,
+      "Ngày làm": {
+        "start": "2026-03-03",
+        "end": null
+      },
+      "Owner": [
+        {
+          "id": "129b1033-6138-40a8-909d-7a4aeb994d99",
+          "name": "Bình Lường",
+          "email": "binhlt@sangygroup.com"
+        }
+      ],
+      "Tasks": [
+        "318ccb0e-ac88-807d-88c5-e1897122b860"
+      ],
+      "Loại cảnh": null,
+      "Max": null,
+      "Status": "Completed",
+      "Rollup": [
+        {
+          "type": "people",
+          "people": [
+            {
+              "object": "user",
+              "id": "129b1033-6138-40a8-909d-7a4aeb994d99",
+              "name": "Bình Lường",
+              "avatar_url": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/36f0e54c-999d-4b0c-8402-6e73ffec2b68/my-notion-face-portrait.png",
+              "type": "person",
+              "person": {
+                "email": "binhlt@sangygroup.com"
+              }
+            }
+          ]
+        }
+      ],
+      "DO": null,
+      "Resource": null,
+      "Combo": null,
+      "Task count + 1": 2,
+      "Min": null,
+      "Total Main": 1,
+      "Point Status": "Unconfirmed",
+      "Product point": 0,
+      "Check task done": null,
+      "Ưu tiên": null,
+      "Số hình": null,
+      "Due Date": {
+        "start": "2026-03-03",
+        "end": null
+      },
+      "Ghép BG": "Not started",
+      "Product type": null,
+      "Total QC": 0,
+      "Product": "nghỉ sáng"
+    },
+    "_title": "nghỉ sáng",
+    "database_name": "[Disk Knight] Product",
+    "project_name": "[Disk Knight]",
+    "database_id": "302ccb0e-ac88-8177-8ae3-cefc1eeadc70"
+  },
+  {
+    "id": "31fccb0e-ac88-8013-be7e-fc15ef161366",
+    "created_time": "2026-03-10T10:02:00.000Z",
+    "last_edited_time": "2026-03-19T11:56:00.000Z",
+    "properties": {
+      "Task count ": 2,
+      "Total Fixed": 0,
+      "Episode": null,
+      "UTNL": null,
+      "Required by": "External",
+      "Task Create": null,
+      "Ngày làm": null,
+      "Owner": [
+        {
+          "id": "0b9c48d9-e3d0-4f8c-9b39-ca52da0939c0",
+          "name": "Hưng Nguyễn",
+          "email": "hungnn@sangygroup.com"
+        }
+      ],
+      "Tasks": [
+        "321ccb0e-ac88-8047-aef5-f270b4113cdd",
+        "321ccb0e-ac88-81ca-be5d-d801f6d51dd3"
+      ],
+      "Loại cảnh": "E",
+      "Max": 0.75,
+      "Status": "QC Approved",
+      "Rollup": [
+        {
+          "type": "people",
+          "people": [
+            {
+              "object": "user",
+              "id": "0b9c48d9-e3d0-4f8c-9b39-ca52da0939c0",
+              "name": "Hưng Nguyễn",
+              "avatar_url": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/c6b3f47d-5ee6-46bb-b375-9e9732591e68/image_2024-05-11_233503991.png",
+              "type": "person",
+              "person": {
+                "email": "hungnn@sangygroup.com"
+              }
+            }
+          ]
+        },
+        {
+          "type": "people",
+          "people": [
+            {
+              "object": "user",
+              "id": "2b47d5ac-bd39-4aad-8e95-23ea4ab9b925"
+            }
+          ]
+        }
+      ],
+      "DO": null,
+      "Resource": null,
+      "Combo": null,
+      "Task count + 1": 3,
+      "Min": 0.25,
+      "Total Main": 1,
+      "Point Status": "Confirmed",
+      "Product point": 5,
+      "Check task done": null,
+      "Ưu tiên": null,
+      "Số hình": null,
+      "Due Date": null,
+      "Ghép BG": "Not started",
+      "Product type": null,
+      "Total QC": 1,
+      "Product": "FIX CLIENT CUT OUT 06"
+    },
+    "_title": "FIX CLIENT CUT OUT 06",
+    "database_name": "[Disk Knight] Product",
+    "project_name": "[Disk Knight]",
+    "database_id": "302ccb0e-ac88-8177-8ae3-cefc1eeadc70"
+  },
+  {
+    "id": "31fccb0e-ac88-8034-8d04-cf7abd5ada7a",
+    "created_time": "2026-03-10T10:02:00.000Z",
+    "last_edited_time": "2026-03-24T03:17:00.000Z",
+    "properties": {
+      "Task count ": 6,
+      "Total Fixed": 3,
+      "Episode": null,
+      "UTNL": null,
+      "Required by": "External",
+      "Task Create": null,
+      "Ngày làm": null,
+      "Owner": [
+        {
+          "id": "0b9c48d9-e3d0-4f8c-9b39-ca52da0939c0",
+          "name": "Hưng Nguyễn",
+          "email": "hungnn@sangygroup.com"
+        }
+      ],
+      "Tasks": [
+        "321ccb0e-ac88-800c-97fc-d7f9642f7182",
+        "321ccb0e-ac88-81c2-8470-fa4e89d2866f",
+        "325ccb0e-ac88-8145-994c-d8b678c57423",
+        "326ccb0e-ac88-80d6-9d27-e8f10ca81df2",
+        "328ccb0e-ac88-8023-bf6e-fe7e239804ed",
+        "32dccb0e-ac88-8032-8ccd-e97b44f0c11d"
+      ],
+      "Loại cảnh": "B",
+      "Max": 5,
+      "Status": "Pending Review",
+      "Rollup": [
+        {
+          "type": "people",
+          "people": [
+            {
+              "object": "user",
+              "id": "0b9c48d9-e3d0-4f8c-9b39-ca52da0939c0",
+              "name": "Hưng Nguyễn",
+              "avatar_url": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/c6b3f47d-5ee6-46bb-b375-9e9732591e68/image_2024-05-11_233503991.png",
+              "type": "person",
+              "person": {
+                "email": "hungnn@sangygroup.com"
+              }
+            }
+          ]
+        },
+        {
+          "type": "people",
+          "people": [
+            {
+              "object": "user",
+              "id": "2b47d5ac-bd39-4aad-8e95-23ea4ab9b925"
+            }
+          ]
+        },
+        {
+          "type": "people",
+          "people": [
+            {
+              "object": "user",
+              "id": "2b47d5ac-bd39-4aad-8e95-23ea4ab9b925"
+            }
+          ]
+        },
+        {
+          "type": "people",
+          "people": [
+            {
+              "object": "user",
+              "id": "0b9c48d9-e3d0-4f8c-9b39-ca52da0939c0",
+              "name": "Hưng Nguyễn",
+              "avatar_url": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/c6b3f47d-5ee6-46bb-b375-9e9732591e68/image_2024-05-11_233503991.png",
+              "type": "person",
+              "person": {
+                "email": "hungnn@sangygroup.com"
+              }
+            }
+          ]
+        },
+        {
+          "type": "people",
+          "people": [
+            {
+              "object": "user",
+              "id": "0b9c48d9-e3d0-4f8c-9b39-ca52da0939c0",
+              "name": "Hưng Nguyễn",
+              "avatar_url": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/c6b3f47d-5ee6-46bb-b375-9e9732591e68/image_2024-05-11_233503991.png",
+              "type": "person",
+              "person": {
+                "email": "hungnn@sangygroup.com"
+              }
+            }
+          ]
+        },
+        {
+          "type": "people",
+          "people": [
+            {
+              "object": "user",
+              "id": "0b9c48d9-e3d0-4f8c-9b39-ca52da0939c0",
+              "name": "Hưng Nguyễn",
+              "avatar_url": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/c6b3f47d-5ee6-46bb-b375-9e9732591e68/image_2024-05-11_233503991.png",
+              "type": "person",
+              "person": {
+                "email": "hungnn@sangygroup.com"
+              }
+            }
+          ]
+        }
+      ],
+      "DO": null,
+      "Resource": null,
+      "Combo": null,
+      "Task count + 1": 7,
+      "Min": 3.75,
+      "Total Main": 1,
+      "Point Status": "Unconfirmed",
+      "Product point": 35,
+      "Check task done": null,
+      "Ưu tiên": null,
+      "Số hình": null,
+      "Due Date": null,
+      "Ghép BG": "Not started",
+      "Product type": null,
+      "Total QC": 2,
+      "Product": "FIX CLIENT CUT OUT 12"
+    },
+    "_title": "FIX CLIENT CUT OUT 12",
+    "database_name": "[Disk Knight] Product",
+    "project_name": "[Disk Knight]",
+    "database_id": "302ccb0e-ac88-8177-8ae3-cefc1eeadc70"
+  },
+  {
+    "id": "31fccb0e-ac88-8050-ba20-c1e9c5174b5a",
+    "created_time": "2026-03-10T10:02:00.000Z",
+    "last_edited_time": "2026-03-19T11:56:00.000Z",
+    "properties": {
+      "Task count ": 4,
+      "Total Fixed": 0,
+      "Episode": null,
+      "UTNL": 0.125,
+      "Required by": "External",
+      "Task Create": null,
+      "Ngày làm": {
+        "start": "2026-03-12",
+        "end": null
+      },
+      "Owner": [
+        {
+          "id": "129b1033-6138-40a8-909d-7a4aeb994d99",
+          "name": "Bình Lường",
+          "email": "binhlt@sangygroup.com"
+        }
+      ],
+      "Tasks": [
+        "321ccb0e-ac88-8058-8784-cd16f89fc643",
+        "321ccb0e-ac88-8104-a4a0-dbc74d31bbeb",
+        "321ccb0e-ac88-804c-9aea-db4f7767fc42",
+        "321ccb0e-ac88-81f1-8f10-f370189d8ec7"
+      ],
+      "Loại cảnh": "F",
+      "Max": 0.25,
+      "Status": "QC Approved",
+      "Rollup": [
+        {
+          "type": "people",
+          "people": [
+            {
+              "object": "user",
+              "id": "129b1033-6138-40a8-909d-7a4aeb994d99",
+              "name": "Bình Lường",
+              "avatar_url": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/36f0e54c-999d-4b0c-8402-6e73ffec2b68/my-notion-face-portrait.png",
+              "type": "person",
+              "person": {
+                "email": "binhlt@sangygroup.com"
+              }
+            }
+          ]
+        },
+        {
+          "type": "people",
+          "people": [
+            {
+              "object": "user",
+              "id": "2b47d5ac-bd39-4aad-8e95-23ea4ab9b925"
+            }
+          ]
+        },
+        {
+          "type": "people",
+          "people": [
+            {
+              "object": "user",
+              "id": "129b1033-6138-40a8-909d-7a4aeb994d99",
+              "name": "Bình Lường",
+              "avatar_url": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/36f0e54c-999d-4b0c-8402-6e73ffec2b68/my-notion-face-portrait.png",
+              "type": "person",
+              "person": {
+                "email": "binhlt@sangygroup.com"
+              }
+            }
+          ]
+        },
+        {
+          "type": "people",
+          "people": [
+            {
+              "object": "user",
+              "id": "2b47d5ac-bd39-4aad-8e95-23ea4ab9b925"
+            }
+          ]
+        }
+      ],
+      "DO": null,
+      "Resource": null,
+      "Combo": null,
+      "Task count + 1": 5,
+      "Min": 0,
+      "Total Main": 2,
+      "Point Status": "Confirmed",
+      "Product point": 1,
+      "Check task done": null,
+      "Ưu tiên": null,
+      "Số hình": null,
+      "Due Date": null,
+      "Ghép BG": "Not started",
+      "Product type": null,
+      "Total QC": 2,
+      "Product": "FIX CLIENT CUT OUT 01"
+    },
+    "_title": "FIX CLIENT CUT OUT 01",
+    "database_name": "[Disk Knight] Product",
+    "project_name": "[Disk Knight]",
+    "database_id": "302ccb0e-ac88-8177-8ae3-cefc1eeadc70"
+  },
+  {
+    "id": "31fccb0e-ac88-8072-843e-f5625c726b9d",
+    "created_time": "2026-03-10T10:02:00.000Z",
+    "last_edited_time": "2026-03-19T11:56:00.000Z",
+    "properties": {
+      "Task count ": 4,
+      "Total Fixed": 1,
+      "Episode": null,
+      "UTNL": 0.5,
+      "Required by": "External",
+      "Task Create": null,
+      "Ngày làm": {
+        "start": "2026-03-12",
+        "end": null
+      },
+      "Owner": [
+        {
+          "id": "129b1033-6138-40a8-909d-7a4aeb994d99",
+          "name": "Bình Lường",
+          "email": "binhlt@sangygroup.com"
+        }
+      ],
+      "Tasks": [
+        "321ccb0e-ac88-80ad-bfb6-c24d2c586859",
+        "321ccb0e-ac88-8143-9c93-e694bc00e644",
+        "321ccb0e-ac88-8067-b4d6-fc84591958b2",
+        "322ccb0e-ac88-8126-841a-e5312db559fa"
+      ],
+      "Loại cảnh": "C",
+      "Max": 3.5,
+      "Status": "QC Approved",
+      "Rollup": [
+        {
+          "type": "people",
+          "people": [
+            {
+              "object": "user",
+              "id": "129b1033-6138-40a8-909d-7a4aeb994d99",
+              "name": "Bình Lường",
+              "avatar_url": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/36f0e54c-999d-4b0c-8402-6e73ffec2b68/my-notion-face-portrait.png",
+              "type": "person",
+              "person": {
+                "email": "binhlt@sangygroup.com"
+              }
+            }
+          ]
+        },
+        {
+          "type": "people",
+          "people": [
+            {
+              "object": "user",
+              "id": "2b47d5ac-bd39-4aad-8e95-23ea4ab9b925"
+            }
+          ]
+        },
+        {
+          "type": "people",
+          "people": [
+            {
+              "object": "user",
+              "id": "129b1033-6138-40a8-909d-7a4aeb994d99",
+              "name": "Bình Lường",
+              "avatar_url": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/36f0e54c-999d-4b0c-8402-6e73ffec2b68/my-notion-face-portrait.png",
+              "type": "person",
+              "person": {
+                "email": "binhlt@sangygroup.com"
+              }
+            }
+          ]
+        },
+        {
+          "type": "people",
+          "people": [
+            {
+              "object": "user",
+              "id": "2b47d5ac-bd39-4aad-8e95-23ea4ab9b925"
+            }
+          ]
+        }
+      ],
+      "DO": null,
+      "Resource": null,
+      "Combo": null,
+      "Task count + 1": 5,
+      "Min": 2.25,
+      "Total Main": 1,
+      "Point Status": "Confirmed",
+      "Product point": 25,
+      "Check task done": null,
+      "Ưu tiên": null,
+      "Số hình": null,
+      "Due Date": null,
+      "Ghép BG": "Not started",
+      "Product type": null,
+      "Total QC": 2,
+      "Product": "FIX CLIENT CUT OUT 03"
+    },
+    "_title": "FIX CLIENT CUT OUT 03",
+    "database_name": "[Disk Knight] Product",
+    "project_name": "[Disk Knight]",
+    "database_id": "302ccb0e-ac88-8177-8ae3-cefc1eeadc70"
+  },
+  {
+    "id": "31fccb0e-ac88-80a9-b1a4-ce32efc17e27",
+    "created_time": "2026-03-10T10:02:00.000Z",
+    "last_edited_time": "2026-03-19T11:56:00.000Z",
+    "properties": {
+      "Task count ": 4,
+      "Total Fixed": 0,
+      "Episode": null,
+      "UTNL": null,
+      "Required by": "External",
+      "Task Create": null,
+      "Ngày làm": null,
+      "Owner": [
+        {
+          "id": "129b1033-6138-40a8-909d-7a4aeb994d99",
+          "name": "Bình Lường",
+          "email": "binhlt@sangygroup.com"
+        }
+      ],
+      "Tasks": [
+        "321ccb0e-ac88-80a6-a503-c4bd2a0d2e2f",
+        "321ccb0e-ac88-8179-a0f2-f06daffbd28b",
+        "327ccb0e-ac88-809b-8d2d-c6fe3e3f070c",
+        "327ccb0e-ac88-810b-9711-ed0e6cf5e7b7"
+      ],
+      "Loại cảnh": "D",
+      "Max": 2,
+      "Status": "QC Approved",
+      "Rollup": [
+        {
+          "type": "people",
+          "people": [
+            {
+              "object": "user",
+              "id": "129b1033-6138-40a8-909d-7a4aeb994d99",
+              "name": "Bình Lường",
+              "avatar_url": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/36f0e54c-999d-4b0c-8402-6e73ffec2b68/my-notion-face-portrait.png",
+              "type": "person",
+              "person": {
+                "email": "binhlt@sangygroup.com"
+              }
+            }
+          ]
+        },
+        {
+          "type": "people",
+          "people": [
+            {
+              "object": "user",
+              "id": "2b47d5ac-bd39-4aad-8e95-23ea4ab9b925"
+            }
+          ]
+        },
+        {
+          "type": "people",
+          "people": [
+            {
+              "object": "user",
+              "id": "129b1033-6138-40a8-909d-7a4aeb994d99",
+              "name": "Bình Lường",
+              "avatar_url": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/36f0e54c-999d-4b0c-8402-6e73ffec2b68/my-notion-face-portrait.png",
+              "type": "person",
+              "person": {
+                "email": "binhlt@sangygroup.com"
+              }
+            }
+          ]
+        },
+        {
+          "type": "people",
+          "people": [
+            {
+              "object": "user",
+              "id": "2b47d5ac-bd39-4aad-8e95-23ea4ab9b925"
+            }
+          ]
+        }
+      ],
+      "DO": null,
+      "Resource": null,
+      "Combo": null,
+      "Task count + 1": 5,
+      "Min": 1,
+      "Total Main": 2,
+      "Point Status": "Confirmed",
+      "Product point": 14,
+      "Check task done": null,
+      "Ưu tiên": null,
+      "Số hình": null,
+      "Due Date": null,
+      "Ghép BG": "Not started",
+      "Product type": null,
+      "Total QC": 2,
+      "Product": "FIX CLIENT CUT OUT 02"
+    },
+    "_title": "FIX CLIENT CUT OUT 02",
+    "database_name": "[Disk Knight] Product",
+    "project_name": "[Disk Knight]",
+    "database_id": "302ccb0e-ac88-8177-8ae3-cefc1eeadc70"
+  },
+  {
+    "id": "31fccb0e-ac88-80d4-bfb2-fda5f0d8631e",
+    "created_time": "2026-03-10T10:02:00.000Z",
+    "last_edited_time": "2026-03-19T11:56:00.000Z",
+    "properties": {
+      "Task count ": 2,
+      "Total Fixed": 0,
+      "Episode": null,
+      "UTNL": null,
+      "Required by": "External",
+      "Task Create": null,
+      "Ngày làm": null,
+      "Owner": [
+        {
+          "id": "129b1033-6138-40a8-909d-7a4aeb994d99",
+          "name": "Bình Lường",
+          "email": "binhlt@sangygroup.com"
+        }
+      ],
+      "Tasks": [
+        "321ccb0e-ac88-806a-8840-ff40b9e17d8a",
+        "321ccb0e-ac88-8119-bd23-f0cb745502a0"
+      ],
+      "Loại cảnh": "F",
+      "Max": 0.25,
+      "Status": "QC Approved",
+      "Rollup": [
+        {
+          "type": "people",
+          "people": [
+            {
+              "object": "user",
+              "id": "129b1033-6138-40a8-909d-7a4aeb994d99",
+              "name": "Bình Lường",
+              "avatar_url": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/36f0e54c-999d-4b0c-8402-6e73ffec2b68/my-notion-face-portrait.png",
+              "type": "person",
+              "person": {
+                "email": "binhlt@sangygroup.com"
+              }
+            }
+          ]
+        },
+        {
+          "type": "people",
+          "people": [
+            {
+              "object": "user",
+              "id": "2b47d5ac-bd39-4aad-8e95-23ea4ab9b925"
+            }
+          ]
+        }
+      ],
+      "DO": null,
+      "Resource": null,
+      "Combo": null,
+      "Task count + 1": 3,
+      "Min": 0,
+      "Total Main": 1,
+      "Point Status": "Confirmed",
+      "Product point": 1,
+      "Check task done": null,
+      "Ưu tiên": null,
+      "Số hình": null,
+      "Due Date": null,
+      "Ghép BG": "Not started",
+      "Product type": null,
+      "Total QC": 1,
+      "Product": "FIX CLIENT CUT OUT 08"
+    },
+    "_title": "FIX CLIENT CUT OUT 08",
+    "database_name": "[Disk Knight] Product",
+    "project_name": "[Disk Knight]",
+    "database_id": "302ccb0e-ac88-8177-8ae3-cefc1eeadc70"
+  },
+  {
+    "id": "321ccb0e-ac88-8031-8aaf-fb34a6555e24",
+    "created_time": "2026-03-12T02:58:00.000Z",
+    "last_edited_time": "2026-03-20T04:09:00.000Z",
+    "properties": {
+      "Task count ": 1,
+      "Total Fixed": 0,
+      "Episode": null,
+      "UTNL": null,
+      "Required by": "Internal",
+      "Task Create": null,
+      "Ngày làm": null,
+      "Owner": [
+        {
+          "id": "04072340-1849-4642-93b8-632bb7dede0f",
+          "name": "Hòa Trần",
+          "email": "hoatx@sangygroup.com"
+        }
+      ],
+      "Tasks": [
+        "329ccb0e-ac88-8147-a295-c799afe42aaf"
+      ],
+      "Loại cảnh": null,
+      "Max": null,
+      "Status": "QC Approved",
+      "Rollup": [
+        {
+          "type": "people",
+          "people": [
+            {
+              "object": "user",
+              "id": "04072340-1849-4642-93b8-632bb7dede0f",
+              "name": "Hòa Trần",
+              "avatar_url": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/496bf976-d4d1-412d-bcd2-4c50a10e5b2d/IG_SQ02_SC085_00000.png",
+              "type": "person",
+              "person": {
+                "email": "hoatx@sangygroup.com"
+              }
+            }
+          ]
+        }
+      ],
+      "DO": null,
+      "Resource": null,
+      "Combo": null,
+      "Task count + 1": 2,
+      "Min": null,
+      "Total Main": 0,
+      "Point Status": "Confirmed",
+      "Product point": 0,
+      "Check task done": null,
+      "Ưu tiên": null,
+      "Số hình": null,
+      "Due Date": null,
+      "Ghép BG": "Not started",
+      "Product type": "Comp",
+      "Total QC": 1,
+      "Product": "Comp 08"
+    },
+    "_title": "Comp 08",
+    "database_name": "[Disk Knight] Product",
+    "project_name": "[Disk Knight]",
+    "database_id": "302ccb0e-ac88-8177-8ae3-cefc1eeadc70"
+  },
+  {
+    "id": "321ccb0e-ac88-803a-8697-ce86ee68467a",
+    "created_time": "2026-03-12T02:58:00.000Z",
+    "last_edited_time": "2026-03-20T05:31:00.000Z",
+    "properties": {
+      "Task count ": 0,
+      "Total Fixed": 0,
+      "Episode": null,
+      "UTNL": null,
+      "Required by": "Internal",
+      "Task Create": null,
+      "Ngày làm": null,
+      "Owner": [
+        {
+          "id": "04072340-1849-4642-93b8-632bb7dede0f",
+          "name": "Hòa Trần",
+          "email": "hoatx@sangygroup.com"
+        }
+      ],
+      "Tasks": [],
+      "Loại cảnh": null,
+      "Max": null,
+      "Status": "In progress",
+      "Rollup": null,
+      "DO": null,
+      "Resource": null,
+      "Combo": null,
+      "Task count + 1": 1,
+      "Min": null,
+      "Total Main": 0,
+      "Point Status": "Unconfirmed",
+      "Product point": 0,
+      "Check task done": null,
+      "Ưu tiên": null,
+      "Số hình": null,
+      "Due Date": null,
+      "Ghép BG": "Not started",
+      "Product type": "Comp",
+      "Total QC": 0,
+      "Product": "Comp 12"
+    },
+    "_title": "Comp 12",
+    "database_name": "[Disk Knight] Product",
+    "project_name": "[Disk Knight]",
+    "database_id": "302ccb0e-ac88-8177-8ae3-cefc1eeadc70"
+  },
+  {
+    "id": "321ccb0e-ac88-8063-9417-d4413ada57b0",
+    "created_time": "2026-03-12T02:58:00.000Z",
+    "last_edited_time": "2026-03-20T03:52:00.000Z",
+    "properties": {
+      "Task count ": 1,
+      "Total Fixed": 0,
+      "Episode": null,
+      "UTNL": null,
+      "Required by": "Internal",
+      "Task Create": null,
+      "Ngày làm": null,
+      "Owner": [
+        {
+          "id": "04072340-1849-4642-93b8-632bb7dede0f",
+          "name": "Hòa Trần",
+          "email": "hoatx@sangygroup.com"
+        }
+      ],
+      "Tasks": [
+        "329ccb0e-ac88-81a7-881d-e221c3afa259"
+      ],
+      "Loại cảnh": null,
+      "Max": null,
+      "Status": "QC Approved",
+      "Rollup": [
+        {
+          "type": "people",
+          "people": [
+            {
+              "object": "user",
+              "id": "04072340-1849-4642-93b8-632bb7dede0f",
+              "name": "Hòa Trần",
+              "avatar_url": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/496bf976-d4d1-412d-bcd2-4c50a10e5b2d/IG_SQ02_SC085_00000.png",
+              "type": "person",
+              "person": {
+                "email": "hoatx@sangygroup.com"
+              }
+            }
+          ]
+        }
+      ],
+      "DO": null,
+      "Resource": null,
+      "Combo": null,
+      "Task count + 1": 2,
+      "Min": null,
+      "Total Main": 0,
+      "Point Status": "Confirmed",
+      "Product point": 0,
+      "Check task done": null,
+      "Ưu tiên": null,
+      "Số hình": null,
+      "Due Date": null,
+      "Ghép BG": "Not started",
+      "Product type": "Comp",
+      "Total QC": 1,
+      "Product": "Comp 06"
+    },
+    "_title": "Comp 06",
+    "database_name": "[Disk Knight] Product",
+    "project_name": "[Disk Knight]",
+    "database_id": "302ccb0e-ac88-8177-8ae3-cefc1eeadc70"
+  },
+  {
+    "id": "321ccb0e-ac88-8091-a66e-c6d71349db04",
+    "created_time": "2026-03-12T02:58:00.000Z",
+    "last_edited_time": "2026-03-20T04:09:00.000Z",
+    "properties": {
+      "Task count ": 1,
+      "Total Fixed": 0,
+      "Episode": null,
+      "UTNL": null,
+      "Required by": "Internal",
+      "Task Create": null,
+      "Ngày làm": null,
+      "Owner": [
+        {
+          "id": "04072340-1849-4642-93b8-632bb7dede0f",
+          "name": "Hòa Trần",
+          "email": "hoatx@sangygroup.com"
+        }
+      ],
+      "Tasks": [
+        "329ccb0e-ac88-810b-bd0d-f090457de62d"
+      ],
+      "Loại cảnh": null,
+      "Max": null,
+      "Status": "QC Approved",
+      "Rollup": [
+        {
+          "type": "people",
+          "people": [
+            {
+              "object": "user",
+              "id": "04072340-1849-4642-93b8-632bb7dede0f",
+              "name": "Hòa Trần",
+              "avatar_url": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/496bf976-d4d1-412d-bcd2-4c50a10e5b2d/IG_SQ02_SC085_00000.png",
+              "type": "person",
+              "person": {
+                "email": "hoatx@sangygroup.com"
+              }
+            }
+          ]
+        }
+      ],
+      "DO": null,
+      "Resource": null,
+      "Combo": null,
+      "Task count + 1": 2,
+      "Min": null,
+      "Total Main": 0,
+      "Point Status": "Confirmed",
+      "Product point": 0,
+      "Check task done": null,
+      "Ưu tiên": null,
+      "Số hình": null,
+      "Due Date": null,
+      "Ghép BG": "Not started",
+      "Product type": "Comp",
+      "Total QC": 1,
+      "Product": "Comp 03"
+    },
+    "_title": "Comp 03",
+    "database_name": "[Disk Knight] Product",
+    "project_name": "[Disk Knight]",
+    "database_id": "302ccb0e-ac88-8177-8ae3-cefc1eeadc70"
+  },
+  {
+    "id": "321ccb0e-ac88-8093-b8d4-e5bf22a242f7",
+    "created_time": "2026-03-12T02:58:00.000Z",
+    "last_edited_time": "2026-03-19T10:34:00.000Z",
+    "properties": {
+      "Task count ": 1,
+      "Total Fixed": 0,
+      "Episode": null,
+      "UTNL": null,
+      "Required by": "Internal",
+      "Task Create": null,
+      "Ngày làm": null,
+      "Owner": [
+        {
+          "id": "04072340-1849-4642-93b8-632bb7dede0f",
+          "name": "Hòa Trần",
+          "email": "hoatx@sangygroup.com"
+        }
+      ],
+      "Tasks": [
+        "328ccb0e-ac88-81f4-8438-fa87787ac502"
+      ],
+      "Loại cảnh": null,
+      "Max": null,
+      "Status": "QC Approved",
+      "Rollup": [
+        {
+          "type": "people",
+          "people": [
+            {
+              "object": "user",
+              "id": "04072340-1849-4642-93b8-632bb7dede0f",
+              "name": "Hòa Trần",
+              "avatar_url": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/496bf976-d4d1-412d-bcd2-4c50a10e5b2d/IG_SQ02_SC085_00000.png",
+              "type": "person",
+              "person": {
+                "email": "hoatx@sangygroup.com"
+              }
+            }
+          ]
+        }
+      ],
+      "DO": null,
+      "Resource": null,
+      "Combo": null,
+      "Task count + 1": 2,
+      "Min": null,
+      "Total Main": 0,
+      "Point Status": "Confirmed",
+      "Product point": 0,
+      "Check task done": null,
+      "Ưu tiên": null,
+      "Số hình": null,
+      "Due Date": null,
+      "Ghép BG": "Not started",
+      "Product type": "Comp",
+      "Total QC": 1,
+      "Product": "Comp 05"
+    },
+    "_title": "Comp 05",
+    "database_name": "[Disk Knight] Product",
+    "project_name": "[Disk Knight]",
+    "database_id": "302ccb0e-ac88-8177-8ae3-cefc1eeadc70"
+  },
+  {
+    "id": "321ccb0e-ac88-80a7-8eac-dda8f7517826",
+    "created_time": "2026-03-12T02:58:00.000Z",
+    "last_edited_time": "2026-03-20T03:52:00.000Z",
+    "properties": {
+      "Task count ": 1,
+      "Total Fixed": 0,
+      "Episode": null,
+      "UTNL": null,
+      "Required by": "Internal",
+      "Task Create": null,
+      "Ngày làm": null,
+      "Owner": [
+        {
+          "id": "04072340-1849-4642-93b8-632bb7dede0f",
+          "name": "Hòa Trần",
+          "email": "hoatx@sangygroup.com"
+        }
+      ],
+      "Tasks": [
+        "329ccb0e-ac88-815d-b168-f1d98ef4a215"
+      ],
+      "Loại cảnh": null,
+      "Max": null,
+      "Status": "QC Approved",
+      "Rollup": [
+        {
+          "type": "people",
+          "people": [
+            {
+              "object": "user",
+              "id": "04072340-1849-4642-93b8-632bb7dede0f",
+              "name": "Hòa Trần",
+              "avatar_url": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/496bf976-d4d1-412d-bcd2-4c50a10e5b2d/IG_SQ02_SC085_00000.png",
+              "type": "person",
+              "person": {
+                "email": "hoatx@sangygroup.com"
+              }
+            }
+          ]
+        }
+      ],
+      "DO": null,
+      "Resource": null,
+      "Combo": null,
+      "Task count + 1": 2,
+      "Min": null,
+      "Total Main": 0,
+      "Point Status": "Confirmed",
+      "Product point": 0,
+      "Check task done": null,
+      "Ưu tiên": null,
+      "Số hình": null,
+      "Due Date": null,
+      "Ghép BG": "Not started",
+      "Product type": "Comp",
+      "Total QC": 1,
+      "Product": "Comp 04"
+    },
+    "_title": "Comp 04",
+    "database_name": "[Disk Knight] Product",
+    "project_name": "[Disk Knight]",
+    "database_id": "302ccb0e-ac88-8177-8ae3-cefc1eeadc70"
+  },
+  {
+    "id": "321ccb0e-ac88-80b4-b85c-f87e646fe69d",
+    "created_time": "2026-03-12T02:58:00.000Z",
+    "last_edited_time": "2026-03-19T10:34:00.000Z",
+    "properties": {
+      "Task count ": 1,
+      "Total Fixed": 0,
+      "Episode": null,
+      "UTNL": null,
+      "Required by": "Internal",
+      "Task Create": null,
+      "Ngày làm": null,
+      "Owner": [
+        {
+          "id": "04072340-1849-4642-93b8-632bb7dede0f",
+          "name": "Hòa Trần",
+          "email": "hoatx@sangygroup.com"
+        }
+      ],
+      "Tasks": [
+        "326ccb0e-ac88-81f2-91e4-ff7842aefbdb"
+      ],
+      "Loại cảnh": null,
+      "Max": null,
+      "Status": "QC Approved",
+      "Rollup": [
+        {
+          "type": "people",
+          "people": [
+            {
+              "object": "user",
+              "id": "04072340-1849-4642-93b8-632bb7dede0f",
+              "name": "Hòa Trần",
+              "avatar_url": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/496bf976-d4d1-412d-bcd2-4c50a10e5b2d/IG_SQ02_SC085_00000.png",
+              "type": "person",
+              "person": {
+                "email": "hoatx@sangygroup.com"
+              }
+            }
+          ]
+        }
+      ],
+      "DO": null,
+      "Resource": null,
+      "Combo": null,
+      "Task count + 1": 2,
+      "Min": null,
+      "Total Main": 0,
+      "Point Status": "Confirmed",
+      "Product point": 0,
+      "Check task done": null,
+      "Ưu tiên": null,
+      "Số hình": null,
+      "Due Date": null,
+      "Ghép BG": "Not started",
+      "Product type": "Comp",
+      "Total QC": 1,
+      "Product": "Comp 09"
+    },
+    "_title": "Comp 09",
+    "database_name": "[Disk Knight] Product",
+    "project_name": "[Disk Knight]",
+    "database_id": "302ccb0e-ac88-8177-8ae3-cefc1eeadc70"
+  },
+  {
+    "id": "321ccb0e-ac88-80bb-9ff4-e75a99e59ca5",
+    "created_time": "2026-03-12T02:58:00.000Z",
+    "last_edited_time": "2026-03-19T10:34:00.000Z",
+    "properties": {
+      "Task count ": 1,
+      "Total Fixed": 0,
+      "Episode": null,
+      "UTNL": null,
+      "Required by": "Internal",
+      "Task Create": null,
+      "Ngày làm": null,
+      "Owner": [
+        {
+          "id": "04072340-1849-4642-93b8-632bb7dede0f",
+          "name": "Hòa Trần",
+          "email": "hoatx@sangygroup.com"
+        }
+      ],
+      "Tasks": [
+        "328ccb0e-ac88-81b0-95c1-d28e72e3be0c"
+      ],
+      "Loại cảnh": null,
+      "Max": null,
+      "Status": "QC Approved",
+      "Rollup": [
+        {
+          "type": "people",
+          "people": [
+            {
+              "object": "user",
+              "id": "04072340-1849-4642-93b8-632bb7dede0f",
+              "name": "Hòa Trần",
+              "avatar_url": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/496bf976-d4d1-412d-bcd2-4c50a10e5b2d/IG_SQ02_SC085_00000.png",
+              "type": "person",
+              "person": {
+                "email": "hoatx@sangygroup.com"
+              }
+            }
+          ]
+        }
+      ],
+      "DO": null,
+      "Resource": null,
+      "Combo": null,
+      "Task count + 1": 2,
+      "Min": null,
+      "Total Main": 0,
+      "Point Status": "Confirmed",
+      "Product point": 0,
+      "Check task done": null,
+      "Ưu tiên": null,
+      "Số hình": null,
+      "Due Date": null,
+      "Ghép BG": "Not started",
+      "Product type": "Comp",
+      "Total QC": 1,
+      "Product": "Comp 07"
+    },
+    "_title": "Comp 07",
+    "database_name": "[Disk Knight] Product",
+    "project_name": "[Disk Knight]",
+    "database_id": "302ccb0e-ac88-8177-8ae3-cefc1eeadc70"
+  },
+  {
+    "id": "321ccb0e-ac88-80cf-bbf5-d961be383898",
+    "created_time": "2026-03-12T02:58:00.000Z",
+    "last_edited_time": "2026-03-19T10:34:00.000Z",
+    "properties": {
+      "Task count ": 1,
+      "Total Fixed": 0,
+      "Episode": null,
+      "UTNL": null,
+      "Required by": "Internal",
+      "Task Create": null,
+      "Ngày làm": null,
+      "Owner": [
+        {
+          "id": "04072340-1849-4642-93b8-632bb7dede0f",
+          "name": "Hòa Trần",
+          "email": "hoatx@sangygroup.com"
+        }
+      ],
+      "Tasks": [
+        "328ccb0e-ac88-81a9-8362-e272029496e2"
+      ],
+      "Loại cảnh": null,
+      "Max": null,
+      "Status": "QC Approved",
+      "Rollup": [
+        {
+          "type": "people",
+          "people": [
+            {
+              "object": "user",
+              "id": "04072340-1849-4642-93b8-632bb7dede0f",
+              "name": "Hòa Trần",
+              "avatar_url": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/496bf976-d4d1-412d-bcd2-4c50a10e5b2d/IG_SQ02_SC085_00000.png",
+              "type": "person",
+              "person": {
+                "email": "hoatx@sangygroup.com"
+              }
+            }
+          ]
+        }
+      ],
+      "DO": null,
+      "Resource": null,
+      "Combo": null,
+      "Task count + 1": 2,
+      "Min": null,
+      "Total Main": 0,
+      "Point Status": "Confirmed",
+      "Product point": 0,
+      "Check task done": null,
+      "Ưu tiên": null,
+      "Số hình": null,
+      "Due Date": null,
+      "Ghép BG": "Not started",
+      "Product type": "Comp",
+      "Total QC": 1,
+      "Product": "Comp 11"
+    },
+    "_title": "Comp 11",
+    "database_name": "[Disk Knight] Product",
+    "project_name": "[Disk Knight]",
+    "database_id": "302ccb0e-ac88-8177-8ae3-cefc1eeadc70"
+  },
+  {
+    "id": "321ccb0e-ac88-80e3-a51c-e7d41fb245ee",
+    "created_time": "2026-03-12T02:58:00.000Z",
+    "last_edited_time": "2026-03-19T10:34:00.000Z",
+    "properties": {
+      "Task count ": 1,
+      "Total Fixed": 0,
+      "Episode": null,
+      "UTNL": null,
+      "Required by": "Internal",
+      "Task Create": null,
+      "Ngày làm": null,
+      "Owner": [
+        {
+          "id": "04072340-1849-4642-93b8-632bb7dede0f",
+          "name": "Hòa Trần",
+          "email": "hoatx@sangygroup.com"
+        }
+      ],
+      "Tasks": [
+        "326ccb0e-ac88-8170-ab5d-fca558a01d0f"
+      ],
+      "Loại cảnh": null,
+      "Max": null,
+      "Status": "QC Approved",
+      "Rollup": [
+        {
+          "type": "people",
+          "people": [
+            {
+              "object": "user",
+              "id": "04072340-1849-4642-93b8-632bb7dede0f",
+              "name": "Hòa Trần",
+              "avatar_url": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/496bf976-d4d1-412d-bcd2-4c50a10e5b2d/IG_SQ02_SC085_00000.png",
+              "type": "person",
+              "person": {
+                "email": "hoatx@sangygroup.com"
+              }
+            }
+          ]
+        }
+      ],
+      "DO": null,
+      "Resource": null,
+      "Combo": null,
+      "Task count + 1": 2,
+      "Min": null,
+      "Total Main": 0,
+      "Point Status": "Confirmed",
+      "Product point": 0,
+      "Check task done": null,
+      "Ưu tiên": null,
+      "Số hình": null,
+      "Due Date": null,
+      "Ghép BG": "Not started",
+      "Product type": "Comp",
+      "Total QC": 1,
+      "Product": "Comp 10"
+    },
+    "_title": "Comp 10",
+    "database_name": "[Disk Knight] Product",
+    "project_name": "[Disk Knight]",
+    "database_id": "302ccb0e-ac88-8177-8ae3-cefc1eeadc70"
+  },
+  {
+    "id": "321ccb0e-ac88-80f5-aded-ce9af46c1aeb",
+    "created_time": "2026-03-12T02:58:00.000Z",
+    "last_edited_time": "2026-03-20T03:51:00.000Z",
+    "properties": {
+      "Task count ": 1,
+      "Total Fixed": 0,
+      "Episode": null,
+      "UTNL": null,
+      "Required by": "Internal",
+      "Task Create": null,
+      "Ngày làm": null,
+      "Owner": [
+        {
+          "id": "04072340-1849-4642-93b8-632bb7dede0f",
+          "name": "Hòa Trần",
+          "email": "hoatx@sangygroup.com"
+        }
+      ],
+      "Tasks": [
+        "329ccb0e-ac88-81a2-847e-f4ee518368ad"
+      ],
+      "Loại cảnh": null,
+      "Max": null,
+      "Status": "QC Approved",
+      "Rollup": [
+        {
+          "type": "people",
+          "people": [
+            {
+              "object": "user",
+              "id": "04072340-1849-4642-93b8-632bb7dede0f",
+              "name": "Hòa Trần",
+              "avatar_url": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/496bf976-d4d1-412d-bcd2-4c50a10e5b2d/IG_SQ02_SC085_00000.png",
+              "type": "person",
+              "person": {
+                "email": "hoatx@sangygroup.com"
+              }
+            }
+          ]
+        }
+      ],
+      "DO": null,
+      "Resource": null,
+      "Combo": null,
+      "Task count + 1": 2,
+      "Min": null,
+      "Total Main": 0,
+      "Point Status": "Confirmed",
+      "Product point": 0,
+      "Check task done": null,
+      "Ưu tiên": null,
+      "Số hình": null,
+      "Due Date": null,
+      "Ghép BG": "Not started",
+      "Product type": "Comp",
+      "Total QC": 1,
+      "Product": "Comp 01"
+    },
+    "_title": "Comp 01",
+    "database_name": "[Disk Knight] Product",
+    "project_name": "[Disk Knight]",
+    "database_id": "302ccb0e-ac88-8177-8ae3-cefc1eeadc70"
+  },
+  {
+    "id": "321ccb0e-ac88-80fc-a19e-c8c3b19095f2",
+    "created_time": "2026-03-12T02:58:00.000Z",
+    "last_edited_time": "2026-03-20T03:52:00.000Z",
+    "properties": {
+      "Task count ": 1,
+      "Total Fixed": 0,
+      "Episode": null,
+      "UTNL": null,
+      "Required by": "Internal",
+      "Task Create": null,
+      "Ngày làm": null,
+      "Owner": [
+        {
+          "id": "04072340-1849-4642-93b8-632bb7dede0f",
+          "name": "Hòa Trần",
+          "email": "hoatx@sangygroup.com"
+        }
+      ],
+      "Tasks": [
+        "329ccb0e-ac88-811c-b327-dd15db862ea5"
+      ],
+      "Loại cảnh": null,
+      "Max": null,
+      "Status": "QC Approved",
+      "Rollup": [
+        {
+          "type": "people",
+          "people": [
+            {
+              "object": "user",
+              "id": "04072340-1849-4642-93b8-632bb7dede0f",
+              "name": "Hòa Trần",
+              "avatar_url": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/496bf976-d4d1-412d-bcd2-4c50a10e5b2d/IG_SQ02_SC085_00000.png",
+              "type": "person",
+              "person": {
+                "email": "hoatx@sangygroup.com"
+              }
+            }
+          ]
+        }
+      ],
+      "DO": null,
+      "Resource": null,
+      "Combo": null,
+      "Task count + 1": 2,
+      "Min": null,
+      "Total Main": 0,
+      "Point Status": "Confirmed",
+      "Product point": 0,
+      "Check task done": null,
+      "Ưu tiên": null,
+      "Số hình": null,
+      "Due Date": null,
+      "Ghép BG": "Not started",
+      "Product type": "Comp",
+      "Total QC": 1,
+      "Product": "Comp 02"
+    },
+    "_title": "Comp 02",
+    "database_name": "[Disk Knight] Product",
+    "project_name": "[Disk Knight]",
+    "database_id": "302ccb0e-ac88-8177-8ae3-cefc1eeadc70"
+  }
+]

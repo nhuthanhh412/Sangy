@@ -1,0 +1,2204 @@
+[
+  {
+    "id": "2dfccb0e-ac88-807c-9c4e-e1f590044d42",
+    "created_time": "2026-01-05T03:50:00.000Z",
+    "last_edited_time": "2026-02-11T08:45:00.000Z",
+    "properties": {
+      "Comp": [],
+      "FX": "",
+      "Đã có prop": false,
+      "Combo": null,
+      "Note anim": "",
+      "Layout": "Cần LO trước",
+      "Prop & mô tả prop": "Postcard\nbát salad",
+      "Key": "C",
+      "IBW": "D",
+      "Nhân vật": [
+        "Midnight Jack",
+        "Genevie",
+        "BlueberryCat"
+      ],
+      "Scene": "36"
+    },
+    "_title": "36",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-8120-9611-cb13421a4b4f"
+  },
+  {
+    "id": "2dfccb0e-ac88-80ca-a075-f3e2524d1ed6",
+    "created_time": "2026-01-05T03:50:00.000Z",
+    "last_edited_time": "2026-02-11T08:35:00.000Z",
+    "properties": {
+      "Comp": [],
+      "FX": "",
+      "Đã có prop": false,
+      "Combo": null,
+      "Note anim": "",
+      "Layout": null,
+      "Prop & mô tả prop": "Postcard\nchữ",
+      "Key": "D",
+      "IBW": "E",
+      "Nhân vật": [
+        "Genevie"
+      ],
+      "Scene": "31"
+    },
+    "_title": "31",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-8120-9611-cb13421a4b4f"
+  },
+  {
+    "id": "2dfccb0e-ac88-8101-866b-c35cbd65aa80",
+    "created_time": "2026-01-05T03:48:00.000Z",
+    "last_edited_time": "2026-02-11T08:42:00.000Z",
+    "properties": {
+      "Comp": [],
+      "FX": "fx biến mất ⇒ reuse",
+      "Đã có prop": false,
+      "Combo": null,
+      "Note anim": "dùng hình BG cung cấp là prop Moose thần đèn và thần đồng",
+      "Layout": null,
+      "Prop & mô tả prop": "Moose thần đèn\nMoose thần đồng",
+      "Key": "D",
+      "IBW": "E",
+      "Nhân vật": [
+        "Genevie"
+      ],
+      "Scene": "33"
+    },
+    "_title": "33",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-8120-9611-cb13421a4b4f"
+  },
+  {
+    "id": "2dfccb0e-ac88-8101-9b16-ccc35acd95e3",
+    "created_time": "2026-01-05T03:48:00.000Z",
+    "last_edited_time": "2026-02-11T08:48:00.000Z",
+    "properties": {
+      "Comp": [],
+      "FX": "",
+      "Đã có prop": false,
+      "Combo": null,
+      "Note anim": "",
+      "Layout": "Cần LO trước",
+      "Prop & mô tả prop": "giỏ",
+      "Key": "D",
+      "IBW": "E",
+      "Nhân vật": [
+        "Midnight Jack",
+        "Mosse",
+        "BlueberryCat",
+        "Genevie",
+        "Cherrycat"
+      ],
+      "Scene": "39"
+    },
+    "_title": "39",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-8120-9611-cb13421a4b4f"
+  },
+  {
+    "id": "2dfccb0e-ac88-8102-8748-da7464e39d50",
+    "created_time": "2026-01-05T03:48:00.000Z",
+    "last_edited_time": "2026-02-11T09:40:00.000Z",
+    "properties": {
+      "Comp": [],
+      "FX": "",
+      "Đã có prop": false,
+      "Combo": null,
+      "Note anim": "",
+      "Layout": null,
+      "Prop & mô tả prop": "",
+      "Key": "D",
+      "IBW": "E",
+      "Nhân vật": [
+        "Midnight Jack",
+        "Orange Cat"
+      ],
+      "Scene": "77"
+    },
+    "_title": "77",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-8120-9611-cb13421a4b4f"
+  },
+  {
+    "id": "2dfccb0e-ac88-8102-b1a9-e7d66482fd41",
+    "created_time": "2026-01-05T03:48:00.000Z",
+    "last_edited_time": "2026-02-11T09:20:00.000Z",
+    "properties": {
+      "Comp": [
+        "Glow"
+      ],
+      "FX": "",
+      "Đã có prop": false,
+      "Combo": "7",
+      "Note anim": "",
+      "Layout": null,
+      "Prop & mô tả prop": "Postcard\nchữ",
+      "Key": "F",
+      "IBW": "F",
+      "Nhân vật": [
+        "Genevie"
+      ],
+      "Scene": "30"
+    },
+    "_title": "30",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-8120-9611-cb13421a4b4f"
+  },
+  {
+    "id": "2dfccb0e-ac88-8103-a9d1-e1c228c61ea7",
+    "created_time": "2026-01-05T03:48:00.000Z",
+    "last_edited_time": "2026-02-11T09:51:00.000Z",
+    "properties": {
+      "Comp": [],
+      "FX": "",
+      "Đã có prop": false,
+      "Combo": null,
+      "Note anim": "",
+      "Layout": null,
+      "Prop & mô tả prop": "Chữ",
+      "Key": "D",
+      "IBW": "E",
+      "Nhân vật": [
+        "Mosse"
+      ],
+      "Scene": "22"
+    },
+    "_title": "22",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-8120-9611-cb13421a4b4f"
+  },
+  {
+    "id": "2dfccb0e-ac88-810e-9aec-c3c4bb37750e",
+    "created_time": "2026-01-05T03:48:00.000Z",
+    "last_edited_time": "2026-02-11T09:13:00.000Z",
+    "properties": {
+      "Comp": [],
+      "FX": "",
+      "Đã có prop": false,
+      "Combo": "5",
+      "Note anim": "anim  chữ + số",
+      "Layout": null,
+      "Prop & mô tả prop": "Giỏ\nquả cam\nchữ + số",
+      "Key": "E",
+      "IBW": "F",
+      "Nhân vật": [],
+      "Scene": "44"
+    },
+    "_title": "44",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-8120-9611-cb13421a4b4f"
+  },
+  {
+    "id": "2dfccb0e-ac88-810e-9cd5-f014769b83e2",
+    "created_time": "2026-01-05T03:48:00.000Z",
+    "last_edited_time": "2026-01-05T03:49:00.000Z",
+    "properties": {
+      "Comp": [],
+      "FX": "",
+      "Đã có prop": false,
+      "Combo": null,
+      "Note anim": "",
+      "Layout": null,
+      "Prop & mô tả prop": "",
+      "Key": null,
+      "IBW": null,
+      "Nhân vật": [],
+      "Scene": "17"
+    },
+    "_title": "17",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-8120-9611-cb13421a4b4f"
+  },
+  {
+    "id": "2dfccb0e-ac88-8120-a561-c596c28a1254",
+    "created_time": "2026-01-05T03:48:00.000Z",
+    "last_edited_time": "2026-02-12T02:55:00.000Z",
+    "properties": {
+      "Comp": [],
+      "FX": "",
+      "Đã có prop": false,
+      "Combo": null,
+      "Note anim": "",
+      "Layout": null,
+      "Prop & mô tả prop": "Postcard",
+      "Key": "D",
+      "IBW": "E",
+      "Nhân vật": [
+        "Genevie",
+        "Midnight Jack"
+      ],
+      "Scene": "13"
+    },
+    "_title": "13",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-8120-9611-cb13421a4b4f"
+  },
+  {
+    "id": "2dfccb0e-ac88-8128-b58e-f6a07c787b9f",
+    "created_time": "2026-01-05T03:48:00.000Z",
+    "last_edited_time": "2026-01-05T03:49:00.000Z",
+    "properties": {
+      "Comp": [],
+      "FX": "",
+      "Đã có prop": false,
+      "Combo": null,
+      "Note anim": "",
+      "Layout": null,
+      "Prop & mô tả prop": "",
+      "Key": null,
+      "IBW": null,
+      "Nhân vật": [],
+      "Scene": "05"
+    },
+    "_title": "05",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-8120-9611-cb13421a4b4f"
+  },
+  {
+    "id": "2dfccb0e-ac88-812e-a8d0-e2358cfb6da3",
+    "created_time": "2026-01-05T03:48:00.000Z",
+    "last_edited_time": "2026-02-11T09:41:00.000Z",
+    "properties": {
+      "Comp": [],
+      "FX": "",
+      "Đã có prop": false,
+      "Combo": null,
+      "Note anim": "",
+      "Layout": null,
+      "Prop & mô tả prop": "Cốc nước chanh",
+      "Key": "E",
+      "IBW": "F",
+      "Nhân vật": [
+        "BlueberryCat"
+      ],
+      "Scene": "79"
+    },
+    "_title": "79",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-8120-9611-cb13421a4b4f"
+  },
+  {
+    "id": "2dfccb0e-ac88-812f-9f63-c1afda02ea4c",
+    "created_time": "2026-01-05T03:48:00.000Z",
+    "last_edited_time": "2026-02-11T08:47:00.000Z",
+    "properties": {
+      "Comp": [],
+      "FX": "",
+      "Đã có prop": false,
+      "Combo": null,
+      "Note anim": "",
+      "Layout": "Cần LO trước",
+      "Prop & mô tả prop": "",
+      "Key": "A",
+      "IBW": "C",
+      "Nhân vật": [
+        "Midnight Jack",
+        "Mosse",
+        "BlueberryCat",
+        "Genevie",
+        "Cherrycat"
+      ],
+      "Scene": "37"
+    },
+    "_title": "37",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-8120-9611-cb13421a4b4f"
+  },
+  {
+    "id": "2dfccb0e-ac88-812f-a123-e279378608e6",
+    "created_time": "2026-01-05T03:48:00.000Z",
+    "last_edited_time": "2026-02-11T09:41:00.000Z",
+    "properties": {
+      "Comp": [],
+      "FX": "",
+      "Đã có prop": false,
+      "Combo": null,
+      "Note anim": "",
+      "Layout": null,
+      "Prop & mô tả prop": "",
+      "Key": "E",
+      "IBW": "E",
+      "Nhân vật": [
+        "Cherrycat"
+      ],
+      "Scene": "78"
+    },
+    "_title": "78",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-8120-9611-cb13421a4b4f"
+  },
+  {
+    "id": "2dfccb0e-ac88-8130-94fd-e173d63043b2",
+    "created_time": "2026-01-05T03:48:00.000Z",
+    "last_edited_time": "2026-02-11T08:33:00.000Z",
+    "properties": {
+      "Comp": [],
+      "FX": "rau củ bay ",
+      "Đã có prop": false,
+      "Combo": null,
+      "Note anim": "smear in",
+      "Layout": null,
+      "Prop & mô tả prop": "dao\nrau củ",
+      "Key": "C",
+      "IBW": "E",
+      "Nhân vật": [
+        "BlueberryCat"
+      ],
+      "Scene": "28"
+    },
+    "_title": "28",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-8120-9611-cb13421a4b4f"
+  },
+  {
+    "id": "2dfccb0e-ac88-8132-862f-e8f95e799de0",
+    "created_time": "2026-01-05T03:48:00.000Z",
+    "last_edited_time": "2026-02-11T08:37:00.000Z",
+    "properties": {
+      "Comp": [],
+      "FX": "",
+      "Đã có prop": false,
+      "Combo": "4",
+      "Note anim": "giảm vì cùng combo",
+      "Layout": null,
+      "Prop & mô tả prop": "Postcard",
+      "Key": "D",
+      "IBW": "E",
+      "Nhân vật": [
+        "Midnight Jack",
+        "Mosse",
+        "Genevie",
+        "Cherrycat"
+      ],
+      "Scene": "32"
+    },
+    "_title": "32",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-8120-9611-cb13421a4b4f"
+  },
+  {
+    "id": "2dfccb0e-ac88-8136-a2f4-c9c1f0ea4dc3",
+    "created_time": "2026-01-05T03:48:00.000Z",
+    "last_edited_time": "2026-01-05T03:49:00.000Z",
+    "properties": {
+      "Comp": [],
+      "FX": "",
+      "Đã có prop": false,
+      "Combo": null,
+      "Note anim": "",
+      "Layout": null,
+      "Prop & mô tả prop": "",
+      "Key": null,
+      "IBW": null,
+      "Nhân vật": [],
+      "Scene": "07"
+    },
+    "_title": "07",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-8120-9611-cb13421a4b4f"
+  },
+  {
+    "id": "2dfccb0e-ac88-8139-95a9-ee97384630f2",
+    "created_time": "2026-01-05T03:48:00.000Z",
+    "last_edited_time": "2026-02-11T09:30:00.000Z",
+    "properties": {
+      "Comp": [],
+      "FX": "",
+      "Đã có prop": false,
+      "Combo": null,
+      "Note anim": "",
+      "Layout": "Cần LO trước",
+      "Prop & mô tả prop": "",
+      "Key": "D",
+      "IBW": "E",
+      "Nhân vật": [
+        "Mosse"
+      ],
+      "Scene": "64"
+    },
+    "_title": "64",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-8120-9611-cb13421a4b4f"
+  },
+  {
+    "id": "2dfccb0e-ac88-813f-9bfd-d8ae40be1c1b",
+    "created_time": "2026-01-05T03:48:00.000Z",
+    "last_edited_time": "2026-02-11T09:22:00.000Z",
+    "properties": {
+      "Comp": [
+        "Glow"
+      ],
+      "FX": "",
+      "Đã có prop": false,
+      "Combo": "7",
+      "Note anim": "",
+      "Layout": null,
+      "Prop & mô tả prop": "postcard\nchữ",
+      "Key": "F",
+      "IBW": "F",
+      "Nhân vật": [
+        "Genevie"
+      ],
+      "Scene": "54"
+    },
+    "_title": "54",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-8120-9611-cb13421a4b4f"
+  },
+  {
+    "id": "2dfccb0e-ac88-8143-bd7d-dd2d5a4a6656",
+    "created_time": "2026-01-05T03:48:00.000Z",
+    "last_edited_time": "2026-02-11T09:18:00.000Z",
+    "properties": {
+      "Comp": [],
+      "FX": "",
+      "Đã có prop": false,
+      "Combo": null,
+      "Note anim": "",
+      "Layout": null,
+      "Prop & mô tả prop": "quả cam",
+      "Key": "E",
+      "IBW": "F",
+      "Nhân vật": [
+        "Midnight Jack"
+      ],
+      "Scene": "47"
+    },
+    "_title": "47",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-8120-9611-cb13421a4b4f"
+  },
+  {
+    "id": "2dfccb0e-ac88-8145-973a-cd4ab2943c1d",
+    "created_time": "2026-01-05T03:48:00.000Z",
+    "last_edited_time": "2026-02-11T08:37:00.000Z",
+    "properties": {
+      "Comp": [],
+      "FX": "",
+      "Đã có prop": false,
+      "Combo": null,
+      "Note anim": "",
+      "Layout": "Cần LO trước",
+      "Prop & mô tả prop": "Postcard\nTách cửa ",
+      "Key": "D",
+      "IBW": "F",
+      "Nhân vật": [
+        "Midnight Jack"
+      ],
+      "Scene": "09"
+    },
+    "_title": "09",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-8120-9611-cb13421a4b4f"
+  },
+  {
+    "id": "2dfccb0e-ac88-814b-9243-e552f91ade6c",
+    "created_time": "2026-01-05T03:48:00.000Z",
+    "last_edited_time": "2026-02-11T09:18:00.000Z",
+    "properties": {
+      "Comp": [],
+      "FX": "",
+      "Đã có prop": false,
+      "Combo": "5",
+      "Note anim": "anim  chữ + số\ngiảm vì cùng combo",
+      "Layout": null,
+      "Prop & mô tả prop": "Giỏ\nquả cam\nchữ + số",
+      "Key": "F",
+      "IBW": "F",
+      "Nhân vật": [],
+      "Scene": "50"
+    },
+    "_title": "50",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-8120-9611-cb13421a4b4f"
+  },
+  {
+    "id": "2dfccb0e-ac88-814c-8a78-d64375653af6",
+    "created_time": "2026-01-05T03:48:00.000Z",
+    "last_edited_time": "2026-02-11T09:16:00.000Z",
+    "properties": {
+      "Comp": [],
+      "FX": "",
+      "Đã có prop": false,
+      "Combo": null,
+      "Note anim": "diễn Moose ⇒ đang bình thường nhìn xuống ⇒ được nhắc bài thì giật mình nhận ra ⇒ cười cười sửa lại",
+      "Layout": null,
+      "Prop & mô tả prop": "",
+      "Key": "D",
+      "IBW": "E",
+      "Nhân vật": [
+        "Mosse"
+      ],
+      "Scene": "45"
+    },
+    "_title": "45",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-8120-9611-cb13421a4b4f"
+  },
+  {
+    "id": "2dfccb0e-ac88-814c-9d13-f413570c7712",
+    "created_time": "2026-01-05T03:48:00.000Z",
+    "last_edited_time": "2026-02-12T03:04:00.000Z",
+    "properties": {
+      "Comp": [
+        "Smear"
+      ],
+      "FX": "",
+      "Đã có prop": false,
+      "Combo": "11",
+      "Note anim": "",
+      "Layout": "Cần LO trước",
+      "Prop & mô tả prop": "Giỏ cam\nđôgns chanh",
+      "Key": "C",
+      "IBW": "D",
+      "Nhân vật": [
+        "Genevie",
+        "Midnight Jack",
+        "Mosse",
+        "BlueberryCat",
+        "Cherrycat"
+      ],
+      "Scene": "60"
+    },
+    "_title": "60",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-8120-9611-cb13421a4b4f"
+  },
+  {
+    "id": "2dfccb0e-ac88-814d-8056-cae65aea9ac2",
+    "created_time": "2026-01-05T03:48:00.000Z",
+    "last_edited_time": "2026-02-11T09:26:00.000Z",
+    "properties": {
+      "Comp": [],
+      "FX": "",
+      "Đã có prop": false,
+      "Combo": null,
+      "Note anim": "smear",
+      "Layout": null,
+      "Prop & mô tả prop": "chanh",
+      "Key": "D",
+      "IBW": "E",
+      "Nhân vật": [],
+      "Scene": "59"
+    },
+    "_title": "59",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-8120-9611-cb13421a4b4f"
+  },
+  {
+    "id": "2dfccb0e-ac88-814d-acbe-e70c3f8b6881",
+    "created_time": "2026-01-05T03:48:00.000Z",
+    "last_edited_time": "2026-02-11T09:42:00.000Z",
+    "properties": {
+      "Comp": [],
+      "FX": "",
+      "Đã có prop": false,
+      "Combo": "9",
+      "Note anim": "",
+      "Layout": null,
+      "Prop & mô tả prop": "Cốc nước chanh\nquả cam\nsalad + dĩa",
+      "Key": "C",
+      "IBW": "D",
+      "Nhân vật": [
+        "Midnight Jack",
+        "Mosse",
+        "BlueberryCat",
+        "Genevie",
+        "Cherrycat",
+        "Orange Cat"
+      ],
+      "Scene": "80"
+    },
+    "_title": "80",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-8120-9611-cb13421a4b4f"
+  },
+  {
+    "id": "2dfccb0e-ac88-8153-b396-c8439818a4c0",
+    "created_time": "2026-01-05T03:48:00.000Z",
+    "last_edited_time": "2026-02-11T09:34:00.000Z",
+    "properties": {
+      "Comp": [
+        "Glow"
+      ],
+      "FX": "",
+      "Đã có prop": false,
+      "Combo": "7",
+      "Note anim": "",
+      "Layout": null,
+      "Prop & mô tả prop": "Postcard",
+      "Key": "F",
+      "IBW": "F",
+      "Nhân vật": [
+        "Genevie"
+      ],
+      "Scene": "70"
+    },
+    "_title": "70",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-8120-9611-cb13421a4b4f"
+  },
+  {
+    "id": "2dfccb0e-ac88-8153-bccd-c0cc75df9af8",
+    "created_time": "2026-01-05T03:48:00.000Z",
+    "last_edited_time": "2026-01-05T03:49:00.000Z",
+    "properties": {
+      "Comp": [],
+      "FX": "",
+      "Đã có prop": false,
+      "Combo": null,
+      "Note anim": "",
+      "Layout": null,
+      "Prop & mô tả prop": "",
+      "Key": null,
+      "IBW": null,
+      "Nhân vật": [],
+      "Scene": "03"
+    },
+    "_title": "03",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-8120-9611-cb13421a4b4f"
+  },
+  {
+    "id": "2dfccb0e-ac88-8154-ae56-cb86434d47cd",
+    "created_time": "2026-01-05T03:48:00.000Z",
+    "last_edited_time": "2026-02-11T08:37:00.000Z",
+    "properties": {
+      "Comp": [],
+      "FX": "rau củ bay ",
+      "Đã có prop": false,
+      "Combo": "4",
+      "Note anim": "",
+      "Layout": "Cần LO trước",
+      "Prop & mô tả prop": "Postcard",
+      "Key": "C",
+      "IBW": "D",
+      "Nhân vật": [
+        "Midnight Jack",
+        "Mosse",
+        "Genevie",
+        "Cherrycat"
+      ],
+      "Scene": "29"
+    },
+    "_title": "29",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-8120-9611-cb13421a4b4f"
+  },
+  {
+    "id": "2dfccb0e-ac88-815e-bee4-cc6ebd813bf7",
+    "created_time": "2026-01-05T03:48:00.000Z",
+    "last_edited_time": "2026-02-11T09:14:00.000Z",
+    "properties": {
+      "Comp": [],
+      "FX": "",
+      "Đã có prop": false,
+      "Combo": null,
+      "Note anim": "",
+      "Layout": null,
+      "Prop & mô tả prop": "quả cam",
+      "Key": "E",
+      "IBW": "F",
+      "Nhân vật": [
+        "Mosse"
+      ],
+      "Scene": "43"
+    },
+    "_title": "43",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-8120-9611-cb13421a4b4f"
+  },
+  {
+    "id": "2dfccb0e-ac88-8162-a433-fc3189984c98",
+    "created_time": "2026-01-05T03:48:00.000Z",
+    "last_edited_time": "2026-02-11T09:13:00.000Z",
+    "properties": {
+      "Comp": [],
+      "FX": "",
+      "Đã có prop": false,
+      "Combo": "5",
+      "Note anim": "anim  chữ + số",
+      "Layout": null,
+      "Prop & mô tả prop": "Giỏ\nquả cam\nchữ + số",
+      "Key": "E",
+      "IBW": "F",
+      "Nhân vật": [],
+      "Scene": "42"
+    },
+    "_title": "42",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-8120-9611-cb13421a4b4f"
+  },
+  {
+    "id": "2dfccb0e-ac88-8164-993b-cc30eebb034a",
+    "created_time": "2026-01-05T03:48:00.000Z",
+    "last_edited_time": "2026-02-11T09:29:00.000Z",
+    "properties": {
+      "Comp": [],
+      "FX": "",
+      "Đã có prop": false,
+      "Combo": null,
+      "Note anim": "",
+      "Layout": "Cần LO trước",
+      "Prop & mô tả prop": "Kính bảo hộ",
+      "Key": "C",
+      "IBW": "D",
+      "Nhân vật": [
+        "Midnight Jack",
+        "Mosse",
+        "BlueberryCat",
+        "Genevie"
+      ],
+      "Scene": "62"
+    },
+    "_title": "62",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-8120-9611-cb13421a4b4f"
+  },
+  {
+    "id": "2dfccb0e-ac88-8164-b361-f28befb8c965",
+    "created_time": "2026-01-05T03:48:00.000Z",
+    "last_edited_time": "2026-02-12T02:57:00.000Z",
+    "properties": {
+      "Comp": [],
+      "FX": "",
+      "Đã có prop": false,
+      "Combo": null,
+      "Note anim": "Cảnh này nói dài ⇒ diễn nhân vật sinh động 1 chút,  tránh việc chỉ cho nói 1 câu mà ko có chuyển động gì",
+      "Layout": null,
+      "Prop & mô tả prop": "",
+      "Key": "D",
+      "IBW": "D",
+      "Nhân vật": [
+        "Midnight Jack"
+      ],
+      "Scene": "14"
+    },
+    "_title": "14",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-8120-9611-cb13421a4b4f"
+  },
+  {
+    "id": "2dfccb0e-ac88-816d-b5dc-d4661bac40da",
+    "created_time": "2026-01-05T03:48:00.000Z",
+    "last_edited_time": "2026-02-11T09:32:00.000Z",
+    "properties": {
+      "Comp": [],
+      "FX": "chanh bắn ra\nnước chanh chảy tong tỏng\nca nước chanh ",
+      "Đã có prop": false,
+      "Combo": null,
+      "Note anim": "",
+      "Layout": null,
+      "Prop & mô tả prop": "ca nước chanh",
+      "Key": "C",
+      "IBW": "D",
+      "Nhân vật": [
+        "Cherrycat",
+        "Mosse"
+      ],
+      "Scene": "67"
+    },
+    "_title": "67",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-8120-9611-cb13421a4b4f"
+  },
+  {
+    "id": "2dfccb0e-ac88-816f-8808-da175c1f2c37",
+    "created_time": "2026-01-05T03:48:00.000Z",
+    "last_edited_time": "2026-02-11T09:17:00.000Z",
+    "properties": {
+      "Comp": [],
+      "FX": "",
+      "Đã có prop": false,
+      "Combo": null,
+      "Note anim": "",
+      "Layout": null,
+      "Prop & mô tả prop": "quả cam",
+      "Key": "E",
+      "IBW": "F",
+      "Nhân vật": [
+        "Cherrycat"
+      ],
+      "Scene": "49"
+    },
+    "_title": "49",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-8120-9611-cb13421a4b4f"
+  },
+  {
+    "id": "2dfccb0e-ac88-8170-a1f6-d86fd28bd3ec",
+    "created_time": "2026-01-05T03:48:00.000Z",
+    "last_edited_time": "2026-02-11T08:45:00.000Z",
+    "properties": {
+      "Comp": [],
+      "FX": "",
+      "Đã có prop": false,
+      "Combo": null,
+      "Note anim": "dùng hình BG cung cấp là prop\nanim mn nhìn theo cái  prop hiện ra ",
+      "Layout": "Cần LO trước",
+      "Prop & mô tả prop": "Gato Naranja icon - orange cat\nchữ\nPostcard",
+      "Key": "C",
+      "IBW": "D",
+      "Nhân vật": [
+        "Midnight Jack",
+        "Mosse",
+        "Genevie",
+        "Cherrycat"
+      ],
+      "Scene": "35"
+    },
+    "_title": "35",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-8120-9611-cb13421a4b4f"
+  },
+  {
+    "id": "2dfccb0e-ac88-8171-b179-eca3308bf9f4",
+    "created_time": "2026-01-05T03:48:00.000Z",
+    "last_edited_time": "2026-02-11T08:43:00.000Z",
+    "properties": {
+      "Comp": [],
+      "FX": "",
+      "Đã có prop": false,
+      "Combo": null,
+      "Note anim": "",
+      "Layout": null,
+      "Prop & mô tả prop": "",
+      "Key": "D",
+      "IBW": "E",
+      "Nhân vật": [
+        "Mosse"
+      ],
+      "Scene": "34"
+    },
+    "_title": "34",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-8120-9611-cb13421a4b4f"
+  },
+  {
+    "id": "2dfccb0e-ac88-8171-ba18-e53ef31dea1a",
+    "created_time": "2026-01-05T03:48:00.000Z",
+    "last_edited_time": "2026-02-11T09:26:00.000Z",
+    "properties": {
+      "Comp": [],
+      "FX": "",
+      "Đã có prop": false,
+      "Combo": null,
+      "Note anim": "anim prop",
+      "Layout": null,
+      "Prop & mô tả prop": "giả cam\nbát salad\ncốc nước",
+      "Key": "C",
+      "IBW": "D",
+      "Nhân vật": [
+        "Genevie",
+        "Cherrycat",
+        "Mosse"
+      ],
+      "Scene": "58"
+    },
+    "_title": "58",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-8120-9611-cb13421a4b4f"
+  },
+  {
+    "id": "2dfccb0e-ac88-8172-bf6c-de367fb61f0a",
+    "created_time": "2026-01-05T03:48:00.000Z",
+    "last_edited_time": "2026-02-11T09:19:00.000Z",
+    "properties": {
+      "Comp": [],
+      "FX": "",
+      "Đã có prop": false,
+      "Combo": null,
+      "Note anim": "",
+      "Layout": null,
+      "Prop & mô tả prop": "Giỏ\nquả cam\n",
+      "Key": "B",
+      "IBW": "C",
+      "Nhân vật": [
+        "BlueberryCat",
+        "Mosse"
+      ],
+      "Scene": "51"
+    },
+    "_title": "51",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-8120-9611-cb13421a4b4f"
+  },
+  {
+    "id": "2dfccb0e-ac88-8176-91a2-ec5342ad104e",
+    "created_time": "2026-01-05T03:48:00.000Z",
+    "last_edited_time": "2026-02-11T09:40:00.000Z",
+    "properties": {
+      "Comp": [],
+      "FX": "",
+      "Đã có prop": false,
+      "Combo": null,
+      "Note anim": "smear",
+      "Layout": null,
+      "Prop & mô tả prop": "ca nước chanh\ngiỏ cam\nbát salad",
+      "Key": "D",
+      "IBW": "E",
+      "Nhân vật": [
+        "BlueberryCat",
+        "Genevie",
+        "Mosse"
+      ],
+      "Scene": "75"
+    },
+    "_title": "75",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-8120-9611-cb13421a4b4f"
+  },
+  {
+    "id": "2dfccb0e-ac88-8177-8761-c43040f2aaa3",
+    "created_time": "2026-01-05T03:48:00.000Z",
+    "last_edited_time": "2026-02-11T08:04:00.000Z",
+    "properties": {
+      "Comp": [],
+      "FX": "",
+      "Đã có prop": false,
+      "Combo": null,
+      "Note anim": "",
+      "Layout": null,
+      "Prop & mô tả prop": "",
+      "Key": null,
+      "IBW": null,
+      "Nhân vật": [],
+      "Scene": "00-08"
+    },
+    "_title": "00-08",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-8120-9611-cb13421a4b4f"
+  },
+  {
+    "id": "2dfccb0e-ac88-817a-93f4-cd4ead530036",
+    "created_time": "2026-01-05T03:48:00.000Z",
+    "last_edited_time": "2026-02-11T09:21:00.000Z",
+    "properties": {
+      "Comp": [
+        "Glow"
+      ],
+      "FX": "",
+      "Đã có prop": false,
+      "Combo": "7",
+      "Note anim": "",
+      "Layout": null,
+      "Prop & mô tả prop": "Postcard\nchữ",
+      "Key": "Omiited",
+      "IBW": "F",
+      "Nhân vật": [],
+      "Scene": "21"
+    },
+    "_title": "21",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-8120-9611-cb13421a4b4f"
+  },
+  {
+    "id": "2dfccb0e-ac88-817b-ace6-df2f7f3dbe79",
+    "created_time": "2026-01-05T03:48:00.000Z",
+    "last_edited_time": "2026-02-11T09:36:00.000Z",
+    "properties": {
+      "Comp": [],
+      "FX": "",
+      "Đã có prop": false,
+      "Combo": "2",
+      "Note anim": "REuse run cycle cảnh cùng combo",
+      "Layout": "Cần LO trước",
+      "Prop & mô tả prop": "",
+      "Key": "D",
+      "IBW": "E",
+      "Nhân vật": [
+        "Midnight Jack",
+        "Mosse",
+        "BlueberryCat",
+        "Genevie",
+        "Cherrycat"
+      ],
+      "Scene": "72"
+    },
+    "_title": "72",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-8120-9611-cb13421a4b4f"
+  },
+  {
+    "id": "2dfccb0e-ac88-817b-b964-c140f2a72a35",
+    "created_time": "2026-01-05T03:48:00.000Z",
+    "last_edited_time": "2026-02-11T09:51:00.000Z",
+    "properties": {
+      "Comp": [],
+      "FX": "",
+      "Đã có prop": false,
+      "Combo": null,
+      "Note anim": "",
+      "Layout": "Cần LO trước",
+      "Prop & mô tả prop": "Postcard",
+      "Key": "D",
+      "IBW": "E",
+      "Nhân vật": [
+        "Midnight Jack",
+        "BlueberryCat",
+        "Genevie",
+        "Cherrycat"
+      ],
+      "Scene": "25"
+    },
+    "_title": "25",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-8120-9611-cb13421a4b4f"
+  },
+  {
+    "id": "2dfccb0e-ac88-817c-8a14-f8078a6bf922",
+    "created_time": "2026-01-05T03:48:00.000Z",
+    "last_edited_time": "2026-02-11T09:40:00.000Z",
+    "properties": {
+      "Comp": [],
+      "FX": "",
+      "Đã có prop": false,
+      "Combo": null,
+      "Note anim": "",
+      "Layout": null,
+      "Prop & mô tả prop": "ca nước chanh\ngiỏ cam\nbát salad",
+      "Key": "D",
+      "IBW": "E",
+      "Nhân vật": [
+        "Midnight Jack",
+        "Mosse",
+        "BlueberryCat",
+        "Genevie",
+        "Cherrycat",
+        "Orange Cat"
+      ],
+      "Scene": "74"
+    },
+    "_title": "74",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-8120-9611-cb13421a4b4f"
+  },
+  {
+    "id": "2dfccb0e-ac88-818d-a06c-eea9bbf652eb",
+    "created_time": "2026-01-05T03:48:00.000Z",
+    "last_edited_time": "2026-02-11T09:34:00.000Z",
+    "properties": {
+      "Comp": [],
+      "FX": "",
+      "Đã có prop": false,
+      "Combo": "8",
+      "Note anim": "",
+      "Layout": "Cần LO trước",
+      "Prop & mô tả prop": "ca nước chanh\npostcard",
+      "Key": "B",
+      "IBW": "C",
+      "Nhân vật": [
+        "Midnight Jack",
+        "Mosse",
+        "BlueberryCat",
+        "Genevie",
+        "Cherrycat"
+      ],
+      "Scene": "68"
+    },
+    "_title": "68",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-8120-9611-cb13421a4b4f"
+  },
+  {
+    "id": "2dfccb0e-ac88-818e-89fb-fe9b7fe82fec",
+    "created_time": "2026-01-05T03:48:00.000Z",
+    "last_edited_time": "2026-02-12T03:00:00.000Z",
+    "properties": {
+      "Comp": [],
+      "FX": "",
+      "Đã có prop": false,
+      "Combo": null,
+      "Note anim": "nối 2 cảnh này zoom mượt vào nhau luôn",
+      "Layout": "Cần LO trước",
+      "Prop & mô tả prop": "Postcard\ntáo\nmàn hình Cattron",
+      "Key": "D",
+      "IBW": "E",
+      "Nhân vật": [
+        "Midnight Jack",
+        "CAtr0n"
+      ],
+      "Scene": "16 - 16A"
+    },
+    "_title": "16 - 16A",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-8120-9611-cb13421a4b4f"
+  },
+  {
+    "id": "2dfccb0e-ac88-818f-b318-e3ff6497b4bb",
+    "created_time": "2026-01-05T03:48:00.000Z",
+    "last_edited_time": "2026-02-11T09:35:00.000Z",
+    "properties": {
+      "Comp": [],
+      "FX": "",
+      "Đã có prop": false,
+      "Combo": "8",
+      "Note anim": "smear out, ko cần làm chạy ra ngoài\ngiảm độ khó  vì combo",
+      "Layout": null,
+      "Prop & mô tả prop": "",
+      "Key": "D",
+      "IBW": "E",
+      "Nhân vật": [
+        "Midnight Jack",
+        "Mosse",
+        "BlueberryCat",
+        "Genevie",
+        "Cherrycat"
+      ],
+      "Scene": "71"
+    },
+    "_title": "71",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-8120-9611-cb13421a4b4f"
+  },
+  {
+    "id": "2dfccb0e-ac88-8190-a6f1-c9cd1e97195c",
+    "created_time": "2026-01-05T03:48:00.000Z",
+    "last_edited_time": "2026-02-12T03:04:00.000Z",
+    "properties": {
+      "Comp": [
+        "Speedline"
+      ],
+      "FX": "",
+      "Đã có prop": false,
+      "Combo": null,
+      "Note anim": "",
+      "Layout": "Cần LO trước",
+      "Prop & mô tả prop": "",
+      "Key": "B",
+      "IBW": "C",
+      "Nhân vật": [
+        "Midnight Jack",
+        "Mosse",
+        "BlueberryCat",
+        "Genevie",
+        "Cherrycat",
+        "Orange Cat"
+      ],
+      "Scene": "73"
+    },
+    "_title": "73",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-8120-9611-cb13421a4b4f"
+  },
+  {
+    "id": "2dfccb0e-ac88-819c-9ef2-f830c5a64573",
+    "created_time": "2026-01-05T03:48:00.000Z",
+    "last_edited_time": "2026-02-11T09:24:00.000Z",
+    "properties": {
+      "Comp": [
+        "Glow"
+      ],
+      "FX": "",
+      "Đã có prop": false,
+      "Combo": null,
+      "Note anim": "anim chữ như animatic cut",
+      "Layout": null,
+      "Prop & mô tả prop": "chữ",
+      "Key": "D",
+      "IBW": "E",
+      "Nhân vật": [
+        "Mosse"
+      ],
+      "Scene": "56"
+    },
+    "_title": "56",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-8120-9611-cb13421a4b4f"
+  },
+  {
+    "id": "2dfccb0e-ac88-819d-8665-c17d62a4fa93",
+    "created_time": "2026-01-05T03:48:00.000Z",
+    "last_edited_time": "2026-02-12T02:54:00.000Z",
+    "properties": {
+      "Comp": [],
+      "FX": "",
+      "Đã có prop": false,
+      "Combo": null,
+      "Note anim": "Cần làm rõ mắt của Gen lúc đọc cần di chuyển sang trái phải\nsmear in\n⇒ ko cần làm anim đi vào của nv",
+      "Layout": null,
+      "Prop & mô tả prop": "Postcard  +chữ",
+      "Key": "E",
+      "IBW": "E",
+      "Nhân vật": [
+        "Genevie"
+      ],
+      "Scene": "11"
+    },
+    "_title": "11",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-8120-9611-cb13421a4b4f"
+  },
+  {
+    "id": "2dfccb0e-ac88-819f-b9ae-d05919cb8970",
+    "created_time": "2026-01-05T03:48:00.000Z",
+    "last_edited_time": "2026-02-11T08:31:00.000Z",
+    "properties": {
+      "Comp": [],
+      "FX": "",
+      "Đã có prop": false,
+      "Combo": null,
+      "Note anim": "smear out ⇒ ko cần anim nhân vật chảy ra",
+      "Layout": null,
+      "Prop & mô tả prop": "cánh tủ lạnh\nrau củ",
+      "Key": "D",
+      "IBW": "F",
+      "Nhân vật": [
+        "BlueberryCat"
+      ],
+      "Scene": "27"
+    },
+    "_title": "27",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-8120-9611-cb13421a4b4f"
+  },
+  {
+    "id": "2dfccb0e-ac88-81a6-a968-d635c16a8de0",
+    "created_time": "2026-01-05T03:48:00.000Z",
+    "last_edited_time": "2026-02-12T03:05:00.000Z",
+    "properties": {
+      "Comp": [],
+      "FX": "",
+      "Đã có prop": false,
+      "Combo": "3",
+      "Note anim": "Giảm vì cùng combo",
+      "Layout": "Cần LO trước",
+      "Prop & mô tả prop": "Postcard\nChữ",
+      "Key": "D",
+      "IBW": "E",
+      "Nhân vật": [
+        "Midnight Jack",
+        "Mosse",
+        "BlueberryCat",
+        "Genevie",
+        "Cherrycat"
+      ],
+      "Scene": "23"
+    },
+    "_title": "23",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-8120-9611-cb13421a4b4f"
+  },
+  {
+    "id": "2dfccb0e-ac88-81a7-8422-e2b0ebb3cbab",
+    "created_time": "2026-01-05T03:48:00.000Z",
+    "last_edited_time": "2026-02-11T09:35:00.000Z",
+    "properties": {
+      "Comp": [],
+      "FX": "",
+      "Đã có prop": false,
+      "Combo": "2",
+      "Note anim": "",
+      "Layout": "Cần LO trước",
+      "Prop & mô tả prop": "",
+      "Key": "A",
+      "IBW": "C",
+      "Nhân vật": [
+        "Midnight Jack",
+        "Mosse",
+        "BlueberryCat",
+        "Genevie",
+        "Cherrycat"
+      ],
+      "Scene": "38"
+    },
+    "_title": "38",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-8120-9611-cb13421a4b4f"
+  },
+  {
+    "id": "2dfccb0e-ac88-81a7-9e26-f6a722b59601",
+    "created_time": "2026-01-05T03:48:00.000Z",
+    "last_edited_time": "2026-02-11T09:16:00.000Z",
+    "properties": {
+      "Comp": [],
+      "FX": "",
+      "Đã có prop": false,
+      "Combo": "5",
+      "Note anim": "anim  chữ + số\ngiảm vì cùng combo",
+      "Layout": null,
+      "Prop & mô tả prop": "Giỏ\nquả cam\nchữ + số",
+      "Key": "F",
+      "IBW": "F",
+      "Nhân vật": [],
+      "Scene": "46"
+    },
+    "_title": "46",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-8120-9611-cb13421a4b4f"
+  },
+  {
+    "id": "2dfccb0e-ac88-81ad-ac5e-f6cab62f040a",
+    "created_time": "2026-01-05T03:48:00.000Z",
+    "last_edited_time": "2026-01-05T03:49:00.000Z",
+    "properties": {
+      "Comp": [],
+      "FX": "",
+      "Đã có prop": false,
+      "Combo": null,
+      "Note anim": "",
+      "Layout": null,
+      "Prop & mô tả prop": "",
+      "Key": null,
+      "IBW": null,
+      "Nhân vật": [],
+      "Scene": "02"
+    },
+    "_title": "02",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-8120-9611-cb13421a4b4f"
+  },
+  {
+    "id": "2dfccb0e-ac88-81af-b990-eb14c6e8cd60",
+    "created_time": "2026-01-05T03:48:00.000Z",
+    "last_edited_time": "2026-02-11T08:48:00.000Z",
+    "properties": {
+      "Comp": [],
+      "FX": "",
+      "Đã có prop": false,
+      "Combo": null,
+      "Note anim": "",
+      "Layout": null,
+      "Prop & mô tả prop": "số + quả cam",
+      "Key": "E",
+      "IBW": "F",
+      "Nhân vật": [
+        "Cherrycat"
+      ],
+      "Scene": "40"
+    },
+    "_title": "40",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-8120-9611-cb13421a4b4f"
+  },
+  {
+    "id": "2dfccb0e-ac88-81b2-b965-cdd4064b6c87",
+    "created_time": "2026-01-05T03:48:00.000Z",
+    "last_edited_time": "2026-02-12T03:04:00.000Z",
+    "properties": {
+      "Comp": [],
+      "FX": "",
+      "Đã có prop": false,
+      "Combo": "11",
+      "Note anim": "giảm vì cùng combo",
+      "Layout": "Cần LO trước",
+      "Prop & mô tả prop": "Giỏ\nquả cam\npostcard\nchữ",
+      "Key": "D",
+      "IBW": "E",
+      "Nhân vật": [
+        "Genevie",
+        "Midnight Jack",
+        "Mosse",
+        "BlueberryCat",
+        "Cherrycat"
+      ],
+      "Scene": "57"
+    },
+    "_title": "57",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-8120-9611-cb13421a4b4f"
+  },
+  {
+    "id": "2dfccb0e-ac88-81b9-922b-c49006398ce7",
+    "created_time": "2026-01-05T03:48:00.000Z",
+    "last_edited_time": "2026-02-11T09:17:00.000Z",
+    "properties": {
+      "Comp": [],
+      "FX": "",
+      "Đã có prop": false,
+      "Combo": "5",
+      "Note anim": "anim  chữ + số\ngiảm vì cùng combo",
+      "Layout": null,
+      "Prop & mô tả prop": "Giỏ\nquả cam\nchữ + số",
+      "Key": "F",
+      "IBW": "F",
+      "Nhân vật": [],
+      "Scene": "48"
+    },
+    "_title": "48",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-8120-9611-cb13421a4b4f"
+  },
+  {
+    "id": "2dfccb0e-ac88-81bb-abf1-f0514a27af3f",
+    "created_time": "2026-01-05T03:48:00.000Z",
+    "last_edited_time": "2026-02-11T08:37:00.000Z",
+    "properties": {
+      "Comp": [],
+      "FX": "",
+      "Đã có prop": false,
+      "Combo": null,
+      "Note anim": "smear out",
+      "Layout": null,
+      "Prop & mô tả prop": "Postcard ",
+      "Key": "D",
+      "IBW": "E",
+      "Nhân vật": [
+        "Midnight Jack",
+        "Genevie"
+      ],
+      "Scene": "10"
+    },
+    "_title": "10",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-8120-9611-cb13421a4b4f"
+  },
+  {
+    "id": "2dfccb0e-ac88-81bd-b658-ee3d1f3b2d5c",
+    "created_time": "2026-01-05T03:48:00.000Z",
+    "last_edited_time": "2026-02-11T09:20:00.000Z",
+    "properties": {
+      "Comp": [],
+      "FX": "",
+      "Đã có prop": false,
+      "Combo": null,
+      "Note anim": "",
+      "Layout": "Cần LO trước",
+      "Prop & mô tả prop": "Giỏ\nquả cam\npostcard\nchữ",
+      "Key": "C",
+      "IBW": "D",
+      "Nhân vật": [
+        "Genevie",
+        "Midnight Jack",
+        "Mosse",
+        "BlueberryCat",
+        "Cherrycat"
+      ],
+      "Scene": "53"
+    },
+    "_title": "53",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-8120-9611-cb13421a4b4f"
+  },
+  {
+    "id": "2dfccb0e-ac88-81be-b12f-df86fbd58bf3",
+    "created_time": "2026-01-05T03:48:00.000Z",
+    "last_edited_time": "2026-01-05T03:49:00.000Z",
+    "properties": {
+      "Comp": [],
+      "FX": "",
+      "Đã có prop": false,
+      "Combo": null,
+      "Note anim": "",
+      "Layout": null,
+      "Prop & mô tả prop": "",
+      "Key": null,
+      "IBW": null,
+      "Nhân vật": [],
+      "Scene": "08"
+    },
+    "_title": "08",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-8120-9611-cb13421a4b4f"
+  },
+  {
+    "id": "2dfccb0e-ac88-81c1-880f-e40db52a73a7",
+    "created_time": "2026-01-05T03:48:00.000Z",
+    "last_edited_time": "2026-02-11T08:25:00.000Z",
+    "properties": {
+      "Comp": [],
+      "FX": "",
+      "Đã có prop": false,
+      "Combo": null,
+      "Note anim": "",
+      "Layout": null,
+      "Prop & mô tả prop": "Postcard",
+      "Key": "D",
+      "IBW": "E",
+      "Nhân vật": [
+        "BlueberryCat",
+        "Genevie"
+      ],
+      "Scene": "20"
+    },
+    "_title": "20",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-8120-9611-cb13421a4b4f"
+  },
+  {
+    "id": "2dfccb0e-ac88-81c4-8c37-eb9d30da5f6e",
+    "created_time": "2026-01-05T03:48:00.000Z",
+    "last_edited_time": "2026-02-12T02:55:00.000Z",
+    "properties": {
+      "Comp": [
+        "Glow"
+      ],
+      "FX": "",
+      "Đã có prop": false,
+      "Combo": "7",
+      "Note anim": "",
+      "Layout": null,
+      "Prop & mô tả prop": "Postcard",
+      "Key": "E",
+      "IBW": "F",
+      "Nhân vật": [
+        "Genevie",
+        "Midnight Jack"
+      ],
+      "Scene": "12"
+    },
+    "_title": "12",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-8120-9611-cb13421a4b4f"
+  },
+  {
+    "id": "2dfccb0e-ac88-81c5-83a5-c48a62c29ce2",
+    "created_time": "2026-01-05T03:48:00.000Z",
+    "last_edited_time": "2026-02-11T09:28:00.000Z",
+    "properties": {
+      "Comp": [],
+      "FX": "",
+      "Đã có prop": false,
+      "Combo": null,
+      "Note anim": "anim cờ",
+      "Layout": "Cần LO trước",
+      "Prop & mô tả prop": "Kính bảo hộ\nca\nlá cờ vẽ phẳng",
+      "Key": "C",
+      "IBW": "D",
+      "Nhân vật": [
+        "Mosse",
+        "Cherrycat"
+      ],
+      "Scene": "61"
+    },
+    "_title": "61",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-8120-9611-cb13421a4b4f"
+  },
+  {
+    "id": "2dfccb0e-ac88-81c5-a078-e4a8e6ca65ae",
+    "created_time": "2026-01-05T03:48:00.000Z",
+    "last_edited_time": "2026-02-11T08:49:00.000Z",
+    "properties": {
+      "Comp": [],
+      "FX": "",
+      "Đã có prop": false,
+      "Combo": null,
+      "Note anim": "",
+      "Layout": "Cần LO trước",
+      "Prop & mô tả prop": "Giỏ\nquả cam",
+      "Key": "C",
+      "IBW": "D",
+      "Nhân vật": [
+        "Genevie"
+      ],
+      "Scene": "41"
+    },
+    "_title": "41",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-8120-9611-cb13421a4b4f"
+  },
+  {
+    "id": "2dfccb0e-ac88-81c8-83b6-ed1ef40ce3f4",
+    "created_time": "2026-01-05T03:48:00.000Z",
+    "last_edited_time": "2026-02-11T09:19:00.000Z",
+    "properties": {
+      "Comp": [],
+      "FX": "",
+      "Đã có prop": false,
+      "Combo": "5",
+      "Note anim": "anim  chữ + số\ngiảm vì cùng combo",
+      "Layout": "Cần LO trước",
+      "Prop & mô tả prop": "Giỏ\nquả cam\nchữ + số",
+      "Key": "F",
+      "IBW": "F",
+      "Nhân vật": [],
+      "Scene": "52"
+    },
+    "_title": "52",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-8120-9611-cb13421a4b4f"
+  },
+  {
+    "id": "2dfccb0e-ac88-81cd-b80c-c3f2cf14dfea",
+    "created_time": "2026-01-05T03:48:00.000Z",
+    "last_edited_time": "2026-02-11T09:23:00.000Z",
+    "properties": {
+      "Comp": [
+        "Glow"
+      ],
+      "FX": "",
+      "Đã có prop": false,
+      "Combo": null,
+      "Note anim": "anim chữ như animatic cut",
+      "Layout": "Cần LO trước",
+      "Prop & mô tả prop": "chữ",
+      "Key": "D",
+      "IBW": "E",
+      "Nhân vật": [
+        "BlueberryCat",
+        "Cherrycat"
+      ],
+      "Scene": "55"
+    },
+    "_title": "55",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-8120-9611-cb13421a4b4f"
+  },
+  {
+    "id": "2dfccb0e-ac88-81db-bdbb-e3759a4cd941",
+    "created_time": "2026-01-05T03:48:00.000Z",
+    "last_edited_time": "2026-02-11T08:30:00.000Z",
+    "properties": {
+      "Comp": [],
+      "FX": "",
+      "Đã có prop": false,
+      "Combo": null,
+      "Note anim": "",
+      "Layout": null,
+      "Prop & mô tả prop": "Postcard",
+      "Key": "D",
+      "IBW": "E",
+      "Nhân vật": [
+        "BlueberryCat",
+        "Genevie"
+      ],
+      "Scene": "26"
+    },
+    "_title": "26",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-8120-9611-cb13421a4b4f"
+  },
+  {
+    "id": "2dfccb0e-ac88-81df-a4e4-ce15aa1fca52",
+    "created_time": "2026-01-05T03:48:00.000Z",
+    "last_edited_time": "2026-02-12T03:01:00.000Z",
+    "properties": {
+      "Comp": [
+        "Speedline"
+      ],
+      "FX": "",
+      "Đã có prop": false,
+      "Combo": "3",
+      "Note anim": "",
+      "Layout": "Cần LO trước",
+      "Prop & mô tả prop": "Postcard",
+      "Key": "C",
+      "IBW": "E",
+      "Nhân vật": [
+        "Midnight Jack",
+        "Mosse",
+        "BlueberryCat",
+        "Genevie",
+        "Cherrycat"
+      ],
+      "Scene": "18"
+    },
+    "_title": "18",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-8120-9611-cb13421a4b4f"
+  },
+  {
+    "id": "2dfccb0e-ac88-81e1-b7a1-dd94ba0d8892",
+    "created_time": "2026-01-05T03:48:00.000Z",
+    "last_edited_time": "2026-02-11T09:33:00.000Z",
+    "properties": {
+      "Comp": [],
+      "FX": "",
+      "Đã có prop": false,
+      "Combo": null,
+      "Note anim": "",
+      "Layout": null,
+      "Prop & mô tả prop": "Postcard",
+      "Key": "E",
+      "IBW": "F",
+      "Nhân vật": [
+        "Genevie"
+      ],
+      "Scene": "69"
+    },
+    "_title": "69",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-8120-9611-cb13421a4b4f"
+  },
+  {
+    "id": "2dfccb0e-ac88-81e2-9a87-caff3c5a021f",
+    "created_time": "2026-01-05T03:48:00.000Z",
+    "last_edited_time": "2026-02-11T09:51:00.000Z",
+    "properties": {
+      "Comp": [],
+      "FX": "",
+      "Đã có prop": false,
+      "Combo": "3",
+      "Note anim": "",
+      "Layout": "Cần LO trước",
+      "Prop & mô tả prop": "Postcard",
+      "Key": "C",
+      "IBW": "D",
+      "Nhân vật": [
+        "Midnight Jack",
+        "Mosse",
+        "BlueberryCat",
+        "Genevie",
+        "Cherrycat"
+      ],
+      "Scene": "19"
+    },
+    "_title": "19",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-8120-9611-cb13421a4b4f"
+  },
+  {
+    "id": "2dfccb0e-ac88-81e4-b76f-eaa2d89ed7e9",
+    "created_time": "2026-01-05T03:48:00.000Z",
+    "last_edited_time": "2026-01-05T03:49:00.000Z",
+    "properties": {
+      "Comp": [],
+      "FX": "",
+      "Đã có prop": false,
+      "Combo": null,
+      "Note anim": "",
+      "Layout": null,
+      "Prop & mô tả prop": "",
+      "Key": null,
+      "IBW": null,
+      "Nhân vật": [],
+      "Scene": "04"
+    },
+    "_title": "04",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-8120-9611-cb13421a4b4f"
+  },
+  {
+    "id": "2dfccb0e-ac88-81ed-a841-f1f2cb7478cd",
+    "created_time": "2026-01-05T03:48:00.000Z",
+    "last_edited_time": "2026-01-05T03:49:00.000Z",
+    "properties": {
+      "Comp": [],
+      "FX": "",
+      "Đã có prop": false,
+      "Combo": null,
+      "Note anim": "",
+      "Layout": null,
+      "Prop & mô tả prop": "",
+      "Key": null,
+      "IBW": null,
+      "Nhân vật": [],
+      "Scene": "15"
+    },
+    "_title": "15",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-8120-9611-cb13421a4b4f"
+  },
+  {
+    "id": "2dfccb0e-ac88-81ed-b4d3-d0ae0931848e",
+    "created_time": "2026-01-05T03:48:00.000Z",
+    "last_edited_time": "2026-02-11T09:31:00.000Z",
+    "properties": {
+      "Comp": [],
+      "FX": "Chanh bắn ra",
+      "Đã có prop": false,
+      "Combo": null,
+      "Note anim": "",
+      "Layout": null,
+      "Prop & mô tả prop": "đống chanh",
+      "Key": "D",
+      "IBW": "E",
+      "Nhân vật": [
+        "Mosse"
+      ],
+      "Scene": "66"
+    },
+    "_title": "66",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-8120-9611-cb13421a4b4f"
+  },
+  {
+    "id": "2dfccb0e-ac88-81f3-a9f8-f8900ebf4804",
+    "created_time": "2026-01-05T03:48:00.000Z",
+    "last_edited_time": "2026-02-11T08:29:00.000Z",
+    "properties": {
+      "Comp": [],
+      "FX": "",
+      "Đã có prop": false,
+      "Combo": null,
+      "Note anim": "",
+      "Layout": null,
+      "Prop & mô tả prop": "Chữ",
+      "Key": "E",
+      "IBW": "E",
+      "Nhân vật": [
+        "Cherrycat"
+      ],
+      "Scene": "24"
+    },
+    "_title": "24",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-8120-9611-cb13421a4b4f"
+  },
+  {
+    "id": "2dfccb0e-ac88-81f6-88b0-fdc401319723",
+    "created_time": "2026-01-05T03:48:00.000Z",
+    "last_edited_time": "2026-02-12T04:59:00.000Z",
+    "properties": {
+      "Comp": [],
+      "FX": "S",
+      "Đã có prop": false,
+      "Combo": "9",
+      "Note anim": "",
+      "Layout": "Cần LO trước",
+      "Prop & mô tả prop": "",
+      "Key": "C",
+      "IBW": "D",
+      "Nhân vật": [
+        "Midnight Jack",
+        "Mosse",
+        "BlueberryCat",
+        "Genevie",
+        "Cherrycat",
+        "Orange Cat"
+      ],
+      "Scene": "76"
+    },
+    "_title": "76",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-8120-9611-cb13421a4b4f"
+  },
+  {
+    "id": "2dfccb0e-ac88-81f9-9a77-da3c78f88c5c",
+    "created_time": "2026-01-05T03:48:00.000Z",
+    "last_edited_time": "2026-02-11T09:29:00.000Z",
+    "properties": {
+      "Comp": [],
+      "FX": "",
+      "Đã có prop": false,
+      "Combo": null,
+      "Note anim": "",
+      "Layout": null,
+      "Prop & mô tả prop": "",
+      "Key": "E",
+      "IBW": "E",
+      "Nhân vật": [
+        "Mosse"
+      ],
+      "Scene": "63"
+    },
+    "_title": "63",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-8120-9611-cb13421a4b4f"
+  },
+  {
+    "id": "2dfccb0e-ac88-81fc-ae61-c4770fb1179f",
+    "created_time": "2026-01-05T03:48:00.000Z",
+    "last_edited_time": "2026-02-11T09:31:00.000Z",
+    "properties": {
+      "Comp": [],
+      "FX": "",
+      "Đã có prop": false,
+      "Combo": null,
+      "Note anim": "",
+      "Layout": "Cần LO trước",
+      "Prop & mô tả prop": "",
+      "Key": "D",
+      "IBW": "E",
+      "Nhân vật": [
+        "Mosse"
+      ],
+      "Scene": "65"
+    },
+    "_title": "65",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-8120-9611-cb13421a4b4f"
+  },
+  {
+    "id": "2dfccb0e-ac88-81fe-ba80-fb59601c6823",
+    "created_time": "2026-01-05T03:48:00.000Z",
+    "last_edited_time": "2026-01-05T03:49:00.000Z",
+    "properties": {
+      "Comp": [],
+      "FX": "",
+      "Đã có prop": false,
+      "Combo": null,
+      "Note anim": "",
+      "Layout": null,
+      "Prop & mô tả prop": "",
+      "Key": null,
+      "IBW": null,
+      "Nhân vật": [],
+      "Scene": "06"
+    },
+    "_title": "06",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-8120-9611-cb13421a4b4f"
+  },
+  {
+    "id": "304ccb0e-ac88-8011-b16e-d594167099bc",
+    "created_time": "2026-02-11T08:39:00.000Z",
+    "last_edited_time": "2026-02-11T08:40:00.000Z",
+    "properties": {
+      "Comp": [],
+      "FX": "",
+      "Đã có prop": false,
+      "Combo": "4",
+      "Note anim": "giảm vì cùng combo",
+      "Layout": null,
+      "Prop & mô tả prop": "Postcard",
+      "Key": "D",
+      "IBW": "E",
+      "Nhân vật": [
+        "Midnight Jack",
+        "Mosse",
+        "Genevie",
+        "Cherrycat"
+      ],
+      "Scene": "32_A_0_A_1"
+    },
+    "_title": "32_A_0_A_1",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-8120-9611-cb13421a4b4f"
+  },
+  {
+    "id": "304ccb0e-ac88-8022-8a97-e571576cd466",
+    "created_time": "2026-02-11T08:37:00.000Z",
+    "last_edited_time": "2026-02-11T08:40:00.000Z",
+    "properties": {
+      "Comp": [],
+      "FX": "",
+      "Đã có prop": false,
+      "Combo": null,
+      "Note anim": "",
+      "Layout": null,
+      "Prop & mô tả prop": "",
+      "Key": "D",
+      "IBW": "E",
+      "Nhân vật": [
+        "Mosse"
+      ],
+      "Scene": "32_A_0"
+    },
+    "_title": "32_A_0",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-8120-9611-cb13421a4b4f"
+  },
+  {
+    "id": "304ccb0e-ac88-8057-8669-c87eb0513a28",
+    "created_time": "2026-02-11T09:39:00.000Z",
+    "last_edited_time": "2026-02-12T04:59:00.000Z",
+    "properties": {
+      "Comp": [],
+      "FX": "",
+      "Đã có prop": false,
+      "Combo": null,
+      "Note anim": "smear",
+      "Layout": null,
+      "Prop & mô tả prop": "ca nước chanh\ngiỏ cam\nbát salad",
+      "Key": "D",
+      "IBW": "E",
+      "Nhân vật": [
+        "Midnight Jack",
+        "Orange Cat"
+      ],
+      "Scene": "75 A0"
+    },
+    "_title": "75 A0",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-8120-9611-cb13421a4b4f"
+  },
+  {
+    "id": "304ccb0e-ac88-806c-a341-f876dc6a654b",
+    "created_time": "2026-02-11T08:14:00.000Z",
+    "last_edited_time": "2026-02-12T03:01:00.000Z",
+    "properties": {
+      "Comp": [],
+      "FX": "",
+      "Đã có prop": false,
+      "Combo": "1",
+      "Note anim": "smear out\n⇒ ko cần làm anim chạy ra của nv",
+      "Layout": null,
+      "Prop & mô tả prop": "Khung ảnh\n",
+      "Key": "D",
+      "IBW": "E",
+      "Nhân vật": [],
+      "Scene": "17"
+    },
+    "_title": "17",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-8120-9611-cb13421a4b4f"
+  },
+  {
+    "id": "304ccb0e-ac88-80f3-8b3b-c288e8189230",
+    "created_time": "2026-02-11T08:37:00.000Z",
+    "last_edited_time": "2026-02-11T09:20:00.000Z",
+    "properties": {
+      "Comp": [
+        "Glow"
+      ],
+      "FX": "",
+      "Đã có prop": false,
+      "Combo": "7",
+      "Note anim": "chuyển cảnh bg lúc ôm đầu và anim cái đèn",
+      "Layout": null,
+      "Prop & mô tả prop": "đèn",
+      "Key": "D",
+      "IBW": "F",
+      "Nhân vật": [
+        "Midnight Jack"
+      ],
+      "Scene": "32_A_0_A"
+    },
+    "_title": "32_A_0_A",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-8120-9611-cb13421a4b4f"
+  },
+  {
+    "id": "305ccb0e-ac88-805f-9b97-f296e8cbc4c7",
+    "created_time": "2026-02-12T02:57:00.000Z",
+    "last_edited_time": "2026-02-12T02:58:00.000Z",
+    "properties": {
+      "Comp": [],
+      "FX": "",
+      "Đã có prop": false,
+      "Combo": "1",
+      "Note anim": "",
+      "Layout": "Cần LO trước",
+      "Prop & mô tả prop": "Postcard\nkhung cảnh",
+      "Key": "D",
+      "IBW": "D",
+      "Nhân vật": [
+        "Genevie",
+        "Midnight Jack"
+      ],
+      "Scene": "15"
+    },
+    "_title": "15",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-8120-9611-cb13421a4b4f"
+  },
+  {
+    "id": "305ccb0e-ac88-8088-8773-cd32e1d671a8",
+    "created_time": "2026-02-12T02:53:00.000Z",
+    "last_edited_time": "2026-02-12T02:58:00.000Z",
+    "properties": {
+      "Comp": [],
+      "FX": "",
+      "Đã có prop": false,
+      "Combo": "1",
+      "Note anim": "smear in\n⇒ ko cần làm anim đi vào của nv",
+      "Layout": "Cần LO trước",
+      "Prop & mô tả prop": "Postcard ",
+      "Key": "D",
+      "IBW": "E",
+      "Nhân vật": [
+        "Genevie",
+        "Midnight Jack"
+      ],
+      "Scene": "10_A_0"
+    },
+    "_title": "10_A_0",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-8120-9611-cb13421a4b4f"
+  },
+  {
+    "id": "305ccb0e-ac88-8033-8343-d9673e159797",
+    "created_time": "2026-02-12T04:59:00.000Z",
+    "last_edited_time": "2026-02-12T04:59:00.000Z",
+    "properties": {
+      "Comp": [
+        "Speedline"
+      ],
+      "FX": "",
+      "Đã có prop": false,
+      "Combo": null,
+      "Note anim": "",
+      "Layout": null,
+      "Prop & mô tả prop": "",
+      "Key": "Omiited",
+      "IBW": "Omiited",
+      "Nhân vật": [],
+      "Scene": "75 A"
+    },
+    "_title": "75 A",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-8120-9611-cb13421a4b4f"
+  }
+]

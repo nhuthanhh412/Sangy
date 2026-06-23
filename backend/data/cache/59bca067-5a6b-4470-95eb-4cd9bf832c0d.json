@@ -1,0 +1,329 @@
+[
+  {
+    "id": "053b863e-8d2f-46d8-a3ec-6061ed83d8bc",
+    "created_time": "2024-06-01T08:54:00.000Z",
+    "last_edited_time": "2024-06-01T08:54:00.000Z",
+    "properties": {
+      "105": "Not started",
+      "PIC": [
+        "Theo producer phụ trách team"
+      ],
+      "Nội dung nhiệm vụ ": "Email/Chat báo về delivery từng batch",
+      "Đầu việc": ""
+    },
+    "_title": "",
+    "database_name": "OMG_PHÂN CHIA CÔNG VIỆC BG",
+    "project_name": "OMG_PHÂN CHIA CÔNG VIỆC BG",
+    "database_id": "59bca067-5a6b-4470-95eb-4cd9bf832c0d"
+  },
+  {
+    "id": "0c573ce9-180b-4deb-9cca-afb6502358b3",
+    "created_time": "2024-06-01T08:54:00.000Z",
+    "last_edited_time": "2024-06-01T10:13:00.000Z",
+    "properties": {
+      "105": "Not started",
+      "PIC": [
+        "Minh Anh"
+      ],
+      "Nội dung nhiệm vụ ": "Brief tập",
+      "Đầu việc": ""
+    },
+    "_title": "",
+    "database_name": "OMG_PHÂN CHIA CÔNG VIỆC BG",
+    "project_name": "OMG_PHÂN CHIA CÔNG VIỆC BG",
+    "database_id": "59bca067-5a6b-4470-95eb-4cd9bf832c0d"
+  },
+  {
+    "id": "1b1bf6e9-497a-4761-9c11-c82adf8d0979",
+    "created_time": "2024-06-01T08:54:00.000Z",
+    "last_edited_time": "2024-06-01T08:54:00.000Z",
+    "properties": {
+      "105": "Not started",
+      "PIC": [
+        "Khuê"
+      ],
+      "Nội dung nhiệm vụ ": "Set up hệ thống report chung cả dự án producer (SM sprint nào tự điền data sprint đấy)",
+      "Đầu việc": ""
+    },
+    "_title": "",
+    "database_name": "OMG_PHÂN CHIA CÔNG VIỆC BG",
+    "project_name": "OMG_PHÂN CHIA CÔNG VIỆC BG",
+    "database_id": "59bca067-5a6b-4470-95eb-4cd9bf832c0d"
+  },
+  {
+    "id": "26666ce3-2864-4e42-8ce6-64f2ee84b64c",
+    "created_time": "2024-06-01T08:54:00.000Z",
+    "last_edited_time": "2024-06-01T08:54:00.000Z",
+    "properties": {
+      "105": "Not started",
+      "PIC": [
+        "Theo producer phụ trách team"
+      ],
+      "Nội dung nhiệm vụ ": "Download from Aspera, upload to X",
+      "Đầu việc": ""
+    },
+    "_title": "",
+    "database_name": "OMG_PHÂN CHIA CÔNG VIỆC BG",
+    "project_name": "OMG_PHÂN CHIA CÔNG VIỆC BG",
+    "database_id": "59bca067-5a6b-4470-95eb-4cd9bf832c0d"
+  },
+  {
+    "id": "3eb9f379-94d0-493f-adfa-03191d7c1fd9",
+    "created_time": "2024-06-01T08:54:00.000Z",
+    "last_edited_time": "2024-06-01T10:15:00.000Z",
+    "properties": {
+      "105": "Not started",
+      "PIC": [
+        "Minh Anh"
+      ],
+      "Nội dung nhiệm vụ ": "Weekly Report (Tuesday)",
+      "Đầu việc": ""
+    },
+    "_title": "",
+    "database_name": "OMG_PHÂN CHIA CÔNG VIỆC BG",
+    "project_name": "OMG_PHÂN CHIA CÔNG VIỆC BG",
+    "database_id": "59bca067-5a6b-4470-95eb-4cd9bf832c0d"
+  },
+  {
+    "id": "5fbe12f7-464a-46dd-b596-06766dd0d709",
+    "created_time": "2024-06-01T08:54:00.000Z",
+    "last_edited_time": "2024-06-01T08:54:00.000Z",
+    "properties": {
+      "105": "Not started",
+      "PIC": [
+        "Khuê",
+        "Minh Anh"
+      ],
+      "Nội dung nhiệm vụ ": "Họp brief với khách ",
+      "Đầu việc": ""
+    },
+    "_title": "",
+    "database_name": "OMG_PHÂN CHIA CÔNG VIỆC BG",
+    "project_name": "OMG_PHÂN CHIA CÔNG VIỆC BG",
+    "database_id": "59bca067-5a6b-4470-95eb-4cd9bf832c0d"
+  },
+  {
+    "id": "73dc7f08-d57e-4233-a63f-a20347476e00",
+    "created_time": "2024-06-01T08:54:00.000Z",
+    "last_edited_time": "2024-06-01T08:54:00.000Z",
+    "properties": {
+      "105": "Not started",
+      "PIC": [
+        "Khuê",
+        "Trinh"
+      ],
+      "Nội dung nhiệm vụ ": "Request họp nếu như có vấn đề lớn ảnh hưởng đến timeline client",
+      "Đầu việc": "CLIENT "
+    },
+    "_title": "CLIENT ",
+    "database_name": "OMG_PHÂN CHIA CÔNG VIỆC BG",
+    "project_name": "OMG_PHÂN CHIA CÔNG VIỆC BG",
+    "database_id": "59bca067-5a6b-4470-95eb-4cd9bf832c0d"
+  },
+  {
+    "id": "7c13cf4f-9dc7-497f-92c8-6984ff61bcec",
+    "created_time": "2024-06-01T08:54:00.000Z",
+    "last_edited_time": "2024-06-01T08:54:00.000Z",
+    "properties": {
+      "105": "Not started",
+      "PIC": [
+        "Khuê"
+      ],
+      "Nội dung nhiệm vụ ": "Brief series",
+      "Đầu việc": ""
+    },
+    "_title": "",
+    "database_name": "OMG_PHÂN CHIA CÔNG VIỆC BG",
+    "project_name": "OMG_PHÂN CHIA CÔNG VIỆC BG",
+    "database_id": "59bca067-5a6b-4470-95eb-4cd9bf832c0d"
+  },
+  {
+    "id": "82b06e58-b3ea-408a-9664-4381a2bcd56b",
+    "created_time": "2024-06-01T08:54:00.000Z",
+    "last_edited_time": "2024-06-01T08:54:00.000Z",
+    "properties": {
+      "105": "Not started",
+      "PIC": [
+        "Theo producer phụ trách team"
+      ],
+      "Nội dung nhiệm vụ ": "Set up và thông báo lịch QC/deliver",
+      "Đầu việc": ""
+    },
+    "_title": "",
+    "database_name": "OMG_PHÂN CHIA CÔNG VIỆC BG",
+    "project_name": "OMG_PHÂN CHIA CÔNG VIỆC BG",
+    "database_id": "59bca067-5a6b-4470-95eb-4cd9bf832c0d"
+  },
+  {
+    "id": "986c46ce-3993-4c50-8162-27400493d8f9",
+    "created_time": "2024-06-01T08:54:00.000Z",
+    "last_edited_time": "2024-06-01T08:54:00.000Z",
+    "properties": {
+      "105": "Not started",
+      "PIC": [
+        "Theo producer phụ trách team"
+      ],
+      "Nội dung nhiệm vụ ": "Nhận và scan feedback client từng lượt gửi",
+      "Đầu việc": "QC"
+    },
+    "_title": "QC",
+    "database_name": "OMG_PHÂN CHIA CÔNG VIỆC BG",
+    "project_name": "OMG_PHÂN CHIA CÔNG VIỆC BG",
+    "database_id": "59bca067-5a6b-4470-95eb-4cd9bf832c0d"
+  },
+  {
+    "id": "9edd6956-66f1-4fd1-9352-2a48afdd9ea1",
+    "created_time": "2024-06-01T08:54:00.000Z",
+    "last_edited_time": "2024-06-01T08:59:00.000Z",
+    "properties": {
+      "105": "Not started",
+      "PIC": [
+        "Theo producer phụ trách team"
+      ],
+      "Nội dung nhiệm vụ ": "Set up cấu trúc folder trên X",
+      "Đầu việc": "Planning "
+    },
+    "_title": "Planning ",
+    "database_name": "OMG_PHÂN CHIA CÔNG VIỆC BG",
+    "project_name": "OMG_PHÂN CHIA CÔNG VIỆC BG",
+    "database_id": "59bca067-5a6b-4470-95eb-4cd9bf832c0d"
+  },
+  {
+    "id": "a8bf0186-bb45-4264-9627-c4f8f318adc2",
+    "created_time": "2024-06-01T08:54:00.000Z",
+    "last_edited_time": "2024-06-01T08:54:00.000Z",
+    "properties": {
+      "105": "Not started",
+      "PIC": [
+        "Theo producer phụ trách team"
+      ],
+      "Nội dung nhiệm vụ ": "Chat với khách các câu hỏi của team",
+      "Đầu việc": ""
+    },
+    "_title": "",
+    "database_name": "OMG_PHÂN CHIA CÔNG VIỆC BG",
+    "project_name": "OMG_PHÂN CHIA CÔNG VIỆC BG",
+    "database_id": "59bca067-5a6b-4470-95eb-4cd9bf832c0d"
+  },
+  {
+    "id": "ad0fdb7f-f3c3-498a-9edd-a08b83b3f564",
+    "created_time": "2024-06-01T08:54:00.000Z",
+    "last_edited_time": "2024-06-01T08:54:00.000Z",
+    "properties": {
+      "105": "Not started",
+      "PIC": [
+        "Theo producer phụ trách team"
+      ],
+      "Nội dung nhiệm vụ ": "Import backlog to Notion",
+      "Đầu việc": ""
+    },
+    "_title": "",
+    "database_name": "OMG_PHÂN CHIA CÔNG VIỆC BG",
+    "project_name": "OMG_PHÂN CHIA CÔNG VIỆC BG",
+    "database_id": "59bca067-5a6b-4470-95eb-4cd9bf832c0d"
+  },
+  {
+    "id": "cc0dd72e-9f9d-4e60-82bb-df61848b6fcb",
+    "created_time": "2024-06-01T08:54:00.000Z",
+    "last_edited_time": "2024-06-01T10:15:00.000Z",
+    "properties": {
+      "105": "Not started",
+      "PIC": [
+        "Minh Anh"
+      ],
+      "Nội dung nhiệm vụ ": "Scan sự thay đổi feedback",
+      "Đầu việc": "Khi có thay đổi data input"
+    },
+    "_title": "Khi có thay đổi data input",
+    "database_name": "OMG_PHÂN CHIA CÔNG VIỆC BG",
+    "project_name": "OMG_PHÂN CHIA CÔNG VIỆC BG",
+    "database_id": "59bca067-5a6b-4470-95eb-4cd9bf832c0d"
+  },
+  {
+    "id": "d700124b-cb26-41dd-b089-4420fc7cf7a7",
+    "created_time": "2024-06-01T08:54:00.000Z",
+    "last_edited_time": "2024-06-01T10:14:00.000Z",
+    "properties": {
+      "105": "Not started",
+      "PIC": [
+        "Minh Anh"
+      ],
+      "Nội dung nhiệm vụ ": "Kiểm tra tiến độ fle (so với timeline của khách) ",
+      "Đầu việc": ""
+    },
+    "_title": "",
+    "database_name": "OMG_PHÂN CHIA CÔNG VIỆC BG",
+    "project_name": "OMG_PHÂN CHIA CÔNG VIỆC BG",
+    "database_id": "59bca067-5a6b-4470-95eb-4cd9bf832c0d"
+  },
+  {
+    "id": "e39a8bb8-32b3-4544-bf20-61db60c1e3d3",
+    "created_time": "2024-06-01T08:54:00.000Z",
+    "last_edited_time": "2024-06-01T08:54:00.000Z",
+    "properties": {
+      "105": "Not started",
+      "PIC": [
+        "Theo producer phụ trách team"
+      ],
+      "Nội dung nhiệm vụ ": "Mini SKCT: thực hiện sau mỗi sprint, producer họp và tổng hợp vấn đề trong sprint với team",
+      "Đầu việc": ""
+    },
+    "_title": "",
+    "database_name": "OMG_PHÂN CHIA CÔNG VIỆC BG",
+    "project_name": "OMG_PHÂN CHIA CÔNG VIỆC BG",
+    "database_id": "59bca067-5a6b-4470-95eb-4cd9bf832c0d"
+  },
+  {
+    "id": "ee2e146e-9299-4d75-9655-005751b10aab",
+    "created_time": "2024-06-01T08:54:00.000Z",
+    "last_edited_time": "2024-06-01T08:54:00.000Z",
+    "properties": {
+      "105": "Not started",
+      "PIC": [
+        "Khuê",
+        "Minh Anh",
+        "Trinh"
+      ],
+      "Nội dung nhiệm vụ ": "SKCT chung: Các team họp chung để tổng hợp các vấn đề gặp phải trong quá trình chạy sprint vừa rồi. Thực hiện sau mỗi tập phim được hoàn thành.",
+      "Đầu việc": "SKCT "
+    },
+    "_title": "SKCT ",
+    "database_name": "OMG_PHÂN CHIA CÔNG VIỆC BG",
+    "project_name": "OMG_PHÂN CHIA CÔNG VIỆC BG",
+    "database_id": "59bca067-5a6b-4470-95eb-4cd9bf832c0d"
+  },
+  {
+    "id": "f78b5a78-3bae-4e65-9e97-06cdc93a39ad",
+    "created_time": "2024-06-01T08:54:00.000Z",
+    "last_edited_time": "2024-06-01T08:54:00.000Z",
+    "properties": {
+      "105": "Not started",
+      "PIC": [
+        "Khuê"
+      ],
+      "Nội dung nhiệm vụ ": "Set up template SKCT cho cả dự án (bao gồm đầu ra cho buổi họp và nội dung sẽ trao đổi) ",
+      "Đầu việc": ""
+    },
+    "_title": "",
+    "database_name": "OMG_PHÂN CHIA CÔNG VIỆC BG",
+    "project_name": "OMG_PHÂN CHIA CÔNG VIỆC BG",
+    "database_id": "59bca067-5a6b-4470-95eb-4cd9bf832c0d"
+  },
+  {
+    "id": "f9021004-7c02-445a-816c-e9e238045bc2",
+    "created_time": "2024-06-01T08:54:00.000Z",
+    "last_edited_time": "2024-06-01T10:13:00.000Z",
+    "properties": {
+      "105": "Not started",
+      "PIC": [
+        "Minh Anh"
+      ],
+      "Nội dung nhiệm vụ ": "Brief nội dung từng tập",
+      "Đầu việc": ""
+    },
+    "_title": "",
+    "database_name": "OMG_PHÂN CHIA CÔNG VIỆC BG",
+    "project_name": "OMG_PHÂN CHIA CÔNG VIỆC BG",
+    "database_id": "59bca067-5a6b-4470-95eb-4cd9bf832c0d"
+  }
+]

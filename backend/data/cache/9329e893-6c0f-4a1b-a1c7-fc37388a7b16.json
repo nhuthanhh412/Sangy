@@ -1,0 +1,687 @@
+[
+  {
+    "id": "0afe0fcf-5ff6-4580-9a1d-0ca960c1b496",
+    "created_time": "2024-03-08T04:50:00.000Z",
+    "last_edited_time": "2024-03-08T04:52:00.000Z",
+    "properties": {
+      "Owner": [
+        {
+          "id": "69878e2b-be0e-4d11-b640-d7909d1bcd52",
+          "name": "Lê Trịnh",
+          "email": "lett@sangygroup.com"
+        }
+      ],
+      "Objective": [
+        "fd0aaa0f-fa2f-48a7-86e3-8ce8fbd0c6b6"
+      ],
+      "Priority": null,
+      "Target Date": null,
+      "Status": null,
+      "Key Results": [],
+      "Text": "",
+      "Name": "Cập nhật (làm ngắn lại bài hand-drawn) để phù hợp với thời gian học việc"
+    },
+    "_title": "Cập nhật (làm ngắn lại bài hand-drawn) để phù hợp với thời gian học việc",
+    "database_name": "Objectives & Key Results (OKR) Tracker",
+    "project_name": "Objectives & Key Results (OKR) Tracker",
+    "database_id": "9329e893-6c0f-4a1b-a1c7-fc37388a7b16"
+  },
+  {
+    "id": "12fa866b-bc2f-409d-97f5-09ecd8b8e7b0",
+    "created_time": "2024-03-08T04:38:00.000Z",
+    "last_edited_time": "2024-03-08T04:56:00.000Z",
+    "properties": {
+      "Owner": [
+        {
+          "id": "1fc365a3-6caf-4a7b-9866-0e7b43858917",
+          "name": "Lộc Nguyễn",
+          "email": "locng@sangygroup.com"
+        }
+      ],
+      "Objective": [
+        "b881021d-ffcf-4810-b16f-cdaeee68d7dd"
+      ],
+      "Priority": null,
+      "Target Date": null,
+      "Status": null,
+      "Key Results": [
+        "3a1dfd6c-45e5-477f-bd93-87bbf344382d",
+        "feb0c412-6a23-4d25-a5d2-20201dbb7962"
+      ],
+      "Text": "",
+      "Name": "Giáo án cho BG cho Mentor của team BG"
+    },
+    "_title": "Giáo án cho BG cho Mentor của team BG",
+    "database_name": "Objectives & Key Results (OKR) Tracker",
+    "project_name": "Objectives & Key Results (OKR) Tracker",
+    "database_id": "9329e893-6c0f-4a1b-a1c7-fc37388a7b16"
+  },
+  {
+    "id": "20cb1f7b-92da-402d-84e6-9a35b92f69eb",
+    "created_time": "2024-03-08T04:32:00.000Z",
+    "last_edited_time": "2024-03-20T04:09:00.000Z",
+    "properties": {
+      "Owner": [],
+      "Objective": [],
+      "Priority": null,
+      "Target Date": null,
+      "Status": null,
+      "Key Results": [
+        "9a317401-4142-46e2-8d13-631771d1b870",
+        "2e2fee00-4512-4bc2-9159-aac416d0d9f7",
+        "8af93883-9356-46af-afa6-11677c0c47ef"
+      ],
+      "Text": "",
+      "Name": "Cần một kết quả thuyết phục để truyền thông"
+    },
+    "_title": "Cần một kết quả thuyết phục để truyền thông",
+    "database_name": "Objectives & Key Results (OKR) Tracker",
+    "project_name": "Objectives & Key Results (OKR) Tracker",
+    "database_id": "9329e893-6c0f-4a1b-a1c7-fc37388a7b16"
+  },
+  {
+    "id": "2a79ed7c-b57a-4e7d-a2c4-5b6deb18fd6d",
+    "created_time": "2024-03-09T10:38:00.000Z",
+    "last_edited_time": "2024-03-09T10:38:00.000Z",
+    "properties": {
+      "Owner": [],
+      "Objective": [
+        "7e33089b-6962-4d94-a648-9162061f0c01"
+      ],
+      "Priority": null,
+      "Target Date": null,
+      "Status": null,
+      "Key Results": [],
+      "Text": "",
+      "Name": "Tâm năng lượng"
+    },
+    "_title": "Tâm năng lượng",
+    "database_name": "Objectives & Key Results (OKR) Tracker",
+    "project_name": "Objectives & Key Results (OKR) Tracker",
+    "database_id": "9329e893-6c0f-4a1b-a1c7-fc37388a7b16"
+  },
+  {
+    "id": "2e2fee00-4512-4bc2-9159-aac416d0d9f7",
+    "created_time": "2024-03-08T04:32:00.000Z",
+    "last_edited_time": "2024-03-08T04:33:00.000Z",
+    "properties": {
+      "Owner": [],
+      "Objective": [
+        "20cb1f7b-92da-402d-84e6-9a35b92f69eb"
+      ],
+      "Priority": null,
+      "Target Date": null,
+      "Status": null,
+      "Key Results": [],
+      "Text": "",
+      "Name": "Muốn các phòng ban có sự tham gia vào dự án này để nhiều góc nhìn và thử nghiệm kết quả\n"
+    },
+    "_title": "Muốn các phòng ban có sự tham gia vào dự án này để nhiều góc nhìn và thử nghiệm kết quả\n",
+    "database_name": "Objectives & Key Results (OKR) Tracker",
+    "project_name": "Objectives & Key Results (OKR) Tracker",
+    "database_id": "9329e893-6c0f-4a1b-a1c7-fc37388a7b16"
+  },
+  {
+    "id": "2faaaa8e-5ac5-4e83-91a4-d85b212bf854",
+    "created_time": "2024-03-08T04:29:00.000Z",
+    "last_edited_time": "2024-03-13T10:22:00.000Z",
+    "properties": {
+      "Owner": [
+        {
+          "id": "8931b6f2-64d2-470a-a04f-316a3fd59530",
+          "name": "Quang Đặng",
+          "email": "quang@deedeestudio.net"
+        }
+      ],
+      "Objective": [],
+      "Priority": null,
+      "Target Date": null,
+      "Status": "🔴",
+      "Key Results": [
+        "b881021d-ffcf-4810-b16f-cdaeee68d7dd",
+        "e014be4a-146d-4457-b4f7-b3c225d71d0b"
+      ],
+      "Text": "",
+      "Name": "Phát triển database trong 3 tháng tới theo 1 số liệu gì đó"
+    },
+    "_title": "Phát triển database trong 3 tháng tới theo 1 số liệu gì đó",
+    "database_name": "Objectives & Key Results (OKR) Tracker",
+    "project_name": "Objectives & Key Results (OKR) Tracker",
+    "database_id": "9329e893-6c0f-4a1b-a1c7-fc37388a7b16"
+  },
+  {
+    "id": "3a1dfd6c-45e5-477f-bd93-87bbf344382d",
+    "created_time": "2024-03-08T04:53:00.000Z",
+    "last_edited_time": "2024-03-08T04:55:00.000Z",
+    "properties": {
+      "Owner": [
+        {
+          "id": "1fc365a3-6caf-4a7b-9866-0e7b43858917",
+          "name": "Lộc Nguyễn",
+          "email": "locng@sangygroup.com"
+        }
+      ],
+      "Objective": [
+        "12fa866b-bc2f-409d-97f5-09ecd8b8e7b0"
+      ],
+      "Priority": null,
+      "Target Date": null,
+      "Status": null,
+      "Key Results": [],
+      "Text": "",
+      "Name": "Cập nhật cái tip & trick: style anime (số lượng 24)"
+    },
+    "_title": "Cập nhật cái tip & trick: style anime (số lượng 24)",
+    "database_name": "Objectives & Key Results (OKR) Tracker",
+    "project_name": "Objectives & Key Results (OKR) Tracker",
+    "database_id": "9329e893-6c0f-4a1b-a1c7-fc37388a7b16"
+  },
+  {
+    "id": "5ba5913d-de6a-4b44-a668-3bae3b61e673",
+    "created_time": "2024-03-08T04:43:00.000Z",
+    "last_edited_time": "2024-03-11T04:30:00.000Z",
+    "properties": {
+      "Owner": [
+        {
+          "id": "129b1033-6138-40a8-909d-7a4aeb994d99",
+          "name": "Bình Lường",
+          "email": "binhlt@sangygroup.com"
+        }
+      ],
+      "Objective": [
+        "fd0aaa0f-fa2f-48a7-86e3-8ce8fbd0c6b6"
+      ],
+      "Priority": null,
+      "Target Date": null,
+      "Status": "🟡",
+      "Key Results": [],
+      "Text": "",
+      "Name": "Tích hợp tất cả tool cơ bản: số lượng 40"
+    },
+    "_title": "Tích hợp tất cả tool cơ bản: số lượng 40",
+    "database_name": "Objectives & Key Results (OKR) Tracker",
+    "project_name": "Objectives & Key Results (OKR) Tracker",
+    "database_id": "9329e893-6c0f-4a1b-a1c7-fc37388a7b16"
+  },
+  {
+    "id": "5db188af-0399-425e-82dd-cef7eaa5094e",
+    "created_time": "2024-03-09T10:32:00.000Z",
+    "last_edited_time": "2024-03-16T06:49:00.000Z",
+    "properties": {
+      "Owner": [],
+      "Objective": [
+        "d4340791-5ee3-4f6b-9d4c-37cd02ab7950"
+      ],
+      "Priority": null,
+      "Target Date": null,
+      "Status": "🟡",
+      "Key Results": [],
+      "Text": "Untitled ",
+      "Name": "Bài 6: Hình khối"
+    },
+    "_title": "Bài 6: Hình khối",
+    "database_name": "Objectives & Key Results (OKR) Tracker",
+    "project_name": "Objectives & Key Results (OKR) Tracker",
+    "database_id": "9329e893-6c0f-4a1b-a1c7-fc37388a7b16"
+  },
+  {
+    "id": "62990f39-7f1a-4f9e-8b98-aa5372a4aed5",
+    "created_time": "2024-03-09T10:32:00.000Z",
+    "last_edited_time": "2024-03-16T07:03:00.000Z",
+    "properties": {
+      "Owner": [],
+      "Objective": [
+        "d4340791-5ee3-4f6b-9d4c-37cd02ab7950"
+      ],
+      "Priority": null,
+      "Target Date": null,
+      "Status": "🟢",
+      "Key Results": [],
+      "Text": "Untitled ",
+      "Name": "Bài 5: Quy trình hand-drawn animation"
+    },
+    "_title": "Bài 5: Quy trình hand-drawn animation",
+    "database_name": "Objectives & Key Results (OKR) Tracker",
+    "project_name": "Objectives & Key Results (OKR) Tracker",
+    "database_id": "9329e893-6c0f-4a1b-a1c7-fc37388a7b16"
+  },
+  {
+    "id": "62fb551f-b8c2-4cca-ab50-b049de275cf7",
+    "created_time": "2024-03-09T10:31:00.000Z",
+    "last_edited_time": "2024-03-16T06:49:00.000Z",
+    "properties": {
+      "Owner": [],
+      "Objective": [
+        "d4340791-5ee3-4f6b-9d4c-37cd02ab7950"
+      ],
+      "Priority": null,
+      "Target Date": null,
+      "Status": "🟢",
+      "Key Results": [],
+      "Text": "Untitled ",
+      "Name": "Bài 2: Extreme - Inbetween"
+    },
+    "_title": "Bài 2: Extreme - Inbetween",
+    "database_name": "Objectives & Key Results (OKR) Tracker",
+    "project_name": "Objectives & Key Results (OKR) Tracker",
+    "database_id": "9329e893-6c0f-4a1b-a1c7-fc37388a7b16"
+  },
+  {
+    "id": "62fe197f-a3ff-4fcc-b6e8-fed6a25b9d9f",
+    "created_time": "2024-03-08T04:48:00.000Z",
+    "last_edited_time": "2024-03-11T04:30:00.000Z",
+    "properties": {
+      "Owner": [
+        {
+          "id": "129b1033-6138-40a8-909d-7a4aeb994d99",
+          "name": "Bình Lường",
+          "email": "binhlt@sangygroup.com"
+        }
+      ],
+      "Objective": [
+        "fd0aaa0f-fa2f-48a7-86e3-8ce8fbd0c6b6"
+      ],
+      "Priority": null,
+      "Target Date": null,
+      "Status": "🔴",
+      "Key Results": [],
+      "Text": "",
+      "Name": "Viết 2 giáo án mới về rig (85%) và master controller (15%)"
+    },
+    "_title": "Viết 2 giáo án mới về rig (85%) và master controller (15%)",
+    "database_name": "Objectives & Key Results (OKR) Tracker",
+    "project_name": "Objectives & Key Results (OKR) Tracker",
+    "database_id": "9329e893-6c0f-4a1b-a1c7-fc37388a7b16"
+  },
+  {
+    "id": "7e33089b-6962-4d94-a648-9162061f0c01",
+    "created_time": "2024-03-09T10:30:00.000Z",
+    "last_edited_time": "2024-03-09T10:38:00.000Z",
+    "properties": {
+      "Owner": [],
+      "Objective": [
+        "e014be4a-146d-4457-b4f7-b3c225d71d0b"
+      ],
+      "Priority": null,
+      "Target Date": null,
+      "Status": null,
+      "Key Results": [
+        "2a79ed7c-b57a-4e7d-a2c4-5b6deb18fd6d",
+        "b6b1f1e7-9a70-471f-9b0a-c6b61410e876"
+      ],
+      "Text": "",
+      "Name": "Giải thích 4 thuật ngữ mới"
+    },
+    "_title": "Giải thích 4 thuật ngữ mới",
+    "database_name": "Objectives & Key Results (OKR) Tracker",
+    "project_name": "Objectives & Key Results (OKR) Tracker",
+    "database_id": "9329e893-6c0f-4a1b-a1c7-fc37388a7b16"
+  },
+  {
+    "id": "862f03b9-9ca0-4061-b1eb-94d68a3ce43a",
+    "created_time": "2024-03-09T10:33:00.000Z",
+    "last_edited_time": "2024-03-16T07:03:00.000Z",
+    "properties": {
+      "Owner": [],
+      "Objective": [
+        "d4340791-5ee3-4f6b-9d4c-37cd02ab7950"
+      ],
+      "Priority": null,
+      "Target Date": null,
+      "Status": null,
+      "Key Results": [],
+      "Text": "",
+      "Name": "BÀI 8: "
+    },
+    "_title": "BÀI 8: ",
+    "database_name": "Objectives & Key Results (OKR) Tracker",
+    "project_name": "Objectives & Key Results (OKR) Tracker",
+    "database_id": "9329e893-6c0f-4a1b-a1c7-fc37388a7b16"
+  },
+  {
+    "id": "8af93883-9356-46af-afa6-11677c0c47ef",
+    "created_time": "2024-03-08T04:33:00.000Z",
+    "last_edited_time": "2024-03-20T04:09:00.000Z",
+    "properties": {
+      "Owner": [],
+      "Objective": [
+        "20cb1f7b-92da-402d-84e6-9a35b92f69eb"
+      ],
+      "Priority": null,
+      "Target Date": null,
+      "Status": null,
+      "Key Results": [
+        "d1f05fe5-2379-483f-baf3-5314b63d52a4"
+      ],
+      "Text": "",
+      "Name": "Cải tiến hệ thống: Có quy trình, template (how to do), guideline → phổ biến"
+    },
+    "_title": "Cải tiến hệ thống: Có quy trình, template (how to do), guideline → phổ biến",
+    "database_name": "Objectives & Key Results (OKR) Tracker",
+    "project_name": "Objectives & Key Results (OKR) Tracker",
+    "database_id": "9329e893-6c0f-4a1b-a1c7-fc37388a7b16"
+  },
+  {
+    "id": "8dd3e585-fb93-4325-9a34-e512f3cc2d38",
+    "created_time": "2024-03-09T10:32:00.000Z",
+    "last_edited_time": "2024-03-09T10:35:00.000Z",
+    "properties": {
+      "Owner": [],
+      "Objective": [
+        "d4340791-5ee3-4f6b-9d4c-37cd02ab7950"
+      ],
+      "Priority": null,
+      "Target Date": null,
+      "Status": null,
+      "Key Results": [],
+      "Text": "",
+      "Name": "Bài 7: Chân dung & chân tay"
+    },
+    "_title": "Bài 7: Chân dung & chân tay",
+    "database_name": "Objectives & Key Results (OKR) Tracker",
+    "project_name": "Objectives & Key Results (OKR) Tracker",
+    "database_id": "9329e893-6c0f-4a1b-a1c7-fc37388a7b16"
+  },
+  {
+    "id": "99c52650-3aa3-4fb7-9f88-e65c3d039d55",
+    "created_time": "2024-03-09T10:32:00.000Z",
+    "last_edited_time": "2024-03-16T06:59:00.000Z",
+    "properties": {
+      "Owner": [],
+      "Objective": [
+        "d4340791-5ee3-4f6b-9d4c-37cd02ab7950"
+      ],
+      "Priority": null,
+      "Target Date": null,
+      "Status": "🟢",
+      "Key Results": [],
+      "Text": "Untitled ",
+      "Name": "Bài 4: Gimmick"
+    },
+    "_title": "Bài 4: Gimmick",
+    "database_name": "Objectives & Key Results (OKR) Tracker",
+    "project_name": "Objectives & Key Results (OKR) Tracker",
+    "database_id": "9329e893-6c0f-4a1b-a1c7-fc37388a7b16"
+  },
+  {
+    "id": "9a317401-4142-46e2-8d13-631771d1b870",
+    "created_time": "2024-03-08T04:32:00.000Z",
+    "last_edited_time": "2024-03-08T04:32:00.000Z",
+    "properties": {
+      "Owner": [],
+      "Objective": [
+        "20cb1f7b-92da-402d-84e6-9a35b92f69eb"
+      ],
+      "Priority": null,
+      "Target Date": null,
+      "Status": null,
+      "Key Results": [],
+      "Text": "",
+      "Name": "Thử nghiệm để xét tính hiệu quả trong các dự án nhất định\n"
+    },
+    "_title": "Thử nghiệm để xét tính hiệu quả trong các dự án nhất định\n",
+    "database_name": "Objectives & Key Results (OKR) Tracker",
+    "project_name": "Objectives & Key Results (OKR) Tracker",
+    "database_id": "9329e893-6c0f-4a1b-a1c7-fc37388a7b16"
+  },
+  {
+    "id": "b6b1f1e7-9a70-471f-9b0a-c6b61410e876",
+    "created_time": "2024-03-09T10:38:00.000Z",
+    "last_edited_time": "2024-03-09T10:38:00.000Z",
+    "properties": {
+      "Owner": [],
+      "Objective": [
+        "7e33089b-6962-4d94-a648-9162061f0c01"
+      ],
+      "Priority": null,
+      "Target Date": null,
+      "Status": null,
+      "Key Results": [],
+      "Text": "",
+      "Name": "Extreme"
+    },
+    "_title": "Extreme",
+    "database_name": "Objectives & Key Results (OKR) Tracker",
+    "project_name": "Objectives & Key Results (OKR) Tracker",
+    "database_id": "9329e893-6c0f-4a1b-a1c7-fc37388a7b16"
+  },
+  {
+    "id": "b881021d-ffcf-4810-b16f-cdaeee68d7dd",
+    "created_time": "2024-03-08T04:29:00.000Z",
+    "last_edited_time": "2024-03-08T05:00:00.000Z",
+    "properties": {
+      "Owner": [
+        {
+          "id": "129b1033-6138-40a8-909d-7a4aeb994d99",
+          "name": "Bình Lường",
+          "email": "binhlt@sangygroup.com"
+        }
+      ],
+      "Objective": [
+        "2faaaa8e-5ac5-4e83-91a4-d85b212bf854"
+      ],
+      "Priority": null,
+      "Target Date": null,
+      "Status": null,
+      "Key Results": [
+        "12fa866b-bc2f-409d-97f5-09ecd8b8e7b0",
+        "fd0aaa0f-fa2f-48a7-86e3-8ce8fbd0c6b6"
+      ],
+      "Text": "",
+      "Name": "Có 1 giáo án cụ thể cho mentor (tích hợp mọi thứ: kiến thức, kỹ thuật, phần mềm để trainee sử dụng và nghiên cứu)\n"
+    },
+    "_title": "Có 1 giáo án cụ thể cho mentor (tích hợp mọi thứ: kiến thức, kỹ thuật, phần mềm để trainee sử dụng và nghiên cứu)\n",
+    "database_name": "Objectives & Key Results (OKR) Tracker",
+    "project_name": "Objectives & Key Results (OKR) Tracker",
+    "database_id": "9329e893-6c0f-4a1b-a1c7-fc37388a7b16"
+  },
+  {
+    "id": "cd208ca6-0515-4b69-9a68-c579c78e9c5d",
+    "created_time": "2024-03-09T10:31:00.000Z",
+    "last_edited_time": "2024-03-16T06:49:00.000Z",
+    "properties": {
+      "Owner": [],
+      "Objective": [
+        "d4340791-5ee3-4f6b-9d4c-37cd02ab7950"
+      ],
+      "Priority": null,
+      "Target Date": null,
+      "Status": "🟢",
+      "Key Results": [],
+      "Text": "Untitled ",
+      "Name": "Bài 1: Tương tác hệ thống"
+    },
+    "_title": "Bài 1: Tương tác hệ thống",
+    "database_name": "Objectives & Key Results (OKR) Tracker",
+    "project_name": "Objectives & Key Results (OKR) Tracker",
+    "database_id": "9329e893-6c0f-4a1b-a1c7-fc37388a7b16"
+  },
+  {
+    "id": "d1f05fe5-2379-483f-baf3-5314b63d52a4",
+    "created_time": "2024-03-08T04:33:00.000Z",
+    "last_edited_time": "2024-03-20T04:09:00.000Z",
+    "properties": {
+      "Owner": [],
+      "Objective": [
+        "8af93883-9356-46af-afa6-11677c0c47ef"
+      ],
+      "Priority": null,
+      "Target Date": null,
+      "Status": null,
+      "Key Results": [],
+      "Text": "",
+      "Name": "Đào tạo được các agent (chuyên gia) có thể đào tạo cho mọi người về guideline."
+    },
+    "_title": "Đào tạo được các agent (chuyên gia) có thể đào tạo cho mọi người về guideline.",
+    "database_name": "Objectives & Key Results (OKR) Tracker",
+    "project_name": "Objectives & Key Results (OKR) Tracker",
+    "database_id": "9329e893-6c0f-4a1b-a1c7-fc37388a7b16"
+  },
+  {
+    "id": "d37630b4-ed4d-4b64-b1a6-7b529e0ddc81",
+    "created_time": "2024-03-09T10:32:00.000Z",
+    "last_edited_time": "2024-03-16T06:59:00.000Z",
+    "properties": {
+      "Owner": [],
+      "Objective": [
+        "d4340791-5ee3-4f6b-9d4c-37cd02ab7950"
+      ],
+      "Priority": null,
+      "Target Date": null,
+      "Status": "🟢",
+      "Key Results": [],
+      "Text": "Untitled ",
+      "Name": "Bài 3: Timing - Spacing"
+    },
+    "_title": "Bài 3: Timing - Spacing",
+    "database_name": "Objectives & Key Results (OKR) Tracker",
+    "project_name": "Objectives & Key Results (OKR) Tracker",
+    "database_id": "9329e893-6c0f-4a1b-a1c7-fc37388a7b16"
+  },
+  {
+    "id": "d4340791-5ee3-4f6b-9d4c-37cd02ab7950",
+    "created_time": "2024-03-09T10:28:00.000Z",
+    "last_edited_time": "2024-03-16T06:49:00.000Z",
+    "properties": {
+      "Owner": [],
+      "Objective": [
+        "e014be4a-146d-4457-b4f7-b3c225d71d0b"
+      ],
+      "Priority": null,
+      "Target Date": null,
+      "Status": null,
+      "Key Results": [
+        "cd208ca6-0515-4b69-9a68-c579c78e9c5d",
+        "62fb551f-b8c2-4cca-ab50-b049de275cf7",
+        "d37630b4-ed4d-4b64-b1a6-7b529e0ddc81",
+        "99c52650-3aa3-4fb7-9f88-e65c3d039d55",
+        "62990f39-7f1a-4f9e-8b98-aa5372a4aed5",
+        "5db188af-0399-425e-82dd-cef7eaa5094e",
+        "8dd3e585-fb93-4325-9a34-e512f3cc2d38",
+        "862f03b9-9ca0-4061-b1eb-94d68a3ce43a"
+      ],
+      "Text": "",
+      "Name": "Paste và update lại 8 bài giảng qua Notion"
+    },
+    "_title": "Paste và update lại 8 bài giảng qua Notion",
+    "database_name": "Objectives & Key Results (OKR) Tracker",
+    "project_name": "Objectives & Key Results (OKR) Tracker",
+    "database_id": "9329e893-6c0f-4a1b-a1c7-fc37388a7b16"
+  },
+  {
+    "id": "e014be4a-146d-4457-b4f7-b3c225d71d0b",
+    "created_time": "2024-03-08T04:29:00.000Z",
+    "last_edited_time": "2024-03-09T10:38:00.000Z",
+    "properties": {
+      "Owner": [
+        {
+          "id": "3397c9a6-dd39-48d5-9bb5-6651a798e025",
+          "name": "My Nguyễn",
+          "email": "mynth@sangygroup.com"
+        }
+      ],
+      "Objective": [
+        "2faaaa8e-5ac5-4e83-91a4-d85b212bf854"
+      ],
+      "Priority": null,
+      "Target Date": null,
+      "Status": null,
+      "Key Results": [
+        "d4340791-5ee3-4f6b-9d4c-37cd02ab7950",
+        "7e33089b-6962-4d94-a648-9162061f0c01"
+      ],
+      "Text": "",
+      "Name": "Giáo án animator junior của Hoàng"
+    },
+    "_title": "Giáo án animator junior của Hoàng",
+    "database_name": "Objectives & Key Results (OKR) Tracker",
+    "project_name": "Objectives & Key Results (OKR) Tracker",
+    "database_id": "9329e893-6c0f-4a1b-a1c7-fc37388a7b16"
+  },
+  {
+    "id": "f36be3fb-ad1b-42ad-8886-7599a18d3c07",
+    "created_time": "2024-03-08T04:41:00.000Z",
+    "last_edited_time": "2024-03-08T04:52:00.000Z",
+    "properties": {
+      "Owner": [
+        {
+          "id": "69878e2b-be0e-4d11-b640-d7909d1bcd52",
+          "name": "Lê Trịnh",
+          "email": "lett@sangygroup.com"
+        }
+      ],
+      "Objective": [
+        "fd0aaa0f-fa2f-48a7-86e3-8ce8fbd0c6b6"
+      ],
+      "Priority": null,
+      "Target Date": null,
+      "Status": null,
+      "Key Results": [],
+      "Text": "",
+      "Name": "Làm giáo án 13 buổi một cách rõ ràng và hiệu quả"
+    },
+    "_title": "Làm giáo án 13 buổi một cách rõ ràng và hiệu quả",
+    "database_name": "Objectives & Key Results (OKR) Tracker",
+    "project_name": "Objectives & Key Results (OKR) Tracker",
+    "database_id": "9329e893-6c0f-4a1b-a1c7-fc37388a7b16"
+  },
+  {
+    "id": "fd0aaa0f-fa2f-48a7-86e3-8ce8fbd0c6b6",
+    "created_time": "2024-03-08T04:38:00.000Z",
+    "last_edited_time": "2024-03-08T04:58:00.000Z",
+    "properties": {
+      "Owner": [
+        {
+          "id": "69878e2b-be0e-4d11-b640-d7909d1bcd52",
+          "name": "Lê Trịnh",
+          "email": "lett@sangygroup.com"
+        }
+      ],
+      "Objective": [
+        "b881021d-ffcf-4810-b16f-cdaeee68d7dd"
+      ],
+      "Priority": null,
+      "Target Date": null,
+      "Status": null,
+      "Key Results": [
+        "f36be3fb-ad1b-42ad-8886-7599a18d3c07",
+        "5ba5913d-de6a-4b44-a668-3bae3b61e673",
+        "62fe197f-a3ff-4fcc-b6e8-fed6a25b9d9f",
+        "0afe0fcf-5ff6-4580-9a1d-0ca960c1b496"
+      ],
+      "Text": "",
+      "Name": "Giáo án cho Mentor của team Anim"
+    },
+    "_title": "Giáo án cho Mentor của team Anim",
+    "database_name": "Objectives & Key Results (OKR) Tracker",
+    "project_name": "Objectives & Key Results (OKR) Tracker",
+    "database_id": "9329e893-6c0f-4a1b-a1c7-fc37388a7b16"
+  },
+  {
+    "id": "feb0c412-6a23-4d25-a5d2-20201dbb7962",
+    "created_time": "2024-03-08T04:55:00.000Z",
+    "last_edited_time": "2024-03-08T04:56:00.000Z",
+    "properties": {
+      "Owner": [
+        {
+          "id": "1fc365a3-6caf-4a7b-9866-0e7b43858917",
+          "name": "Lộc Nguyễn",
+          "email": "locng@sangygroup.com"
+        }
+      ],
+      "Objective": [
+        "12fa866b-bc2f-409d-97f5-09ecd8b8e7b0"
+      ],
+      "Priority": null,
+      "Target Date": null,
+      "Status": null,
+      "Key Results": [],
+      "Text": "",
+      "Name": "Minh hoạ các lỗi cơ bản hay gặp khi vẽ BG (số lượng 8)"
+    },
+    "_title": "Minh hoạ các lỗi cơ bản hay gặp khi vẽ BG (số lượng 8)",
+    "database_name": "Objectives & Key Results (OKR) Tracker",
+    "project_name": "Objectives & Key Results (OKR) Tracker",
+    "database_id": "9329e893-6c0f-4a1b-a1c7-fc37388a7b16"
+  }
+]

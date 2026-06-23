@@ -1,0 +1,40 @@
+[
+  {
+    "id": "2d3ccb0e-ac88-81d9-b755-dffa447203b6",
+    "created_time": "2025-12-24T04:06:00.000Z",
+    "last_edited_time": "2025-12-24T04:09:00.000Z",
+    "properties": {
+      "Product ": [],
+      "Task main": null,
+      "Task QC": null,
+      "Run n8n": false,
+      "TP giả định": 0,
+      "Trọng số TP": 1,
+      "Product Type": null,
+      "[Dev] Total main": 1,
+      "Task type": "Main",
+      "Product Status": null,
+      "Task Status": "Not started",
+      "Episode": null,
+      "Done Date": null,
+      "Product Point": null,
+      "TP giả định 2": 0,
+      "Assignee": [
+        {
+          "id": "a4759bda-297c-47c5-8ab7-6a1e4ca0f526",
+          "name": "Thu Lê",
+          "email": "thulh@sangygroup.com"
+        }
+      ],
+      "TP thực tế": 0,
+      "Task fix": null,
+      "Created time": null,
+      "Tasks": "",
+      "Sprint": []
+    },
+    "_title": "",
+    "database_name": "[CHIBI] Tasks ",
+    "project_name": "[CHIBI] Tasks",
+    "database_id": "2d3ccb0e-ac88-811f-8f1a-d909410009bb"
+  }
+]

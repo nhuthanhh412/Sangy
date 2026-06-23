@@ -1,0 +1,60 @@
+[
+  {
+    "id": "2d3ccb0e-ac88-800b-abdc-e56ac12eb421",
+    "created_time": "2025-12-24T04:08:00.000Z",
+    "last_edited_time": "2025-12-24T04:08:00.000Z",
+    "properties": {
+      "Episode": null,
+      "Task count ": null,
+      "Total Fixed": null,
+      "Required by": null,
+      "Owner": [],
+      "Loại cảnh": null,
+      "Status": "Not started",
+      "Tasks ": [],
+      "Task Create": null,
+      "Task count + 1": 1,
+      "Total Main": null,
+      "Point Status": "Unconfirmed",
+      "Product point": 0,
+      "Check task done": null,
+      "Due Date": null,
+      "Product type": null,
+      "Total QC": null,
+      "Product": ""
+    },
+    "_title": "",
+    "database_name": "[CHIBI] Product ",
+    "project_name": "[CHIBI]",
+    "database_id": "2d3ccb0e-ac88-81a0-840a-e39e21e7432b"
+  },
+  {
+    "id": "2d3ccb0e-ac88-81cf-b4bb-d67b9062afe9",
+    "created_time": "2025-12-24T04:06:00.000Z",
+    "last_edited_time": "2026-01-05T04:22:00.000Z",
+    "properties": {
+      "Episode": "EP 01",
+      "Task count ": 0,
+      "Total Fixed": 0,
+      "Required by": "Internal",
+      "Owner": [],
+      "Loại cảnh": "C",
+      "Status": "In progress",
+      "Tasks ": [],
+      "Task Create": null,
+      "Task count + 1": 1,
+      "Total Main": 0,
+      "Point Status": "Unconfirmed",
+      "Product point": 25,
+      "Check task done": null,
+      "Due Date": null,
+      "Product type": "Layout",
+      "Total QC": 0,
+      "Product": "Inbetween 001"
+    },
+    "_title": "Inbetween 001",
+    "database_name": "[CHIBI] Product ",
+    "project_name": "[CHIBI]",
+    "database_id": "2d3ccb0e-ac88-81a0-840a-e39e21e7432b"
+  }
+]

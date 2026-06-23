@@ -1,0 +1,288 @@
+[
+  {
+    "id": "1a988e29-4ee0-4fa7-a294-952a3318d7bd",
+    "created_time": "2024-06-24T05:28:00.000Z",
+    "last_edited_time": "2024-06-24T05:28:00.000Z",
+    "properties": {
+      "Discussed": true,
+      "Details": "",
+      "Team Member": [
+        {
+          "id": "2b47d5ac-bd39-4aad-8e95-23ea4ab9b925",
+          "name": "Hoàng Hà",
+          "email": "hoanghh@sangygroup.com"
+        }
+      ],
+      "Select": "WHAT WE LEARNED",
+      "Links": null,
+      "Name": "Style của từng đạo diễn"
+    },
+    "_title": "Style của từng đạo diễn",
+    "database_name": "Retrospective",
+    "project_name": "Retrospective",
+    "database_id": "ab585b3a-c008-451f-8b31-340a38dbd8e9"
+  },
+  {
+    "id": "38085213-54fb-4f4a-a535-c5ad9e91c81e",
+    "created_time": "2024-06-24T05:28:00.000Z",
+    "last_edited_time": "2024-06-24T05:28:00.000Z",
+    "properties": {
+      "Discussed": true,
+      "Details": "",
+      "Team Member": [
+        {
+          "id": "82ba9b87-e198-4438-a1c2-7b873cd364b5",
+          "name": "Phúc Nguyễn",
+          "email": "phucnt@sangygroup.com"
+        }
+      ],
+      "Select": "WHAT CAN BE IMPROVED",
+      "Links": null,
+      "Name": "Chú ý tỉ lệ giữa nhân vật và BG"
+    },
+    "_title": "Chú ý tỉ lệ giữa nhân vật và BG",
+    "database_name": "Retrospective",
+    "project_name": "Retrospective",
+    "database_id": "ab585b3a-c008-451f-8b31-340a38dbd8e9"
+  },
+  {
+    "id": "42c5e175-6f4b-45dd-8d4e-3e4875123ff4",
+    "created_time": "2024-06-24T05:28:00.000Z",
+    "last_edited_time": "2024-06-24T05:28:00.000Z",
+    "properties": {
+      "Discussed": true,
+      "Details": "",
+      "Team Member": [
+        {
+          "id": "2b47d5ac-bd39-4aad-8e95-23ea4ab9b925",
+          "name": "Hoàng Hà",
+          "email": "hoanghh@sangygroup.com"
+        }
+      ],
+      "Select": "WHAT CAN BE IMPROVED",
+      "Links": null,
+      "Name": "Break dialogue ra cho các panel thay vì copy paste lặp lại"
+    },
+    "_title": "Break dialogue ra cho các panel thay vì copy paste lặp lại",
+    "database_name": "Retrospective",
+    "project_name": "Retrospective",
+    "database_id": "ab585b3a-c008-451f-8b31-340a38dbd8e9"
+  },
+  {
+    "id": "44e25f3f-9e29-470d-a9b9-d6956af1bc86",
+    "created_time": "2024-06-24T05:28:00.000Z",
+    "last_edited_time": "2024-06-24T05:28:00.000Z",
+    "properties": {
+      "Discussed": true,
+      "Details": "",
+      "Team Member": [
+        {
+          "id": "ab1f0c46-b3cb-42e7-b005-9f6f0b7debbe",
+          "name": "Unknown User",
+          "email": null
+        }
+      ],
+      "Select": "WHAT WE LEARNED",
+      "Links": null,
+      "Name": "Khái niệm “radio play”"
+    },
+    "_title": "Khái niệm “radio play”",
+    "database_name": "Retrospective",
+    "project_name": "Retrospective",
+    "database_id": "ab585b3a-c008-451f-8b31-340a38dbd8e9"
+  },
+  {
+    "id": "57adfdf4-615d-4490-9caf-2bd57cc8894a",
+    "created_time": "2024-06-24T05:28:00.000Z",
+    "last_edited_time": "2024-06-24T05:28:00.000Z",
+    "properties": {
+      "Discussed": true,
+      "Details": "",
+      "Team Member": [
+        {
+          "id": "3a81bdc9-11ff-4574-af89-d7fcdb3025ae",
+          "name": "Unknown User",
+          "email": null
+        }
+      ],
+      "Select": "WHAT CAN BE IMPROVED",
+      "Links": null,
+      "Name": "Acting, biểu cảm nhân vật hạn chế"
+    },
+    "_title": "Acting, biểu cảm nhân vật hạn chế",
+    "database_name": "Retrospective",
+    "project_name": "Retrospective",
+    "database_id": "ab585b3a-c008-451f-8b31-340a38dbd8e9"
+  },
+  {
+    "id": "9cee98da-b0b8-4514-8f6b-944be3248e75",
+    "created_time": "2024-06-24T05:28:00.000Z",
+    "last_edited_time": "2024-06-24T05:28:00.000Z",
+    "properties": {
+      "Discussed": true,
+      "Details": "",
+      "Team Member": [
+        {
+          "id": "2b47d5ac-bd39-4aad-8e95-23ea4ab9b925",
+          "name": "Hoàng Hà",
+          "email": "hoanghh@sangygroup.com"
+        }
+      ],
+      "Select": "WHAT CAN BE IMPROVED",
+      "Links": null,
+      "Name": "Dùng lông mày cho biểu cảm thay vì mí mắt"
+    },
+    "_title": "Dùng lông mày cho biểu cảm thay vì mí mắt",
+    "database_name": "Retrospective",
+    "project_name": "Retrospective",
+    "database_id": "ab585b3a-c008-451f-8b31-340a38dbd8e9"
+  },
+  {
+    "id": "b20658f9-faf2-4ed9-9579-25d5cff61e59",
+    "created_time": "2024-06-24T05:28:00.000Z",
+    "last_edited_time": "2024-06-24T05:28:00.000Z",
+    "properties": {
+      "Discussed": true,
+      "Details": "",
+      "Team Member": [
+        {
+          "id": "3a81bdc9-11ff-4574-af89-d7fcdb3025ae",
+          "name": "Unknown User",
+          "email": null
+        }
+      ],
+      "Select": "WHAT CAN BE IMPROVED",
+      "Links": null,
+      "Name": "Cần làm nhanh hơn"
+    },
+    "_title": "Cần làm nhanh hơn",
+    "database_name": "Retrospective",
+    "project_name": "Retrospective",
+    "database_id": "ab585b3a-c008-451f-8b31-340a38dbd8e9"
+  },
+  {
+    "id": "b5451ed8-e7d7-4950-a9f2-3b881b060ea9",
+    "created_time": "2024-06-24T05:28:00.000Z",
+    "last_edited_time": "2024-06-24T05:28:00.000Z",
+    "properties": {
+      "Discussed": true,
+      "Details": "",
+      "Team Member": [
+        {
+          "id": "3a81bdc9-11ff-4574-af89-d7fcdb3025ae",
+          "name": "Unknown User",
+          "email": null
+        }
+      ],
+      "Select": "WHAT CAN BE IMPROVED",
+      "Links": null,
+      "Name": "Màu clean cần sáng hơn"
+    },
+    "_title": "Màu clean cần sáng hơn",
+    "database_name": "Retrospective",
+    "project_name": "Retrospective",
+    "database_id": "ab585b3a-c008-451f-8b31-340a38dbd8e9"
+  },
+  {
+    "id": "c049186e-b1e6-4802-92e4-d120e7f06078",
+    "created_time": "2024-06-24T05:28:00.000Z",
+    "last_edited_time": "2024-06-24T05:28:00.000Z",
+    "properties": {
+      "Discussed": true,
+      "Details": "",
+      "Team Member": [
+        {
+          "id": "2b47d5ac-bd39-4aad-8e95-23ea4ab9b925",
+          "name": "Hoàng Hà",
+          "email": "hoanghh@sangygroup.com"
+        }
+      ],
+      "Select": "WHAT WENT RIGHT",
+      "Links": null,
+      "Name": "Chất lượng ổn định"
+    },
+    "_title": "Chất lượng ổn định",
+    "database_name": "Retrospective",
+    "project_name": "Retrospective",
+    "database_id": "ab585b3a-c008-451f-8b31-340a38dbd8e9"
+  },
+  {
+    "id": "d647557b-4d60-4232-bfb1-0644619a61e7",
+    "created_time": "2024-06-24T05:28:00.000Z",
+    "last_edited_time": "2024-06-24T05:28:00.000Z",
+    "properties": {
+      "Discussed": true,
+      "Details": "",
+      "Team Member": [
+        {
+          "id": "ab1f0c46-b3cb-42e7-b005-9f6f0b7debbe",
+          "name": "Unknown User",
+          "email": null
+        }
+      ],
+      "Select": "WHAT CAN BE IMPROVED",
+      "Links": null,
+      "Name": "Brief KB chưa mượt"
+    },
+    "_title": "Brief KB chưa mượt",
+    "database_name": "Retrospective",
+    "project_name": "Retrospective",
+    "database_id": "ab585b3a-c008-451f-8b31-340a38dbd8e9"
+  },
+  {
+    "id": "dee689c1-0cf3-4594-8e9f-8012bd0964a6",
+    "created_time": "2024-06-24T05:28:00.000Z",
+    "last_edited_time": "2024-06-24T05:28:00.000Z",
+    "properties": {
+      "Discussed": true,
+      "Details": "",
+      "Team Member": [
+        {
+          "id": "2b47d5ac-bd39-4aad-8e95-23ea4ab9b925",
+          "name": "Hoàng Hà",
+          "email": "hoanghh@sangygroup.com"
+        },
+        {
+          "id": "3a81bdc9-11ff-4574-af89-d7fcdb3025ae",
+          "name": "Unknown User",
+          "email": null
+        },
+        {
+          "id": "ab1f0c46-b3cb-42e7-b005-9f6f0b7debbe",
+          "name": "Unknown User",
+          "email": null
+        }
+      ],
+      "Select": "WHAT WENT RIGHT",
+      "Links": null,
+      "Name": "Cải thiện tốc độ"
+    },
+    "_title": "Cải thiện tốc độ",
+    "database_name": "Retrospective",
+    "project_name": "Retrospective",
+    "database_id": "ab585b3a-c008-451f-8b31-340a38dbd8e9"
+  },
+  {
+    "id": "ef70bda9-4d46-478a-ba8b-a3b3b88b6c8f",
+    "created_time": "2024-06-24T05:28:00.000Z",
+    "last_edited_time": "2024-06-24T05:28:00.000Z",
+    "properties": {
+      "Discussed": true,
+      "Details": "",
+      "Team Member": [
+        {
+          "id": "82ba9b87-e198-4438-a1c2-7b873cd364b5",
+          "name": "Phúc Nguyễn",
+          "email": "phucnt@sangygroup.com"
+        }
+      ],
+      "Select": "WHAT WENT RIGHT",
+      "Links": null,
+      "Name": "Chốt mức độ hoàn thiện (output)"
+    },
+    "_title": "Chốt mức độ hoàn thiện (output)",
+    "database_name": "Retrospective",
+    "project_name": "Retrospective",
+    "database_id": "ab585b3a-c008-451f-8b31-340a38dbd8e9"
+  }
+]

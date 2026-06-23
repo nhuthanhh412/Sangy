@@ -1,0 +1,2144 @@
+[
+  {
+    "id": "2afccb0e-ac88-800c-a1b6-e17eb3b30b47",
+    "created_time": "2025-11-18T05:20:00.000Z",
+    "last_edited_time": "2025-12-02T09:30:00.000Z",
+    "properties": {
+      "Comp": [],
+      "FX": "Khói, pháo cháy",
+      "Layout": "Cần LO trước",
+      "Combo": "1",
+      "Đã có prop": false,
+      "Note anim": "",
+      "Prop & mô tả prop": "",
+      "Key": "E",
+      "IBW": "E",
+      "Nhân vật": [
+        "Mosse",
+        "Genevie",
+        "Cherrycat",
+        "RemmyTheFish",
+        "Cattron"
+      ],
+      "Scene": "77"
+    },
+    "_title": "77",
+    "database_name": "GP104_shotlist",
+    "project_name": "GP104_shotlist",
+    "database_id": "2afccb0e-ac88-81ec-9f3f-df38fcc22a0c"
+  },
+  {
+    "id": "2afccb0e-ac88-800d-b57e-e2db0569e7f0",
+    "created_time": "2025-11-18T04:43:00.000Z",
+    "last_edited_time": "2025-12-02T09:29:00.000Z",
+    "properties": {
+      "Comp": [],
+      "FX": "",
+      "Layout": null,
+      "Combo": null,
+      "Đã có prop": true,
+      "Note anim": "",
+      "Prop & mô tả prop": "Nồi, chảo",
+      "Key": "C",
+      "IBW": "D",
+      "Nhân vật": [
+        "Mosse",
+        "Gembug"
+      ],
+      "Scene": "41"
+    },
+    "_title": "41",
+    "database_name": "GP104_shotlist",
+    "project_name": "GP104_shotlist",
+    "database_id": "2afccb0e-ac88-81ec-9f3f-df38fcc22a0c"
+  },
+  {
+    "id": "2afccb0e-ac88-8023-80fa-ced59b8d84b3",
+    "created_time": "2025-11-18T04:48:00.000Z",
+    "last_edited_time": "2025-11-18T07:18:00.000Z",
+    "properties": {
+      "Comp": [],
+      "FX": "",
+      "Layout": null,
+      "Combo": "4",
+      "Đã có prop": false,
+      "Note anim": "CherryCat raccord 48",
+      "Prop & mô tả prop": "",
+      "Key": "E",
+      "IBW": "E",
+      "Nhân vật": [
+        "Cherrycat"
+      ],
+      "Scene": "49"
+    },
+    "_title": "49",
+    "database_name": "GP104_shotlist",
+    "project_name": "GP104_shotlist",
+    "database_id": "2afccb0e-ac88-81ec-9f3f-df38fcc22a0c"
+  },
+  {
+    "id": "2afccb0e-ac88-8023-a907-f6652a478450",
+    "created_time": "2025-11-18T04:50:00.000Z",
+    "last_edited_time": "2025-11-20T03:30:00.000Z",
+    "properties": {
+      "Comp": [],
+      "FX": "",
+      "Layout": "Cần LO trước",
+      "Combo": null,
+      "Đã có prop": false,
+      "Note anim": "",
+      "Prop & mô tả prop": "",
+      "Key": "E",
+      "IBW": "E",
+      "Nhân vật": [
+        "Cherrycat"
+      ],
+      "Scene": "54"
+    },
+    "_title": "54",
+    "database_name": "GP104_shotlist",
+    "project_name": "GP104_shotlist",
+    "database_id": "2afccb0e-ac88-81ec-9f3f-df38fcc22a0c"
+  },
+  {
+    "id": "2afccb0e-ac88-8026-98dd-c206bbc5eb87",
+    "created_time": "2025-11-18T04:46:00.000Z",
+    "last_edited_time": "2025-11-18T07:16:00.000Z",
+    "properties": {
+      "Comp": [],
+      "FX": "",
+      "Layout": null,
+      "Combo": "4",
+      "Đã có prop": false,
+      "Note anim": "",
+      "Prop & mô tả prop": "",
+      "Key": "E",
+      "IBW": "E",
+      "Nhân vật": [
+        "Cherrycat"
+      ],
+      "Scene": "47"
+    },
+    "_title": "47",
+    "database_name": "GP104_shotlist",
+    "project_name": "GP104_shotlist",
+    "database_id": "2afccb0e-ac88-81ec-9f3f-df38fcc22a0c"
+  },
+  {
+    "id": "2afccb0e-ac88-8033-b143-e3fad7bf4898",
+    "created_time": "2025-11-18T04:52:00.000Z",
+    "last_edited_time": "2025-12-02T09:30:00.000Z",
+    "properties": {
+      "Comp": [],
+      "FX": "bong bóng nước",
+      "Layout": null,
+      "Combo": null,
+      "Đã có prop": true,
+      "Note anim": "Remmy Racord 59",
+      "Prop & mô tả prop": "Headphone",
+      "Key": "D",
+      "IBW": "D",
+      "Nhân vật": [
+        "Genevie",
+        "RemmyTheFish"
+      ],
+      "Scene": "60"
+    },
+    "_title": "60",
+    "database_name": "GP104_shotlist",
+    "project_name": "GP104_shotlist",
+    "database_id": "2afccb0e-ac88-81ec-9f3f-df38fcc22a0c"
+  },
+  {
+    "id": "2afccb0e-ac88-803b-a5bf-df994a50eb2e",
+    "created_time": "2025-11-18T05:23:00.000Z",
+    "last_edited_time": "2025-11-20T03:32:00.000Z",
+    "properties": {
+      "Comp": [
+        "Hiệu ứng kính của cá Remmy",
+        "Nhà sáng đèn",
+        "Pháo hoa",
+        "Ánh sáng pháo hoa ảnh hưởng lên nhân vật"
+      ],
+      "FX": "",
+      "Layout": "Cần LO trước",
+      "Combo": "6",
+      "Đã có prop": false,
+      "Note anim": "Reuse 69",
+      "Prop & mô tả prop": "",
+      "Key": "D",
+      "IBW": "E",
+      "Nhân vật": [
+        "Mosse",
+        "Genevie",
+        "Cherrycat",
+        "RemmyTheFish",
+        "Cattron"
+      ],
+      "Scene": "80"
+    },
+    "_title": "80",
+    "database_name": "GP104_shotlist",
+    "project_name": "GP104_shotlist",
+    "database_id": "2afccb0e-ac88-81ec-9f3f-df38fcc22a0c"
+  },
+  {
+    "id": "2afccb0e-ac88-803c-aa7a-c1f7dd0d5317",
+    "created_time": "2025-11-18T04:45:00.000Z",
+    "last_edited_time": "2025-11-20T03:27:00.000Z",
+    "properties": {
+      "Comp": [],
+      "FX": "",
+      "Layout": "Cần LO trước",
+      "Combo": "3",
+      "Đã có prop": false,
+      "Note anim": "",
+      "Prop & mô tả prop": "",
+      "Key": "D",
+      "IBW": "D",
+      "Nhân vật": [
+        "Mosse",
+        "Genevie",
+        "Cattron",
+        "Cherrycat"
+      ],
+      "Scene": "42"
+    },
+    "_title": "42",
+    "database_name": "GP104_shotlist",
+    "project_name": "GP104_shotlist",
+    "database_id": "2afccb0e-ac88-81ec-9f3f-df38fcc22a0c"
+  },
+  {
+    "id": "2afccb0e-ac88-8042-a22e-cdf1586d9dba",
+    "created_time": "2025-11-18T04:50:00.000Z",
+    "last_edited_time": "2025-11-20T03:29:00.000Z",
+    "properties": {
+      "Comp": [],
+      "FX": "",
+      "Layout": "Cần LO trước",
+      "Combo": null,
+      "Đã có prop": false,
+      "Note anim": "",
+      "Prop & mô tả prop": "",
+      "Key": "D",
+      "IBW": "D",
+      "Nhân vật": [
+        "Mosse",
+        "Cherrycat",
+        "Genevie"
+      ],
+      "Scene": "53"
+    },
+    "_title": "53",
+    "database_name": "GP104_shotlist",
+    "project_name": "GP104_shotlist",
+    "database_id": "2afccb0e-ac88-81ec-9f3f-df38fcc22a0c"
+  },
+  {
+    "id": "2afccb0e-ac88-8047-bce0-e2b35a25a20b",
+    "created_time": "2025-11-18T04:50:00.000Z",
+    "last_edited_time": "2025-11-18T07:19:00.000Z",
+    "properties": {
+      "Comp": [],
+      "FX": "",
+      "Layout": null,
+      "Combo": null,
+      "Đã có prop": false,
+      "Note anim": "",
+      "Prop & mô tả prop": "",
+      "Key": "D",
+      "IBW": "E",
+      "Nhân vật": [
+        "Mosse",
+        "Cattron",
+        "BobTheAnt"
+      ],
+      "Scene": "55"
+    },
+    "_title": "55",
+    "database_name": "GP104_shotlist",
+    "project_name": "GP104_shotlist",
+    "database_id": "2afccb0e-ac88-81ec-9f3f-df38fcc22a0c"
+  },
+  {
+    "id": "2afccb0e-ac88-8048-8bde-cbd86db7b38a",
+    "created_time": "2025-11-18T04:45:00.000Z",
+    "last_edited_time": "2025-11-18T07:15:00.000Z",
+    "properties": {
+      "Comp": [],
+      "FX": "",
+      "Layout": null,
+      "Combo": null,
+      "Đã có prop": false,
+      "Note anim": "",
+      "Prop & mô tả prop": "",
+      "Key": "E",
+      "IBW": "E",
+      "Nhân vật": [
+        "Cherrycat"
+      ],
+      "Scene": "43"
+    },
+    "_title": "43",
+    "database_name": "GP104_shotlist",
+    "project_name": "GP104_shotlist",
+    "database_id": "2afccb0e-ac88-81ec-9f3f-df38fcc22a0c"
+  },
+  {
+    "id": "2afccb0e-ac88-804c-b23f-c7a5e3c7c53c",
+    "created_time": "2025-11-18T05:16:00.000Z",
+    "last_edited_time": "2025-11-20T03:34:00.000Z",
+    "properties": {
+      "Comp": [],
+      "FX": "",
+      "Layout": "Cần LO trước",
+      "Combo": null,
+      "Đã có prop": false,
+      "Note anim": "",
+      "Prop & mô tả prop": "Pháo",
+      "Key": "D",
+      "IBW": "E",
+      "Nhân vật": [
+        "Mosse",
+        "Genevie",
+        "Cattron",
+        "RemmyTheFish",
+        "Cherrycat"
+      ],
+      "Scene": "74"
+    },
+    "_title": "74",
+    "database_name": "GP104_shotlist",
+    "project_name": "GP104_shotlist",
+    "database_id": "2afccb0e-ac88-81ec-9f3f-df38fcc22a0c"
+  },
+  {
+    "id": "2afccb0e-ac88-8052-82e6-efb1ba84e476",
+    "created_time": "2025-11-18T04:48:00.000Z",
+    "last_edited_time": "2025-11-18T07:18:00.000Z",
+    "properties": {
+      "Comp": [
+        "Speedline"
+      ],
+      "FX": "",
+      "Layout": null,
+      "Combo": null,
+      "Đã có prop": false,
+      "Note anim": "",
+      "Prop & mô tả prop": "",
+      "Key": "E",
+      "IBW": "F",
+      "Nhân vật": [
+        "Mosse",
+        "Genevie",
+        "Cherrycat",
+        "Cattron"
+      ],
+      "Scene": "50"
+    },
+    "_title": "50",
+    "database_name": "GP104_shotlist",
+    "project_name": "GP104_shotlist",
+    "database_id": "2afccb0e-ac88-81ec-9f3f-df38fcc22a0c"
+  },
+  {
+    "id": "2afccb0e-ac88-8053-9616-c682d45c4616",
+    "created_time": "2025-11-18T05:16:00.000Z",
+    "last_edited_time": "2025-12-02T10:57:00.000Z",
+    "properties": {
+      "Comp": [],
+      "FX": "",
+      "Layout": "Cần LO trước",
+      "Combo": "1",
+      "Đã có prop": true,
+      "Note anim": "",
+      "Prop & mô tả prop": "Pháo",
+      "Key": "E",
+      "IBW": "E",
+      "Nhân vật": [
+        "Mosse",
+        "Genevie",
+        "Cherrycat",
+        "Cattron",
+        "RemmyTheFish"
+      ],
+      "Scene": "72"
+    },
+    "_title": "72",
+    "database_name": "GP104_shotlist",
+    "project_name": "GP104_shotlist",
+    "database_id": "2afccb0e-ac88-81ec-9f3f-df38fcc22a0c"
+  },
+  {
+    "id": "2afccb0e-ac88-805b-bd36-f4fc56391790",
+    "created_time": "2025-11-18T05:14:00.000Z",
+    "last_edited_time": "2025-11-20T03:33:00.000Z",
+    "properties": {
+      "Comp": [],
+      "FX": "",
+      "Layout": "Cần LO trước",
+      "Combo": "6",
+      "Đã có prop": false,
+      "Note anim": "",
+      "Prop & mô tả prop": "",
+      "Key": "C",
+      "IBW": "D",
+      "Nhân vật": [
+        "Mosse",
+        "Cherrycat",
+        "Genevie",
+        "RemmyTheFish",
+        "Cattron"
+      ],
+      "Scene": "69"
+    },
+    "_title": "69",
+    "database_name": "GP104_shotlist",
+    "project_name": "GP104_shotlist",
+    "database_id": "2afccb0e-ac88-81ec-9f3f-df38fcc22a0c"
+  },
+  {
+    "id": "2afccb0e-ac88-8068-b3d1-dc44f4ca1a46",
+    "created_time": "2025-11-18T04:46:00.000Z",
+    "last_edited_time": "2025-11-20T03:28:00.000Z",
+    "properties": {
+      "Comp": [],
+      "FX": "",
+      "Layout": "Cần LO trước",
+      "Combo": null,
+      "Đã có prop": false,
+      "Note anim": "",
+      "Prop & mô tả prop": "",
+      "Key": "D",
+      "IBW": "D",
+      "Nhân vật": [
+        "Mosse",
+        "Genevie",
+        "Cherrycat",
+        "Cattron"
+      ],
+      "Scene": "48"
+    },
+    "_title": "48",
+    "database_name": "GP104_shotlist",
+    "project_name": "GP104_shotlist",
+    "database_id": "2afccb0e-ac88-81ec-9f3f-df38fcc22a0c"
+  },
+  {
+    "id": "2afccb0e-ac88-806f-ad83-c0a18dc663fd",
+    "created_time": "2025-11-18T05:14:00.000Z",
+    "last_edited_time": "2025-12-02T09:30:00.000Z",
+    "properties": {
+      "Comp": [],
+      "FX": "",
+      "Layout": null,
+      "Combo": null,
+      "Đã có prop": true,
+      "Note anim": "",
+      "Prop & mô tả prop": "Pháo",
+      "Key": "F",
+      "IBW": "F",
+      "Nhân vật": [
+        "Mosse"
+      ],
+      "Scene": "71"
+    },
+    "_title": "71",
+    "database_name": "GP104_shotlist",
+    "project_name": "GP104_shotlist",
+    "database_id": "2afccb0e-ac88-81ec-9f3f-df38fcc22a0c"
+  },
+  {
+    "id": "2afccb0e-ac88-8080-a561-d7bf77573adb",
+    "created_time": "2025-11-18T05:25:00.000Z",
+    "last_edited_time": "2025-11-20T03:22:00.000Z",
+    "properties": {
+      "Comp": [
+        "sao lấp lánh trăng glow",
+        "Pháo hoa"
+      ],
+      "FX": "",
+      "Layout": null,
+      "Combo": null,
+      "Đã có prop": false,
+      "Note anim": "Mây trôi",
+      "Prop & mô tả prop": "",
+      "Key": "F",
+      "IBW": "F",
+      "Nhân vật": [],
+      "Scene": "81"
+    },
+    "_title": "81",
+    "database_name": "GP104_shotlist",
+    "project_name": "GP104_shotlist",
+    "database_id": "2afccb0e-ac88-81ec-9f3f-df38fcc22a0c"
+  },
+  {
+    "id": "2afccb0e-ac88-8086-9f88-f9e2488d0054",
+    "created_time": "2025-11-18T04:32:00.000Z",
+    "last_edited_time": "2025-11-20T03:26:00.000Z",
+    "properties": {
+      "Comp": [
+        "Nhà sáng đèn",
+        "sao lấp lánh trăng glow"
+      ],
+      "FX": "",
+      "Layout": null,
+      "Combo": null,
+      "Đã có prop": false,
+      "Note anim": "Mây trôi",
+      "Prop & mô tả prop": "",
+      "Key": "C",
+      "IBW": "D",
+      "Nhân vật": [
+        "Mosse",
+        "Genevie",
+        "Cattron",
+        "Cherrycat"
+      ],
+      "Scene": "29"
+    },
+    "_title": "29",
+    "database_name": "GP104_shotlist",
+    "project_name": "GP104_shotlist",
+    "database_id": "2afccb0e-ac88-81ec-9f3f-df38fcc22a0c"
+  },
+  {
+    "id": "2afccb0e-ac88-808e-bd22-c19e2dae8d30",
+    "created_time": "2025-11-18T04:45:00.000Z",
+    "last_edited_time": "2026-01-08T04:38:00.000Z",
+    "properties": {
+      "Comp": [
+        "sấm mưa ở cửa sổ"
+      ],
+      "FX": "Sấm chớp",
+      "Layout": null,
+      "Combo": null,
+      "Đã có prop": false,
+      "Note anim": "",
+      "Prop & mô tả prop": "",
+      "Key": "E",
+      "IBW": "E",
+      "Nhân vật": [
+        "Genevie"
+      ],
+      "Scene": "45"
+    },
+    "_title": "45",
+    "database_name": "GP104_shotlist",
+    "project_name": "GP104_shotlist",
+    "database_id": "2afccb0e-ac88-81ec-9f3f-df38fcc22a0c"
+  },
+  {
+    "id": "2afccb0e-ac88-808f-8840-e57791588fda",
+    "created_time": "2025-11-18T04:55:00.000Z",
+    "last_edited_time": "2025-11-20T03:32:00.000Z",
+    "properties": {
+      "Comp": [
+        "Hiệu ứng quanh pháo"
+      ],
+      "FX": "Pháo cháy",
+      "Layout": "Cần LO trước",
+      "Combo": "1",
+      "Đã có prop": false,
+      "Note anim": "",
+      "Prop & mô tả prop": "",
+      "Key": "D",
+      "IBW": "E",
+      "Nhân vật": [
+        "Mosse",
+        "Genevie",
+        "Cherrycat",
+        "Cattron",
+        "RemmyTheFish"
+      ],
+      "Scene": "64"
+    },
+    "_title": "64",
+    "database_name": "GP104_shotlist",
+    "project_name": "GP104_shotlist",
+    "database_id": "2afccb0e-ac88-81ec-9f3f-df38fcc22a0c"
+  },
+  {
+    "id": "2afccb0e-ac88-8098-88f2-f4515d2f5fbf",
+    "created_time": "2025-11-18T05:14:00.000Z",
+    "last_edited_time": "2025-12-02T09:30:00.000Z",
+    "properties": {
+      "Comp": [],
+      "FX": "",
+      "Layout": null,
+      "Combo": null,
+      "Đã có prop": true,
+      "Note anim": "Mây trôi",
+      "Prop & mô tả prop": "Thùng pháo",
+      "Key": "E",
+      "IBW": "E",
+      "Nhân vật": [
+        "Mosse"
+      ],
+      "Scene": "70"
+    },
+    "_title": "70",
+    "database_name": "GP104_shotlist",
+    "project_name": "GP104_shotlist",
+    "database_id": "2afccb0e-ac88-81ec-9f3f-df38fcc22a0c"
+  },
+  {
+    "id": "2afccb0e-ac88-8099-b85b-d26beaf5cf03",
+    "created_time": "2025-11-18T04:45:00.000Z",
+    "last_edited_time": "2025-11-20T03:27:00.000Z",
+    "properties": {
+      "Comp": [],
+      "FX": "",
+      "Layout": "Cần LO trước",
+      "Combo": "3",
+      "Đã có prop": false,
+      "Note anim": "",
+      "Prop & mô tả prop": "",
+      "Key": "D",
+      "IBW": "E",
+      "Nhân vật": [
+        "Mosse",
+        "Genevie",
+        "Cherrycat",
+        "Cattron"
+      ],
+      "Scene": "46"
+    },
+    "_title": "46",
+    "database_name": "GP104_shotlist",
+    "project_name": "GP104_shotlist",
+    "database_id": "2afccb0e-ac88-81ec-9f3f-df38fcc22a0c"
+  },
+  {
+    "id": "2afccb0e-ac88-809a-adb1-dcb565ae2a9d",
+    "created_time": "2025-11-18T04:50:00.000Z",
+    "last_edited_time": "2025-11-20T03:30:00.000Z",
+    "properties": {
+      "Comp": [],
+      "FX": "",
+      "Layout": "Cần LO trước",
+      "Combo": null,
+      "Đã có prop": false,
+      "Note anim": "",
+      "Prop & mô tả prop": "",
+      "Key": "C",
+      "IBW": "C",
+      "Nhân vật": [
+        "Mosse",
+        "Genevie",
+        "Cherrycat",
+        "Cattron",
+        "RemmyTheFish"
+      ],
+      "Scene": "56"
+    },
+    "_title": "56",
+    "database_name": "GP104_shotlist",
+    "project_name": "GP104_shotlist",
+    "database_id": "2afccb0e-ac88-81ec-9f3f-df38fcc22a0c"
+  },
+  {
+    "id": "2afccb0e-ac88-809d-933f-f2439318bdd7",
+    "created_time": "2025-11-18T05:00:00.000Z",
+    "last_edited_time": "2025-11-20T03:24:00.000Z",
+    "properties": {
+      "Comp": [
+        "Nhà sáng đèn",
+        "sao lấp lánh trăng glow",
+        "Pháo hoa",
+        "Ánh sáng pháo hoa ảnh hưởng lên nhân vật"
+      ],
+      "FX": "",
+      "Layout": null,
+      "Combo": "5",
+      "Đã có prop": false,
+      "Note anim": "Anim reuse 22",
+      "Prop & mô tả prop": "",
+      "Key": "E",
+      "IBW": "E",
+      "Nhân vật": [
+        "Mosse",
+        "Genevie",
+        "Cherrycat",
+        "RemmyTheFish",
+        "Cattron"
+      ],
+      "Scene": "66"
+    },
+    "_title": "66",
+    "database_name": "GP104_shotlist",
+    "project_name": "GP104_shotlist",
+    "database_id": "2afccb0e-ac88-81ec-9f3f-df38fcc22a0c"
+  },
+  {
+    "id": "2afccb0e-ac88-80a0-a7b1-daa40a41a4d9",
+    "created_time": "2025-11-18T05:20:00.000Z",
+    "last_edited_time": "2025-12-02T10:57:00.000Z",
+    "properties": {
+      "Comp": [
+        "Hiệu ứng kính của cá Remmy",
+        "Pháo hoa",
+        "Nhà sáng đèn"
+      ],
+      "FX": "",
+      "Layout": "Cần LO trước",
+      "Combo": "7",
+      "Đã có prop": false,
+      "Note anim": "",
+      "Prop & mô tả prop": "",
+      "Key": "F",
+      "IBW": "F",
+      "Nhân vật": [
+        "RemmyTheFish"
+      ],
+      "Scene": "79"
+    },
+    "_title": "79",
+    "database_name": "GP104_shotlist",
+    "project_name": "GP104_shotlist",
+    "database_id": "2afccb0e-ac88-81ec-9f3f-df38fcc22a0c"
+  },
+  {
+    "id": "2afccb0e-ac88-80a8-a282-ed2a18779c9d",
+    "created_time": "2025-11-18T04:54:00.000Z",
+    "last_edited_time": "2025-12-02T09:30:00.000Z",
+    "properties": {
+      "Comp": [
+        "Hiệu ứng quanh pháo"
+      ],
+      "FX": "Pháo cháy",
+      "Layout": null,
+      "Combo": null,
+      "Đã có prop": true,
+      "Note anim": "",
+      "Prop & mô tả prop": "Pháo",
+      "Key": "E",
+      "IBW": "E",
+      "Nhân vật": [
+        "Cherrycat",
+        "Cattron"
+      ],
+      "Scene": "63"
+    },
+    "_title": "63",
+    "database_name": "GP104_shotlist",
+    "project_name": "GP104_shotlist",
+    "database_id": "2afccb0e-ac88-81ec-9f3f-df38fcc22a0c"
+  },
+  {
+    "id": "2afccb0e-ac88-80ad-ba9e-ce9e352cf457",
+    "created_time": "2025-11-18T04:54:00.000Z",
+    "last_edited_time": "2025-11-20T03:22:00.000Z",
+    "properties": {
+      "Comp": [
+        "sao lấp lánh trăng glow",
+        "Nhà sáng đèn"
+      ],
+      "FX": "",
+      "Layout": null,
+      "Combo": null,
+      "Đã có prop": false,
+      "Note anim": "Mây trôi",
+      "Prop & mô tả prop": "",
+      "Key": "C",
+      "IBW": "E",
+      "Nhân vật": [
+        "Mosse",
+        "Cherrycat",
+        "Genevie",
+        "RemmyTheFish",
+        "Cattron"
+      ],
+      "Scene": "62"
+    },
+    "_title": "62",
+    "database_name": "GP104_shotlist",
+    "project_name": "GP104_shotlist",
+    "database_id": "2afccb0e-ac88-81ec-9f3f-df38fcc22a0c"
+  },
+  {
+    "id": "2afccb0e-ac88-80af-955a-c30fd2b9bc0e",
+    "created_time": "2025-11-18T04:50:00.000Z",
+    "last_edited_time": "2025-11-18T07:20:00.000Z",
+    "properties": {
+      "Comp": [],
+      "FX": "",
+      "Layout": null,
+      "Combo": null,
+      "Đã có prop": false,
+      "Note anim": "",
+      "Prop & mô tả prop": "",
+      "Key": "E",
+      "IBW": "E",
+      "Nhân vật": [
+        "Mosse"
+      ],
+      "Scene": "57"
+    },
+    "_title": "57",
+    "database_name": "GP104_shotlist",
+    "project_name": "GP104_shotlist",
+    "database_id": "2afccb0e-ac88-81ec-9f3f-df38fcc22a0c"
+  },
+  {
+    "id": "2afccb0e-ac88-80b5-bfb7-ca9a64637d45",
+    "created_time": "2025-11-18T05:19:00.000Z",
+    "last_edited_time": "2025-12-02T09:30:00.000Z",
+    "properties": {
+      "Comp": [
+        "Hiệu ứng quanh pháo"
+      ],
+      "FX": "Pháo cháy",
+      "Layout": null,
+      "Combo": null,
+      "Đã có prop": true,
+      "Note anim": "",
+      "Prop & mô tả prop": "Pháo",
+      "Key": "E",
+      "IBW": "E",
+      "Nhân vật": [
+        "Cattron"
+      ],
+      "Scene": "75"
+    },
+    "_title": "75",
+    "database_name": "GP104_shotlist",
+    "project_name": "GP104_shotlist",
+    "database_id": "2afccb0e-ac88-81ec-9f3f-df38fcc22a0c"
+  },
+  {
+    "id": "2afccb0e-ac88-80bc-83e1-caf5e59b5501",
+    "created_time": "2025-11-18T04:43:00.000Z",
+    "last_edited_time": "2025-12-02T09:29:00.000Z",
+    "properties": {
+      "Comp": [],
+      "FX": "",
+      "Layout": null,
+      "Combo": "2",
+      "Đã có prop": true,
+      "Note anim": "",
+      "Prop & mô tả prop": "Loa",
+      "Key": "E",
+      "IBW": "F",
+      "Nhân vật": [
+        "Cattron"
+      ],
+      "Scene": "39"
+    },
+    "_title": "39",
+    "database_name": "GP104_shotlist",
+    "project_name": "GP104_shotlist",
+    "database_id": "2afccb0e-ac88-81ec-9f3f-df38fcc22a0c"
+  },
+  {
+    "id": "2afccb0e-ac88-80c0-b92a-fe14bfbe1405",
+    "created_time": "2025-11-18T05:07:00.000Z",
+    "last_edited_time": "2025-11-20T03:32:00.000Z",
+    "properties": {
+      "Comp": [
+        "Hiệu ứng kính của cá Remmy",
+        "Nhà sáng đèn",
+        "Ánh sáng pháo hoa ảnh hưởng lên nhân vật"
+      ],
+      "FX": "",
+      "Layout": "Cần LO trước",
+      "Combo": "6",
+      "Đã có prop": false,
+      "Note anim": "Pose reuse 23, cá thêm headphone",
+      "Prop & mô tả prop": "",
+      "Key": "D",
+      "IBW": "E",
+      "Nhân vật": [
+        "Mosse",
+        "Genevie",
+        "Cherrycat",
+        "RemmyTheFish",
+        "Cattron"
+      ],
+      "Scene": "67"
+    },
+    "_title": "67",
+    "database_name": "GP104_shotlist",
+    "project_name": "GP104_shotlist",
+    "database_id": "2afccb0e-ac88-81ec-9f3f-df38fcc22a0c"
+  },
+  {
+    "id": "2afccb0e-ac88-80c2-89a9-e0b0f7698b96",
+    "created_time": "2025-11-18T04:43:00.000Z",
+    "last_edited_time": "2025-12-02T09:29:00.000Z",
+    "properties": {
+      "Comp": [],
+      "FX": "",
+      "Layout": null,
+      "Combo": "2",
+      "Đã có prop": true,
+      "Note anim": "",
+      "Prop & mô tả prop": "Loa",
+      "Key": "F",
+      "IBW": "F",
+      "Nhân vật": [
+        "Cattron"
+      ],
+      "Scene": "40"
+    },
+    "_title": "40",
+    "database_name": "GP104_shotlist",
+    "project_name": "GP104_shotlist",
+    "database_id": "2afccb0e-ac88-81ec-9f3f-df38fcc22a0c"
+  },
+  {
+    "id": "2afccb0e-ac88-80c3-81cf-d82e389c221c",
+    "created_time": "2025-11-18T04:50:00.000Z",
+    "last_edited_time": "2025-12-02T09:30:00.000Z",
+    "properties": {
+      "Comp": [],
+      "FX": "bong bóng nước",
+      "Layout": null,
+      "Combo": null,
+      "Đã có prop": true,
+      "Note anim": "",
+      "Prop & mô tả prop": "Headphone",
+      "Key": "C",
+      "IBW": "C",
+      "Nhân vật": [
+        "RemmyTheFish",
+        "Cherrycat",
+        "Mosse",
+        "Genevie",
+        "Cattron"
+      ],
+      "Scene": "58"
+    },
+    "_title": "58",
+    "database_name": "GP104_shotlist",
+    "project_name": "GP104_shotlist",
+    "database_id": "2afccb0e-ac88-81ec-9f3f-df38fcc22a0c"
+  },
+  {
+    "id": "2afccb0e-ac88-80ca-95aa-f1963613b17d",
+    "created_time": "2025-11-18T04:48:00.000Z",
+    "last_edited_time": "2025-11-18T07:19:00.000Z",
+    "properties": {
+      "Comp": [],
+      "FX": "",
+      "Layout": null,
+      "Combo": null,
+      "Đã có prop": false,
+      "Note anim": "",
+      "Prop & mô tả prop": "",
+      "Key": "E",
+      "IBW": "E",
+      "Nhân vật": [
+        "Genevie"
+      ],
+      "Scene": "52"
+    },
+    "_title": "52",
+    "database_name": "GP104_shotlist",
+    "project_name": "GP104_shotlist",
+    "database_id": "2afccb0e-ac88-81ec-9f3f-df38fcc22a0c"
+  },
+  {
+    "id": "2afccb0e-ac88-80d0-8d5d-d98ac0a6c308",
+    "created_time": "2025-11-18T04:08:00.000Z",
+    "last_edited_time": "2025-12-02T04:33:00.000Z",
+    "properties": {
+      "Comp": [],
+      "FX": "",
+      "Layout": null,
+      "Combo": "Reuse tập cũ",
+      "Đã có prop": false,
+      "Note anim": "",
+      "Prop & mô tả prop": "",
+      "Key": "Omiited",
+      "IBW": "Omiited",
+      "Nhân vật": [],
+      "Scene": "02"
+    },
+    "_title": "02",
+    "database_name": "GP104_shotlist",
+    "project_name": "GP104_shotlist",
+    "database_id": "2afccb0e-ac88-81ec-9f3f-df38fcc22a0c"
+  },
+  {
+    "id": "2afccb0e-ac88-80d1-9c97-ec6da1c1010b",
+    "created_time": "2025-11-18T05:07:00.000Z",
+    "last_edited_time": "2025-11-20T03:33:00.000Z",
+    "properties": {
+      "Comp": [
+        "Nhà sáng đèn",
+        "Hiệu ứng kính của cá Remmy"
+      ],
+      "FX": "",
+      "Layout": "Cần LO trước",
+      "Combo": "7",
+      "Đã có prop": false,
+      "Note anim": "",
+      "Prop & mô tả prop": "",
+      "Key": "E",
+      "IBW": "E",
+      "Nhân vật": [
+        "RemmyTheFish"
+      ],
+      "Scene": "68"
+    },
+    "_title": "68",
+    "database_name": "GP104_shotlist",
+    "project_name": "GP104_shotlist",
+    "database_id": "2afccb0e-ac88-81ec-9f3f-df38fcc22a0c"
+  },
+  {
+    "id": "2afccb0e-ac88-80d9-a05d-d451c4c650de",
+    "created_time": "2025-11-18T05:16:00.000Z",
+    "last_edited_time": "2025-11-20T03:33:00.000Z",
+    "properties": {
+      "Comp": [
+        "Nhà sáng đèn"
+      ],
+      "FX": "",
+      "Layout": "Cần LO trước",
+      "Combo": null,
+      "Đã có prop": false,
+      "Note anim": "Mây trôi",
+      "Prop & mô tả prop": "",
+      "Key": "E",
+      "IBW": "F",
+      "Nhân vật": [
+        "Cattron"
+      ],
+      "Scene": "73"
+    },
+    "_title": "73",
+    "database_name": "GP104_shotlist",
+    "project_name": "GP104_shotlist",
+    "database_id": "2afccb0e-ac88-81ec-9f3f-df38fcc22a0c"
+  },
+  {
+    "id": "2afccb0e-ac88-80df-aadd-e099e3518abb",
+    "created_time": "2025-11-18T05:00:00.000Z",
+    "last_edited_time": "2025-12-02T09:30:00.000Z",
+    "properties": {
+      "Comp": [
+        "Hiệu ứng quanh pháo"
+      ],
+      "FX": "",
+      "Layout": null,
+      "Combo": "Reuse",
+      "Đã có prop": true,
+      "Note anim": "Anim reuse 21, thay pháo khác",
+      "Prop & mô tả prop": "Pháo",
+      "Key": "F",
+      "IBW": "Omiited",
+      "Nhân vật": [],
+      "Scene": "65"
+    },
+    "_title": "65",
+    "database_name": "GP104_shotlist",
+    "project_name": "GP104_shotlist",
+    "database_id": "2afccb0e-ac88-81ec-9f3f-df38fcc22a0c"
+  },
+  {
+    "id": "2afccb0e-ac88-80e0-b29c-eb4b70e87ea8",
+    "created_time": "2025-11-18T04:52:00.000Z",
+    "last_edited_time": "2025-12-02T09:30:00.000Z",
+    "properties": {
+      "Comp": [],
+      "FX": "",
+      "Layout": null,
+      "Combo": null,
+      "Đã có prop": true,
+      "Note anim": "",
+      "Prop & mô tả prop": "Headphone",
+      "Key": "E",
+      "IBW": "E",
+      "Nhân vật": [
+        "RemmyTheFish"
+      ],
+      "Scene": "59"
+    },
+    "_title": "59",
+    "database_name": "GP104_shotlist",
+    "project_name": "GP104_shotlist",
+    "database_id": "2afccb0e-ac88-81ec-9f3f-df38fcc22a0c"
+  },
+  {
+    "id": "2afccb0e-ac88-80e1-9deb-db58d1a33dcf",
+    "created_time": "2025-11-18T04:48:00.000Z",
+    "last_edited_time": "2025-11-20T03:28:00.000Z",
+    "properties": {
+      "Comp": [],
+      "FX": "",
+      "Layout": "Cần LO trước",
+      "Combo": "3",
+      "Đã có prop": false,
+      "Note anim": "",
+      "Prop & mô tả prop": "",
+      "Key": "C",
+      "IBW": "C",
+      "Nhân vật": [
+        "Mosse",
+        "Genevie",
+        "Cherrycat",
+        "Cattron"
+      ],
+      "Scene": "51"
+    },
+    "_title": "51",
+    "database_name": "GP104_shotlist",
+    "project_name": "GP104_shotlist",
+    "database_id": "2afccb0e-ac88-81ec-9f3f-df38fcc22a0c"
+  },
+  {
+    "id": "2afccb0e-ac88-80e2-ab78-e9947adc2d3a",
+    "created_time": "2025-11-18T04:54:00.000Z",
+    "last_edited_time": "2025-12-02T09:30:00.000Z",
+    "properties": {
+      "Comp": [
+        "Speedline"
+      ],
+      "FX": "",
+      "Layout": null,
+      "Combo": null,
+      "Đã có prop": true,
+      "Note anim": "",
+      "Prop & mô tả prop": "",
+      "Key": "C",
+      "IBW": "D",
+      "Nhân vật": [
+        "Mosse",
+        "Genevie",
+        "Cherrycat",
+        "RemmyTheFish",
+        "Cattron"
+      ],
+      "Scene": "61"
+    },
+    "_title": "61",
+    "database_name": "GP104_shotlist",
+    "project_name": "GP104_shotlist",
+    "database_id": "2afccb0e-ac88-81ec-9f3f-df38fcc22a0c"
+  },
+  {
+    "id": "2afccb0e-ac88-80e4-944d-d18dcf2382e2",
+    "created_time": "2025-11-18T05:19:00.000Z",
+    "last_edited_time": "2025-12-02T09:30:00.000Z",
+    "properties": {
+      "Comp": [],
+      "FX": "Pháo cháy",
+      "Layout": null,
+      "Combo": null,
+      "Đã có prop": true,
+      "Note anim": "",
+      "Prop & mô tả prop": "Pháo",
+      "Key": "F",
+      "IBW": "F",
+      "Nhân vật": [],
+      "Scene": "76"
+    },
+    "_title": "76",
+    "database_name": "GP104_shotlist",
+    "project_name": "GP104_shotlist",
+    "database_id": "2afccb0e-ac88-81ec-9f3f-df38fcc22a0c"
+  },
+  {
+    "id": "2afccb0e-ac88-80f3-aca4-c8292668693d",
+    "created_time": "2025-11-18T05:20:00.000Z",
+    "last_edited_time": "2025-11-20T03:25:00.000Z",
+    "properties": {
+      "Comp": [
+        "Nhà sáng đèn",
+        "sao lấp lánh trăng glow",
+        "Pháo hoa",
+        "Ánh sáng pháo hoa ảnh hưởng lên nhân vật"
+      ],
+      "FX": "",
+      "Layout": null,
+      "Combo": "5",
+      "Đã có prop": false,
+      "Note anim": "Anim reuse 22 hoặc 66",
+      "Prop & mô tả prop": "",
+      "Key": "E",
+      "IBW": "E",
+      "Nhân vật": [
+        "Mosse",
+        "Genevie",
+        "Cherrycat",
+        "RemmyTheFish",
+        "Cattron"
+      ],
+      "Scene": "78"
+    },
+    "_title": "78",
+    "database_name": "GP104_shotlist",
+    "project_name": "GP104_shotlist",
+    "database_id": "2afccb0e-ac88-81ec-9f3f-df38fcc22a0c"
+  },
+  {
+    "id": "2afccb0e-ac88-80f4-a7dd-dbee65b986a4",
+    "created_time": "2025-11-18T04:45:00.000Z",
+    "last_edited_time": "2025-11-20T03:27:00.000Z",
+    "properties": {
+      "Comp": [],
+      "FX": "",
+      "Layout": "Cần LO trước",
+      "Combo": "3",
+      "Đã có prop": false,
+      "Note anim": "",
+      "Prop & mô tả prop": "",
+      "Key": "D",
+      "IBW": "E",
+      "Nhân vật": [
+        "Mosse",
+        "Genevie",
+        "Cherrycat",
+        "Cattron"
+      ],
+      "Scene": "44"
+    },
+    "_title": "44",
+    "database_name": "GP104_shotlist",
+    "project_name": "GP104_shotlist",
+    "database_id": "2afccb0e-ac88-81ec-9f3f-df38fcc22a0c"
+  },
+  {
+    "id": "2afccb0e-ac88-8101-a541-f67c17a061e2",
+    "created_time": "2025-11-18T04:04:00.000Z",
+    "last_edited_time": "2025-12-02T03:56:00.000Z",
+    "properties": {
+      "Comp": [],
+      "FX": "",
+      "Layout": null,
+      "Combo": null,
+      "Đã có prop": true,
+      "Note anim": "",
+      "Prop & mô tả prop": "Nồi, chảo",
+      "Key": "E",
+      "IBW": "E",
+      "Nhân vật": [
+        "Mosse"
+      ],
+      "Scene": "35 +36"
+    },
+    "_title": "35 +36",
+    "database_name": "GP104_shotlist",
+    "project_name": "GP104_shotlist",
+    "database_id": "2afccb0e-ac88-81ec-9f3f-df38fcc22a0c"
+  },
+  {
+    "id": "2afccb0e-ac88-8117-bfe4-d1881e4288ae",
+    "created_time": "2025-11-18T04:04:00.000Z",
+    "last_edited_time": "2025-11-18T04:09:00.000Z",
+    "properties": {
+      "Comp": [],
+      "FX": "",
+      "Layout": null,
+      "Combo": "Reuse tập cũ",
+      "Đã có prop": false,
+      "Note anim": "",
+      "Prop & mô tả prop": "",
+      "Key": "Omiited",
+      "IBW": "Omiited",
+      "Nhân vật": [],
+      "Scene": "06"
+    },
+    "_title": "06",
+    "database_name": "GP104_shotlist",
+    "project_name": "GP104_shotlist",
+    "database_id": "2afccb0e-ac88-81ec-9f3f-df38fcc22a0c"
+  },
+  {
+    "id": "2afccb0e-ac88-8119-b8c5-e29716c7d51e",
+    "created_time": "2025-11-18T04:04:00.000Z",
+    "last_edited_time": "2025-12-02T03:56:00.000Z",
+    "properties": {
+      "Comp": [],
+      "FX": "",
+      "Layout": "Cần LO trước",
+      "Combo": null,
+      "Đã có prop": true,
+      "Note anim": "",
+      "Prop & mô tả prop": "",
+      "Key": "D",
+      "IBW": "D",
+      "Nhân vật": [
+        "Cherrycat",
+        "Cattron",
+        "Mosse",
+        "Genevie"
+      ],
+      "Scene": "34"
+    },
+    "_title": "34",
+    "database_name": "GP104_shotlist",
+    "project_name": "GP104_shotlist",
+    "database_id": "2afccb0e-ac88-81ec-9f3f-df38fcc22a0c"
+  },
+  {
+    "id": "2afccb0e-ac88-811b-bbbc-c5b9261c81e2",
+    "created_time": "2025-11-18T04:04:00.000Z",
+    "last_edited_time": "2025-11-18T04:09:00.000Z",
+    "properties": {
+      "Comp": [],
+      "FX": "",
+      "Layout": null,
+      "Combo": "Reuse tập cũ",
+      "Đã có prop": false,
+      "Note anim": "",
+      "Prop & mô tả prop": "",
+      "Key": "Omiited",
+      "IBW": "Omiited",
+      "Nhân vật": [],
+      "Scene": "07"
+    },
+    "_title": "07",
+    "database_name": "GP104_shotlist",
+    "project_name": "GP104_shotlist",
+    "database_id": "2afccb0e-ac88-81ec-9f3f-df38fcc22a0c"
+  },
+  {
+    "id": "2afccb0e-ac88-811c-97f5-d50fdfc0d086",
+    "created_time": "2025-11-18T04:04:00.000Z",
+    "last_edited_time": "2025-11-18T06:57:00.000Z",
+    "properties": {
+      "Comp": [],
+      "FX": "",
+      "Layout": null,
+      "Combo": null,
+      "Đã có prop": false,
+      "Note anim": "",
+      "Prop & mô tả prop": "",
+      "Key": "E",
+      "IBW": "E",
+      "Nhân vật": [
+        "Cherrycat"
+      ],
+      "Scene": "27"
+    },
+    "_title": "27",
+    "database_name": "GP104_shotlist",
+    "project_name": "GP104_shotlist",
+    "database_id": "2afccb0e-ac88-81ec-9f3f-df38fcc22a0c"
+  },
+  {
+    "id": "2afccb0e-ac88-811c-b1a0-d81abfcea20b",
+    "created_time": "2025-11-18T04:04:00.000Z",
+    "last_edited_time": "2025-12-02T03:55:00.000Z",
+    "properties": {
+      "Comp": [
+        "Ánh sáng quanh thùng"
+      ],
+      "FX": "",
+      "Layout": null,
+      "Combo": null,
+      "Đã có prop": true,
+      "Note anim": "Genne raccord 15",
+      "Prop & mô tả prop": "Xô nước, thùng pháo, checklist",
+      "Key": "D",
+      "IBW": "E",
+      "Nhân vật": [
+        "Mosse",
+        "Genevie",
+        "Cherrycat",
+        "Cattron"
+      ],
+      "Scene": "15"
+    },
+    "_title": "15",
+    "database_name": "GP104_shotlist",
+    "project_name": "GP104_shotlist",
+    "database_id": "2afccb0e-ac88-81ec-9f3f-df38fcc22a0c"
+  },
+  {
+    "id": "2afccb0e-ac88-811f-a56a-f78b21393a16",
+    "created_time": "2025-11-18T04:04:00.000Z",
+    "last_edited_time": "2025-11-20T03:21:00.000Z",
+    "properties": {
+      "Comp": [
+        "Hiệu ứng kính của cá Remmy",
+        "Ánh sáng pháo hoa ảnh hưởng lên nhân vật",
+        "Nhà sáng đèn"
+      ],
+      "FX": "Bụi",
+      "Layout": "Cần LO trước",
+      "Combo": "7",
+      "Đã có prop": false,
+      "Note anim": "",
+      "Prop & mô tả prop": "",
+      "Key": "D",
+      "IBW": "E",
+      "Nhân vật": [
+        "RemmyTheFish",
+        "Cherrycat"
+      ],
+      "Scene": "24"
+    },
+    "_title": "24",
+    "database_name": "GP104_shotlist",
+    "project_name": "GP104_shotlist",
+    "database_id": "2afccb0e-ac88-81ec-9f3f-df38fcc22a0c"
+  },
+  {
+    "id": "2afccb0e-ac88-8123-9bef-f3e38a0db609",
+    "created_time": "2025-11-18T04:04:00.000Z",
+    "last_edited_time": "2025-12-01T09:16:00.000Z",
+    "properties": {
+      "Comp": [
+        "Hiệu ứng quanh pháo"
+      ],
+      "FX": "Bụi",
+      "Layout": null,
+      "Combo": null,
+      "Đã có prop": false,
+      "Note anim": "",
+      "Prop & mô tả prop": "Pháo",
+      "Key": "E",
+      "IBW": "E",
+      "Nhân vật": [
+        "Mosse",
+        "Cattron"
+      ],
+      "Scene": "19"
+    },
+    "_title": "19",
+    "database_name": "GP104_shotlist",
+    "project_name": "GP104_shotlist",
+    "database_id": "2afccb0e-ac88-81ec-9f3f-df38fcc22a0c"
+  },
+  {
+    "id": "2afccb0e-ac88-813b-a91f-ebe1d10d64cf",
+    "created_time": "2025-11-18T04:04:00.000Z",
+    "last_edited_time": "2025-12-02T03:56:00.000Z",
+    "properties": {
+      "Comp": [
+        "Hiệu ứng quanh pháo"
+      ],
+      "FX": "Ngòi pháo cháy, khói pháo",
+      "Layout": null,
+      "Combo": null,
+      "Đã có prop": true,
+      "Note anim": "",
+      "Prop & mô tả prop": "Pháo",
+      "Key": "E",
+      "IBW": "F",
+      "Nhân vật": [],
+      "Scene": "21"
+    },
+    "_title": "21",
+    "database_name": "GP104_shotlist",
+    "project_name": "GP104_shotlist",
+    "database_id": "2afccb0e-ac88-81ec-9f3f-df38fcc22a0c"
+  },
+  {
+    "id": "2afccb0e-ac88-813c-8a68-d7747c2c8f8f",
+    "created_time": "2025-11-18T04:04:00.000Z",
+    "last_edited_time": "2025-12-01T09:16:00.000Z",
+    "properties": {
+      "Comp": [
+        "Nhà sáng đèn",
+        "Pháo hoa",
+        "sao lấp lánh trăng glow",
+        "Ánh sáng pháo hoa ảnh hưởng lên nhân vật"
+      ],
+      "FX": "Pháo bắn lên và nổ",
+      "Layout": null,
+      "Combo": "5",
+      "Đã có prop": false,
+      "Note anim": "Mây trôi",
+      "Prop & mô tả prop": "Pháo",
+      "Key": "E",
+      "IBW": "E",
+      "Nhân vật": [
+        "Mosse",
+        "Genevie",
+        "Cherrycat",
+        "RemmyTheFish",
+        "Cattron"
+      ],
+      "Scene": "22"
+    },
+    "_title": "22",
+    "database_name": "GP104_shotlist",
+    "project_name": "GP104_shotlist",
+    "database_id": "2afccb0e-ac88-81ec-9f3f-df38fcc22a0c"
+  },
+  {
+    "id": "2afccb0e-ac88-814b-858e-f0706c3b7918",
+    "created_time": "2025-11-18T04:04:00.000Z",
+    "last_edited_time": "2025-11-27T10:16:00.000Z",
+    "properties": {
+      "Comp": [],
+      "FX": "",
+      "Layout": "Cần LO trước",
+      "Combo": "1",
+      "Đã có prop": false,
+      "Note anim": "",
+      "Prop & mô tả prop": "",
+      "Key": "D",
+      "IBW": "E",
+      "Nhân vật": [
+        "Mosse",
+        "Genevie",
+        "Cattron",
+        "Cherrycat"
+      ],
+      "Scene": "28"
+    },
+    "_title": "28",
+    "database_name": "GP104_shotlist",
+    "project_name": "GP104_shotlist",
+    "database_id": "2afccb0e-ac88-81ec-9f3f-df38fcc22a0c"
+  },
+  {
+    "id": "2afccb0e-ac88-816c-884d-e21d1cc5db9c",
+    "created_time": "2025-11-18T04:04:00.000Z",
+    "last_edited_time": "2025-11-18T04:09:00.000Z",
+    "properties": {
+      "Comp": [],
+      "FX": "",
+      "Layout": null,
+      "Combo": "Reuse tập cũ",
+      "Đã có prop": false,
+      "Note anim": "",
+      "Prop & mô tả prop": "",
+      "Key": "Omiited",
+      "IBW": "Omiited",
+      "Nhân vật": [],
+      "Scene": "08"
+    },
+    "_title": "08",
+    "database_name": "GP104_shotlist",
+    "project_name": "GP104_shotlist",
+    "database_id": "2afccb0e-ac88-81ec-9f3f-df38fcc22a0c"
+  },
+  {
+    "id": "2afccb0e-ac88-8179-84f8-e6ce2c759fd8",
+    "created_time": "2025-11-18T04:04:00.000Z",
+    "last_edited_time": "2025-11-27T02:30:00.000Z",
+    "properties": {
+      "Comp": [
+        "Nhà sáng đèn",
+        "Hiệu ứng kính của cá Remmy",
+        "Ánh sáng pháo hoa ảnh hưởng lên nhân vật"
+      ],
+      "FX": "",
+      "Layout": "Cần LO trước",
+      "Combo": "6",
+      "Đã có prop": false,
+      "Note anim": "Mây trôi",
+      "Prop & mô tả prop": "",
+      "Key": "E",
+      "IBW": "E",
+      "Nhân vật": [
+        "Mosse",
+        "Cherrycat",
+        "Cattron",
+        "RemmyTheFish",
+        "Genevie"
+      ],
+      "Scene": "23"
+    },
+    "_title": "23",
+    "database_name": "GP104_shotlist",
+    "project_name": "GP104_shotlist",
+    "database_id": "2afccb0e-ac88-81ec-9f3f-df38fcc22a0c"
+  },
+  {
+    "id": "2afccb0e-ac88-8183-9155-f97a5b9d7b9d",
+    "created_time": "2025-11-18T04:04:00.000Z",
+    "last_edited_time": "2025-11-18T04:12:00.000Z",
+    "properties": {
+      "Comp": [],
+      "FX": "",
+      "Layout": null,
+      "Combo": "Reuse tập cũ",
+      "Đã có prop": false,
+      "Note anim": "",
+      "Prop & mô tả prop": "",
+      "Key": "Omiited",
+      "IBW": "Omiited",
+      "Nhân vật": [],
+      "Scene": "04"
+    },
+    "_title": "04",
+    "database_name": "GP104_shotlist",
+    "project_name": "GP104_shotlist",
+    "database_id": "2afccb0e-ac88-81ec-9f3f-df38fcc22a0c"
+  },
+  {
+    "id": "2afccb0e-ac88-8183-a160-fa593b00cc6d",
+    "created_time": "2025-11-18T04:04:00.000Z",
+    "last_edited_time": "2025-11-18T04:04:00.000Z",
+    "properties": {
+      "Comp": [],
+      "FX": "",
+      "Layout": null,
+      "Combo": "Reuse tập cũ",
+      "Đã có prop": false,
+      "Note anim": "",
+      "Prop & mô tả prop": "",
+      "Key": "Omiited",
+      "IBW": "Omiited",
+      "Nhân vật": [],
+      "Scene": "00"
+    },
+    "_title": "00",
+    "database_name": "GP104_shotlist",
+    "project_name": "GP104_shotlist",
+    "database_id": "2afccb0e-ac88-81ec-9f3f-df38fcc22a0c"
+  },
+  {
+    "id": "2afccb0e-ac88-8186-94a0-ea90a89f957d",
+    "created_time": "2025-11-18T04:04:00.000Z",
+    "last_edited_time": "2025-12-02T03:56:00.000Z",
+    "properties": {
+      "Comp": [],
+      "FX": "",
+      "Layout": null,
+      "Combo": null,
+      "Đã có prop": true,
+      "Note anim": "",
+      "Prop & mô tả prop": "Thùng pháo",
+      "Key": "C",
+      "IBW": "D",
+      "Nhân vật": [
+        "Mosse",
+        "Cherrycat"
+      ],
+      "Scene": "17"
+    },
+    "_title": "17",
+    "database_name": "GP104_shotlist",
+    "project_name": "GP104_shotlist",
+    "database_id": "2afccb0e-ac88-81ec-9f3f-df38fcc22a0c"
+  },
+  {
+    "id": "2afccb0e-ac88-818b-88cf-e268cb31158e",
+    "created_time": "2025-11-18T04:04:00.000Z",
+    "last_edited_time": "2025-11-18T04:09:00.000Z",
+    "properties": {
+      "Comp": [],
+      "FX": "",
+      "Layout": null,
+      "Combo": "Reuse tập cũ",
+      "Đã có prop": false,
+      "Note anim": "",
+      "Prop & mô tả prop": "",
+      "Key": "Omiited",
+      "IBW": "Omiited",
+      "Nhân vật": [],
+      "Scene": "05"
+    },
+    "_title": "05",
+    "database_name": "GP104_shotlist",
+    "project_name": "GP104_shotlist",
+    "database_id": "2afccb0e-ac88-81ec-9f3f-df38fcc22a0c"
+  },
+  {
+    "id": "2afccb0e-ac88-818e-a8c8-ed6b8cf9ebc2",
+    "created_time": "2025-11-18T04:04:00.000Z",
+    "last_edited_time": "2025-12-02T04:33:00.000Z",
+    "properties": {
+      "Comp": [],
+      "FX": "",
+      "Layout": null,
+      "Combo": "Reuse tập cũ",
+      "Đã có prop": false,
+      "Note anim": "",
+      "Prop & mô tả prop": "",
+      "Key": "Omiited",
+      "IBW": "Omiited",
+      "Nhân vật": [],
+      "Scene": "03"
+    },
+    "_title": "03",
+    "database_name": "GP104_shotlist",
+    "project_name": "GP104_shotlist",
+    "database_id": "2afccb0e-ac88-81ec-9f3f-df38fcc22a0c"
+  },
+  {
+    "id": "2afccb0e-ac88-81a1-8655-c8f2ef657598",
+    "created_time": "2025-11-18T04:04:00.000Z",
+    "last_edited_time": "2025-11-18T04:12:00.000Z",
+    "properties": {
+      "Comp": [],
+      "FX": "",
+      "Layout": null,
+      "Combo": "Reuse tập cũ",
+      "Đã có prop": false,
+      "Note anim": "",
+      "Prop & mô tả prop": "",
+      "Key": "Omiited",
+      "IBW": "Omiited",
+      "Nhân vật": [],
+      "Scene": "09"
+    },
+    "_title": "09",
+    "database_name": "GP104_shotlist",
+    "project_name": "GP104_shotlist",
+    "database_id": "2afccb0e-ac88-81ec-9f3f-df38fcc22a0c"
+  },
+  {
+    "id": "2afccb0e-ac88-81a3-a04c-c2643b42aee0",
+    "created_time": "2025-11-18T04:04:00.000Z",
+    "last_edited_time": "2025-12-02T03:55:00.000Z",
+    "properties": {
+      "Comp": [],
+      "FX": "",
+      "Layout": null,
+      "Combo": null,
+      "Đã có prop": true,
+      "Note anim": "",
+      "Prop & mô tả prop": "Checklist",
+      "Key": "E",
+      "IBW": "E",
+      "Nhân vật": [
+        "Genevie"
+      ],
+      "Scene": "14"
+    },
+    "_title": "14",
+    "database_name": "GP104_shotlist",
+    "project_name": "GP104_shotlist",
+    "database_id": "2afccb0e-ac88-81ec-9f3f-df38fcc22a0c"
+  },
+  {
+    "id": "2afccb0e-ac88-81a3-be33-d43c96364e2a",
+    "created_time": "2025-11-18T04:04:00.000Z",
+    "last_edited_time": "2025-11-18T06:50:00.000Z",
+    "properties": {
+      "Comp": [],
+      "FX": "",
+      "Layout": null,
+      "Combo": null,
+      "Đã có prop": false,
+      "Note anim": "",
+      "Prop & mô tả prop": "",
+      "Key": "E",
+      "IBW": "E",
+      "Nhân vật": [
+        "Mosse",
+        "Genevie",
+        "Cherrycat"
+      ],
+      "Scene": "16"
+    },
+    "_title": "16",
+    "database_name": "GP104_shotlist",
+    "project_name": "GP104_shotlist",
+    "database_id": "2afccb0e-ac88-81ec-9f3f-df38fcc22a0c"
+  },
+  {
+    "id": "2afccb0e-ac88-81a9-b4e1-f5aa7d91690a",
+    "created_time": "2025-11-18T04:04:00.000Z",
+    "last_edited_time": "2025-12-02T03:56:00.000Z",
+    "properties": {
+      "Comp": [],
+      "FX": "Bụi",
+      "Layout": null,
+      "Combo": null,
+      "Đã có prop": true,
+      "Note anim": "",
+      "Prop & mô tả prop": "Thùng pháo, Pháo",
+      "Key": "E",
+      "IBW": "E",
+      "Nhân vật": [
+        "Mosse"
+      ],
+      "Scene": "18"
+    },
+    "_title": "18",
+    "database_name": "GP104_shotlist",
+    "project_name": "GP104_shotlist",
+    "database_id": "2afccb0e-ac88-81ec-9f3f-df38fcc22a0c"
+  },
+  {
+    "id": "2afccb0e-ac88-81aa-b34a-e2d9b2cb0cd3",
+    "created_time": "2025-11-18T04:04:00.000Z",
+    "last_edited_time": "2025-12-02T03:56:00.000Z",
+    "properties": {
+      "Comp": [],
+      "FX": "",
+      "Layout": null,
+      "Combo": null,
+      "Đã có prop": true,
+      "Note anim": "",
+      "Prop & mô tả prop": "Loa",
+      "Key": "E",
+      "IBW": "F",
+      "Nhân vật": [
+        "Cattron"
+      ],
+      "Scene": "37"
+    },
+    "_title": "37",
+    "database_name": "GP104_shotlist",
+    "project_name": "GP104_shotlist",
+    "database_id": "2afccb0e-ac88-81ec-9f3f-df38fcc22a0c"
+  },
+  {
+    "id": "2afccb0e-ac88-81aa-be0b-d1ba3520c3cb",
+    "created_time": "2025-11-18T04:04:00.000Z",
+    "last_edited_time": "2025-12-02T04:33:00.000Z",
+    "properties": {
+      "Comp": [],
+      "FX": "",
+      "Layout": null,
+      "Combo": "Reuse tập cũ",
+      "Đã có prop": false,
+      "Note anim": "",
+      "Prop & mô tả prop": "",
+      "Key": "Omiited",
+      "IBW": "Omiited",
+      "Nhân vật": [],
+      "Scene": "01"
+    },
+    "_title": "01",
+    "database_name": "GP104_shotlist",
+    "project_name": "GP104_shotlist",
+    "database_id": "2afccb0e-ac88-81ec-9f3f-df38fcc22a0c"
+  },
+  {
+    "id": "2afccb0e-ac88-81ab-82ce-f1e3af6e0cad",
+    "created_time": "2025-11-18T04:04:00.000Z",
+    "last_edited_time": "2025-11-20T03:24:00.000Z",
+    "properties": {
+      "Comp": [
+        "Nhà sáng đèn"
+      ],
+      "FX": "Bụi",
+      "Layout": "Cần LO trước",
+      "Combo": null,
+      "Đã có prop": false,
+      "Note anim": "",
+      "Prop & mô tả prop": "",
+      "Key": "E",
+      "IBW": "F",
+      "Nhân vật": [
+        "RemmyTheFish"
+      ],
+      "Scene": "25"
+    },
+    "_title": "25",
+    "database_name": "GP104_shotlist",
+    "project_name": "GP104_shotlist",
+    "database_id": "2afccb0e-ac88-81ec-9f3f-df38fcc22a0c"
+  },
+  {
+    "id": "2afccb0e-ac88-81ac-b912-eada301e7850",
+    "created_time": "2025-11-18T04:04:00.000Z",
+    "last_edited_time": "2025-12-02T03:55:00.000Z",
+    "properties": {
+      "Comp": [],
+      "FX": "Bụi",
+      "Layout": null,
+      "Combo": null,
+      "Đã có prop": true,
+      "Note anim": "",
+      "Prop & mô tả prop": "Thùng pháo",
+      "Key": "E",
+      "IBW": "E",
+      "Nhân vật": [
+        "Genevie",
+        "Cattron"
+      ],
+      "Scene": "13"
+    },
+    "_title": "13",
+    "database_name": "GP104_shotlist",
+    "project_name": "GP104_shotlist",
+    "database_id": "2afccb0e-ac88-81ec-9f3f-df38fcc22a0c"
+  },
+  {
+    "id": "2afccb0e-ac88-81b9-a45b-c9c3c68c7d6b",
+    "created_time": "2025-11-18T04:04:00.000Z",
+    "last_edited_time": "2025-12-02T03:56:00.000Z",
+    "properties": {
+      "Comp": [],
+      "FX": "",
+      "Layout": null,
+      "Combo": null,
+      "Đã có prop": true,
+      "Note anim": "",
+      "Prop & mô tả prop": "",
+      "Key": "E",
+      "IBW": "E",
+      "Nhân vật": [
+        "Cherrycat"
+      ],
+      "Scene": "33"
+    },
+    "_title": "33",
+    "database_name": "GP104_shotlist",
+    "project_name": "GP104_shotlist",
+    "database_id": "2afccb0e-ac88-81ec-9f3f-df38fcc22a0c"
+  },
+  {
+    "id": "2afccb0e-ac88-81bb-8e8e-cb0db4f09a62",
+    "created_time": "2025-11-18T04:04:00.000Z",
+    "last_edited_time": "2025-11-18T06:58:00.000Z",
+    "properties": {
+      "Comp": [],
+      "FX": "",
+      "Layout": null,
+      "Combo": null,
+      "Đã có prop": false,
+      "Note anim": "",
+      "Prop & mô tả prop": "",
+      "Key": "C",
+      "IBW": "D",
+      "Nhân vật": [
+        "Mosse",
+        "Cherrycat",
+        "Genevie",
+        "Cattron"
+      ],
+      "Scene": "30"
+    },
+    "_title": "30",
+    "database_name": "GP104_shotlist",
+    "project_name": "GP104_shotlist",
+    "database_id": "2afccb0e-ac88-81ec-9f3f-df38fcc22a0c"
+  },
+  {
+    "id": "2afccb0e-ac88-81bf-a940-eaf798c3a9cb",
+    "created_time": "2025-11-18T04:04:00.000Z",
+    "last_edited_time": "2025-12-02T03:56:00.000Z",
+    "properties": {
+      "Comp": [],
+      "FX": "",
+      "Layout": null,
+      "Combo": null,
+      "Đã có prop": true,
+      "Note anim": "",
+      "Prop & mô tả prop": "Vô lăng",
+      "Key": "E",
+      "IBW": "E",
+      "Nhân vật": [
+        "Gembug",
+        "Genevie"
+      ],
+      "Scene": "32"
+    },
+    "_title": "32",
+    "database_name": "GP104_shotlist",
+    "project_name": "GP104_shotlist",
+    "database_id": "2afccb0e-ac88-81ec-9f3f-df38fcc22a0c"
+  },
+  {
+    "id": "2afccb0e-ac88-81cd-bc8b-db436421cdf0",
+    "created_time": "2025-11-18T04:04:00.000Z",
+    "last_edited_time": "2025-12-02T09:29:00.000Z",
+    "properties": {
+      "Comp": [],
+      "FX": "",
+      "Layout": null,
+      "Combo": null,
+      "Đã có prop": true,
+      "Note anim": "",
+      "Prop & mô tả prop": "Nồi, chảo, loa",
+      "Key": "C",
+      "IBW": "C",
+      "Nhân vật": [
+        "Mosse",
+        "Genevie",
+        "Cattron",
+        "Cherrycat"
+      ],
+      "Scene": "38"
+    },
+    "_title": "38",
+    "database_name": "GP104_shotlist",
+    "project_name": "GP104_shotlist",
+    "database_id": "2afccb0e-ac88-81ec-9f3f-df38fcc22a0c"
+  },
+  {
+    "id": "2afccb0e-ac88-81cd-bd2a-c892fabc7e29",
+    "created_time": "2025-11-18T04:04:00.000Z",
+    "last_edited_time": "2025-12-02T03:56:00.000Z",
+    "properties": {
+      "Comp": [],
+      "FX": "",
+      "Layout": null,
+      "Combo": null,
+      "Đã có prop": true,
+      "Note anim": "",
+      "Prop & mô tả prop": "Bàn ",
+      "Key": "E",
+      "IBW": "E",
+      "Nhân vật": [
+        "Cattron",
+        "FennecFox"
+      ],
+      "Scene": "31"
+    },
+    "_title": "31",
+    "database_name": "GP104_shotlist",
+    "project_name": "GP104_shotlist",
+    "database_id": "2afccb0e-ac88-81ec-9f3f-df38fcc22a0c"
+  },
+  {
+    "id": "2afccb0e-ac88-81d9-a53b-f1c36ca8a2a0",
+    "created_time": "2025-11-18T04:04:00.000Z",
+    "last_edited_time": "2025-12-02T10:56:00.000Z",
+    "properties": {
+      "Comp": [
+        "sao lấp lánh trăng glow",
+        "Nhà sáng đèn"
+      ],
+      "FX": "",
+      "Layout": "Cần LO trước",
+      "Combo": null,
+      "Đã có prop": true,
+      "Note anim": "mây trôi",
+      "Prop & mô tả prop": "Xô nước, thùng pháo",
+      "Key": "C",
+      "IBW": "D",
+      "Nhân vật": [
+        "Genevie",
+        "Mosse",
+        "Cherrycat",
+        "Cattron",
+        "RemmyTheFish"
+      ],
+      "Scene": "10"
+    },
+    "_title": "10",
+    "database_name": "GP104_shotlist",
+    "project_name": "GP104_shotlist",
+    "database_id": "2afccb0e-ac88-81ec-9f3f-df38fcc22a0c"
+  },
+  {
+    "id": "2afccb0e-ac88-81db-a334-d623b799ab2b",
+    "created_time": "2025-11-18T04:04:00.000Z",
+    "last_edited_time": "2025-12-01T09:16:00.000Z",
+    "properties": {
+      "Comp": [
+        "Hiệu ứng quanh pháo"
+      ],
+      "FX": "",
+      "Layout": "Cần LO trước",
+      "Combo": "1",
+      "Đã có prop": false,
+      "Note anim": "Mây trôi",
+      "Prop & mô tả prop": "Pháo",
+      "Key": "E",
+      "IBW": "E",
+      "Nhân vật": [
+        "Genevie",
+        "Mosse",
+        "Cherrycat",
+        "Cattron",
+        "RemmyTheFish"
+      ],
+      "Scene": "20"
+    },
+    "_title": "20",
+    "database_name": "GP104_shotlist",
+    "project_name": "GP104_shotlist",
+    "database_id": "2afccb0e-ac88-81ec-9f3f-df38fcc22a0c"
+  },
+  {
+    "id": "2afccb0e-ac88-81dc-91cf-ed0e334b4884",
+    "created_time": "2025-11-18T04:04:00.000Z",
+    "last_edited_time": "2025-12-02T03:55:00.000Z",
+    "properties": {
+      "Comp": [],
+      "FX": "Nước bắn",
+      "Layout": null,
+      "Combo": null,
+      "Đã có prop": true,
+      "Note anim": "",
+      "Prop & mô tả prop": "Xô nước",
+      "Key": "E",
+      "IBW": "E",
+      "Nhân vật": [
+        "Cherrycat",
+        "Mosse"
+      ],
+      "Scene": "11"
+    },
+    "_title": "11",
+    "database_name": "GP104_shotlist",
+    "project_name": "GP104_shotlist",
+    "database_id": "2afccb0e-ac88-81ec-9f3f-df38fcc22a0c"
+  },
+  {
+    "id": "2afccb0e-ac88-81e2-8906-de28436a291b",
+    "created_time": "2025-11-18T04:04:00.000Z",
+    "last_edited_time": "2025-12-02T09:29:00.000Z",
+    "properties": {
+      "Comp": [],
+      "FX": "",
+      "Layout": null,
+      "Combo": null,
+      "Đã có prop": true,
+      "Note anim": "",
+      "Prop & mô tả prop": "Nồi, chảo",
+      "Key": "E",
+      "IBW": "E",
+      "Nhân vật": [
+        "Cherrycat"
+      ],
+      "Scene": "38A"
+    },
+    "_title": "38A",
+    "database_name": "GP104_shotlist",
+    "project_name": "GP104_shotlist",
+    "database_id": "2afccb0e-ac88-81ec-9f3f-df38fcc22a0c"
+  },
+  {
+    "id": "2afccb0e-ac88-81e5-bbf4-d6f5093724ff",
+    "created_time": "2025-11-18T04:04:00.000Z",
+    "last_edited_time": "2025-12-02T03:55:00.000Z",
+    "properties": {
+      "Comp": [],
+      "FX": "Nước bắn, bụi",
+      "Layout": null,
+      "Combo": null,
+      "Đã có prop": true,
+      "Note anim": "",
+      "Prop & mô tả prop": "Xô nước, thùng pháo",
+      "Key": "D",
+      "IBW": "E",
+      "Nhân vật": [
+        "Cherrycat",
+        "Genevie",
+        "Cattron"
+      ],
+      "Scene": "12"
+    },
+    "_title": "12",
+    "database_name": "GP104_shotlist",
+    "project_name": "GP104_shotlist",
+    "database_id": "2afccb0e-ac88-81ec-9f3f-df38fcc22a0c"
+  },
+  {
+    "id": "2afccb0e-ac88-81ff-839e-feb2f8e727f2",
+    "created_time": "2025-11-18T04:04:00.000Z",
+    "last_edited_time": "2025-11-20T03:24:00.000Z",
+    "properties": {
+      "Comp": [],
+      "FX": "",
+      "Layout": "Cần LO trước",
+      "Combo": "1",
+      "Đã có prop": false,
+      "Note anim": "Mây trôi",
+      "Prop & mô tả prop": "",
+      "Key": "D",
+      "IBW": "E",
+      "Nhân vật": [
+        "Mosse",
+        "Genevie",
+        "Cherrycat",
+        "Cattron"
+      ],
+      "Scene": "26"
+    },
+    "_title": "26",
+    "database_name": "GP104_shotlist",
+    "project_name": "GP104_shotlist",
+    "database_id": "2afccb0e-ac88-81ec-9f3f-df38fcc22a0c"
+  }
+]

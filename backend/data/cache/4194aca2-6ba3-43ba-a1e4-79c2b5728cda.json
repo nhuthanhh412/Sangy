@@ -1,0 +1,917 @@
+[
+  {
+    "id": "0bfeb993-a73d-453a-b754-2cdeff4c1893",
+    "created_time": "2024-05-08T06:57:00.000Z",
+    "last_edited_time": "2024-05-08T06:57:00.000Z",
+    "properties": {
+      "Note": "",
+      "💜 [DeeDee_2024] VF3 Backlog": [
+        "e2f6f5c8-3f9b-4a21-9f5e-b778668ae146",
+        "2e196575-1eab-458e-ab9f-f89e54372374"
+      ],
+      "Độ hoàn thành": 0.5,
+      "Status": [
+        "Background 04",
+        "Layout 04"
+      ],
+      "Ước tính nỗ lực cảnh": 0,
+      "Version": null,
+      "Team thực hiện ": [
+        {
+          "type": "people",
+          "people": [
+            {
+              "object": "user",
+              "id": "9010bd5f-0286-4e69-8749-7e1f89524836"
+            }
+          ]
+        },
+        {
+          "type": "people",
+          "people": [
+            {
+              "object": "user",
+              "id": "9010bd5f-0286-4e69-8749-7e1f89524836"
+            }
+          ]
+        }
+      ],
+      "Ep": null,
+      "Phase": null,
+      "Name": "04"
+    },
+    "_title": "04",
+    "database_name": "[DeeDee_2024] VF3 QC Space ",
+    "project_name": "[DeeDee_2024] VF3 QC Space",
+    "database_id": "4194aca2-6ba3-43ba-a1e4-79c2b5728cda"
+  },
+  {
+    "id": "44d227ce-9347-4f53-bf81-aeebc7c790a9",
+    "created_time": "2024-05-08T06:56:00.000Z",
+    "last_edited_time": "2024-05-08T06:57:00.000Z",
+    "properties": {
+      "Note": "",
+      "💜 [DeeDee_2024] VF3 Backlog": [
+        "da8d333d-8210-4234-af97-bfe451e8da37",
+        "7684d686-c569-4444-ba19-2fc23662bdfa"
+      ],
+      "Độ hoàn thành": 0.5,
+      "Status": [
+        "Background 01",
+        "Layout 01"
+      ],
+      "Ước tính nỗ lực cảnh": 0,
+      "Version": null,
+      "Team thực hiện ": [
+        {
+          "type": "people",
+          "people": [
+            {
+              "object": "user",
+              "id": "ef94d237-bbac-4f3a-852f-c653473d8b70"
+            }
+          ]
+        },
+        {
+          "type": "people",
+          "people": [
+            {
+              "object": "user",
+              "id": "92fdc82b-f21d-47ae-8a9d-f273f293b140"
+            }
+          ]
+        }
+      ],
+      "Ep": null,
+      "Phase": null,
+      "Name": "01"
+    },
+    "_title": "01",
+    "database_name": "[DeeDee_2024] VF3 QC Space ",
+    "project_name": "[DeeDee_2024] VF3 QC Space",
+    "database_id": "4194aca2-6ba3-43ba-a1e4-79c2b5728cda"
+  },
+  {
+    "id": "474eb7c1-8e70-4769-a7f9-bee8f5bc1bf0",
+    "created_time": "2024-05-08T07:00:00.000Z",
+    "last_edited_time": "2024-05-08T07:00:00.000Z",
+    "properties": {
+      "Note": "",
+      "💜 [DeeDee_2024] VF3 Backlog": [
+        "3a425dd2-f922-45a4-b21e-0233080c5a9e",
+        "f8d87b71-c159-42eb-825a-af81921cbe4d"
+      ],
+      "Độ hoàn thành": 0.5,
+      "Status": [
+        "Layout 16",
+        "Background 16"
+      ],
+      "Ước tính nỗ lực cảnh": 0,
+      "Version": null,
+      "Team thực hiện ": [
+        {
+          "type": "people",
+          "people": [
+            {
+              "object": "user",
+              "id": "9010bd5f-0286-4e69-8749-7e1f89524836"
+            }
+          ]
+        },
+        {
+          "type": "people",
+          "people": [
+            {
+              "object": "user",
+              "id": "c2266065-7d98-480f-82f3-6308d5402577"
+            }
+          ]
+        }
+      ],
+      "Ep": null,
+      "Phase": null,
+      "Name": "16"
+    },
+    "_title": "16",
+    "database_name": "[DeeDee_2024] VF3 QC Space ",
+    "project_name": "[DeeDee_2024] VF3 QC Space",
+    "database_id": "4194aca2-6ba3-43ba-a1e4-79c2b5728cda"
+  },
+  {
+    "id": "4b417cb4-1284-4dbf-9795-ddfa57a319bf",
+    "created_time": "2024-05-08T08:13:00.000Z",
+    "last_edited_time": "2024-05-08T08:13:00.000Z",
+    "properties": {
+      "Note": "",
+      "💜 [DeeDee_2024] VF3 Backlog": [
+        "04235a21-bf98-4951-9963-93e983291735",
+        "7b9a915e-3a87-4d60-9e56-4a57fcac241e"
+      ],
+      "Độ hoàn thành": 1,
+      "Status": [
+        "Background 20",
+        "Layout 20"
+      ],
+      "Ước tính nỗ lực cảnh": 0,
+      "Version": null,
+      "Team thực hiện ": [
+        {
+          "type": "people",
+          "people": [
+            {
+              "object": "user",
+              "id": "591f230f-efcf-478e-9dc0-6529bf787f1f"
+            }
+          ]
+        },
+        {
+          "type": "people",
+          "people": [
+            {
+              "object": "user",
+              "id": "92fdc82b-f21d-47ae-8a9d-f273f293b140"
+            }
+          ]
+        }
+      ],
+      "Ep": null,
+      "Phase": null,
+      "Name": "20"
+    },
+    "_title": "20",
+    "database_name": "[DeeDee_2024] VF3 QC Space ",
+    "project_name": "[DeeDee_2024] VF3 QC Space",
+    "database_id": "4194aca2-6ba3-43ba-a1e4-79c2b5728cda"
+  },
+  {
+    "id": "659fcec6-9c1a-4154-a429-88c8dc66c9c7",
+    "created_time": "2024-05-08T07:00:00.000Z",
+    "last_edited_time": "2024-05-08T07:47:00.000Z",
+    "properties": {
+      "Note": "",
+      "💜 [DeeDee_2024] VF3 Backlog": [
+        "7a9c81a1-2455-417d-bfd3-65b2ca4264e7",
+        "aabe100d-aa2c-48ce-8363-39e6622c10db"
+      ],
+      "Độ hoàn thành": 0.5,
+      "Status": [
+        "Layout 18",
+        "Background 18"
+      ],
+      "Ước tính nỗ lực cảnh": 0,
+      "Version": null,
+      "Team thực hiện ": [
+        {
+          "type": "people",
+          "people": [
+            {
+              "object": "user",
+              "id": "92fdc82b-f21d-47ae-8a9d-f273f293b140"
+            }
+          ]
+        },
+        {
+          "type": "people",
+          "people": [
+            {
+              "object": "user",
+              "id": "92fdc82b-f21d-47ae-8a9d-f273f293b140"
+            }
+          ]
+        }
+      ],
+      "Ep": null,
+      "Phase": null,
+      "Name": "18"
+    },
+    "_title": "18",
+    "database_name": "[DeeDee_2024] VF3 QC Space ",
+    "project_name": "[DeeDee_2024] VF3 QC Space",
+    "database_id": "4194aca2-6ba3-43ba-a1e4-79c2b5728cda"
+  },
+  {
+    "id": "67a1c5cd-8266-4cea-83a0-e673a5a31df8",
+    "created_time": "2024-05-08T06:59:00.000Z",
+    "last_edited_time": "2024-05-08T06:59:00.000Z",
+    "properties": {
+      "Note": "",
+      "💜 [DeeDee_2024] VF3 Backlog": [
+        "f5cbc9b7-2dba-4ed9-a56b-a798ec7baa4d",
+        "520cbb57-0273-4259-88f6-7167b329d1c8"
+      ],
+      "Độ hoàn thành": 0.5,
+      "Status": [
+        "Layout 13",
+        "Background 13"
+      ],
+      "Ước tính nỗ lực cảnh": 0,
+      "Version": null,
+      "Team thực hiện ": [
+        {
+          "type": "people",
+          "people": [
+            {
+              "object": "user",
+              "id": "9010bd5f-0286-4e69-8749-7e1f89524836"
+            }
+          ]
+        },
+        {
+          "type": "people",
+          "people": [
+            {
+              "object": "user",
+              "id": "ce62dd6e-6b4c-4d26-a9c9-929205c03462"
+            }
+          ]
+        }
+      ],
+      "Ep": null,
+      "Phase": null,
+      "Name": "13"
+    },
+    "_title": "13",
+    "database_name": "[DeeDee_2024] VF3 QC Space ",
+    "project_name": "[DeeDee_2024] VF3 QC Space",
+    "database_id": "4194aca2-6ba3-43ba-a1e4-79c2b5728cda"
+  },
+  {
+    "id": "69d2f122-077b-43c8-8c64-2244aefe185a",
+    "created_time": "2024-05-08T07:00:00.000Z",
+    "last_edited_time": "2024-05-08T07:00:00.000Z",
+    "properties": {
+      "Note": "",
+      "💜 [DeeDee_2024] VF3 Backlog": [
+        "7763cded-d438-47c4-aec0-fa5f06c42f5b",
+        "04fc8af7-341f-4750-80ad-b03bea68ffa2"
+      ],
+      "Độ hoàn thành": 0.5,
+      "Status": [
+        "Layout 17",
+        "Background 17"
+      ],
+      "Ước tính nỗ lực cảnh": 0,
+      "Version": null,
+      "Team thực hiện ": [
+        {
+          "type": "people",
+          "people": [
+            {
+              "object": "user",
+              "id": "9010bd5f-0286-4e69-8749-7e1f89524836"
+            }
+          ]
+        },
+        {
+          "type": "people",
+          "people": [
+            {
+              "object": "user",
+              "id": "3a81bdc9-11ff-4574-af89-d7fcdb3025ae"
+            }
+          ]
+        }
+      ],
+      "Ep": null,
+      "Phase": null,
+      "Name": "17"
+    },
+    "_title": "17",
+    "database_name": "[DeeDee_2024] VF3 QC Space ",
+    "project_name": "[DeeDee_2024] VF3 QC Space",
+    "database_id": "4194aca2-6ba3-43ba-a1e4-79c2b5728cda"
+  },
+  {
+    "id": "712954a7-fa51-4cfa-8bab-6fe221873acd",
+    "created_time": "2024-05-08T06:59:00.000Z",
+    "last_edited_time": "2024-05-08T06:59:00.000Z",
+    "properties": {
+      "Note": "",
+      "💜 [DeeDee_2024] VF3 Backlog": [
+        "4a40af22-ba92-4a7a-b28d-62566ee1bed2",
+        "a89f8660-d805-4ac6-960f-088d9a0ceed4"
+      ],
+      "Độ hoàn thành": 0.5,
+      "Status": [
+        "Layout 10",
+        "Background 10"
+      ],
+      "Ước tính nỗ lực cảnh": 0,
+      "Version": null,
+      "Team thực hiện ": [
+        {
+          "type": "people",
+          "people": [
+            {
+              "object": "user",
+              "id": "9010bd5f-0286-4e69-8749-7e1f89524836"
+            }
+          ]
+        },
+        {
+          "type": "people",
+          "people": [
+            {
+              "object": "user",
+              "id": "cbb9d8bc-8f0d-4ac6-ae13-d1df5638df05"
+            }
+          ]
+        }
+      ],
+      "Ep": null,
+      "Phase": null,
+      "Name": "10"
+    },
+    "_title": "10",
+    "database_name": "[DeeDee_2024] VF3 QC Space ",
+    "project_name": "[DeeDee_2024] VF3 QC Space",
+    "database_id": "4194aca2-6ba3-43ba-a1e4-79c2b5728cda"
+  },
+  {
+    "id": "853b828e-5033-41a0-a8d7-36399cea7f8f",
+    "created_time": "2024-05-08T08:13:00.000Z",
+    "last_edited_time": "2024-05-08T08:13:00.000Z",
+    "properties": {
+      "Note": "",
+      "💜 [DeeDee_2024] VF3 Backlog": [
+        "72cf7ff9-1bf9-447a-b729-aa97817e6b8a",
+        "9012fc54-8729-4144-81d0-f8cf64ec042b"
+      ],
+      "Độ hoàn thành": 0.5,
+      "Status": [
+        "Background 19",
+        "Layout 19"
+      ],
+      "Ước tính nỗ lực cảnh": 0,
+      "Version": null,
+      "Team thực hiện ": [
+        {
+          "type": "people",
+          "people": [
+            {
+              "object": "user",
+              "id": "92fdc82b-f21d-47ae-8a9d-f273f293b140"
+            }
+          ]
+        },
+        {
+          "type": "people",
+          "people": [
+            {
+              "object": "user",
+              "id": "92fdc82b-f21d-47ae-8a9d-f273f293b140"
+            }
+          ]
+        }
+      ],
+      "Ep": null,
+      "Phase": null,
+      "Name": "19"
+    },
+    "_title": "19",
+    "database_name": "[DeeDee_2024] VF3 QC Space ",
+    "project_name": "[DeeDee_2024] VF3 QC Space",
+    "database_id": "4194aca2-6ba3-43ba-a1e4-79c2b5728cda"
+  },
+  {
+    "id": "89ca09d1-0498-46a9-b6d0-f70022f84db4",
+    "created_time": "2024-05-08T07:00:00.000Z",
+    "last_edited_time": "2024-05-08T07:00:00.000Z",
+    "properties": {
+      "Note": "",
+      "💜 [DeeDee_2024] VF3 Backlog": [
+        "75584f1b-2bbb-4341-b128-dcc661b88224",
+        "e35fe1ad-4ed2-40cc-80cb-164651e6cdbd"
+      ],
+      "Độ hoàn thành": 0.5,
+      "Status": [
+        "Layout 15",
+        "Background 15"
+      ],
+      "Ước tính nỗ lực cảnh": 0,
+      "Version": null,
+      "Team thực hiện ": [
+        {
+          "type": "people",
+          "people": [
+            {
+              "object": "user",
+              "id": "9010bd5f-0286-4e69-8749-7e1f89524836"
+            }
+          ]
+        },
+        {
+          "type": "people",
+          "people": [
+            {
+              "object": "user",
+              "id": "bc74d92f-163f-4054-9ff2-f321efce1a63"
+            }
+          ]
+        }
+      ],
+      "Ep": null,
+      "Phase": null,
+      "Name": "15"
+    },
+    "_title": "15",
+    "database_name": "[DeeDee_2024] VF3 QC Space ",
+    "project_name": "[DeeDee_2024] VF3 QC Space",
+    "database_id": "4194aca2-6ba3-43ba-a1e4-79c2b5728cda"
+  },
+  {
+    "id": "94aef9b6-e393-47b2-86a8-a7b9bbafda07",
+    "created_time": "2024-05-08T06:57:00.000Z",
+    "last_edited_time": "2024-05-08T06:57:00.000Z",
+    "properties": {
+      "Note": "",
+      "💜 [DeeDee_2024] VF3 Backlog": [
+        "a2df225c-9bca-4191-aa31-86451c82b9a7",
+        "74320269-a156-469c-9ba2-06f943a7e50d"
+      ],
+      "Độ hoàn thành": 0.5,
+      "Status": [
+        "Background 03",
+        "Layout 03"
+      ],
+      "Ước tính nỗ lực cảnh": 0,
+      "Version": null,
+      "Team thực hiện ": [
+        {
+          "type": "people",
+          "people": [
+            {
+              "object": "user",
+              "id": "ce62dd6e-6b4c-4d26-a9c9-929205c03462"
+            }
+          ]
+        },
+        {
+          "type": "people",
+          "people": [
+            {
+              "object": "user",
+              "id": "92fdc82b-f21d-47ae-8a9d-f273f293b140"
+            }
+          ]
+        }
+      ],
+      "Ep": null,
+      "Phase": null,
+      "Name": "03"
+    },
+    "_title": "03",
+    "database_name": "[DeeDee_2024] VF3 QC Space ",
+    "project_name": "[DeeDee_2024] VF3 QC Space",
+    "database_id": "4194aca2-6ba3-43ba-a1e4-79c2b5728cda"
+  },
+  {
+    "id": "95bc386d-e65b-4269-9d96-2c4eb78dc690",
+    "created_time": "2024-05-08T04:38:00.000Z",
+    "last_edited_time": "2024-05-08T06:57:00.000Z",
+    "properties": {
+      "Note": "",
+      "💜 [DeeDee_2024] VF3 Backlog": [
+        "37c40e8d-b1c1-42e9-b415-17a824ffc238",
+        "1722fec9-ac28-43c8-b976-f476b38add7b"
+      ],
+      "Độ hoàn thành": 0.5,
+      "Status": [
+        "Layout 07",
+        "Background 07"
+      ],
+      "Ước tính nỗ lực cảnh": 0,
+      "Version": null,
+      "Team thực hiện ": [
+        {
+          "type": "people",
+          "people": [
+            {
+              "object": "user",
+              "id": "92fdc82b-f21d-47ae-8a9d-f273f293b140"
+            }
+          ]
+        },
+        {
+          "type": "people",
+          "people": [
+            {
+              "object": "user",
+              "id": "c2266065-7d98-480f-82f3-6308d5402577"
+            }
+          ]
+        }
+      ],
+      "Ep": null,
+      "Phase": null,
+      "Name": "07"
+    },
+    "_title": "07",
+    "database_name": "[DeeDee_2024] VF3 QC Space ",
+    "project_name": "[DeeDee_2024] VF3 QC Space",
+    "database_id": "4194aca2-6ba3-43ba-a1e4-79c2b5728cda"
+  },
+  {
+    "id": "a4f9e268-4051-4aa0-bca9-4a34d2c9c5a2",
+    "created_time": "2024-05-08T06:59:00.000Z",
+    "last_edited_time": "2024-05-08T07:00:00.000Z",
+    "properties": {
+      "Note": "",
+      "💜 [DeeDee_2024] VF3 Backlog": [
+        "fa19d2ae-6c34-49c8-ace0-b98893f203f1",
+        "3af18df4-c58d-4151-bf57-6a4f2c06a282"
+      ],
+      "Độ hoàn thành": 0.5,
+      "Status": [
+        "Layout 14",
+        "Background 14"
+      ],
+      "Ước tính nỗ lực cảnh": 0,
+      "Version": null,
+      "Team thực hiện ": [
+        {
+          "type": "people",
+          "people": [
+            {
+              "object": "user",
+              "id": "9010bd5f-0286-4e69-8749-7e1f89524836"
+            }
+          ]
+        },
+        {
+          "type": "people",
+          "people": [
+            {
+              "object": "user",
+              "id": "92fdc82b-f21d-47ae-8a9d-f273f293b140"
+            }
+          ]
+        }
+      ],
+      "Ep": null,
+      "Phase": null,
+      "Name": "14"
+    },
+    "_title": "14",
+    "database_name": "[DeeDee_2024] VF3 QC Space ",
+    "project_name": "[DeeDee_2024] VF3 QC Space",
+    "database_id": "4194aca2-6ba3-43ba-a1e4-79c2b5728cda"
+  },
+  {
+    "id": "c213d483-d292-4f01-8d3c-9fdd582dbc15",
+    "created_time": "2024-05-08T06:57:00.000Z",
+    "last_edited_time": "2024-05-08T06:57:00.000Z",
+    "properties": {
+      "Note": "",
+      "💜 [DeeDee_2024] VF3 Backlog": [
+        "294c9f9a-0ee8-4756-bd9b-d7524a6d6f33",
+        "77f4a866-a2d6-4cbe-891f-bc566ea94c89"
+      ],
+      "Độ hoàn thành": 0.5,
+      "Status": [
+        "Background 02",
+        "Layout 02"
+      ],
+      "Ước tính nỗ lực cảnh": 0,
+      "Version": null,
+      "Team thực hiện ": [
+        {
+          "type": "people",
+          "people": []
+        },
+        {
+          "type": "people",
+          "people": [
+            {
+              "object": "user",
+              "id": "92fdc82b-f21d-47ae-8a9d-f273f293b140"
+            }
+          ]
+        }
+      ],
+      "Ep": null,
+      "Phase": null,
+      "Name": "02"
+    },
+    "_title": "02",
+    "database_name": "[DeeDee_2024] VF3 QC Space ",
+    "project_name": "[DeeDee_2024] VF3 QC Space",
+    "database_id": "4194aca2-6ba3-43ba-a1e4-79c2b5728cda"
+  },
+  {
+    "id": "c2dec230-76ea-4bd8-84ea-83e0615a6690",
+    "created_time": "2024-05-08T06:57:00.000Z",
+    "last_edited_time": "2024-05-08T06:57:00.000Z",
+    "properties": {
+      "Note": "",
+      "💜 [DeeDee_2024] VF3 Backlog": [
+        "430723ba-bbfd-4f22-bf0e-cb4407dd975a",
+        "5912dddc-9bbf-4efa-914f-ed7d42503eac"
+      ],
+      "Độ hoàn thành": 0.5,
+      "Status": [
+        "Layout 08",
+        "Background 08"
+      ],
+      "Ước tính nỗ lực cảnh": 0,
+      "Version": null,
+      "Team thực hiện ": [
+        {
+          "type": "people",
+          "people": [
+            {
+              "object": "user",
+              "id": "92fdc82b-f21d-47ae-8a9d-f273f293b140"
+            }
+          ]
+        },
+        {
+          "type": "people",
+          "people": [
+            {
+              "object": "user",
+              "id": "cbb9d8bc-8f0d-4ac6-ae13-d1df5638df05"
+            }
+          ]
+        }
+      ],
+      "Ep": null,
+      "Phase": null,
+      "Name": "08"
+    },
+    "_title": "08",
+    "database_name": "[DeeDee_2024] VF3 QC Space ",
+    "project_name": "[DeeDee_2024] VF3 QC Space",
+    "database_id": "4194aca2-6ba3-43ba-a1e4-79c2b5728cda"
+  },
+  {
+    "id": "c30fea4f-b8bc-4892-925d-9427ffddba94",
+    "created_time": "2024-05-08T06:58:00.000Z",
+    "last_edited_time": "2024-05-08T06:58:00.000Z",
+    "properties": {
+      "Note": "",
+      "💜 [DeeDee_2024] VF3 Backlog": [
+        "afe4bd4d-aac8-4fab-9609-dcbbd26f153e",
+        "a4c63365-e27b-485e-9efe-10860067ca3d"
+      ],
+      "Độ hoàn thành": 0.5,
+      "Status": [
+        "Layout 09",
+        "Background 09"
+      ],
+      "Ước tính nỗ lực cảnh": 0,
+      "Version": null,
+      "Team thực hiện ": [
+        {
+          "type": "people",
+          "people": [
+            {
+              "object": "user",
+              "id": "9010bd5f-0286-4e69-8749-7e1f89524836"
+            }
+          ]
+        },
+        {
+          "type": "people",
+          "people": [
+            {
+              "object": "user",
+              "id": "591f230f-efcf-478e-9dc0-6529bf787f1f"
+            }
+          ]
+        }
+      ],
+      "Ep": null,
+      "Phase": null,
+      "Name": "09"
+    },
+    "_title": "09",
+    "database_name": "[DeeDee_2024] VF3 QC Space ",
+    "project_name": "[DeeDee_2024] VF3 QC Space",
+    "database_id": "4194aca2-6ba3-43ba-a1e4-79c2b5728cda"
+  },
+  {
+    "id": "cc649440-247b-499a-b254-f67cd7df2fce",
+    "created_time": "2024-05-08T07:47:00.000Z",
+    "last_edited_time": "2024-05-08T07:47:00.000Z",
+    "properties": {
+      "Note": "",
+      "💜 [DeeDee_2024] VF3 Backlog": [
+        "969ab75e-ae6c-4677-88a6-0d48cdae5a38",
+        "6adc0aca-60ac-48c1-98de-c731d62867b0"
+      ],
+      "Độ hoàn thành": 0.5,
+      "Status": [
+        "Layout 05",
+        "Background 05"
+      ],
+      "Ước tính nỗ lực cảnh": 0,
+      "Version": null,
+      "Team thực hiện ": [
+        {
+          "type": "people",
+          "people": [
+            {
+              "object": "user",
+              "id": "92fdc82b-f21d-47ae-8a9d-f273f293b140"
+            }
+          ]
+        },
+        {
+          "type": "people",
+          "people": [
+            {
+              "object": "user",
+              "id": "591f230f-efcf-478e-9dc0-6529bf787f1f"
+            }
+          ]
+        }
+      ],
+      "Ep": null,
+      "Phase": null,
+      "Name": "05"
+    },
+    "_title": "05",
+    "database_name": "[DeeDee_2024] VF3 QC Space ",
+    "project_name": "[DeeDee_2024] VF3 QC Space",
+    "database_id": "4194aca2-6ba3-43ba-a1e4-79c2b5728cda"
+  },
+  {
+    "id": "dd98dd96-ca97-4cf4-a181-1632d3ac0b5c",
+    "created_time": "2024-05-08T06:59:00.000Z",
+    "last_edited_time": "2024-05-08T06:59:00.000Z",
+    "properties": {
+      "Note": "",
+      "💜 [DeeDee_2024] VF3 Backlog": [
+        "8431aa73-05dd-4843-8711-e17144a0a0b9",
+        "c564ad90-5a1c-4170-bb10-ddfcba435597"
+      ],
+      "Độ hoàn thành": 0.5,
+      "Status": [
+        "Layout 12",
+        "Background 12"
+      ],
+      "Ước tính nỗ lực cảnh": 0,
+      "Version": null,
+      "Team thực hiện ": [
+        {
+          "type": "people",
+          "people": [
+            {
+              "object": "user",
+              "id": "9010bd5f-0286-4e69-8749-7e1f89524836"
+            }
+          ]
+        },
+        {
+          "type": "people",
+          "people": [
+            {
+              "object": "user",
+              "id": "ef94d237-bbac-4f3a-852f-c653473d8b70"
+            }
+          ]
+        }
+      ],
+      "Ep": null,
+      "Phase": null,
+      "Name": "12"
+    },
+    "_title": "12",
+    "database_name": "[DeeDee_2024] VF3 QC Space ",
+    "project_name": "[DeeDee_2024] VF3 QC Space",
+    "database_id": "4194aca2-6ba3-43ba-a1e4-79c2b5728cda"
+  },
+  {
+    "id": "e821b283-8fb6-4b06-85da-2caa2e28880f",
+    "created_time": "2024-05-08T06:59:00.000Z",
+    "last_edited_time": "2024-05-08T06:59:00.000Z",
+    "properties": {
+      "Note": "",
+      "💜 [DeeDee_2024] VF3 Backlog": [
+        "6a4a6c1d-2944-4c86-8e30-775d4ba1918e",
+        "83bcbdf8-2837-4de7-a0c0-73adad76be30"
+      ],
+      "Độ hoàn thành": 0.5,
+      "Status": [
+        "Layout 11",
+        "Background 11"
+      ],
+      "Ước tính nỗ lực cảnh": 0,
+      "Version": null,
+      "Team thực hiện ": [
+        {
+          "type": "people",
+          "people": [
+            {
+              "object": "user",
+              "id": "9010bd5f-0286-4e69-8749-7e1f89524836"
+            }
+          ]
+        },
+        {
+          "type": "people",
+          "people": [
+            {
+              "object": "user",
+              "id": "3a81bdc9-11ff-4574-af89-d7fcdb3025ae"
+            }
+          ]
+        }
+      ],
+      "Ep": null,
+      "Phase": null,
+      "Name": "11"
+    },
+    "_title": "11",
+    "database_name": "[DeeDee_2024] VF3 QC Space ",
+    "project_name": "[DeeDee_2024] VF3 QC Space",
+    "database_id": "4194aca2-6ba3-43ba-a1e4-79c2b5728cda"
+  },
+  {
+    "id": "f08c6744-5119-4b3f-ba58-637c8ea44409",
+    "created_time": "2024-05-08T06:57:00.000Z",
+    "last_edited_time": "2024-05-09T07:29:00.000Z",
+    "properties": {
+      "Note": "",
+      "💜 [DeeDee_2024] VF3 Backlog": [
+        "7c01ae8a-1df9-447d-9051-15def89d9875",
+        "06828d22-0992-4318-afd4-da8c947bb8e3"
+      ],
+      "Độ hoàn thành": 0.5,
+      "Status": [
+        "Background 06",
+        "Layout 06"
+      ],
+      "Ước tính nỗ lực cảnh": 0,
+      "Version": null,
+      "Team thực hiện ": [
+        {
+          "type": "people",
+          "people": [
+            {
+              "object": "user",
+              "id": "bc74d92f-163f-4054-9ff2-f321efce1a63"
+            }
+          ]
+        },
+        {
+          "type": "people",
+          "people": [
+            {
+              "object": "user",
+              "id": "92fdc82b-f21d-47ae-8a9d-f273f293b140"
+            }
+          ]
+        }
+      ],
+      "Ep": null,
+      "Phase": null,
+      "Name": "06"
+    },
+    "_title": "06",
+    "database_name": "[DeeDee_2024] VF3 QC Space ",
+    "project_name": "[DeeDee_2024] VF3 QC Space",
+    "database_id": "4194aca2-6ba3-43ba-a1e4-79c2b5728cda"
+  }
+]

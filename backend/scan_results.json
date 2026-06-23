@@ -1,0 +1,275 @@
+{
+  "28eccb0e-ac88-80fa-b380-d4c747d0671e": [
+    {
+      "id": "28eccb0e-ac88-81fa-8346-c8611aceff52",
+      "name": "[Sunny Side Down] Product ",
+      "type": "products"
+    },
+    {
+      "id": "28eccb0e-ac88-8199-b67f-f15f83806b09",
+      "name": "[Sunny Side Down] Tasks ",
+      "type": "tasks"
+    },
+    {
+      "id": "28eccb0e-ac88-81f2-bb62-f5fdc3e4ee61",
+      "name": "[Sunny Side Down] Issuelog ",
+      "type": "issues"
+    },
+    {
+      "id": "28eccb0e-ac88-81f6-b443-c7b21b00c14f",
+      "name": "[Sunny Side Down] Sprints",
+      "type": "sprints"
+    },
+    {
+      "id": "2cbccb0e-ac88-8093-9c58-d969262d56f2",
+      "name": "[Sunny] Báo cáo Review (Không xóa dữ liệu)",
+      "type": "reports"
+    },
+    {
+      "id": "2cbccb0e-ac88-802f-a641-dda482cd8891",
+      "name": "[Sunny] Báo cáo Realtime (Chỉ lấy dữ liệu mới nhất)",
+      "type": "reports"
+    }
+  ],
+  "27eccb0e-ac88-8079-9999-c0fb148af9a4": [
+    {
+      "id": "27eccb0e-ac88-81db-b9de-ff6ba89080fa",
+      "name": "[Mami] Product ",
+      "type": "products"
+    },
+    {
+      "id": "27eccb0e-ac88-8144-bd7b-e34f24852bb5",
+      "name": "[Mami] Tasks ",
+      "type": "tasks"
+    }
+  ],
+  "27eccb0e-ac88-808c-9479-f2555968255a": [
+    {
+      "id": "27eccb0e-ac88-810f-b045-d9eb02a14240",
+      "name": "[Immortals] Product ",
+      "type": "products"
+    },
+    {
+      "id": "27eccb0e-ac88-812f-86a3-e539ed2dbed9",
+      "name": "[Immortals] Tasks ",
+      "type": "tasks"
+    },
+    {
+      "id": "27eccb0e-ac88-81f2-bc08-f2c7285eb765",
+      "name": "[Immortals] Sprints",
+      "type": "sprints"
+    },
+    {
+      "id": "2cbccb0e-ac88-8074-b24a-fcb8bc1dcee4",
+      "name": "[Immortals] Báo cáo Review (Không xóa dữ liệu)",
+      "type": "reports"
+    },
+    {
+      "id": "2cbccb0e-ac88-8018-801e-ec0c30f2b713",
+      "name": "[Immortals] Báo cáo Realtime (Chỉ lấy dữ liệu mới nhất)",
+      "type": "reports"
+    },
+    {
+      "id": "2eeccb0e-ac88-8029-8145-e81c643918f3",
+      "name": "",
+      "type": "other"
+    }
+  ],
+  "28fccb0e-ac88-809d-9d36-e2584a27034a": [
+    {
+      "id": "28fccb0e-ac88-81f7-9773-d350b2f7eb6e",
+      "name": "[Gene] Product ",
+      "type": "products"
+    },
+    {
+      "id": "28fccb0e-ac88-813d-a92a-f913c8e96f8d",
+      "name": "[Gene] Tasks ",
+      "type": "tasks"
+    },
+    {
+      "id": "28fccb0e-ac88-81ac-a507-d67b8f5f9ead",
+      "name": "[Gene] Sprints",
+      "type": "sprints"
+    },
+    {
+      "id": "28fccb0e-ac88-8131-9dfd-d391f4730bf9",
+      "name": "[Gene] Docs",
+      "type": "other"
+    },
+    {
+      "id": "2cbccb0e-ac88-80de-9137-f20e09653d80",
+      "name": "[Gene] Báo cáo Review (Không xóa dữ liệu)",
+      "type": "reports"
+    },
+    {
+      "id": "2cbccb0e-ac88-805c-8959-e99cdd4ec9af",
+      "name": "[Gene] Báo cáo Realtime (Chỉ lấy dữ liệu mới nhất)",
+      "type": "reports"
+    },
+    {
+      "id": "2a9ccb0e-ac88-80c6-8c3e-dc8a1e02a05c",
+      "name": "Các lỗi hay gặp và hay cần DO",
+      "type": "other"
+    },
+    {
+      "id": "2aeccb0e-ac88-80e1-ad62-c2b3091b33ab",
+      "name": "Shotlist",
+      "type": "other"
+    }
+  ],
+  "2d3ccb0e-ac88-80de-9286-fbb50dde8a6d": [
+    {
+      "id": "2d3ccb0e-ac88-8136-bb52-c12b9c6e3a1a",
+      "name": "[CHIBI] Product ",
+      "type": "products"
+    },
+    {
+      "id": "2d3ccb0e-ac88-811c-bf2d-e8935fd8726b",
+      "name": "[CHIBI] Tasks ",
+      "type": "tasks"
+    },
+    {
+      "id": "2d3ccb0e-ac88-819a-af66-ee353d6e1b19",
+      "name": "[CHIBI] Issuelog ",
+      "type": "issues"
+    },
+    {
+      "id": "2d3ccb0e-ac88-81d2-9dcb-d15e30d0c556",
+      "name": "[CHIBI] Sprints",
+      "type": "sprints"
+    },
+    {
+      "id": "2d8ccb0e-ac88-80f1-be53-c360c1fd9430",
+      "name": "[CHIBI] Báo cáo Realtime (Chỉ lấy dữ liệu mới nhất)",
+      "type": "reports"
+    },
+    {
+      "id": "2d8ccb0e-ac88-80e8-9b7d-e3a4d9a984e1",
+      "name": "[CHIBI] Báo cáo Review (Không xóa dữ liệu)",
+      "type": "reports"
+    },
+    {
+      "id": "2daccb0e-ac88-8039-8976-d042d9b605a0",
+      "name": "",
+      "type": "other"
+    }
+  ],
+  "2c5ccb0e-ac88-809b-b452-f82ee00b16c2": [
+    {
+      "id": "2c5ccb0e-ac88-8004-9a5a-d51f7d3d89dc",
+      "name": "[XANHSM] Product",
+      "type": "products"
+    },
+    {
+      "id": "2c5ccb0e-ac88-80ca-9717-d57e83ff43cf",
+      "name": "[XANHSM] Tasks (1)",
+      "type": "tasks"
+    },
+    {
+      "id": "2c5ccb0e-ac88-80ac-aa53-ca7229dfe3d6",
+      "name": "XANHSM Sprints (1)",
+      "type": "sprints"
+    },
+    {
+      "id": "2c5ccb0e-ac88-8065-a98d-e0c0a85f388d",
+      "name": "[XANHSM] Issuelog (1)",
+      "type": "issues"
+    },
+    {
+      "id": "2d8ccb0e-ac88-812e-a8b1-d773411fa9e2",
+      "name": "[XANHSM] Báo cáo Review (Không xóa dữ liệu)",
+      "type": "reports"
+    },
+    {
+      "id": "2d8ccb0e-ac88-81bc-baed-cd2c4fb84309",
+      "name": "[XANHSM] Báo cáo Realtime (Chỉ lấy dữ liệu mới nhất)",
+      "type": "reports"
+    }
+  ],
+  "2efccb0e-ac88-80a2-a55d-d1a58480c246": [
+    {
+      "id": "2efccb0e-ac88-806b-8175-f5005675b56a",
+      "name": "[LEG] Product",
+      "type": "products"
+    },
+    {
+      "id": "2efccb0e-ac88-80a3-9975-e92b915a7a55",
+      "name": "[LEG] Tasks ",
+      "type": "tasks"
+    },
+    {
+      "id": "2efccb0e-ac88-80dd-b257-d8979c59c2dd",
+      "name": "[LEG] Sprints",
+      "type": "sprints"
+    }
+  ],
+  "2d8ccb0e-ac88-80b0-8a33-fbb881e41e9b": [
+    {
+      "id": "2d8ccb0e-ac88-81ed-8466-f477910410bd",
+      "name": "[Harry] Product",
+      "type": "products"
+    },
+    {
+      "id": "2d8ccb0e-ac88-8182-bd6c-c197ae37266c",
+      "name": "[Harry] Tasks",
+      "type": "tasks"
+    },
+    {
+      "id": "2d8ccb0e-ac88-81cf-9933-c1d7f6551a3b",
+      "name": "[Harry] Sprints ",
+      "type": "sprints"
+    },
+    {
+      "id": "2d8ccb0e-ac88-81d9-9a22-e69ff5bb9085",
+      "name": "[Harry] Issuelog",
+      "type": "issues"
+    },
+    {
+      "id": "2d8ccb0e-ac88-815c-9c66-ef51fc15966e",
+      "name": "[XANHSM] Báo cáo Review (Không xóa dữ liệu)",
+      "type": "reports"
+    },
+    {
+      "id": "2d8ccb0e-ac88-815e-b410-d6e734be08c5",
+      "name": "[XANHSM] Báo cáo Realtime (Chỉ lấy dữ liệu mới nhất)",
+      "type": "reports"
+    }
+  ],
+  "2edccb0e-ac88-805c-824b-f31a17cadb68": [
+    {
+      "id": "2edccb0e-ac88-8155-b869-fae4181156f7",
+      "name": "[FCM] Product",
+      "type": "products"
+    },
+    {
+      "id": "2edccb0e-ac88-815c-a6de-c98c5d033c02",
+      "name": "[FCM] Tasks",
+      "type": "tasks"
+    },
+    {
+      "id": "2edccb0e-ac88-81bf-8f23-cd9f779a52b9",
+      "name": "[FCM] Sprints ",
+      "type": "sprints"
+    },
+    {
+      "id": "2edccb0e-ac88-815c-9879-c6b90d3bbb10",
+      "name": "[FCM] Issuelog",
+      "type": "issues"
+    },
+    {
+      "id": "2edccb0e-ac88-814c-91e8-de4d7e2bd8ca",
+      "name": "[FCM] Báo cáo Review (Không xóa dữ liệu)",
+      "type": "reports"
+    },
+    {
+      "id": "2edccb0e-ac88-81d2-927e-d0fdf7f9e440",
+      "name": "[FCM] Báo cáo Realtime (Chỉ lấy dữ liệu mới nhất)",
+      "type": "reports"
+    },
+    {
+      "id": "2efccb0e-ac88-80f2-a2e2-f9bdeabd279a",
+      "name": "FC Mobile _ Brief Kỹ thuật",
+      "type": "other"
+    }
+  ]
+}

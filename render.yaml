@@ -1,0 +1,14 @@
+services:
+  - type: web
+    name: notion-dashboard
+    runtime: node
+    buildCommand: cd backend && npm install
+    startCommand: cd backend && npm start
+    envVars:
+      - key: NODE_ENV
+        value: production
+      - key: NOTION_TOKEN
+        sync: false
+      - key: SESSION_SECRET
+        generateValue: true
+    staticPublishPath: ./frontend/public

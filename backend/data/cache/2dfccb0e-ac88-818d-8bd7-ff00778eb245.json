@@ -1,0 +1,2275 @@
+[
+  {
+    "id": "2dfccb0e-ac88-8102-919b-cdc85ff231f4",
+    "created_time": "2026-01-05T03:51:00.000Z",
+    "last_edited_time": "2026-02-04T09:51:00.000Z",
+    "properties": {
+      "Comp": [
+        "Hiệu ứng ánh sáng nhạc môi trường"
+      ],
+      "FX": "",
+      "Đã có prop": false,
+      "Combo": null,
+      "Note anim": "",
+      "Layout": null,
+      "Prop & mô tả prop": "",
+      "Key": "E",
+      "IBW": "E",
+      "Nhân vật": [
+        "MidnightJack"
+      ],
+      "Scene": "37"
+    },
+    "_title": "37",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-818d-8bd7-ff00778eb245"
+  },
+  {
+    "id": "2dfccb0e-ac88-8103-926d-d1cb32d1c721",
+    "created_time": "2026-01-05T03:51:00.000Z",
+    "last_edited_time": "2026-02-04T02:00:00.000Z",
+    "properties": {
+      "Comp": [],
+      "FX": "",
+      "Đã có prop": false,
+      "Combo": "Ommited",
+      "Note anim": "",
+      "Layout": null,
+      "Prop & mô tả prop": "",
+      "Key": null,
+      "IBW": null,
+      "Nhân vật": [],
+      "Scene": "07"
+    },
+    "_title": "07",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-818d-8bd7-ff00778eb245"
+  },
+  {
+    "id": "2dfccb0e-ac88-8104-93cd-fa0fb4b39f46",
+    "created_time": "2026-01-05T03:51:00.000Z",
+    "last_edited_time": "2026-02-11T08:01:00.000Z",
+    "properties": {
+      "Comp": [
+        "Hiệu ứng ánh sáng nhạc môi trường",
+        "Hiệu ứng quả cầu disco lấp lánh",
+        "C4tron led âm nhạc"
+      ],
+      "FX": "",
+      "Đã có prop": false,
+      "Combo": "9",
+      "Note anim": " Reuse pose nhảy",
+      "Layout": null,
+      "Prop & mô tả prop": "",
+      "Key": "B",
+      "IBW": "D",
+      "Nhân vật": [
+        "Moose",
+        "C4ttron",
+        "MidnightJack",
+        "Genevie"
+      ],
+      "Scene": "69"
+    },
+    "_title": "69",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-818d-8bd7-ff00778eb245"
+  },
+  {
+    "id": "2dfccb0e-ac88-8106-be15-deba215f2b05",
+    "created_time": "2026-01-05T03:51:00.000Z",
+    "last_edited_time": "2026-02-04T10:24:00.000Z",
+    "properties": {
+      "Comp": [
+        "C4tron led âm nhạc",
+        "Hiệu ứng ánh sáng nhạc môi trường",
+        "Reuse sc18"
+      ],
+      "FX": "",
+      "Đã có prop": false,
+      "Combo": null,
+      "Note anim": "Reuse sc18",
+      "Layout": "Reuse",
+      "Prop & mô tả prop": "",
+      "Key": "Omiited",
+      "IBW": "Omiited",
+      "Nhân vật": [
+        "C4ttron"
+      ],
+      "Scene": "67"
+    },
+    "_title": "67",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-818d-8bd7-ff00778eb245"
+  },
+  {
+    "id": "2dfccb0e-ac88-8107-95e2-c4cb35d591eb",
+    "created_time": "2026-01-05T03:51:00.000Z",
+    "last_edited_time": "2026-02-04T10:33:00.000Z",
+    "properties": {
+      "Comp": [
+        "Hiệu ứng ánh sáng nhạc môi trường",
+        "Hiệu ứng quả cầu disco lấp lánh"
+      ],
+      "FX": "Speed line lúc midnightJack xoay",
+      "Đã có prop": false,
+      "Combo": null,
+      "Note anim": "1. Reuse pose nhảy các cảnh trước\n2. Dùng smear đổi pose đoạn cuối lúc cả đám nhảy đồng đều",
+      "Layout": null,
+      "Prop & mô tả prop": "",
+      "Key": "C",
+      "IBW": "D",
+      "Nhân vật": [
+        "Moose",
+        "Genevie",
+        "C4ttron",
+        "MidnightJack",
+        "Gembugs",
+        "Gembugs đổi màu"
+      ],
+      "Scene": "77"
+    },
+    "_title": "77",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-818d-8bd7-ff00778eb245"
+  },
+  {
+    "id": "2dfccb0e-ac88-810a-877e-d39181992251",
+    "created_time": "2026-01-05T03:51:00.000Z",
+    "last_edited_time": "2026-02-04T09:45:00.000Z",
+    "properties": {
+      "Comp": [],
+      "FX": "",
+      "Đã có prop": false,
+      "Combo": null,
+      "Note anim": "smear moose lúc chạy vào",
+      "Layout": null,
+      "Prop & mô tả prop": "",
+      "Key": "D",
+      "IBW": "E",
+      "Nhân vật": [
+        "Moose",
+        "Genevie",
+        "MidnightJack"
+      ],
+      "Scene": "31"
+    },
+    "_title": "31",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-818d-8bd7-ff00778eb245"
+  },
+  {
+    "id": "2dfccb0e-ac88-810d-bec1-fedfa0769bb5",
+    "created_time": "2026-01-05T03:51:00.000Z",
+    "last_edited_time": "2026-02-04T02:00:00.000Z",
+    "properties": {
+      "Comp": [],
+      "FX": "",
+      "Đã có prop": false,
+      "Combo": "Ommited",
+      "Note anim": "",
+      "Layout": null,
+      "Prop & mô tả prop": "",
+      "Key": null,
+      "IBW": null,
+      "Nhân vật": [],
+      "Scene": "04"
+    },
+    "_title": "04",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-818d-8bd7-ff00778eb245"
+  },
+  {
+    "id": "2dfccb0e-ac88-8114-9c40-da55c12c9dc1",
+    "created_time": "2026-01-05T03:51:00.000Z",
+    "last_edited_time": "2026-02-04T10:20:00.000Z",
+    "properties": {
+      "Comp": [],
+      "FX": "",
+      "Đã có prop": false,
+      "Combo": "8",
+      "Note anim": "Reuse Moose nhảy ",
+      "Layout": null,
+      "Prop & mô tả prop": "",
+      "Key": "C",
+      "IBW": "D",
+      "Nhân vật": [
+        "Moose",
+        "MidnightJack",
+        "Genevie",
+        "C4ttron"
+      ],
+      "Scene": "63_A"
+    },
+    "_title": "63_A",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-818d-8bd7-ff00778eb245"
+  },
+  {
+    "id": "2dfccb0e-ac88-811e-a1f4-c5b627b3c370",
+    "created_time": "2026-01-05T03:51:00.000Z",
+    "last_edited_time": "2026-02-04T10:12:00.000Z",
+    "properties": {
+      "Comp": [],
+      "FX": "Speed Line Gen",
+      "Đã có prop": false,
+      "Combo": null,
+      "Note anim": "",
+      "Layout": "Cần LO trước",
+      "Prop & mô tả prop": "Ván",
+      "Key": "D",
+      "IBW": "E",
+      "Nhân vật": [
+        "Genevie Swim Suit"
+      ],
+      "Scene": "56"
+    },
+    "_title": "56",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-818d-8bd7-ff00778eb245"
+  },
+  {
+    "id": "2dfccb0e-ac88-8128-8944-ce5b36cb17bb",
+    "created_time": "2026-01-05T03:51:00.000Z",
+    "last_edited_time": "2026-02-04T09:52:00.000Z",
+    "properties": {
+      "Comp": [
+        "Hiệu ứng ánh sáng nhạc môi trường",
+        "Hiệu ứng quả cầu disco lấp lánh"
+      ],
+      "FX": "Bụi chuyển cảnh",
+      "Đã có prop": false,
+      "Combo": null,
+      "Note anim": "smear mnJack quay vòng",
+      "Layout": null,
+      "Prop & mô tả prop": "",
+      "Key": "D",
+      "IBW": "E",
+      "Nhân vật": [
+        "MidnightJack"
+      ],
+      "Scene": "39"
+    },
+    "_title": "39",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-818d-8bd7-ff00778eb245"
+  },
+  {
+    "id": "2dfccb0e-ac88-8128-9fd2-dd5410b40c30",
+    "created_time": "2026-01-05T03:51:00.000Z",
+    "last_edited_time": "2026-02-04T09:48:00.000Z",
+    "properties": {
+      "Comp": [],
+      "FX": "",
+      "Đã có prop": false,
+      "Combo": null,
+      "Note anim": "",
+      "Layout": null,
+      "Prop & mô tả prop": "",
+      "Key": "D",
+      "IBW": "E",
+      "Nhân vật": [
+        "Genevie",
+        "Moose",
+        "C4ttron"
+      ],
+      "Scene": "34"
+    },
+    "_title": "34",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-818d-8bd7-ff00778eb245"
+  },
+  {
+    "id": "2dfccb0e-ac88-812a-a259-f535e22c4e65",
+    "created_time": "2026-01-05T03:51:00.000Z",
+    "last_edited_time": "2026-02-05T02:34:00.000Z",
+    "properties": {
+      "Comp": [],
+      "FX": "",
+      "Đã có prop": false,
+      "Combo": "2",
+      "Note anim": "",
+      "Layout": null,
+      "Prop & mô tả prop": "",
+      "Key": "E",
+      "IBW": "E",
+      "Nhân vật": [
+        "Genevie"
+      ],
+      "Scene": "19"
+    },
+    "_title": "19",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-818d-8bd7-ff00778eb245"
+  },
+  {
+    "id": "2dfccb0e-ac88-812c-bdda-da0ec8070d0f",
+    "created_time": "2026-01-05T03:51:00.000Z",
+    "last_edited_time": "2026-02-04T09:53:00.000Z",
+    "properties": {
+      "Comp": [],
+      "FX": "",
+      "Đã có prop": false,
+      "Combo": "4",
+      "Note anim": "",
+      "Layout": null,
+      "Prop & mô tả prop": "Dàn loa đổ",
+      "Key": "E",
+      "IBW": "E",
+      "Nhân vật": [
+        "MidnightJack"
+      ],
+      "Scene": "41"
+    },
+    "_title": "41",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-818d-8bd7-ff00778eb245"
+  },
+  {
+    "id": "2dfccb0e-ac88-812d-84e7-cb3b0d2a9d9b",
+    "created_time": "2026-01-05T03:51:00.000Z",
+    "last_edited_time": "2026-02-04T09:32:00.000Z",
+    "properties": {
+      "Comp": [],
+      "FX": "",
+      "Đã có prop": false,
+      "Combo": null,
+      "Note anim": "",
+      "Layout": null,
+      "Prop & mô tả prop": "",
+      "Key": "C",
+      "IBW": "D",
+      "Nhân vật": [
+        "C4ttron",
+        "MidnightJack",
+        "Genevie",
+        "Gembugs",
+        "Moose"
+      ],
+      "Scene": "16"
+    },
+    "_title": "16",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-818d-8bd7-ff00778eb245"
+  },
+  {
+    "id": "2dfccb0e-ac88-812d-8b06-d7d83f2a92af",
+    "created_time": "2026-01-05T03:51:00.000Z",
+    "last_edited_time": "2026-02-04T09:38:00.000Z",
+    "properties": {
+      "Comp": [
+        "Hiệu ứng ánh sáng nhạc môi trường",
+        "Hiệu ứng quả cầu disco lấp lánh",
+        "C4tron led âm nhạc"
+      ],
+      "FX": "",
+      "Đã có prop": false,
+      "Combo": null,
+      "Note anim": "Có thể reuse pose nhảy sc22",
+      "Layout": null,
+      "Prop & mô tả prop": "",
+      "Key": "C",
+      "IBW": "D",
+      "Nhân vật": [
+        "Genevie",
+        "Moose",
+        "C4ttron",
+        "MidnightJack"
+      ],
+      "Scene": "25"
+    },
+    "_title": "25",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-818d-8bd7-ff00778eb245"
+  },
+  {
+    "id": "2dfccb0e-ac88-812e-b77b-eb428763974c",
+    "created_time": "2026-01-05T03:51:00.000Z",
+    "last_edited_time": "2026-02-04T09:27:00.000Z",
+    "properties": {
+      "Comp": [
+        "Gem bug phát sáng",
+        "Hiệu ứng lấp lánh tỏa ra BG"
+      ],
+      "FX": "",
+      "Đã có prop": false,
+      "Combo": null,
+      "Note anim": "Anim dùng cutter mask chuyển đổi BG",
+      "Layout": "Cần LO trước",
+      "Prop & mô tả prop": "Kệ sách",
+      "Key": "D",
+      "IBW": "E",
+      "Nhân vật": [
+        "Genevie",
+        "Gembugs đổi màu"
+      ],
+      "Scene": "13"
+    },
+    "_title": "13",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-818d-8bd7-ff00778eb245"
+  },
+  {
+    "id": "2dfccb0e-ac88-8130-ac1f-f9bdb2b22700",
+    "created_time": "2026-01-05T03:51:00.000Z",
+    "last_edited_time": "2026-02-04T09:29:00.000Z",
+    "properties": {
+      "Comp": [
+        "Gem bug phát sáng",
+        "Hiệu ứng lấp lánh tỏa ra BG"
+      ],
+      "FX": "",
+      "Đã có prop": false,
+      "Combo": "1",
+      "Note anim": "",
+      "Layout": null,
+      "Prop & mô tả prop": "Kệ sách",
+      "Key": "E",
+      "IBW": "E",
+      "Nhân vật": [
+        "Moose",
+        "Gembugs đổi màu"
+      ],
+      "Scene": "14"
+    },
+    "_title": "14",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-818d-8bd7-ff00778eb245"
+  },
+  {
+    "id": "2dfccb0e-ac88-8134-9938-e37fc69dc5e1",
+    "created_time": "2026-01-05T03:51:00.000Z",
+    "last_edited_time": "2026-02-04T10:31:00.000Z",
+    "properties": {
+      "Comp": [
+        "Hiệu ứng ánh sáng nhạc môi trường"
+      ],
+      "FX": "Speed line lúc midnightJack xoay",
+      "Đã có prop": false,
+      "Combo": null,
+      "Note anim": "Reuse mnJack nhảy sc 71, 74",
+      "Layout": null,
+      "Prop & mô tả prop": "",
+      "Key": "E",
+      "IBW": "E",
+      "Nhân vật": [
+        "Genevie",
+        "MidnightJack"
+      ],
+      "Scene": "76"
+    },
+    "_title": "76",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-818d-8bd7-ff00778eb245"
+  },
+  {
+    "id": "2dfccb0e-ac88-8137-b6aa-cb8979d8a021",
+    "created_time": "2026-01-05T03:51:00.000Z",
+    "last_edited_time": "2026-02-04T10:27:00.000Z",
+    "properties": {
+      "Comp": [
+        "Hiệu ứng ánh sáng nhạc môi trường",
+        "Hiệu ứng quả cầu disco lấp lánh",
+        "C4tron led âm nhạc"
+      ],
+      "FX": "",
+      "Đã có prop": false,
+      "Combo": "9",
+      "Note anim": "Reuse pose nhảy ",
+      "Layout": null,
+      "Prop & mô tả prop": "",
+      "Key": "C",
+      "IBW": "D",
+      "Nhân vật": [
+        "Moose",
+        "Genevie",
+        "C4ttron",
+        "MidnightJack"
+      ],
+      "Scene": "71"
+    },
+    "_title": "71",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-818d-8bd7-ff00778eb245"
+  },
+  {
+    "id": "2dfccb0e-ac88-8138-909c-ee0474a445a4",
+    "created_time": "2026-01-05T03:51:00.000Z",
+    "last_edited_time": "2026-02-04T09:54:00.000Z",
+    "properties": {
+      "Comp": [],
+      "FX": "",
+      "Đã có prop": false,
+      "Combo": null,
+      "Note anim": "",
+      "Layout": null,
+      "Prop & mô tả prop": "",
+      "Key": "D",
+      "IBW": "E",
+      "Nhân vật": [
+        "Genevie",
+        "MidnightJack"
+      ],
+      "Scene": "43"
+    },
+    "_title": "43",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-818d-8bd7-ff00778eb245"
+  },
+  {
+    "id": "2dfccb0e-ac88-8139-9fdf-ff30ebd16432",
+    "created_time": "2026-01-05T03:51:00.000Z",
+    "last_edited_time": "2026-02-04T10:18:00.000Z",
+    "properties": {
+      "Comp": [],
+      "FX": "",
+      "Đã có prop": false,
+      "Combo": null,
+      "Note anim": "",
+      "Layout": null,
+      "Prop & mô tả prop": "",
+      "Key": "D",
+      "IBW": "E",
+      "Nhân vật": [
+        "MidnightJack",
+        "Genevie"
+      ],
+      "Scene": "61"
+    },
+    "_title": "61",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-818d-8bd7-ff00778eb245"
+  },
+  {
+    "id": "2dfccb0e-ac88-813e-8334-ea60ac52ad71",
+    "created_time": "2026-01-05T03:51:00.000Z",
+    "last_edited_time": "2026-02-04T10:20:00.000Z",
+    "properties": {
+      "Comp": [],
+      "FX": "",
+      "Đã có prop": false,
+      "Combo": null,
+      "Note anim": "",
+      "Layout": null,
+      "Prop & mô tả prop": "",
+      "Key": "C",
+      "IBW": "D",
+      "Nhân vật": [
+        "Genevie",
+        "MidnightJack"
+      ],
+      "Scene": "64"
+    },
+    "_title": "64",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-818d-8bd7-ff00778eb245"
+  },
+  {
+    "id": "2dfccb0e-ac88-813e-8ce3-fa769bb930b7",
+    "created_time": "2026-01-05T03:51:00.000Z",
+    "last_edited_time": "2026-02-04T10:29:00.000Z",
+    "properties": {
+      "Comp": [
+        "C4tron led âm nhạc",
+        "Hiệu ứng ánh sáng nhạc môi trường",
+        "Hiệu ứng quả cầu disco lấp lánh"
+      ],
+      "FX": "Speed line lúc midnightJack xoay",
+      "Đã có prop": false,
+      "Combo": "9",
+      "Note anim": "Reuse pose nhảy ",
+      "Layout": null,
+      "Prop & mô tả prop": "",
+      "Key": "C",
+      "IBW": "D",
+      "Nhân vật": [
+        "Genevie",
+        "Moose",
+        "C4ttron",
+        "MidnightJack"
+      ],
+      "Scene": "74"
+    },
+    "_title": "74",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-818d-8bd7-ff00778eb245"
+  },
+  {
+    "id": "2dfccb0e-ac88-8144-9703-debd1ba573e3",
+    "created_time": "2026-01-05T03:51:00.000Z",
+    "last_edited_time": "2026-02-12T03:34:00.000Z",
+    "properties": {
+      "Comp": [],
+      "FX": "Bụi xe đạp",
+      "Đã có prop": false,
+      "Combo": null,
+      "Note anim": "cut-out pedal lúc đạp xe",
+      "Layout": "Cần LO trước",
+      "Prop & mô tả prop": "Xe đạp, Bánh xe đạp nhỏ",
+      "Key": "D",
+      "IBW": "E",
+      "Nhân vật": [
+        "Genevie",
+        "Moose Xe Đạp"
+      ],
+      "Scene": "49"
+    },
+    "_title": "49",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-818d-8bd7-ff00778eb245"
+  },
+  {
+    "id": "2dfccb0e-ac88-814d-ac14-e76c99cc7ad7",
+    "created_time": "2026-01-05T03:51:00.000Z",
+    "last_edited_time": "2026-02-04T09:55:00.000Z",
+    "properties": {
+      "Comp": [],
+      "FX": "",
+      "Đã có prop": false,
+      "Combo": null,
+      "Note anim": "",
+      "Layout": null,
+      "Prop & mô tả prop": "Loa",
+      "Key": "D",
+      "IBW": "E",
+      "Nhân vật": [
+        "C4ttron",
+        "Moose",
+        "Genevie",
+        "MidnightJack"
+      ],
+      "Scene": "44"
+    },
+    "_title": "44",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-818d-8bd7-ff00778eb245"
+  },
+  {
+    "id": "2dfccb0e-ac88-814e-9085-e1ee0d1e0d63",
+    "created_time": "2026-01-05T03:51:00.000Z",
+    "last_edited_time": "2026-01-05T03:51:00.000Z",
+    "properties": {
+      "Comp": [],
+      "FX": "",
+      "Đã có prop": false,
+      "Combo": null,
+      "Note anim": "",
+      "Layout": null,
+      "Prop & mô tả prop": "",
+      "Key": null,
+      "IBW": null,
+      "Nhân vật": [],
+      "Scene": "79"
+    },
+    "_title": "79",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-818d-8bd7-ff00778eb245"
+  },
+  {
+    "id": "2dfccb0e-ac88-814f-ac30-ff1db9fbb3f8",
+    "created_time": "2026-01-05T03:51:00.000Z",
+    "last_edited_time": "2026-02-04T02:00:00.000Z",
+    "properties": {
+      "Comp": [],
+      "FX": "",
+      "Đã có prop": false,
+      "Combo": "Ommited",
+      "Note anim": "",
+      "Layout": null,
+      "Prop & mô tả prop": "",
+      "Key": null,
+      "IBW": null,
+      "Nhân vật": [],
+      "Scene": "09"
+    },
+    "_title": "09",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-818d-8bd7-ff00778eb245"
+  },
+  {
+    "id": "2dfccb0e-ac88-8156-99bb-e8a394c1e045",
+    "created_time": "2026-01-05T03:51:00.000Z",
+    "last_edited_time": "2026-02-04T09:53:00.000Z",
+    "properties": {
+      "Comp": [],
+      "FX": "Bụi chuyển cảnh",
+      "Đã có prop": false,
+      "Combo": "4",
+      "Note anim": "",
+      "Layout": null,
+      "Prop & mô tả prop": "Dàn loa đổ",
+      "Key": "C",
+      "IBW": "E",
+      "Nhân vật": [
+        "MidnightJack",
+        "Genevie",
+        "Moose",
+        "C4ttron"
+      ],
+      "Scene": "40"
+    },
+    "_title": "40",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-818d-8bd7-ff00778eb245"
+  },
+  {
+    "id": "2dfccb0e-ac88-8157-af7f-d16609aa4636",
+    "created_time": "2026-01-05T03:51:00.000Z",
+    "last_edited_time": "2026-02-04T10:25:00.000Z",
+    "properties": {
+      "Comp": [
+        "Hiệu ứng ánh sáng nhạc môi trường",
+        "Hiệu ứng quả cầu disco lấp lánh"
+      ],
+      "FX": "",
+      "Đã có prop": false,
+      "Combo": null,
+      "Note anim": "",
+      "Layout": null,
+      "Prop & mô tả prop": "",
+      "Key": "F",
+      "IBW": "F",
+      "Nhân vật": [],
+      "Scene": "68"
+    },
+    "_title": "68",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-818d-8bd7-ff00778eb245"
+  },
+  {
+    "id": "2dfccb0e-ac88-8159-b151-d7ae9ff86ce0",
+    "created_time": "2026-01-05T03:51:00.000Z",
+    "last_edited_time": "2026-02-04T10:13:00.000Z",
+    "properties": {
+      "Comp": [],
+      "FX": "Nước bắn, nước loang",
+      "Đã có prop": false,
+      "Combo": null,
+      "Note anim": "",
+      "Layout": null,
+      "Prop & mô tả prop": "",
+      "Key": "D",
+      "IBW": "E",
+      "Nhân vật": [
+        "Genevie Swim Suit"
+      ],
+      "Scene": "58"
+    },
+    "_title": "58",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-818d-8bd7-ff00778eb245"
+  },
+  {
+    "id": "2dfccb0e-ac88-815f-a9f1-f8d3d7d26e66",
+    "created_time": "2026-01-05T03:51:00.000Z",
+    "last_edited_time": "2026-02-12T03:34:00.000Z",
+    "properties": {
+      "Comp": [
+        "Speedline"
+      ],
+      "FX": "Shake line lúc moose đi xe đạp",
+      "Đã có prop": false,
+      "Combo": null,
+      "Note anim": "cut-out pedal lúc đạp xe",
+      "Layout": "Cần LO trước",
+      "Prop & mô tả prop": "Xe đạp, Bụi cây, Hoa",
+      "Key": "C",
+      "IBW": "E",
+      "Nhân vật": [
+        "Moose Xe Đạp"
+      ],
+      "Scene": "48"
+    },
+    "_title": "48",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-818d-8bd7-ff00778eb245"
+  },
+  {
+    "id": "2dfccb0e-ac88-8160-a91c-fa54f4272f88",
+    "created_time": "2026-01-05T03:51:00.000Z",
+    "last_edited_time": "2026-02-05T02:37:00.000Z",
+    "properties": {
+      "Comp": [
+        "Speedline"
+      ],
+      "FX": "",
+      "Đã có prop": false,
+      "Combo": null,
+      "Note anim": "",
+      "Layout": null,
+      "Prop & mô tả prop": "Công tắc đèn",
+      "Key": "F",
+      "IBW": "F",
+      "Nhân vật": [
+        "Moose"
+      ],
+      "Scene": "20"
+    },
+    "_title": "20",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-818d-8bd7-ff00778eb245"
+  },
+  {
+    "id": "2dfccb0e-ac88-8160-a955-f07965f3f1ad",
+    "created_time": "2026-01-05T03:51:00.000Z",
+    "last_edited_time": "2026-02-04T10:28:00.000Z",
+    "properties": {
+      "Comp": [
+        "Hiệu ứng ánh sáng nhạc môi trường"
+      ],
+      "FX": "Speed line lúc midnightJack xoay",
+      "Đã có prop": false,
+      "Combo": null,
+      "Note anim": "Reuse pose nhảy",
+      "Layout": null,
+      "Prop & mô tả prop": "",
+      "Key": "D",
+      "IBW": "E",
+      "Nhân vật": [
+        "MidnightJack",
+        "Genevie"
+      ],
+      "Scene": "72"
+    },
+    "_title": "72",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-818d-8bd7-ff00778eb245"
+  },
+  {
+    "id": "2dfccb0e-ac88-8166-8087-dcfcb49ef147",
+    "created_time": "2026-01-05T03:51:00.000Z",
+    "last_edited_time": "2026-02-04T02:00:00.000Z",
+    "properties": {
+      "Comp": [],
+      "FX": "",
+      "Đã có prop": false,
+      "Combo": "Ommited",
+      "Note anim": "",
+      "Layout": null,
+      "Prop & mô tả prop": "",
+      "Key": null,
+      "IBW": null,
+      "Nhân vật": [],
+      "Scene": "06"
+    },
+    "_title": "06",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-818d-8bd7-ff00778eb245"
+  },
+  {
+    "id": "2dfccb0e-ac88-8167-8f97-d6639682cff9",
+    "created_time": "2026-01-05T03:51:00.000Z",
+    "last_edited_time": "2026-02-04T09:47:00.000Z",
+    "properties": {
+      "Comp": [],
+      "FX": "",
+      "Đã có prop": false,
+      "Combo": "3",
+      "Note anim": "",
+      "Layout": null,
+      "Prop & mô tả prop": "",
+      "Key": "D",
+      "IBW": "E",
+      "Nhân vật": [
+        "Moose",
+        "C4ttron",
+        "MidnightJack",
+        "Genevie"
+      ],
+      "Scene": "33"
+    },
+    "_title": "33",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-818d-8bd7-ff00778eb245"
+  },
+  {
+    "id": "2dfccb0e-ac88-816b-98ac-c27c40190c95",
+    "created_time": "2026-01-05T03:51:00.000Z",
+    "last_edited_time": "2026-01-05T03:51:00.000Z",
+    "properties": {
+      "Comp": [],
+      "FX": "",
+      "Đã có prop": false,
+      "Combo": null,
+      "Note anim": "",
+      "Layout": null,
+      "Prop & mô tả prop": "",
+      "Key": null,
+      "IBW": null,
+      "Nhân vật": [],
+      "Scene": "80"
+    },
+    "_title": "80",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-818d-8bd7-ff00778eb245"
+  },
+  {
+    "id": "2dfccb0e-ac88-816d-b19a-d3eb11ee9f44",
+    "created_time": "2026-01-05T03:51:00.000Z",
+    "last_edited_time": "2026-02-04T09:38:00.000Z",
+    "properties": {
+      "Comp": [
+        "C4tron led âm nhạc",
+        "Hiệu ứng ánh sáng nhạc môi trường"
+      ],
+      "FX": "",
+      "Đã có prop": false,
+      "Combo": null,
+      "Note anim": "",
+      "Layout": null,
+      "Prop & mô tả prop": "",
+      "Key": "D",
+      "IBW": "E",
+      "Nhân vật": [
+        "C4ttron",
+        "Genevie"
+      ],
+      "Scene": "24"
+    },
+    "_title": "24",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-818d-8bd7-ff00778eb245"
+  },
+  {
+    "id": "2dfccb0e-ac88-816e-bc4f-ee17c801eff6",
+    "created_time": "2026-01-05T03:51:00.000Z",
+    "last_edited_time": "2026-02-04T10:12:00.000Z",
+    "properties": {
+      "Comp": [],
+      "FX": "Speed Line Gen",
+      "Đã có prop": false,
+      "Combo": null,
+      "Note anim": "",
+      "Layout": null,
+      "Prop & mô tả prop": "",
+      "Key": "E",
+      "IBW": "E",
+      "Nhân vật": [
+        "Genevie Swim Suit"
+      ],
+      "Scene": "57"
+    },
+    "_title": "57",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-818d-8bd7-ff00778eb245"
+  },
+  {
+    "id": "2dfccb0e-ac88-8175-a296-f2ac5de6fa7f",
+    "created_time": "2026-01-05T03:51:00.000Z",
+    "last_edited_time": "2026-02-04T09:37:00.000Z",
+    "properties": {
+      "Comp": [
+        "Hiệu ứng quả cầu disco lấp lánh",
+        "Hiệu ứng ánh sáng nhạc môi trường"
+      ],
+      "FX": "",
+      "Đã có prop": false,
+      "Combo": null,
+      "Note anim": "",
+      "Layout": null,
+      "Prop & mô tả prop": "",
+      "Key": "F",
+      "IBW": "F",
+      "Nhân vật": [],
+      "Scene": "21"
+    },
+    "_title": "21",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-818d-8bd7-ff00778eb245"
+  },
+  {
+    "id": "2dfccb0e-ac88-8175-bee9-d454255a754f",
+    "created_time": "2026-01-05T03:51:00.000Z",
+    "last_edited_time": "2026-02-04T09:54:00.000Z",
+    "properties": {
+      "Comp": [],
+      "FX": "",
+      "Đã có prop": false,
+      "Combo": "4",
+      "Note anim": "MnJack raccord cảnh trước",
+      "Layout": null,
+      "Prop & mô tả prop": "Dàn loa đổ",
+      "Key": "D",
+      "IBW": "E",
+      "Nhân vật": [
+        "MidnightJack",
+        "Genevie",
+        "Moose",
+        "C4ttron"
+      ],
+      "Scene": "42"
+    },
+    "_title": "42",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-818d-8bd7-ff00778eb245"
+  },
+  {
+    "id": "2dfccb0e-ac88-8176-87ad-cb631a3e0221",
+    "created_time": "2026-01-05T03:51:00.000Z",
+    "last_edited_time": "2026-02-04T02:00:00.000Z",
+    "properties": {
+      "Comp": [],
+      "FX": "",
+      "Đã có prop": false,
+      "Combo": "Ommited",
+      "Note anim": "",
+      "Layout": null,
+      "Prop & mô tả prop": "",
+      "Key": null,
+      "IBW": null,
+      "Nhân vật": [],
+      "Scene": "03"
+    },
+    "_title": "03",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-818d-8bd7-ff00778eb245"
+  },
+  {
+    "id": "2dfccb0e-ac88-8177-b18b-df50eea14ea5",
+    "created_time": "2026-01-05T03:51:00.000Z",
+    "last_edited_time": "2026-02-04T09:31:00.000Z",
+    "properties": {
+      "Comp": [],
+      "FX": "",
+      "Đã có prop": false,
+      "Combo": "1",
+      "Note anim": "Anim dùng cutter mask chuyển đổi BG",
+      "Layout": "Cần LO trước",
+      "Prop & mô tả prop": "Kệ sách",
+      "Key": "D",
+      "IBW": "D",
+      "Nhân vật": [
+        "Moose",
+        "Genevie",
+        "Gembugs đổi màu"
+      ],
+      "Scene": "15"
+    },
+    "_title": "15",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-818d-8bd7-ff00778eb245"
+  },
+  {
+    "id": "2dfccb0e-ac88-817f-92c0-c45c679137b7",
+    "created_time": "2026-01-05T03:51:00.000Z",
+    "last_edited_time": "2026-02-04T02:00:00.000Z",
+    "properties": {
+      "Comp": [],
+      "FX": "",
+      "Đã có prop": false,
+      "Combo": "Ommited",
+      "Note anim": "",
+      "Layout": null,
+      "Prop & mô tả prop": "",
+      "Key": null,
+      "IBW": null,
+      "Nhân vật": [],
+      "Scene": "05"
+    },
+    "_title": "05",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-818d-8bd7-ff00778eb245"
+  },
+  {
+    "id": "2dfccb0e-ac88-817f-9fde-d91dcde18b95",
+    "created_time": "2026-01-05T03:51:00.000Z",
+    "last_edited_time": "2026-02-04T10:13:00.000Z",
+    "properties": {
+      "Comp": [],
+      "FX": "",
+      "Đã có prop": false,
+      "Combo": "10",
+      "Note anim": "reuse moose đội mũ sc 54",
+      "Layout": null,
+      "Prop & mô tả prop": "Mũ và bảng hiệu của moose",
+      "Key": "E",
+      "IBW": "F",
+      "Nhân vật": [
+        "Moose Đội Mũ"
+      ],
+      "Scene": "59"
+    },
+    "_title": "59",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-818d-8bd7-ff00778eb245"
+  },
+  {
+    "id": "2dfccb0e-ac88-8180-ab0f-fbd1958eb9e4",
+    "created_time": "2026-01-05T03:51:00.000Z",
+    "last_edited_time": "2026-02-04T09:38:00.000Z",
+    "properties": {
+      "Comp": [
+        "Hiệu ứng ánh sáng nhạc môi trường"
+      ],
+      "FX": "",
+      "Đã có prop": false,
+      "Combo": null,
+      "Note anim": "",
+      "Layout": null,
+      "Prop & mô tả prop": "",
+      "Key": "D",
+      "IBW": "E",
+      "Nhân vật": [
+        "Moose"
+      ],
+      "Scene": "23"
+    },
+    "_title": "23",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-818d-8bd7-ff00778eb245"
+  },
+  {
+    "id": "2dfccb0e-ac88-8181-a33c-c1f309aa8fc8",
+    "created_time": "2026-01-05T03:51:00.000Z",
+    "last_edited_time": "2026-02-04T09:51:00.000Z",
+    "properties": {
+      "Comp": [
+        "Speedline",
+        "Hiệu ứng ánh sáng nhạc môi trường"
+      ],
+      "FX": "",
+      "Đã có prop": false,
+      "Combo": null,
+      "Note anim": "",
+      "Layout": null,
+      "Prop & mô tả prop": "",
+      "Key": "D",
+      "IBW": "E",
+      "Nhân vật": [
+        "Genevie"
+      ],
+      "Scene": "38"
+    },
+    "_title": "38",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-818d-8bd7-ff00778eb245"
+  },
+  {
+    "id": "2dfccb0e-ac88-8182-96a2-f4e893a9b26d",
+    "created_time": "2026-01-05T03:51:00.000Z",
+    "last_edited_time": "2026-02-04T09:58:00.000Z",
+    "properties": {
+      "Comp": [],
+      "FX": "",
+      "Đã có prop": false,
+      "Combo": "5",
+      "Note anim": "",
+      "Layout": null,
+      "Prop & mô tả prop": "",
+      "Key": "E",
+      "IBW": "E",
+      "Nhân vật": [
+        "Moose"
+      ],
+      "Scene": "45"
+    },
+    "_title": "45",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-818d-8bd7-ff00778eb245"
+  },
+  {
+    "id": "2dfccb0e-ac88-8182-a758-e37e9ba5301c",
+    "created_time": "2026-01-05T03:51:00.000Z",
+    "last_edited_time": "2026-02-05T02:34:00.000Z",
+    "properties": {
+      "Comp": [],
+      "FX": "",
+      "Đã có prop": false,
+      "Combo": "10",
+      "Note anim": "Anim tự gắn mũ theo design",
+      "Layout": null,
+      "Prop & mô tả prop": "Mũ và cờ của Moose",
+      "Key": "E",
+      "IBW": "E",
+      "Nhân vật": [
+        "Moose Đội Mũ"
+      ],
+      "Scene": "54"
+    },
+    "_title": "54",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-818d-8bd7-ff00778eb245"
+  },
+  {
+    "id": "2dfccb0e-ac88-8182-ace4-f519cdc390f6",
+    "created_time": "2026-01-05T03:51:00.000Z",
+    "last_edited_time": "2026-02-04T10:08:00.000Z",
+    "properties": {
+      "Comp": [
+        "Hiệu ứng chuyển cảnh mờ chồng"
+      ],
+      "FX": "",
+      "Đã có prop": false,
+      "Combo": null,
+      "Note anim": "",
+      "Layout": "Cần LO trước",
+      "Prop & mô tả prop": "Ván",
+      "Key": "C",
+      "IBW": "D",
+      "Nhân vật": [
+        "Genevie Swim Suit"
+      ],
+      "Scene": "53"
+    },
+    "_title": "53",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-818d-8bd7-ff00778eb245"
+  },
+  {
+    "id": "2dfccb0e-ac88-8185-8ef9-de702ce7796b",
+    "created_time": "2026-01-05T03:51:00.000Z",
+    "last_edited_time": "2026-02-04T09:33:00.000Z",
+    "properties": {
+      "Comp": [],
+      "FX": "",
+      "Đã có prop": false,
+      "Combo": "2",
+      "Note anim": "",
+      "Layout": null,
+      "Prop & mô tả prop": "",
+      "Key": "D",
+      "IBW": "E",
+      "Nhân vật": [
+        "Genevie"
+      ],
+      "Scene": "17"
+    },
+    "_title": "17",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-818d-8bd7-ff00778eb245"
+  },
+  {
+    "id": "2dfccb0e-ac88-8186-8b78-ff387d2f51f3",
+    "created_time": "2026-01-05T03:51:00.000Z",
+    "last_edited_time": "2026-02-04T10:20:00.000Z",
+    "properties": {
+      "Comp": [],
+      "FX": "",
+      "Đã có prop": false,
+      "Combo": null,
+      "Note anim": "Có thể reuse pose Moose nhảy sc25",
+      "Layout": null,
+      "Prop & mô tả prop": "",
+      "Key": "D",
+      "IBW": "D",
+      "Nhân vật": [
+        "Moose"
+      ],
+      "Scene": "62-63"
+    },
+    "_title": "62-63",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-818d-8bd7-ff00778eb245"
+  },
+  {
+    "id": "2dfccb0e-ac88-8194-92f7-d2c4ec8fdd78",
+    "created_time": "2026-01-05T03:51:00.000Z",
+    "last_edited_time": "2026-02-04T10:14:00.000Z",
+    "properties": {
+      "Comp": [
+        "Hiệu ứng chuyển cảnh mờ chồng"
+      ],
+      "FX": "Nước bắn, nước loang",
+      "Đã có prop": false,
+      "Combo": "7",
+      "Note anim": "",
+      "Layout": null,
+      "Prop & mô tả prop": "",
+      "Key": "D",
+      "IBW": "E",
+      "Nhân vật": [
+        "Genevie Swim Suit"
+      ],
+      "Scene": "60"
+    },
+    "_title": "60",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-818d-8bd7-ff00778eb245"
+  },
+  {
+    "id": "2dfccb0e-ac88-8194-956c-d184df3a8ca0",
+    "created_time": "2026-01-05T03:51:00.000Z",
+    "last_edited_time": "2026-02-04T10:27:00.000Z",
+    "properties": {
+      "Comp": [
+        "Hiệu ứng ánh sáng nhạc môi trường"
+      ],
+      "FX": "",
+      "Đã có prop": false,
+      "Combo": "9",
+      "Note anim": "Reuse mnJack nhảy cảnh trước",
+      "Layout": null,
+      "Prop & mô tả prop": "",
+      "Key": "E",
+      "IBW": "E",
+      "Nhân vật": [
+        "MidnightJack"
+      ],
+      "Scene": "70"
+    },
+    "_title": "70",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-818d-8bd7-ff00778eb245"
+  },
+  {
+    "id": "2dfccb0e-ac88-8196-bac4-e1f75e46ac81",
+    "created_time": "2026-01-05T03:51:00.000Z",
+    "last_edited_time": "2026-02-04T09:48:00.000Z",
+    "properties": {
+      "Comp": [],
+      "FX": "",
+      "Đã có prop": false,
+      "Combo": "3",
+      "Note anim": "",
+      "Layout": null,
+      "Prop & mô tả prop": "",
+      "Key": "E",
+      "IBW": "E",
+      "Nhân vật": [
+        "C4ttron",
+        "Genevie",
+        "Moose",
+        "MidnightJack"
+      ],
+      "Scene": "35"
+    },
+    "_title": "35",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-818d-8bd7-ff00778eb245"
+  },
+  {
+    "id": "2dfccb0e-ac88-819c-aaa3-eee87f7e3b94",
+    "created_time": "2026-01-05T03:51:00.000Z",
+    "last_edited_time": "2026-02-04T09:41:00.000Z",
+    "properties": {
+      "Comp": [
+        "Hiệu ứng ánh sáng nhạc môi trường"
+      ],
+      "FX": "",
+      "Đã có prop": false,
+      "Combo": null,
+      "Note anim": "",
+      "Layout": null,
+      "Prop & mô tả prop": "",
+      "Key": "D",
+      "IBW": "E",
+      "Nhân vật": [
+        "Genevie",
+        "MidnightJack"
+      ],
+      "Scene": "27"
+    },
+    "_title": "27",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-818d-8bd7-ff00778eb245"
+  },
+  {
+    "id": "2dfccb0e-ac88-819e-8f2f-f3ef0ef04cd6",
+    "created_time": "2026-01-05T03:51:00.000Z",
+    "last_edited_time": "2026-02-04T10:01:00.000Z",
+    "properties": {
+      "Comp": [
+        "Hiệu ứng chuyển cảnh mờ chồng"
+      ],
+      "FX": "Bụi xe đạp",
+      "Đã có prop": false,
+      "Combo": "6",
+      "Note anim": "",
+      "Layout": "Cần LO trước",
+      "Prop & mô tả prop": "Xe đạp",
+      "Key": "C",
+      "IBW": "D",
+      "Nhân vật": [
+        "Moose Xe Đạp"
+      ],
+      "Scene": "50"
+    },
+    "_title": "50",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-818d-8bd7-ff00778eb245"
+  },
+  {
+    "id": "2dfccb0e-ac88-81a4-b4bb-e4d65524f201",
+    "created_time": "2026-01-05T03:51:00.000Z",
+    "last_edited_time": "2026-02-04T10:03:00.000Z",
+    "properties": {
+      "Comp": [],
+      "FX": "Tuyết",
+      "Đã có prop": false,
+      "Combo": null,
+      "Note anim": "Mây trôi",
+      "Layout": null,
+      "Prop & mô tả prop": "Ván trượt tuyết",
+      "Key": "C",
+      "IBW": "D",
+      "Nhân vật": [
+        "C4ttron Trượt Tuyết",
+        "Coral Trượt Tuyết"
+      ],
+      "Scene": "51"
+    },
+    "_title": "51",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-818d-8bd7-ff00778eb245"
+  },
+  {
+    "id": "2dfccb0e-ac88-81ae-9437-eafcf11d5f03",
+    "created_time": "2026-01-05T03:51:00.000Z",
+    "last_edited_time": "2026-02-04T10:21:00.000Z",
+    "properties": {
+      "Comp": [],
+      "FX": "",
+      "Đã có prop": false,
+      "Combo": "8",
+      "Note anim": "",
+      "Layout": null,
+      "Prop & mô tả prop": "",
+      "Key": "C",
+      "IBW": "D",
+      "Nhân vật": [
+        "MidnightJack",
+        "Genevie",
+        "Moose",
+        "C4ttron"
+      ],
+      "Scene": "66"
+    },
+    "_title": "66",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-818d-8bd7-ff00778eb245"
+  },
+  {
+    "id": "2dfccb0e-ac88-81b0-b62d-e2e79d63f4e2",
+    "created_time": "2026-01-05T03:51:00.000Z",
+    "last_edited_time": "2026-02-04T09:22:00.000Z",
+    "properties": {
+      "Comp": [],
+      "FX": "mồ hôi",
+      "Đã có prop": false,
+      "Combo": null,
+      "Note anim": "",
+      "Layout": null,
+      "Prop & mô tả prop": "Dây trang trí, Ghế",
+      "Key": "D",
+      "IBW": "E",
+      "Nhân vật": [
+        "MidnightJack"
+      ],
+      "Scene": "12"
+    },
+    "_title": "12",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-818d-8bd7-ff00778eb245"
+  },
+  {
+    "id": "2dfccb0e-ac88-81bc-87ff-c154e156b8ce",
+    "created_time": "2026-01-05T03:51:00.000Z",
+    "last_edited_time": "2026-02-04T10:21:00.000Z",
+    "properties": {
+      "Comp": [],
+      "FX": "",
+      "Đã có prop": false,
+      "Combo": null,
+      "Note anim": "",
+      "Layout": null,
+      "Prop & mô tả prop": "",
+      "Key": "E",
+      "IBW": "E",
+      "Nhân vật": [
+        "MidnightJack"
+      ],
+      "Scene": "65"
+    },
+    "_title": "65",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-818d-8bd7-ff00778eb245"
+  },
+  {
+    "id": "2dfccb0e-ac88-81c2-bde2-ef6ec3410ff2",
+    "created_time": "2026-01-05T03:51:00.000Z",
+    "last_edited_time": "2026-02-04T10:29:00.000Z",
+    "properties": {
+      "Comp": [
+        "Hiệu ứng ánh sáng nhạc môi trường"
+      ],
+      "FX": "",
+      "Đã có prop": false,
+      "Combo": null,
+      "Note anim": "",
+      "Layout": null,
+      "Prop & mô tả prop": "",
+      "Key": "D",
+      "IBW": "E",
+      "Nhân vật": [
+        "MidnightJack"
+      ],
+      "Scene": "73"
+    },
+    "_title": "73",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-818d-8bd7-ff00778eb245"
+  },
+  {
+    "id": "2dfccb0e-ac88-81c4-903c-cc1ba8a69a20",
+    "created_time": "2026-01-05T03:51:00.000Z",
+    "last_edited_time": "2026-02-04T10:10:00.000Z",
+    "properties": {
+      "Comp": [],
+      "FX": "",
+      "Đã có prop": false,
+      "Combo": null,
+      "Note anim": "",
+      "Layout": "Cần LO trước",
+      "Prop & mô tả prop": "Ván",
+      "Key": "E",
+      "IBW": "E",
+      "Nhân vật": [
+        "Genevie Swim Suit"
+      ],
+      "Scene": "55_A"
+    },
+    "_title": "55_A",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-818d-8bd7-ff00778eb245"
+  },
+  {
+    "id": "2dfccb0e-ac88-81c6-be40-e8e790b0acf3",
+    "created_time": "2026-01-05T03:51:00.000Z",
+    "last_edited_time": "2026-02-04T10:05:00.000Z",
+    "properties": {
+      "Comp": [
+        "Speedline",
+        "Hiệu ứng chuyển cảnh mờ chồng"
+      ],
+      "FX": "Tuyết",
+      "Đã có prop": false,
+      "Combo": null,
+      "Note anim": "Mây trôi",
+      "Layout": "Cần LO trước",
+      "Prop & mô tả prop": "Ván trượt tuyết",
+      "Key": "B",
+      "IBW": "D",
+      "Nhân vật": [
+        "C4ttron Trượt Tuyết"
+      ],
+      "Scene": "52"
+    },
+    "_title": "52",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-818d-8bd7-ff00778eb245"
+  },
+  {
+    "id": "2dfccb0e-ac88-81cc-9bed-ff4b5409bbc4",
+    "created_time": "2026-01-05T03:51:00.000Z",
+    "last_edited_time": "2026-02-04T09:58:00.000Z",
+    "properties": {
+      "Comp": [],
+      "FX": "",
+      "Đã có prop": false,
+      "Combo": "5",
+      "Note anim": "raccord moose và BG với cảnh trước",
+      "Layout": null,
+      "Prop & mô tả prop": "",
+      "Key": "D",
+      "IBW": "E",
+      "Nhân vật": [
+        "Moose",
+        "Genevie",
+        "C4ttron",
+        "MidnightJack"
+      ],
+      "Scene": "46"
+    },
+    "_title": "46",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-818d-8bd7-ff00778eb245"
+  },
+  {
+    "id": "2dfccb0e-ac88-81ce-980c-d866e1057868",
+    "created_time": "2026-01-05T03:51:00.000Z",
+    "last_edited_time": "2026-02-04T02:00:00.000Z",
+    "properties": {
+      "Comp": [],
+      "FX": "",
+      "Đã có prop": false,
+      "Combo": "Ommited",
+      "Note anim": "",
+      "Layout": null,
+      "Prop & mô tả prop": "",
+      "Key": null,
+      "IBW": null,
+      "Nhân vật": [],
+      "Scene": "00-1"
+    },
+    "_title": "00-1",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-818d-8bd7-ff00778eb245"
+  },
+  {
+    "id": "2dfccb0e-ac88-81d0-80cd-d1ec57fc2cfa",
+    "created_time": "2026-01-05T03:51:00.000Z",
+    "last_edited_time": "2026-02-04T09:20:00.000Z",
+    "properties": {
+      "Comp": [],
+      "FX": "",
+      "Đã có prop": false,
+      "Combo": null,
+      "Note anim": "",
+      "Layout": null,
+      "Prop & mô tả prop": "Dàn loa, Dây trang trí, Ghế",
+      "Key": "C",
+      "IBW": "E",
+      "Nhân vật": [
+        "Moose",
+        "C4ttron",
+        "MidnightJack",
+        "Genevie",
+        "Gembugs đổi màu"
+      ],
+      "Scene": "10"
+    },
+    "_title": "10",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-818d-8bd7-ff00778eb245"
+  },
+  {
+    "id": "2dfccb0e-ac88-81dc-aa1e-f989a70402fd",
+    "created_time": "2026-01-05T03:51:00.000Z",
+    "last_edited_time": "2026-02-04T09:44:00.000Z",
+    "properties": {
+      "Comp": [
+        "Hiệu ứng ánh sáng nhạc môi trường",
+        "Hiệu ứng quả cầu disco lấp lánh",
+        "C4tron led âm nhạc"
+      ],
+      "FX": "",
+      "Đã có prop": false,
+      "Combo": null,
+      "Note anim": "chú ý raccord gen, mdJack cảnh trước",
+      "Layout": null,
+      "Prop & mô tả prop": "",
+      "Key": "D",
+      "IBW": "E",
+      "Nhân vật": [
+        "Moose",
+        "MidnightJack",
+        "C4ttron",
+        "Genevie"
+      ],
+      "Scene": "30"
+    },
+    "_title": "30",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-818d-8bd7-ff00778eb245"
+  },
+  {
+    "id": "2dfccb0e-ac88-81e0-a82c-edf1d7a4d15e",
+    "created_time": "2026-01-05T03:51:00.000Z",
+    "last_edited_time": "2026-02-04T09:40:00.000Z",
+    "properties": {
+      "Comp": [
+        "C4tron led âm nhạc",
+        "Hiệu ứng ánh sáng nhạc môi trường",
+        "Hiệu ứng quả cầu disco lấp lánh"
+      ],
+      "FX": "",
+      "Đã có prop": false,
+      "Combo": null,
+      "Note anim": "",
+      "Layout": null,
+      "Prop & mô tả prop": "",
+      "Key": "C",
+      "IBW": "D",
+      "Nhân vật": [
+        "C4ttron",
+        "Moose",
+        "Genevie"
+      ],
+      "Scene": "26"
+    },
+    "_title": "26",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-818d-8bd7-ff00778eb245"
+  },
+  {
+    "id": "2dfccb0e-ac88-81e1-85db-de842292c906",
+    "created_time": "2026-01-05T03:51:00.000Z",
+    "last_edited_time": "2026-02-04T10:30:00.000Z",
+    "properties": {
+      "Comp": [
+        "Hiệu ứng ánh sáng nhạc môi trường"
+      ],
+      "FX": "",
+      "Đã có prop": false,
+      "Combo": null,
+      "Note anim": "",
+      "Layout": null,
+      "Prop & mô tả prop": "",
+      "Key": "E",
+      "IBW": "E",
+      "Nhân vật": [
+        "Genevie"
+      ],
+      "Scene": "75"
+    },
+    "_title": "75",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-818d-8bd7-ff00778eb245"
+  },
+  {
+    "id": "2dfccb0e-ac88-81e5-9fda-c76989ab42b5",
+    "created_time": "2026-01-05T03:51:00.000Z",
+    "last_edited_time": "2026-02-04T09:41:00.000Z",
+    "properties": {
+      "Comp": [
+        "Hiệu ứng ánh sáng nhạc môi trường"
+      ],
+      "FX": "",
+      "Đã có prop": false,
+      "Combo": null,
+      "Note anim": "",
+      "Layout": null,
+      "Prop & mô tả prop": "",
+      "Key": "D",
+      "IBW": "E",
+      "Nhân vật": [
+        "Genevie",
+        "MidnightJack"
+      ],
+      "Scene": "29"
+    },
+    "_title": "29",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-818d-8bd7-ff00778eb245"
+  },
+  {
+    "id": "2dfccb0e-ac88-81e8-8f19-e03881756301",
+    "created_time": "2026-01-05T03:51:00.000Z",
+    "last_edited_time": "2026-02-04T09:41:00.000Z",
+    "properties": {
+      "Comp": [
+        "Hiệu ứng ánh sáng nhạc môi trường"
+      ],
+      "FX": "",
+      "Đã có prop": false,
+      "Combo": null,
+      "Note anim": "",
+      "Layout": null,
+      "Prop & mô tả prop": "",
+      "Key": "E",
+      "IBW": "E",
+      "Nhân vật": [
+        "MidnightJack"
+      ],
+      "Scene": "28"
+    },
+    "_title": "28",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-818d-8bd7-ff00778eb245"
+  },
+  {
+    "id": "2dfccb0e-ac88-81e9-9f87-c1faf4fdc8d4",
+    "created_time": "2026-01-05T03:51:00.000Z",
+    "last_edited_time": "2026-02-04T09:46:00.000Z",
+    "properties": {
+      "Comp": [],
+      "FX": "",
+      "Đã có prop": false,
+      "Combo": null,
+      "Note anim": "",
+      "Layout": null,
+      "Prop & mô tả prop": "",
+      "Key": "E",
+      "IBW": "E",
+      "Nhân vật": [
+        "MidnightJack"
+      ],
+      "Scene": "32"
+    },
+    "_title": "32",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-818d-8bd7-ff00778eb245"
+  },
+  {
+    "id": "2dfccb0e-ac88-81eb-a6ff-ebc247c74d26",
+    "created_time": "2026-01-05T03:51:00.000Z",
+    "last_edited_time": "2026-01-05T03:51:00.000Z",
+    "properties": {
+      "Comp": [],
+      "FX": "",
+      "Đã có prop": false,
+      "Combo": null,
+      "Note anim": "",
+      "Layout": null,
+      "Prop & mô tả prop": "",
+      "Key": null,
+      "IBW": null,
+      "Nhân vật": [],
+      "Scene": "78"
+    },
+    "_title": "78",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-818d-8bd7-ff00778eb245"
+  },
+  {
+    "id": "2dfccb0e-ac88-81ee-ad78-f2f937f6363f",
+    "created_time": "2026-01-05T03:51:00.000Z",
+    "last_edited_time": "2026-02-04T09:17:00.000Z",
+    "properties": {
+      "Comp": [],
+      "FX": "",
+      "Đã có prop": false,
+      "Combo": null,
+      "Note anim": "chú ý racord c4tron cảnh trước",
+      "Layout": null,
+      "Prop & mô tả prop": "",
+      "Key": "E",
+      "IBW": "E",
+      "Nhân vật": [
+        "C4ttron"
+      ],
+      "Scene": "11"
+    },
+    "_title": "11",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-818d-8bd7-ff00778eb245"
+  },
+  {
+    "id": "2dfccb0e-ac88-81f1-934e-f691d04f2e62",
+    "created_time": "2026-01-05T03:51:00.000Z",
+    "last_edited_time": "2026-02-04T09:37:00.000Z",
+    "properties": {
+      "Comp": [
+        "Hiệu ứng ánh sáng nhạc môi trường",
+        "Hiệu ứng quả cầu disco lấp lánh"
+      ],
+      "FX": "",
+      "Đã có prop": false,
+      "Combo": null,
+      "Note anim": "",
+      "Layout": null,
+      "Prop & mô tả prop": "",
+      "Key": "C",
+      "IBW": "D",
+      "Nhân vật": [
+        "Genevie",
+        "Moose",
+        "C4ttron"
+      ],
+      "Scene": "22"
+    },
+    "_title": "22",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-818d-8bd7-ff00778eb245"
+  },
+  {
+    "id": "2dfccb0e-ac88-81f4-82b0-fef65df19d45",
+    "created_time": "2026-01-05T03:51:00.000Z",
+    "last_edited_time": "2026-02-04T02:00:00.000Z",
+    "properties": {
+      "Comp": [],
+      "FX": "",
+      "Đã có prop": false,
+      "Combo": "Ommited",
+      "Note anim": "",
+      "Layout": null,
+      "Prop & mô tả prop": "",
+      "Key": null,
+      "IBW": null,
+      "Nhân vật": [],
+      "Scene": "08"
+    },
+    "_title": "08",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-818d-8bd7-ff00778eb245"
+  },
+  {
+    "id": "2dfccb0e-ac88-81f7-8bc9-ebdbba743c89",
+    "created_time": "2026-01-05T03:51:00.000Z",
+    "last_edited_time": "2026-02-04T09:50:00.000Z",
+    "properties": {
+      "Comp": [
+        "C4tron led âm nhạc",
+        "Hiệu ứng ánh sáng nhạc môi trường",
+        "Hiệu ứng quả cầu disco lấp lánh"
+      ],
+      "FX": "",
+      "Đã có prop": false,
+      "Combo": null,
+      "Note anim": "Reuse pose nhảy",
+      "Layout": null,
+      "Prop & mô tả prop": "",
+      "Key": "D",
+      "IBW": "E",
+      "Nhân vật": [
+        "C4ttron",
+        "Moose",
+        "Genevie",
+        "MidnightJack"
+      ],
+      "Scene": "36"
+    },
+    "_title": "36",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-818d-8bd7-ff00778eb245"
+  },
+  {
+    "id": "2dfccb0e-ac88-81fb-8b89-ddd0302529e5",
+    "created_time": "2026-01-05T03:51:00.000Z",
+    "last_edited_time": "2026-02-04T02:00:00.000Z",
+    "properties": {
+      "Comp": [],
+      "FX": "",
+      "Đã có prop": false,
+      "Combo": "Ommited",
+      "Note anim": "",
+      "Layout": null,
+      "Prop & mô tả prop": "",
+      "Key": null,
+      "IBW": null,
+      "Nhân vật": [],
+      "Scene": "02"
+    },
+    "_title": "02",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-818d-8bd7-ff00778eb245"
+  },
+  {
+    "id": "2dfccb0e-ac88-81fb-8d80-dd6c71505876",
+    "created_time": "2026-01-05T03:51:00.000Z",
+    "last_edited_time": "2026-02-04T09:58:00.000Z",
+    "properties": {
+      "Comp": [
+        "Hiệu ứng chuyển cảnh mờ chồng"
+      ],
+      "FX": "",
+      "Đã có prop": false,
+      "Combo": null,
+      "Note anim": "",
+      "Layout": null,
+      "Prop & mô tả prop": "",
+      "Key": "E",
+      "IBW": "E",
+      "Nhân vật": [
+        "Moose"
+      ],
+      "Scene": "47_A"
+    },
+    "_title": "47_A",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-818d-8bd7-ff00778eb245"
+  },
+  {
+    "id": "2dfccb0e-ac88-81fe-9044-ef1b0bcdb2eb",
+    "created_time": "2026-01-05T03:51:00.000Z",
+    "last_edited_time": "2026-02-04T09:35:00.000Z",
+    "properties": {
+      "Comp": [
+        "C4tron led âm nhạc",
+        "Speedline"
+      ],
+      "FX": "",
+      "Đã có prop": false,
+      "Combo": null,
+      "Note anim": "",
+      "Layout": null,
+      "Prop & mô tả prop": "",
+      "Key": "E",
+      "IBW": "F",
+      "Nhân vật": [
+        "C4ttron"
+      ],
+      "Scene": "18"
+    },
+    "_title": "18",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-818d-8bd7-ff00778eb245"
+  },
+  {
+    "id": "2fdccb0e-ac88-8034-81dc-c73e244e362e",
+    "created_time": "2026-02-04T03:09:00.000Z",
+    "last_edited_time": "2026-02-04T09:37:00.000Z",
+    "properties": {
+      "Comp": [
+        "Hiệu ứng ánh sáng nhạc môi trường",
+        "Hiệu ứng đèn"
+      ],
+      "FX": "",
+      "Đã có prop": false,
+      "Combo": null,
+      "Note anim": "",
+      "Layout": null,
+      "Prop & mô tả prop": "",
+      "Key": "F",
+      "IBW": "F",
+      "Nhân vật": [],
+      "Scene": "20_A"
+    },
+    "_title": "20_A",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-818d-8bd7-ff00778eb245"
+  },
+  {
+    "id": "2fdccb0e-ac88-8049-8d39-c06d8a2bd939",
+    "created_time": "2026-02-04T03:49:00.000Z",
+    "last_edited_time": "2026-02-04T10:02:00.000Z",
+    "properties": {
+      "Comp": [
+        "Hiệu ứng chuyển cảnh mờ chồng"
+      ],
+      "FX": "Tuyết",
+      "Đã có prop": false,
+      "Combo": null,
+      "Note anim": "Mây trôi",
+      "Layout": null,
+      "Prop & mô tả prop": "Ván trượt tuyết",
+      "Key": "D",
+      "IBW": "D",
+      "Nhân vật": [
+        "C4ttron Trượt Tuyết",
+        "MidnightJack"
+      ],
+      "Scene": "50_A"
+    },
+    "_title": "50_A",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-818d-8bd7-ff00778eb245"
+  },
+  {
+    "id": "2fdccb0e-ac88-8052-b354-fbfc5721d29d",
+    "created_time": "2026-02-04T04:04:00.000Z",
+    "last_edited_time": "2026-02-04T10:07:00.000Z",
+    "properties": {
+      "Comp": [
+        "Hiệu ứng chuyển cảnh mờ chồng"
+      ],
+      "FX": "",
+      "Đã có prop": false,
+      "Combo": null,
+      "Note anim": "",
+      "Layout": null,
+      "Prop & mô tả prop": "",
+      "Key": "D",
+      "IBW": "D",
+      "Nhân vật": [
+        "Genevie",
+        "MidnightJack",
+        "C4ttron"
+      ],
+      "Scene": "52_A"
+    },
+    "_title": "52_A",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-818d-8bd7-ff00778eb245"
+  },
+  {
+    "id": "2fdccb0e-ac88-807e-98bb-edb561e349a8",
+    "created_time": "2026-02-04T03:45:00.000Z",
+    "last_edited_time": "2026-02-04T10:01:00.000Z",
+    "properties": {
+      "Comp": [
+        "Hiệu ứng chuyển cảnh mờ chồng"
+      ],
+      "FX": "",
+      "Đã có prop": false,
+      "Combo": "6",
+      "Note anim": "vị trí và pose moose để giống sc trước để chuyển cảnh",
+      "Layout": null,
+      "Prop & mô tả prop": "",
+      "Key": "D",
+      "IBW": "E",
+      "Nhân vật": [
+        "Moose Xe Đạp"
+      ],
+      "Scene": "50_B"
+    },
+    "_title": "50_B",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-818d-8bd7-ff00778eb245"
+  },
+  {
+    "id": "2fdccb0e-ac88-8089-abe4-c460754d7a69",
+    "created_time": "2026-02-04T03:26:00.000Z",
+    "last_edited_time": "2026-02-12T03:34:00.000Z",
+    "properties": {
+      "Comp": [],
+      "FX": "",
+      "Đã có prop": false,
+      "Combo": null,
+      "Note anim": "cut-out pedal lúc đạp xe",
+      "Layout": "Cần LO trước",
+      "Prop & mô tả prop": "Xe đạp",
+      "Key": "D",
+      "IBW": "E",
+      "Nhân vật": [
+        "Moose Xe Đạp"
+      ],
+      "Scene": "47_B"
+    },
+    "_title": "47_B",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-818d-8bd7-ff00778eb245"
+  },
+  {
+    "id": "2fdccb0e-ac88-8033-b9a4-c1ac5baf4f3a",
+    "created_time": "2026-02-04T04:12:00.000Z",
+    "last_edited_time": "2026-02-04T10:19:00.000Z",
+    "properties": {
+      "Comp": [
+        "Hiệu ứng chuyển cảnh mờ chồng"
+      ],
+      "FX": "",
+      "Đã có prop": false,
+      "Combo": "7",
+      "Note anim": "1. Vị trí và pose Gen đặt giống sc trước để chuyển cảnh\n2. reuse pose đứng sc 46",
+      "Layout": null,
+      "Prop & mô tả prop": "",
+      "Key": "D",
+      "IBW": "E",
+      "Nhân vật": [
+        "Genevie",
+        "MidnightJack",
+        "C4ttron",
+        "Moose"
+      ],
+      "Scene": "60 A"
+    },
+    "_title": "60 A",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-818d-8bd7-ff00778eb245"
+  },
+  {
+    "id": "2fdccb0e-ac88-80e9-83f0-d65b300177bb",
+    "created_time": "2026-02-04T04:06:00.000Z",
+    "last_edited_time": "2026-02-04T10:12:00.000Z",
+    "properties": {
+      "Comp": [],
+      "FX": "Speed Line Gen",
+      "Đã có prop": false,
+      "Combo": null,
+      "Note anim": "Anim cutout con ong dựa vào design ",
+      "Layout": null,
+      "Prop & mô tả prop": "Ong góc 3/4",
+      "Key": "C",
+      "IBW": "E",
+      "Nhân vật": [
+        "Genevie Swim Suit"
+      ],
+      "Scene": "55_B"
+    },
+    "_title": "55_B",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-818d-8bd7-ff00778eb245"
+  },
+  {
+    "id": "2fdccb0e-ac88-8051-bd16-ed7130692600",
+    "created_time": "2026-02-04T05:29:00.000Z",
+    "last_edited_time": "2026-02-04T07:51:00.000Z",
+    "properties": {
+      "Comp": [
+        "Speedline"
+      ],
+      "FX": "",
+      "Đã có prop": false,
+      "Combo": null,
+      "Note anim": "",
+      "Layout": null,
+      "Prop & mô tả prop": "",
+      "Key": null,
+      "IBW": null,
+      "Nhân vật": [],
+      "Scene": "55"
+    },
+    "_title": "55",
+    "database_name": "GP100_shotlist",
+    "project_name": "GP100_shotlist",
+    "database_id": "2dfccb0e-ac88-818d-8bd7-ff00778eb245"
+  }
+]

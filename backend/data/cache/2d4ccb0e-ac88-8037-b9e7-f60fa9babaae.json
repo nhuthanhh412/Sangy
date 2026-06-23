@@ -1,0 +1,1582 @@
+[
+  {
+    "id": "2d4ccb0e-ac88-8002-a877-d1b400612928",
+    "created_time": "2025-12-25T06:49:00.000Z",
+    "last_edited_time": "2025-12-26T03:51:00.000Z",
+    "properties": {
+      "Client Note ": "Như 16",
+      "Comp": "",
+      "Prop": [
+        "CHI_206_Prp_34_SeatBelt"
+      ],
+      "Combo": [
+        "4"
+      ],
+      "Brief": "Theo animatic, chớp mắt, zoom out đột ngột r cut in action",
+      "Cảnh ưu tiên ": "Ưu tiên",
+      "Background": "",
+      "Trạng thái Prop": false,
+      "Nhân vật": [
+        "Marinette"
+      ],
+      "Layout ưu tiên": null,
+      "FX": "",
+      "Scene": "18"
+    },
+    "_title": "18",
+    "database_name": "SHOT LIST",
+    "project_name": "SHOT LIST",
+    "database_id": "2d4ccb0e-ac88-8037-b9e7-f60fa9babaae"
+  },
+  {
+    "id": "2d4ccb0e-ac88-8004-8a19-cddafb572385",
+    "created_time": "2025-12-25T06:48:00.000Z",
+    "last_edited_time": "2025-12-26T03:33:00.000Z",
+    "properties": {
+      "Client Note ": "CU bg scene 47 : it's inside the board directly, you can put it in Color according to the ref of the bank/Streets/ParisStreetExt_Color_r007",
+      "Comp": "",
+      "Prop": [
+        "CHI_205_Prp_05_SmartphoneAdrien",
+        "CHI_253_Prp_02_Tray",
+        "CHI_211_Prp_32_TeaPot",
+        "CHI_212_Prp_02_MacaronMarinette : inside the char",
+        "CHI_253_Prp_02_Spoon"
+      ],
+      "Combo": [
+        "1"
+      ],
+      "Brief": "Adrien chỉ cần ngồi lướt đt, thêm chớp mắt, ông bồi bàn tiến lại gần r dừng, tham khảo walkcycle của khách gửi",
+      "Cảnh ưu tiên ": "Ưu tiên",
+      "Background": "",
+      "Trạng thái Prop": false,
+      "Nhân vật": [
+        "Adrien",
+        "Bồi bàn"
+      ],
+      "Layout ưu tiên": null,
+      "FX": "CHI_209_FX_64_Smoke",
+      "Scene": "2"
+    },
+    "_title": "2",
+    "database_name": "SHOT LIST",
+    "project_name": "SHOT LIST",
+    "database_id": "2d4ccb0e-ac88-8037-b9e7-f60fa9babaae"
+  },
+  {
+    "id": "2d4ccb0e-ac88-8009-af7b-c732af8e85b8",
+    "created_time": "2025-12-25T06:49:00.000Z",
+    "last_edited_time": "2025-12-26T04:00:00.000Z",
+    "properties": {
+      "Client Note ": "Inside the screen, there are the icons",
+      "Comp": "Comp làm ánh sáng hiệu ứng bling bling disco",
+      "Prop": [
+        "CHI_253_Prp_20_Micro",
+        "CHI_206_Prp_34_SeatBelt"
+      ],
+      "Combo": [
+        "5"
+      ],
+      "Brief": "Không cần lipsync chuẩn, nhép miệng thôi, anim theo animatic, còn thời gian có thể nấu thêm",
+      "Cảnh ưu tiên ": "Ưu tiên",
+      "Background": "",
+      "Trạng thái Prop": false,
+      "Nhân vật": [
+        "Marinette"
+      ],
+      "Layout ưu tiên": null,
+      "FX": "CHI_200_FX_00_Sparkles",
+      "Scene": "22"
+    },
+    "_title": "22",
+    "database_name": "SHOT LIST",
+    "project_name": "SHOT LIST",
+    "database_id": "2d4ccb0e-ac88-8037-b9e7-f60fa9babaae"
+  },
+  {
+    "id": "2d4ccb0e-ac88-800e-b6ad-cdcd79bb4d49",
+    "created_time": "2025-12-25T06:51:00.000Z",
+    "last_edited_time": "2025-12-26T03:12:00.000Z",
+    "properties": {
+      "Client Note ": " Be careful to anticipate sc052, make it larger",
+      "Comp": "",
+      "Prop": [
+        "xe chính 3D",
+        "CHI_211_Prp_32_TeaPot",
+        "CHI_253_Prp_02_Tray"
+      ],
+      "Combo": [],
+      "Brief": "Anim xe trong blender theo animatic",
+      "Cảnh ưu tiên ": null,
+      "Background": "",
+      "Trạng thái Prop": false,
+      "Nhân vật": [],
+      "Layout ưu tiên": "Ưu tiên",
+      "FX": "Khói xe",
+      "Scene": "47"
+    },
+    "_title": "47",
+    "database_name": "SHOT LIST",
+    "project_name": "SHOT LIST",
+    "database_id": "2d4ccb0e-ac88-8037-b9e7-f60fa9babaae"
+  },
+  {
+    "id": "2d4ccb0e-ac88-8013-b03b-e460b2017506",
+    "created_time": "2025-12-25T06:51:00.000Z",
+    "last_edited_time": "2026-01-05T03:04:00.000Z",
+    "properties": {
+      "Client Note ": null,
+      "Comp": "",
+      "Prop": [
+        "xe chính 3D"
+      ],
+      "Combo": [],
+      "Brief": "Anim xe trong blender theo animatic",
+      "Cảnh ưu tiên ": null,
+      "Background": "",
+      "Trạng thái Prop": false,
+      "Nhân vật": [],
+      "Layout ưu tiên": "Ưu tiên",
+      "FX": "",
+      "Scene": "38"
+    },
+    "_title": "38",
+    "database_name": "SHOT LIST",
+    "project_name": "SHOT LIST",
+    "database_id": "2d4ccb0e-ac88-8037-b9e7-f60fa9babaae"
+  },
+  {
+    "id": "2d4ccb0e-ac88-8014-8009-c013c7e4f589",
+    "created_time": "2025-12-25T06:51:00.000Z",
+    "last_edited_time": "2025-12-26T02:41:00.000Z",
+    "properties": {
+      "Client Note ": "cái ảnh thứ 2 của adrian là Sacre Coeur/đồi montmarte",
+      "Comp": "",
+      "Prop": [],
+      "Combo": [],
+      "Brief": "Theo animatic",
+      "Cảnh ưu tiên ": "Ưu tiên",
+      "Background": "Follow the board for the screen\nRef pictures",
+      "Trạng thái Prop": false,
+      "Nhân vật": [
+        "Adrien"
+      ],
+      "Layout ưu tiên": null,
+      "FX": "",
+      "Scene": "50"
+    },
+    "_title": "50",
+    "database_name": "SHOT LIST",
+    "project_name": "SHOT LIST",
+    "database_id": "2d4ccb0e-ac88-8037-b9e7-f60fa9babaae"
+  },
+  {
+    "id": "2d4ccb0e-ac88-8016-8da7-cb087ef8aa61",
+    "created_time": "2025-12-25T06:49:00.000Z",
+    "last_edited_time": "2025-12-26T03:33:00.000Z",
+    "properties": {
+      "Client Note ": "Mở ô tô bằng điện thoại, họ có design interface sẽ gửi - nên nhắc",
+      "Comp": "",
+      "Prop": [
+        "xe chính 3D",
+        "CHI_205_Prp_05_SmartphoneAdrien"
+      ],
+      "Combo": [],
+      "Brief": "Anim gương mở ra (blender), tay Marinette đưa vô\n",
+      "Cảnh ưu tiên ": null,
+      "Background": "",
+      "Trạng thái Prop": false,
+      "Nhân vật": [
+        "Marinette"
+      ],
+      "Layout ưu tiên": "Ưu tiên",
+      "FX": "",
+      "Scene": "10"
+    },
+    "_title": "10",
+    "database_name": "SHOT LIST",
+    "project_name": "SHOT LIST",
+    "database_id": "2d4ccb0e-ac88-8037-b9e7-f60fa9babaae"
+  },
+  {
+    "id": "2d4ccb0e-ac88-801c-a260-c9a6c6c5739f",
+    "created_time": "2025-12-25T06:41:00.000Z",
+    "last_edited_time": "2025-12-25T07:11:00.000Z",
+    "properties": {
+      "Client Note ": null,
+      "Comp": "",
+      "Prop": [],
+      "Combo": [],
+      "Brief": "Cảnh BG, cho mây trôi",
+      "Cảnh ưu tiên ": "Ưu tiên",
+      "Background": "",
+      "Trạng thái Prop": false,
+      "Nhân vật": [],
+      "Layout ưu tiên": null,
+      "FX": "",
+      "Scene": "1"
+    },
+    "_title": "1",
+    "database_name": "SHOT LIST",
+    "project_name": "SHOT LIST",
+    "database_id": "2d4ccb0e-ac88-8037-b9e7-f60fa9babaae"
+  },
+  {
+    "id": "2d4ccb0e-ac88-801f-8762-fb8f49ac1b35",
+    "created_time": "2025-12-25T06:49:00.000Z",
+    "last_edited_time": "2025-12-26T03:33:00.000Z",
+    "properties": {
+      "Client Note ": "Nội thất xe màu xám nên phải dùng ánh sáng và bóng tối để làm cho nó đẹp hơn\n\nCHI_253_Prp__InterfaceCharging : use the one in the BG to put inside the phone",
+      "Comp": "comp làm ánh sáng lướt qua bề mặt xe",
+      "Prop": [
+        "CHI_205_Prp_05_SmartphoneAdrien"
+      ],
+      "Combo": [],
+      "Brief": "Tay Marinette đặt đt xuống để sạc, màn hình map trên oto hiện lên",
+      "Cảnh ưu tiên ": "Ưu tiên",
+      "Background": "Car interior + create a backdrop behind the windshield so that we can clearly see how the windshield's transparency affects the image. Carefully plan where to place the phone.",
+      "Trạng thái Prop": false,
+      "Nhân vật": [],
+      "Layout ưu tiên": null,
+      "FX": "CHI_204_FX_13_CanShine",
+      "Scene": "11"
+    },
+    "_title": "11",
+    "database_name": "SHOT LIST",
+    "project_name": "SHOT LIST",
+    "database_id": "2d4ccb0e-ac88-8037-b9e7-f60fa9babaae"
+  },
+  {
+    "id": "2d4ccb0e-ac88-802b-8171-c632e333eb8f",
+    "created_time": "2025-12-25T06:49:00.000Z",
+    "last_edited_time": "2025-12-26T03:33:00.000Z",
+    "properties": {
+      "Client Note ": null,
+      "Comp": "",
+      "Prop": [
+        "CHI_205_Prp_05_SmartphoneAdrien",
+        "CHI_211_Prp_32_TeaPot",
+        "ghế"
+      ],
+      "Combo": [],
+      "Brief": "Marinette trong khung bong bóng đang trên đà ngồi xuống, sau đó mới lấy cốc cà phê ra\n",
+      "Cảnh ưu tiên ": "Ưu tiên",
+      "Background": "Please use the ref sc002 for the table and cup and seats, but for the background, use a color card inside the bubble (check the bank)",
+      "Trạng thái Prop": false,
+      "Nhân vật": [
+        "Marinette",
+        "Adrien"
+      ],
+      "Layout ưu tiên": null,
+      "FX": "CHI_200_FX_00_ThoughtBubble\nCHI_201_FX_20_Heart",
+      "Scene": "7"
+    },
+    "_title": "7",
+    "database_name": "SHOT LIST",
+    "project_name": "SHOT LIST",
+    "database_id": "2d4ccb0e-ac88-8037-b9e7-f60fa9babaae"
+  },
+  {
+    "id": "2d4ccb0e-ac88-802d-9c0d-f8897c39ce3c",
+    "created_time": "2025-12-25T06:49:00.000Z",
+    "last_edited_time": "2025-12-25T10:36:00.000Z",
+    "properties": {
+      "Client Note ": null,
+      "Comp": "",
+      "Prop": [],
+      "Combo": [],
+      "Brief": "Anim BG",
+      "Cảnh ưu tiên ": null,
+      "Background": "",
+      "Trạng thái Prop": false,
+      "Nhân vật": [],
+      "Layout ưu tiên": null,
+      "FX": "Complete the car journeys with the flashing highlighted icon + arrival emoticon and car emoticon (see scene 39, scene 45)",
+      "Scene": "12"
+    },
+    "_title": "12",
+    "database_name": "SHOT LIST",
+    "project_name": "SHOT LIST",
+    "database_id": "2d4ccb0e-ac88-8037-b9e7-f60fa9babaae"
+  },
+  {
+    "id": "2d4ccb0e-ac88-8030-a0bb-c56b7e80f8e7",
+    "created_time": "2025-12-25T06:49:00.000Z",
+    "last_edited_time": "2025-12-26T03:59:00.000Z",
+    "properties": {
+      "Client Note ": "Inside the screen, there are the map google street",
+      "Comp": "",
+      "Prop": [
+        "CHI_206_Prp_34_SeatBelt"
+      ],
+      "Combo": [],
+      "Brief": "Theo animatic",
+      "Cảnh ưu tiên ": "Ưu tiên",
+      "Background": "",
+      "Trạng thái Prop": false,
+      "Nhân vật": [
+        "Marinette"
+      ],
+      "Layout ưu tiên": null,
+      "FX": "",
+      "Scene": "26"
+    },
+    "_title": "26",
+    "database_name": "SHOT LIST",
+    "project_name": "SHOT LIST",
+    "database_id": "2d4ccb0e-ac88-8037-b9e7-f60fa9babaae"
+  },
+  {
+    "id": "2d4ccb0e-ac88-8030-a73c-cb13eec1b1cc",
+    "created_time": "2025-12-25T06:51:00.000Z",
+    "last_edited_time": "2026-01-07T05:08:00.000Z",
+    "properties": {
+      "Client Note ": "đoạn cuối mặt trời lặn - hoàng hôn / Use the board as ref",
+      "Comp": "",
+      "Prop": [
+        "CHI_211_Prp_32_TeaPot",
+        "xe chính 3D"
+      ],
+      "Combo": [],
+      "Brief": "Pose adrian và LB cho HU với sc 57 theo animatic, trong lúc zoom out ra dần có thể anim 2 đứa đang cười nói với nhau. \nCó thể anim Adrien và Marinette trước\nAnim mây trôi",
+      "Cảnh ưu tiên ": "Ưu tiên",
+      "Background": "CHI_202_BG_00_EstablishingParisExtSunset_Color_w005 for the color",
+      "Trạng thái Prop": false,
+      "Nhân vật": [
+        "Adrien",
+        "Marinette",
+        "Bồ câu"
+      ],
+      "Layout ưu tiên": "Ưu tiên",
+      "FX": "",
+      "Scene": "58"
+    },
+    "_title": "58",
+    "database_name": "SHOT LIST",
+    "project_name": "SHOT LIST",
+    "database_id": "2d4ccb0e-ac88-8037-b9e7-f60fa9babaae"
+  },
+  {
+    "id": "2d4ccb0e-ac88-8036-a4c8-c96986969abf",
+    "created_time": "2025-12-25T06:49:00.000Z",
+    "last_edited_time": "2025-12-26T03:59:00.000Z",
+    "properties": {
+      "Client Note ": "BE CAREFUL : the macaroon has been eated, it's not on the table anymore",
+      "Comp": "",
+      "Prop": [
+        "CHI_211_Prp_32_TeaPot",
+        "CHI_253_Prp_02_Tray",
+        "CHI_253_Prp_28_Money"
+      ],
+      "Combo": [],
+      "Brief": "Theo animatic",
+      "Cảnh ưu tiên ": "Ưu tiên",
+      "Background": "prop đồng xu bị thiếu (khách gửi)",
+      "Trạng thái Prop": false,
+      "Nhân vật": [
+        "Adrien"
+      ],
+      "Layout ưu tiên": null,
+      "FX": "",
+      "Scene": "28"
+    },
+    "_title": "28",
+    "database_name": "SHOT LIST",
+    "project_name": "SHOT LIST",
+    "database_id": "2d4ccb0e-ac88-8037-b9e7-f60fa9babaae"
+  },
+  {
+    "id": "2d4ccb0e-ac88-8039-b372-ea73247b6e1f",
+    "created_time": "2025-12-25T06:49:00.000Z",
+    "last_edited_time": "2025-12-26T04:00:00.000Z",
+    "properties": {
+      "Client Note ": null,
+      "Comp": "Comp làm ánh sáng hiệu ứng bling bling disco",
+      "Prop": [
+        "CHI_253_Prp_20_Micro",
+        "CHI_206_Prp_34_SeatBelt"
+      ],
+      "Combo": [
+        "5"
+      ],
+      "Brief": "Combo cùng góc vs sc 22, đoạn đầu dùng lại anim từ sc 22 luôn sau đó dừng lại khi nghe thấy tiếng còi",
+      "Cảnh ưu tiên ": "Ưu tiên",
+      "Background": "",
+      "Trạng thái Prop": false,
+      "Nhân vật": [
+        "Marinette"
+      ],
+      "Layout ưu tiên": null,
+      "FX": "",
+      "Scene": "24"
+    },
+    "_title": "24",
+    "database_name": "SHOT LIST",
+    "project_name": "SHOT LIST",
+    "database_id": "2d4ccb0e-ac88-8037-b9e7-f60fa9babaae"
+  },
+  {
+    "id": "2d4ccb0e-ac88-803f-8702-c2cd1c37d50c",
+    "created_time": "2025-12-25T06:49:00.000Z",
+    "last_edited_time": "2025-12-26T04:01:00.000Z",
+    "properties": {
+      "Client Note ": null,
+      "Comp": "",
+      "Prop": [
+        "CHI_206_Prp_34_SeatBelt"
+      ],
+      "Combo": [
+        "7"
+      ],
+      "Brief": "Theo animatic, chớp mắt",
+      "Cảnh ưu tiên ": "Ưu tiên",
+      "Background": "",
+      "Trạng thái Prop": false,
+      "Nhân vật": [
+        "Marinette"
+      ],
+      "Layout ưu tiên": null,
+      "FX": "",
+      "Scene": "31"
+    },
+    "_title": "31",
+    "database_name": "SHOT LIST",
+    "project_name": "SHOT LIST",
+    "database_id": "2d4ccb0e-ac88-8037-b9e7-f60fa9babaae"
+  },
+  {
+    "id": "2d4ccb0e-ac88-8048-bca0-dd24e0eacff9",
+    "created_time": "2025-12-25T06:51:00.000Z",
+    "last_edited_time": "2025-12-26T03:12:00.000Z",
+    "properties": {
+      "Client Note ": null,
+      "Comp": "",
+      "Prop": [
+        "CHI_211_Prp_32_TeaPot"
+      ],
+      "Combo": [],
+      "Brief": "Theo animatic",
+      "Cảnh ưu tiên ": "Ưu tiên",
+      "Background": "",
+      "Trạng thái Prop": false,
+      "Nhân vật": [
+        "Adrien",
+        "Marinette"
+      ],
+      "Layout ưu tiên": null,
+      "FX": "",
+      "Scene": "56"
+    },
+    "_title": "56",
+    "database_name": "SHOT LIST",
+    "project_name": "SHOT LIST",
+    "database_id": "2d4ccb0e-ac88-8037-b9e7-f60fa9babaae"
+  },
+  {
+    "id": "2d4ccb0e-ac88-8054-987f-ddaf3ae977ff",
+    "created_time": "2025-12-25T06:51:00.000Z",
+    "last_edited_time": "2025-12-26T03:12:00.000Z",
+    "properties": {
+      "Client Note ": "Don't forget the cup and the saucer",
+      "Comp": "",
+      "Prop": [
+        "CHI_211_Prp_32_TeaPot",
+        "CHI_253_Prp_02_Tray"
+      ],
+      "Combo": [],
+      "Brief": "Anim BG",
+      "Cảnh ưu tiên ": null,
+      "Background": "",
+      "Trạng thái Prop": false,
+      "Nhân vật": [],
+      "Layout ưu tiên": "Ưu tiên",
+      "FX": "",
+      "Scene": "48"
+    },
+    "_title": "48",
+    "database_name": "SHOT LIST",
+    "project_name": "SHOT LIST",
+    "database_id": "2d4ccb0e-ac88-8037-b9e7-f60fa9babaae"
+  },
+  {
+    "id": "2d4ccb0e-ac88-8056-9629-f4f45368017a",
+    "created_time": "2025-12-25T06:49:00.000Z",
+    "last_edited_time": "2025-12-26T03:33:00.000Z",
+    "properties": {
+      "Client Note ": "Chỉnh cái điện thoại của Marionette cho to ra cho khớp với interface",
+      "Comp": "",
+      "Prop": [
+        "CHI_211_Prp_32_TeaPot",
+        "Adapt CHI_218_Prp_02_InterfaceSmsAdrien (the top of the screen)",
+        "CHI_205_Prp_05_SmartphoneAdrien"
+      ],
+      "Combo": [],
+      "Brief": "Ibw: mồm hơi mấp máy theo thoại, có thể tham khảo các tập phim trong series của khách",
+      "Cảnh ưu tiên ": "Ưu tiên",
+      "Background": "Adapt CHI_218_Prp_02_InterfaceSmsAdrien (the top of the screen), change the hour to 16 PM + cam map at the comp stage ",
+      "Trạng thái Prop": false,
+      "Nhân vật": [
+        "Adrien"
+      ],
+      "Layout ưu tiên": null,
+      "FX": "",
+      "Scene": "6"
+    },
+    "_title": "6",
+    "database_name": "SHOT LIST",
+    "project_name": "SHOT LIST",
+    "database_id": "2d4ccb0e-ac88-8037-b9e7-f60fa9babaae"
+  },
+  {
+    "id": "2d4ccb0e-ac88-8058-bed7-dba79ecbc08f",
+    "created_time": "2025-12-25T06:51:00.000Z",
+    "last_edited_time": "2025-12-26T04:03:00.000Z",
+    "properties": {
+      "Client Note ": "The window of the car is animated",
+      "Comp": "",
+      "Prop": [
+        "xe chính 3D",
+        "CHI_205_Prp_05_SmartphoneAdrien"
+      ],
+      "Combo": [
+        "9"
+      ],
+      "Brief": "Anim xe trong blender theo animatic, lúc dừng lại thì cửa kính hạ xuống, có thể anim adrien trước\nAnim mây trôi",
+      "Cảnh ưu tiên ": "Ưu tiên",
+      "Background": "Please propose the color of the Sacre Cœur according to the style of the show and IMG_0956\nBe careful to not draw some crosses",
+      "Trạng thái Prop": false,
+      "Nhân vật": [
+        "Adrien"
+      ],
+      "Layout ưu tiên": "Ưu tiên",
+      "FX": "",
+      "Scene": "54"
+    },
+    "_title": "54",
+    "database_name": "SHOT LIST",
+    "project_name": "SHOT LIST",
+    "database_id": "2d4ccb0e-ac88-8037-b9e7-f60fa9babaae"
+  },
+  {
+    "id": "2d4ccb0e-ac88-805a-8186-d8b2c5f5e37c",
+    "created_time": "2025-12-25T06:49:00.000Z",
+    "last_edited_time": "2025-12-26T03:50:00.000Z",
+    "properties": {
+      "Client Note ": "Không cần cho nhân vật bẻ lái vô lăng, khi ở bên trong ô tô thì nên dùng BG, xe đi không quá nhanh, lúc nào nó cũng phải đeo dây bảo hiểm",
+      "Comp": "Be careful the window is not totally transparency ",
+      "Prop": [
+        "CHI_206_Prp_34_SeatBelt"
+      ],
+      "Combo": [
+        "3"
+      ],
+      "Brief": "Theo animatic, chớp mắt, anim bg chạy",
+      "Cảnh ưu tiên ": "Ưu tiên",
+      "Background": "Cycle BG of the streets to adapt\n",
+      "Trạng thái Prop": false,
+      "Nhân vật": [
+        "Marinette"
+      ],
+      "Layout ưu tiên": null,
+      "FX": "",
+      "Scene": "16"
+    },
+    "_title": "16",
+    "database_name": "SHOT LIST",
+    "project_name": "SHOT LIST",
+    "database_id": "2d4ccb0e-ac88-8037-b9e7-f60fa9babaae"
+  },
+  {
+    "id": "2d4ccb0e-ac88-805f-88f7-d78b0335f0d3",
+    "created_time": "2025-12-25T06:49:00.000Z",
+    "last_edited_time": "2025-12-26T03:33:00.000Z",
+    "properties": {
+      "Client Note ": null,
+      "Comp": "",
+      "Prop": [
+        "CHI_211_Prp_32_TeaPot",
+        "CHI_212_Prp_02_MacaronMarinette : inside the char",
+        "CHI_205_Prp_05_SmartphoneAdrien",
+        "CHI_253_Prp_02_Spoon"
+      ],
+      "Combo": [
+        "1",
+        "2"
+      ],
+      "Brief": "Pose ngồi adrian HU vs sc 2, pose tay cầm HU sc 3",
+      "Cảnh ưu tiên ": "Ưu tiên",
+      "Background": "",
+      "Trạng thái Prop": false,
+      "Nhân vật": [
+        "Bồi bàn"
+      ],
+      "Layout ưu tiên": null,
+      "FX": "Khói biến mất dần\nCHI_209_FX_64_Smoke",
+      "Scene": "4"
+    },
+    "_title": "4",
+    "database_name": "SHOT LIST",
+    "project_name": "SHOT LIST",
+    "database_id": "2d4ccb0e-ac88-8037-b9e7-f60fa9babaae"
+  },
+  {
+    "id": "2d4ccb0e-ac88-807d-a652-dab59f72d835",
+    "created_time": "2025-12-25T06:51:00.000Z",
+    "last_edited_time": "2025-12-26T04:21:00.000Z",
+    "properties": {
+      "Client Note ": "Be careful to be hook up with sc039",
+      "Comp": "",
+      "Prop": [],
+      "Combo": [],
+      "Brief": "Anim BG",
+      "Cảnh ưu tiên ": null,
+      "Background": "",
+      "Trạng thái Prop": false,
+      "Nhân vật": [],
+      "Layout ưu tiên": "Ưu tiên",
+      "FX": "",
+      "Scene": "45"
+    },
+    "_title": "45",
+    "database_name": "SHOT LIST",
+    "project_name": "SHOT LIST",
+    "database_id": "2d4ccb0e-ac88-8037-b9e7-f60fa9babaae"
+  },
+  {
+    "id": "2d4ccb0e-ac88-807d-bc6b-c82eb1683873",
+    "created_time": "2025-12-25T06:49:00.000Z",
+    "last_edited_time": "2025-12-26T02:29:00.000Z",
+    "properties": {
+      "Client Note ": null,
+      "Comp": "",
+      "Prop": [],
+      "Combo": [
+        "6"
+      ],
+      "Brief": "Anim bồ câu, chỉn góc hơi 3/4 chứ k phải 3/4 chuẩn, pose t2 thì hơi chính diện",
+      "Cảnh ưu tiên ": "Ưu tiên",
+      "Background": "",
+      "Trạng thái Prop": false,
+      "Nhân vật": [
+        "Bồ câu"
+      ],
+      "Layout ưu tiên": null,
+      "FX": "TrafficLights",
+      "Scene": "32"
+    },
+    "_title": "32",
+    "database_name": "SHOT LIST",
+    "project_name": "SHOT LIST",
+    "database_id": "2d4ccb0e-ac88-8037-b9e7-f60fa9babaae"
+  },
+  {
+    "id": "2d4ccb0e-ac88-8081-a05b-c48446bd2572",
+    "created_time": "2025-12-25T06:49:00.000Z",
+    "last_edited_time": "2025-12-26T03:55:00.000Z",
+    "properties": {
+      "Client Note ": null,
+      "Comp": "",
+      "Prop": [
+        "CHI_253_Prp_20_Micro",
+        "CHI_206_Prp_34_SeatBelt"
+      ],
+      "Combo": [
+        "3"
+      ],
+      "Brief": "Combo cùng góc với sc16, theo animatic, còn thời gian có thể sáng tạo hoặc đẩy pose dynamic hơn, chớp mắt",
+      "Cảnh ưu tiên ": null,
+      "Background": "",
+      "Trạng thái Prop": false,
+      "Nhân vật": [
+        "Marinette"
+      ],
+      "Layout ưu tiên": null,
+      "FX": "",
+      "Scene": "20"
+    },
+    "_title": "20",
+    "database_name": "SHOT LIST",
+    "project_name": "SHOT LIST",
+    "database_id": "2d4ccb0e-ac88-8037-b9e7-f60fa9babaae"
+  },
+  {
+    "id": "2d4ccb0e-ac88-8085-a011-d61ac3da0713",
+    "created_time": "2025-12-25T06:49:00.000Z",
+    "last_edited_time": "2025-12-26T03:59:00.000Z",
+    "properties": {
+      "Client Note ": null,
+      "Comp": "",
+      "Prop": [
+        "CHI_206_Prp_34_SeatBelt"
+      ],
+      "Combo": [
+        "3"
+      ],
+      "Brief": "Cùng combo với sc 16,20. cam zoom cận hơn 1 chút. Theo animatic, chớp mắt",
+      "Cảnh ưu tiên ": "Ưu tiên",
+      "Background": "",
+      "Trạng thái Prop": false,
+      "Nhân vật": [
+        "Marinette"
+      ],
+      "Layout ưu tiên": null,
+      "FX": "",
+      "Scene": "27"
+    },
+    "_title": "27",
+    "database_name": "SHOT LIST",
+    "project_name": "SHOT LIST",
+    "database_id": "2d4ccb0e-ac88-8037-b9e7-f60fa9babaae"
+  },
+  {
+    "id": "2d4ccb0e-ac88-8086-8ddd-cab1980c85f5",
+    "created_time": "2025-12-25T06:49:00.000Z",
+    "last_edited_time": "2025-12-26T02:28:00.000Z",
+    "properties": {
+      "Client Note ": "Mình phải tự design màu cho cái đèn giao thông, đèn có solar panel",
+      "Comp": "",
+      "Prop": [],
+      "Combo": [
+        "6"
+      ],
+      "Brief": "Anim BG",
+      "Cảnh ưu tiên ": null,
+      "Background": "",
+      "Trạng thái Prop": false,
+      "Nhân vật": [],
+      "Layout ưu tiên": "Ưu tiên",
+      "FX": "TrafficLights",
+      "Scene": "29"
+    },
+    "_title": "29",
+    "database_name": "SHOT LIST",
+    "project_name": "SHOT LIST",
+    "database_id": "2d4ccb0e-ac88-8037-b9e7-f60fa9babaae"
+  },
+  {
+    "id": "2d4ccb0e-ac88-8088-9733-f195f9824e78",
+    "created_time": "2025-12-25T06:51:00.000Z",
+    "last_edited_time": "2025-12-25T07:59:00.000Z",
+    "properties": {
+      "Client Note ": null,
+      "Comp": "",
+      "Prop": [
+        "xe chính 3D",
+        "xe phụ 2D"
+      ],
+      "Combo": [],
+      "Brief": "Anim xe chính trong blender theo animatic, prop 2D còn lại anim bth trong tb",
+      "Cảnh ưu tiên ": null,
+      "Background": "",
+      "Trạng thái Prop": false,
+      "Nhân vật": [],
+      "Layout ưu tiên": "Ưu tiên",
+      "FX": "",
+      "Scene": "43"
+    },
+    "_title": "43",
+    "database_name": "SHOT LIST",
+    "project_name": "SHOT LIST",
+    "database_id": "2d4ccb0e-ac88-8037-b9e7-f60fa9babaae"
+  },
+  {
+    "id": "2d4ccb0e-ac88-808e-90e4-c6bf0af985f8",
+    "created_time": "2025-12-25T06:49:00.000Z",
+    "last_edited_time": "2025-12-25T08:14:00.000Z",
+    "properties": {
+      "Client Note ": null,
+      "Comp": "",
+      "Prop": [],
+      "Combo": [],
+      "Brief": "Tay chạm vào app hát trên màn hình, sau đó pop up tiếp ra màn hình logo Ladybug",
+      "Cảnh ưu tiên ": null,
+      "Background": "",
+      "Trạng thái Prop": false,
+      "Nhân vật": [
+        "Marinette"
+      ],
+      "Layout ưu tiên": "Ưu tiên",
+      "FX": "",
+      "Scene": "21"
+    },
+    "_title": "21",
+    "database_name": "SHOT LIST",
+    "project_name": "SHOT LIST",
+    "database_id": "2d4ccb0e-ac88-8037-b9e7-f60fa9babaae"
+  },
+  {
+    "id": "2d4ccb0e-ac88-808f-84dc-df8757953084",
+    "created_time": "2025-12-25T06:51:00.000Z",
+    "last_edited_time": "2025-12-26T02:43:00.000Z",
+    "properties": {
+      "Client Note ": "Animation inside the screen speedometer",
+      "Comp": "",
+      "Prop": [],
+      "Combo": [],
+      "Brief": "Anim BG, xe hơi rung rung",
+      "Cảnh ưu tiên ": null,
+      "Background": "Ref of the Video 36 : 00'19, please redo the exact same colors",
+      "Trạng thái Prop": false,
+      "Nhân vật": [],
+      "Layout ưu tiên": "Ưu tiên",
+      "FX": "",
+      "Scene": "53"
+    },
+    "_title": "53",
+    "database_name": "SHOT LIST",
+    "project_name": "SHOT LIST",
+    "database_id": "2d4ccb0e-ac88-8037-b9e7-f60fa9babaae"
+  },
+  {
+    "id": "2d4ccb0e-ac88-8095-9f7b-e308000f24c3",
+    "created_time": "2025-12-25T06:50:00.000Z",
+    "last_edited_time": "2025-12-26T02:29:00.000Z",
+    "properties": {
+      "Client Note ": null,
+      "Comp": "",
+      "Prop": [],
+      "Combo": [
+        "6"
+      ],
+      "Brief": "Cùng combo bồ câu sc 34, cho chớp mắt lệch timing nhau",
+      "Cảnh ưu tiên ": "Ưu tiên",
+      "Background": "",
+      "Trạng thái Prop": false,
+      "Nhân vật": [
+        "Bồ câu"
+      ],
+      "Layout ưu tiên": null,
+      "FX": "TrafficLights\nFollow the board for the color",
+      "Scene": "36"
+    },
+    "_title": "36",
+    "database_name": "SHOT LIST",
+    "project_name": "SHOT LIST",
+    "database_id": "2d4ccb0e-ac88-8037-b9e7-f60fa9babaae"
+  },
+  {
+    "id": "2d4ccb0e-ac88-809b-a135-fb758a498329",
+    "created_time": "2025-12-25T06:49:00.000Z",
+    "last_edited_time": "2025-12-26T01:51:00.000Z",
+    "properties": {
+      "Client Note ": "lúc xe đi từ quán cafe thì chuyển từ BG sang speedline",
+      "Comp": "speedlight",
+      "Prop": [
+        "xe chính 3D"
+      ],
+      "Combo": [],
+      "Brief": "Anim xe trong blender theo animatic",
+      "Cảnh ưu tiên ": null,
+      "Background": "",
+      "Trạng thái Prop": false,
+      "Nhân vật": [],
+      "Layout ưu tiên": "Ưu tiên",
+      "FX": "",
+      "Scene": "13"
+    },
+    "_title": "13",
+    "database_name": "SHOT LIST",
+    "project_name": "SHOT LIST",
+    "database_id": "2d4ccb0e-ac88-8037-b9e7-f60fa9babaae"
+  },
+  {
+    "id": "2d4ccb0e-ac88-80a1-9a87-d8bc2442828a",
+    "created_time": "2025-12-25T06:49:00.000Z",
+    "last_edited_time": "2025-12-25T07:36:00.000Z",
+    "properties": {
+      "Client Note ": null,
+      "Comp": "",
+      "Prop": [
+        "xe chính 3D",
+        "xe phụ 2D"
+      ],
+      "Combo": [],
+      "Brief": "Anim bg prop, xe chính blender",
+      "Cảnh ưu tiên ": null,
+      "Background": "",
+      "Trạng thái Prop": false,
+      "Nhân vật": [],
+      "Layout ưu tiên": "Ưu tiên",
+      "FX": "",
+      "Scene": "25"
+    },
+    "_title": "25",
+    "database_name": "SHOT LIST",
+    "project_name": "SHOT LIST",
+    "database_id": "2d4ccb0e-ac88-8037-b9e7-f60fa9babaae"
+  },
+  {
+    "id": "2d4ccb0e-ac88-80a2-9374-c84ceff5ff7e",
+    "created_time": "2025-12-25T06:51:00.000Z",
+    "last_edited_time": "2025-12-26T04:03:00.000Z",
+    "properties": {
+      "Client Note ": null,
+      "Comp": "",
+      "Prop": [
+        "CHI_206_Prp_34_SeatBelt"
+      ],
+      "Combo": [],
+      "Brief": "Theo animatic",
+      "Cảnh ưu tiên ": "Ưu tiên",
+      "Background": "Behind the car, we're suppose to see the cafe",
+      "Trạng thái Prop": false,
+      "Nhân vật": [
+        "Marinette"
+      ],
+      "Layout ưu tiên": null,
+      "FX": "",
+      "Scene": "51"
+    },
+    "_title": "51",
+    "database_name": "SHOT LIST",
+    "project_name": "SHOT LIST",
+    "database_id": "2d4ccb0e-ac88-8037-b9e7-f60fa9babaae"
+  },
+  {
+    "id": "2d4ccb0e-ac88-80a3-84fc-f8f7171d5166",
+    "created_time": "2025-12-25T06:51:00.000Z",
+    "last_edited_time": "2025-12-26T02:42:00.000Z",
+    "properties": {
+      "Client Note ": null,
+      "Comp": "speedlight",
+      "Prop": [
+        "xe chính 3D"
+      ],
+      "Combo": [],
+      "Brief": "Anim xe trong blender theo animatic, xe di chuyển từ góc chéo 3/4 sang góc ngang, anim bg hoặc cam follow theo xe",
+      "Cảnh ưu tiên ": null,
+      "Background": "pan street\nBe careful with the perspectiv of the BG\nSpeedlines at the end of the scene (frame B)",
+      "Trạng thái Prop": false,
+      "Nhân vật": [],
+      "Layout ưu tiên": "Ưu tiên",
+      "FX": "",
+      "Scene": "52"
+    },
+    "_title": "52",
+    "database_name": "SHOT LIST",
+    "project_name": "SHOT LIST",
+    "database_id": "2d4ccb0e-ac88-8037-b9e7-f60fa9babaae"
+  },
+  {
+    "id": "2d4ccb0e-ac88-80a9-a7c6-f052eb7248b3",
+    "created_time": "2025-12-25T06:49:00.000Z",
+    "last_edited_time": "2025-12-26T02:23:00.000Z",
+    "properties": {
+      "Client Note ": "Lúc bị tắc đường thì các ô tô khác màu xám và phụt ra khói",
+      "Comp": "Comp xử lý nối 2 sc 18 19 sau cho thành cùng 1 chuyển động cam",
+      "Prop": [
+        "xe chính 3D"
+      ],
+      "Combo": [
+        "4"
+      ],
+      "Brief": "Nối tiếp sc18. chỉnh xe và cam trong blender sao cho gần sát với sc 18 sau đó comp sẽ xử lý",
+      "Cảnh ưu tiên ": null,
+      "Background": "Please use the board for ref",
+      "Trạng thái Prop": false,
+      "Nhân vật": [],
+      "Layout ưu tiên": "Ưu tiên",
+      "FX": "",
+      "Scene": "19"
+    },
+    "_title": "19",
+    "database_name": "SHOT LIST",
+    "project_name": "SHOT LIST",
+    "database_id": "2d4ccb0e-ac88-8037-b9e7-f60fa9babaae"
+  },
+  {
+    "id": "2d4ccb0e-ac88-80ae-816e-fca963497938",
+    "created_time": "2025-12-25T06:49:00.000Z",
+    "last_edited_time": "2025-12-26T03:33:00.000Z",
+    "properties": {
+      "Client Note ": null,
+      "Comp": "",
+      "Prop": [],
+      "Combo": [],
+      "Brief": "",
+      "Cảnh ưu tiên ": null,
+      "Background": "for the street use the bank\nCHI_200_BG_00_BakeryExt_Color_r010",
+      "Trạng thái Prop": false,
+      "Nhân vật": [],
+      "Layout ưu tiên": "Ưu tiên",
+      "FX": "200_FX_Sparkles on the car",
+      "Scene": "9"
+    },
+    "_title": "9",
+    "database_name": "SHOT LIST",
+    "project_name": "SHOT LIST",
+    "database_id": "2d4ccb0e-ac88-8037-b9e7-f60fa9babaae"
+  },
+  {
+    "id": "2d4ccb0e-ac88-80b0-ac28-c9e16233022e",
+    "created_time": "2025-12-25T06:51:00.000Z",
+    "last_edited_time": "2025-12-26T04:25:00.000Z",
+    "properties": {
+      "Client Note ": "According to the layout, there is a little bit of the screen",
+      "Comp": "",
+      "Prop": [
+        "xe phụ 2D"
+      ],
+      "Combo": [],
+      "Brief": "Anim prop BG",
+      "Cảnh ưu tiên ": null,
+      "Background": "street + garbage truck :CHI_206_39_Bgc_TK02_RTKMIC\nCHI_206_BG_05_StreetCleaningCarExt\nFor the color : ref sc047",
+      "Trạng thái Prop": false,
+      "Nhân vật": [],
+      "Layout ưu tiên": "Ưu tiên",
+      "FX": "",
+      "Scene": "41"
+    },
+    "_title": "41",
+    "database_name": "SHOT LIST",
+    "project_name": "SHOT LIST",
+    "database_id": "2d4ccb0e-ac88-8037-b9e7-f60fa9babaae"
+  },
+  {
+    "id": "2d4ccb0e-ac88-80b1-8f7c-efa30dc525a4",
+    "created_time": "2025-12-25T06:51:00.000Z",
+    "last_edited_time": "2025-12-26T04:04:00.000Z",
+    "properties": {
+      "Client Note ": "Lúc Marionette thò đầu ra cửa để gặp Adrian thì pop ra rất nhanh / The window of the car is animated HU sc054",
+      "Comp": "",
+      "Prop": [
+        "xe chính 3D",
+        "CHI_205_Prp_05_SmartphoneAdrien"
+      ],
+      "Combo": [
+        "9"
+      ],
+      "Brief": "Combo HU cùng với sc 54, cửa kính tiếp tục hạ, sau đó M thò đầu ra. adrian HU pose từ sc 54. \nCó thể anim Adrien và Marinette trước",
+      "Cảnh ưu tiên ": "Ưu tiên",
+      "Background": "",
+      "Trạng thái Prop": false,
+      "Nhân vật": [
+        "Adrien",
+        "Marinette"
+      ],
+      "Layout ưu tiên": "Ưu tiên",
+      "FX": "",
+      "Scene": "55"
+    },
+    "_title": "55",
+    "database_name": "SHOT LIST",
+    "project_name": "SHOT LIST",
+    "database_id": "2d4ccb0e-ac88-8037-b9e7-f60fa9babaae"
+  },
+  {
+    "id": "2d4ccb0e-ac88-80bd-9dcf-c1c189bac226",
+    "created_time": "2025-12-25T06:50:00.000Z",
+    "last_edited_time": "2025-12-26T02:29:00.000Z",
+    "properties": {
+      "Client Note ": null,
+      "Comp": "",
+      "Prop": [],
+      "Combo": [
+        "6"
+      ],
+      "Brief": "Cùng combo bồ câu sc 32, copy luôn r flip, cho con kia chớp mắt",
+      "Cảnh ưu tiên ": "Ưu tiên",
+      "Background": "",
+      "Trạng thái Prop": false,
+      "Nhân vật": [
+        "Bồ câu"
+      ],
+      "Layout ưu tiên": null,
+      "FX": "TrafficLights",
+      "Scene": "34"
+    },
+    "_title": "34",
+    "database_name": "SHOT LIST",
+    "project_name": "SHOT LIST",
+    "database_id": "2d4ccb0e-ac88-8037-b9e7-f60fa9babaae"
+  },
+  {
+    "id": "2d4ccb0e-ac88-80c5-b745-e0fbf38c9371",
+    "created_time": "2025-12-25T06:51:00.000Z",
+    "last_edited_time": "2025-12-26T04:25:00.000Z",
+    "properties": {
+      "Client Note ": null,
+      "Comp": "",
+      "Prop": [
+        "CHI_206_Prp_34_SeatBelt"
+      ],
+      "Combo": [
+        "8"
+      ],
+      "Brief": "Theo animatic, chớp mắt",
+      "Cảnh ưu tiên ": "Ưu tiên",
+      "Background": "",
+      "Trạng thái Prop": false,
+      "Nhân vật": [
+        "Marinette"
+      ],
+      "Layout ưu tiên": null,
+      "FX": "giọt mồ hôi",
+      "Scene": "42"
+    },
+    "_title": "42",
+    "database_name": "SHOT LIST",
+    "project_name": "SHOT LIST",
+    "database_id": "2d4ccb0e-ac88-8037-b9e7-f60fa9babaae"
+  },
+  {
+    "id": "2d4ccb0e-ac88-80c6-a3cb-d0a9ea0a9744",
+    "created_time": "2025-12-25T06:48:00.000Z",
+    "last_edited_time": "2025-12-29T02:00:00.000Z",
+    "properties": {
+      "Client Note ": "Thìa màu vàng, không phải thìa gỗ, simplify the spoon từ ref",
+      "Comp": "",
+      "Prop": [
+        "CHI_211_Prp_32_TeaPot",
+        "CHI_212_Prp_02_MacaronMarinette : inside the char",
+        "CHI_253_Prp_02_Spoon"
+      ],
+      "Combo": [
+        "2"
+      ],
+      "Brief": "Theo animatic",
+      "Cảnh ưu tiên ": "Ưu tiên",
+      "Background": "",
+      "Trạng thái Prop": false,
+      "Nhân vật": [
+        "Adrien"
+      ],
+      "Layout ưu tiên": null,
+      "FX": "CHI_209_FX_64_Smoke",
+      "Scene": "3"
+    },
+    "_title": "3",
+    "database_name": "SHOT LIST",
+    "project_name": "SHOT LIST",
+    "database_id": "2d4ccb0e-ac88-8037-b9e7-f60fa9babaae"
+  },
+  {
+    "id": "2d4ccb0e-ac88-80c9-b621-f0968e654b5e",
+    "created_time": "2025-12-25T06:49:00.000Z",
+    "last_edited_time": "2025-12-26T03:33:00.000Z",
+    "properties": {
+      "Client Note ": "cửa bakery mở sẵn",
+      "Comp": "",
+      "Prop": [
+        "xe chính 3D"
+      ],
+      "Combo": [],
+      "Brief": "1 smear ,chạy 1 bước sau đó dừng lại luôn",
+      "Cảnh ưu tiên ": "Ưu tiên",
+      "Background": "Add on the ref : CHI_200_BG_00_BakeryExt_Color_r010\nBe careful the door is open : the inside of the bakery is in the bank\nCHI_200_BG_00_BakeryInt_Color_r004",
+      "Trạng thái Prop": false,
+      "Nhân vật": [
+        "Marinette"
+      ],
+      "Layout ưu tiên": null,
+      "FX": "",
+      "Scene": "8"
+    },
+    "_title": "8",
+    "database_name": "SHOT LIST",
+    "project_name": "SHOT LIST",
+    "database_id": "2d4ccb0e-ac88-8037-b9e7-f60fa9babaae"
+  },
+  {
+    "id": "2d4ccb0e-ac88-80c9-b7ed-e9b1df4ef2c1",
+    "created_time": "2025-12-25T06:50:00.000Z",
+    "last_edited_time": "2025-12-26T04:01:00.000Z",
+    "properties": {
+      "Client Note ": null,
+      "Comp": "",
+      "Prop": [
+        "CHI_206_Prp_34_SeatBelt"
+      ],
+      "Combo": [
+        "7"
+      ],
+      "Brief": "Cùng combo góc mặt hơi ngửa lên với sc 33 nhưng cận hơn, theo animatic, hơi nhích nhích mắt tỏ thái độ",
+      "Cảnh ưu tiên ": "Ưu tiên",
+      "Background": "",
+      "Trạng thái Prop": false,
+      "Nhân vật": [
+        "Marinette"
+      ],
+      "Layout ưu tiên": null,
+      "FX": "giọt mồ hôi",
+      "Scene": "35"
+    },
+    "_title": "35",
+    "database_name": "SHOT LIST",
+    "project_name": "SHOT LIST",
+    "database_id": "2d4ccb0e-ac88-8037-b9e7-f60fa9babaae"
+  },
+  {
+    "id": "2d4ccb0e-ac88-80d0-89f7-e566db36a288",
+    "created_time": "2025-12-25T06:51:00.000Z",
+    "last_edited_time": "2025-12-26T03:12:00.000Z",
+    "properties": {
+      "Client Note ": null,
+      "Comp": "",
+      "Prop": [
+        "CHI_211_Prp_32_TeaPot"
+      ],
+      "Combo": [],
+      "Brief": "Theo animatic, cho adrian chớp mắt",
+      "Cảnh ưu tiên ": "Ưu tiên",
+      "Background": "",
+      "Trạng thái Prop": false,
+      "Nhân vật": [
+        "Adrien",
+        "Marinette"
+      ],
+      "Layout ưu tiên": null,
+      "FX": "",
+      "Scene": "57"
+    },
+    "_title": "57",
+    "database_name": "SHOT LIST",
+    "project_name": "SHOT LIST",
+    "database_id": "2d4ccb0e-ac88-8037-b9e7-f60fa9babaae"
+  },
+  {
+    "id": "2d4ccb0e-ac88-80d4-ba30-dd5de3e3acc0",
+    "created_time": "2025-12-25T06:49:00.000Z",
+    "last_edited_time": "2025-12-25T08:47:00.000Z",
+    "properties": {
+      "Client Note ": "Xe tránh 2 con chim thay vì đi qua đầu chúng nó",
+      "Comp": "",
+      "Prop": [
+        "xe chính 3D"
+      ],
+      "Combo": [],
+      "Brief": "Anim xe trong blender theo animatic, đi đc 1 đoạn thì nẽ bọn bồ câu out màn hình, sau đó lại vô màn hình mấy frame cuối\nAnim bồ câu mổ đồ ăn trên đường, sau đó lúc xe đi qua thì cho nhìn theo xe. cho timming bọn bồ câu lệch nhau",
+      "Cảnh ưu tiên ": null,
+      "Background": "",
+      "Trạng thái Prop": false,
+      "Nhân vật": [
+        "Bồ câu"
+      ],
+      "Layout ưu tiên": "Ưu tiên",
+      "FX": "",
+      "Scene": "15"
+    },
+    "_title": "15",
+    "database_name": "SHOT LIST",
+    "project_name": "SHOT LIST",
+    "database_id": "2d4ccb0e-ac88-8037-b9e7-f60fa9babaae"
+  },
+  {
+    "id": "2d4ccb0e-ac88-80d5-b919-f8599dab4c4b",
+    "created_time": "2025-12-25T06:50:00.000Z",
+    "last_edited_time": "2025-12-26T04:01:00.000Z",
+    "properties": {
+      "Client Note ": null,
+      "Comp": "",
+      "Prop": [
+        "CHI_206_Prp_34_SeatBelt"
+      ],
+      "Combo": [
+        "7"
+      ],
+      "Brief": "Cùng combo góc mặt hơi ngửa lên với sc 31, theo animatic, chớp mắt",
+      "Cảnh ưu tiên ": "Ưu tiên",
+      "Background": "",
+      "Trạng thái Prop": false,
+      "Nhân vật": [
+        "Marinette"
+      ],
+      "Layout ưu tiên": null,
+      "FX": "",
+      "Scene": "33"
+    },
+    "_title": "33",
+    "database_name": "SHOT LIST",
+    "project_name": "SHOT LIST",
+    "database_id": "2d4ccb0e-ac88-8037-b9e7-f60fa9babaae"
+  },
+  {
+    "id": "2d4ccb0e-ac88-80d8-b3e7-cf733721e8cd",
+    "created_time": "2025-12-25T06:49:00.000Z",
+    "last_edited_time": "2025-12-25T07:36:00.000Z",
+    "properties": {
+      "Client Note ": null,
+      "Comp": "",
+      "Prop": [
+        "xe chính 3D"
+      ],
+      "Combo": [],
+      "Brief": "Anim xe trong blender theo animatic",
+      "Cảnh ưu tiên ": null,
+      "Background": "",
+      "Trạng thái Prop": false,
+      "Nhân vật": [],
+      "Layout ưu tiên": "Ưu tiên",
+      "FX": "",
+      "Scene": "17"
+    },
+    "_title": "17",
+    "database_name": "SHOT LIST",
+    "project_name": "SHOT LIST",
+    "database_id": "2d4ccb0e-ac88-8037-b9e7-f60fa9babaae"
+  },
+  {
+    "id": "2d4ccb0e-ac88-80db-82fc-d522e79b6465",
+    "created_time": "2025-12-25T06:51:00.000Z",
+    "last_edited_time": "2025-12-26T04:03:00.000Z",
+    "properties": {
+      "Client Note ": null,
+      "Comp": "",
+      "Prop": [
+        "CHI_206_Prp_34_SeatBelt"
+      ],
+      "Combo": [],
+      "Brief": "Theo animatic",
+      "Cảnh ưu tiên ": null,
+      "Background": "",
+      "Trạng thái Prop": false,
+      "Nhân vật": [
+        "Marinette"
+      ],
+      "Layout ưu tiên": null,
+      "FX": "nước mắt hmuhmu",
+      "Scene": "49"
+    },
+    "_title": "49",
+    "database_name": "SHOT LIST",
+    "project_name": "SHOT LIST",
+    "database_id": "2d4ccb0e-ac88-8037-b9e7-f60fa9babaae"
+  },
+  {
+    "id": "2d4ccb0e-ac88-80de-8202-e81c42e0a621",
+    "created_time": "2025-12-25T06:51:00.000Z",
+    "last_edited_time": "2025-12-26T02:34:00.000Z",
+    "properties": {
+      "Client Note ": "Follow the board for the changment of the colors (green path)",
+      "Comp": "",
+      "Prop": [
+        "xe chính 3D",
+        "xe phụ 2D"
+      ],
+      "Combo": [],
+      "Brief": "Anim xe chính trong blender theo animatic, prop 2D còn lại anim bth trong tb",
+      "Cảnh ưu tiên ": null,
+      "Background": "Use the board as ref and CHIBI_BG_206_50\nRef sc043",
+      "Trạng thái Prop": false,
+      "Nhân vật": [],
+      "Layout ưu tiên": null,
+      "FX": "",
+      "Scene": "46"
+    },
+    "_title": "46",
+    "database_name": "SHOT LIST",
+    "project_name": "SHOT LIST",
+    "database_id": "2d4ccb0e-ac88-8037-b9e7-f60fa9babaae"
+  },
+  {
+    "id": "2d4ccb0e-ac88-80de-9e54-d770e4ed2034",
+    "created_time": "2025-12-25T06:49:00.000Z",
+    "last_edited_time": "2025-12-26T03:33:00.000Z",
+    "properties": {
+      "Client Note ": "Please put a green mask inside the props for the comp stage",
+      "Comp": "",
+      "Prop": [
+        "CHI_205_Prp_05_SmartphoneAdrien",
+        "CHI_208_Prp_02_DiaryMarinette",
+        "CHI_208_Prp_57_PenBlue"
+      ],
+      "Combo": [],
+      "Brief": "Phần thân dưới đứng yên chỉ nhích nhích",
+      "Cảnh ưu tiên ": "Ưu tiên",
+      "Background": "",
+      "Trạng thái Prop": false,
+      "Nhân vật": [
+        "Marinette"
+      ],
+      "Layout ưu tiên": null,
+      "FX": "",
+      "Scene": "5"
+    },
+    "_title": "5",
+    "database_name": "SHOT LIST",
+    "project_name": "SHOT LIST",
+    "database_id": "2d4ccb0e-ac88-8037-b9e7-f60fa9babaae"
+  },
+  {
+    "id": "2d4ccb0e-ac88-80de-ba62-d21db76567b3",
+    "created_time": "2025-12-25T06:51:00.000Z",
+    "last_edited_time": "2025-12-26T02:33:00.000Z",
+    "properties": {
+      "Client Note ": null,
+      "Comp": "",
+      "Prop": [],
+      "Combo": [],
+      "Brief": "Anim BG",
+      "Cảnh ưu tiên ": null,
+      "Background": "CU sc011 : adapt the board according to the ref sc011\nStreet",
+      "Trạng thái Prop": false,
+      "Nhân vật": [],
+      "Layout ưu tiên": "Ưu tiên",
+      "FX": "",
+      "Scene": "39"
+    },
+    "_title": "39",
+    "database_name": "SHOT LIST",
+    "project_name": "SHOT LIST",
+    "database_id": "2d4ccb0e-ac88-8037-b9e7-f60fa9babaae"
+  },
+  {
+    "id": "2d4ccb0e-ac88-80e0-8f38-d243c3c48567",
+    "created_time": "2025-12-25T06:49:00.000Z",
+    "last_edited_time": "2025-12-26T04:00:00.000Z",
+    "properties": {
+      "Client Note ": null,
+      "Comp": "",
+      "Prop": [
+        "xe chính 3D"
+      ],
+      "Combo": [],
+      "Brief": "Anim bồ câu feel the beat bùm chát chát, con tĩnh cho chớp mắt",
+      "Cảnh ưu tiên ": "Ưu tiên",
+      "Background": "",
+      "Trạng thái Prop": false,
+      "Nhân vật": [
+        "Bồ câu"
+      ],
+      "Layout ưu tiên": null,
+      "FX": "",
+      "Scene": "23"
+    },
+    "_title": "23",
+    "database_name": "SHOT LIST",
+    "project_name": "SHOT LIST",
+    "database_id": "2d4ccb0e-ac88-8037-b9e7-f60fa9babaae"
+  },
+  {
+    "id": "2d4ccb0e-ac88-80e0-a297-df8cd62cd9ad",
+    "created_time": "2025-12-25T06:51:00.000Z",
+    "last_edited_time": "2025-12-26T04:03:00.000Z",
+    "properties": {
+      "Client Note ": null,
+      "Comp": "",
+      "Prop": [
+        "CHI_206_Prp_34_SeatBelt"
+      ],
+      "Combo": [
+        "8"
+      ],
+      "Brief": "Cùng combo góc với sc 42, theo animatic, chớp mắt",
+      "Cảnh ưu tiên ": "Ưu tiên",
+      "Background": "",
+      "Trạng thái Prop": false,
+      "Nhân vật": [
+        "Marinette"
+      ],
+      "Layout ưu tiên": null,
+      "FX": "giọt mồ hôi",
+      "Scene": "44"
+    },
+    "_title": "44",
+    "database_name": "SHOT LIST",
+    "project_name": "SHOT LIST",
+    "database_id": "2d4ccb0e-ac88-8037-b9e7-f60fa9babaae"
+  },
+  {
+    "id": "2d4ccb0e-ac88-80e8-93bb-c7e80e4f4596",
+    "created_time": "2025-12-25T06:49:00.000Z",
+    "last_edited_time": "2025-12-26T01:52:00.000Z",
+    "properties": {
+      "Client Note ": "Khi ở bên ngoài ô tô thì có thể dùng speedlight",
+      "Comp": "speedlight",
+      "Prop": [
+        "xe chính 3D"
+      ],
+      "Combo": [],
+      "Brief": "Anim ánh sáng phả lên xe trong blender, anim xe hơi rung rung",
+      "Cảnh ưu tiên ": null,
+      "Background": "",
+      "Trạng thái Prop": false,
+      "Nhân vật": [],
+      "Layout ưu tiên": "Ưu tiên",
+      "FX": "",
+      "Scene": "14"
+    },
+    "_title": "14",
+    "database_name": "SHOT LIST",
+    "project_name": "SHOT LIST",
+    "database_id": "2d4ccb0e-ac88-8037-b9e7-f60fa9babaae"
+  },
+  {
+    "id": "2d4ccb0e-ac88-80f2-9ad6-c8e676d152e8",
+    "created_time": "2025-12-25T06:50:00.000Z",
+    "last_edited_time": "2025-12-26T04:01:00.000Z",
+    "properties": {
+      "Client Note ": null,
+      "Comp": "",
+      "Prop": [
+        "CHI_206_Prp_34_SeatBelt"
+      ],
+      "Combo": [
+        "7"
+      ],
+      "Brief": "Cùng combo góc mặt hơi ngửa lên với sc 35, theo animatic",
+      "Cảnh ưu tiên ": "Ưu tiên",
+      "Background": "",
+      "Trạng thái Prop": false,
+      "Nhân vật": [
+        "Marinette"
+      ],
+      "Layout ưu tiên": null,
+      "FX": "",
+      "Scene": "37"
+    },
+    "_title": "37",
+    "database_name": "SHOT LIST",
+    "project_name": "SHOT LIST",
+    "database_id": "2d4ccb0e-ac88-8037-b9e7-f60fa9babaae"
+  },
+  {
+    "id": "2d4ccb0e-ac88-80f3-b255-d54039886308",
+    "created_time": "2025-12-25T06:51:00.000Z",
+    "last_edited_time": "2025-12-25T07:58:00.000Z",
+    "properties": {
+      "Client Note ": null,
+      "Comp": "",
+      "Prop": [
+        "xe chính 3D"
+      ],
+      "Combo": [],
+      "Brief": "Anim xe trong blender theo animatic",
+      "Cảnh ưu tiên ": null,
+      "Background": "",
+      "Trạng thái Prop": false,
+      "Nhân vật": [],
+      "Layout ưu tiên": "Ưu tiên",
+      "FX": "",
+      "Scene": "40"
+    },
+    "_title": "40",
+    "database_name": "SHOT LIST",
+    "project_name": "SHOT LIST",
+    "database_id": "2d4ccb0e-ac88-8037-b9e7-f60fa9babaae"
+  },
+  {
+    "id": "2d4ccb0e-ac88-80fd-b804-f05c3be14675",
+    "created_time": "2025-12-25T06:49:00.000Z",
+    "last_edited_time": "2025-12-26T02:29:00.000Z",
+    "properties": {
+      "Client Note ": null,
+      "Comp": "",
+      "Prop": [
+        "xe chính 3D"
+      ],
+      "Combo": [],
+      "Brief": "Anim xe trong blender theo animatic",
+      "Cảnh ưu tiên ": null,
+      "Background": "",
+      "Trạng thái Prop": false,
+      "Nhân vật": [],
+      "Layout ưu tiên": "Ưu tiên",
+      "FX": "FX red light behind the car\nTrafficLights",
+      "Scene": "30"
+    },
+    "_title": "30",
+    "database_name": "SHOT LIST",
+    "project_name": "SHOT LIST",
+    "database_id": "2d4ccb0e-ac88-8037-b9e7-f60fa9babaae"
+  }
+]

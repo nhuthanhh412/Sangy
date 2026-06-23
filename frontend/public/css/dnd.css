@@ -1,0 +1,17 @@
+
+/* index.css */
+
+/* ... (Assumption: user has some existing CSS, we are just adding drag styles) ... */
+
+.project-group-droppable.drag-over {
+    border: 2px dashed #00bfff !important; /* Bright blue dashed border */
+    background-color: rgba(0, 191, 255, 0.1) !important;
+    border-radius: 8px;
+    padding: 5px; /* Add padding to make sure border doesn't overlap text */
+    transition: all 0.2s ease;
+}
+
+.database-item.dragging {
+    opacity: 0.5;
+    background-color: #333;
+}

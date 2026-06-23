@@ -1,0 +1,3819 @@
+[
+  {
+    "id": "2fbccb0e-ac88-8060-acd8-ebb430293daf",
+    "created_time": "2026-02-02T02:37:00.000Z",
+    "last_edited_time": "2026-02-09T07:27:00.000Z",
+    "properties": {
+      "NLTT": 4.5,
+      "Point Status": [
+        "Confirmed"
+      ],
+      "Product Point": [
+        25
+      ],
+      "Ngày làm": {
+        "start": "2026-01-29",
+        "end": null
+      },
+      "Product Status": [
+        "QC Approved"
+      ],
+      "Required by": [
+        "Internal"
+      ],
+      "Product (1)": [
+        "Styleframe LO01 - living room"
+      ],
+      "Trọng số TP": 1,
+      "Product Type": [
+        "Layout"
+      ],
+      "Task QC": "1/2",
+      "TP thực tế": 21.74,
+      "Task type": "Main",
+      "Task fix": "0/2",
+      "Sprint": null,
+      "Task Status": "Done",
+      "Episode": [
+        {
+          "type": "select",
+          "select": null
+        }
+      ],
+      "Assignee": [
+        {
+          "id": "591f230f-efcf-478e-9dc0-6529bf787f1f",
+          "name": "Thanh Nguyễn ",
+          "email": "thanhnt@sangygroup.com"
+        }
+      ],
+      "UTNL": [
+        4
+      ],
+      "Product": [
+        "2f6ccb0e-ac88-8074-9fe1-ee5b8c7a7171"
+      ],
+      "Created time": null,
+      "Task main": "1/2",
+      "Loại cảnh": [
+        "C"
+      ],
+      "Tasks": "Styleframe LO01 - living room QC Approved 1"
+    },
+    "_title": "Styleframe LO01 - living room QC Approved 1",
+    "database_name": "[OTH] Tasks",
+    "project_name": "[OTH] Tasks",
+    "database_id": "2f6ccb0e-ac88-803a-a0b0-edccc8397943"
+  },
+  {
+    "id": "2fbccb0e-ac88-80bc-8e4e-e0fb31bf14bc",
+    "created_time": "2026-02-02T02:47:00.000Z",
+    "last_edited_time": "2026-02-26T07:42:00.000Z",
+    "properties": {
+      "NLTT": null,
+      "Point Status": [
+        "Confirmed"
+      ],
+      "Product Point": [
+        5
+      ],
+      "Ngày làm": {
+        "start": "2026-02-02",
+        "end": null
+      },
+      "Product Status": [
+        "Client Approved"
+      ],
+      "Required by": [
+        "External"
+      ],
+      "Product (1)": [
+        "FIX CLIENT Styleframe LO01 - living room"
+      ],
+      "Trọng số TP": 1,
+      "Product Type": [
+        "Layout"
+      ],
+      "Task QC": "0/1",
+      "TP thực tế": 5,
+      "Task type": "Main",
+      "Task fix": "0/1",
+      "Sprint": null,
+      "Task Status": "Done",
+      "Episode": [
+        {
+          "type": "select",
+          "select": null
+        }
+      ],
+      "Assignee": [
+        {
+          "id": "591f230f-efcf-478e-9dc0-6529bf787f1f",
+          "name": "Thanh Nguyễn ",
+          "email": "thanhnt@sangygroup.com"
+        }
+      ],
+      "UTNL": [],
+      "Product": [
+        "2fbccb0e-ac88-8073-b311-c3892ff1b728"
+      ],
+      "Created time": null,
+      "Task main": "1/1",
+      "Loại cảnh": [
+        "E"
+      ],
+      "Tasks": "FIX CLIENT Styleframe LO01 - living room Need Fix Client 1"
+    },
+    "_title": "FIX CLIENT Styleframe LO01 - living room Need Fix Client 1",
+    "database_name": "[OTH] Tasks",
+    "project_name": "[OTH] Tasks",
+    "database_id": "2f6ccb0e-ac88-803a-a0b0-edccc8397943"
+  },
+  {
+    "id": "2fbccb0e-ac88-80d3-81a1-ff1fbf70e3bb",
+    "created_time": "2026-02-02T02:38:00.000Z",
+    "last_edited_time": "2026-02-09T07:26:00.000Z",
+    "properties": {
+      "NLTT": 1,
+      "Point Status": [
+        "Confirmed"
+      ],
+      "Product Point": [
+        14
+      ],
+      "Ngày làm": {
+        "start": "2026-01-30",
+        "end": null
+      },
+      "Product Status": [
+        "QC Approved"
+      ],
+      "Required by": [
+        "Internal"
+      ],
+      "Product (1)": [
+        "Styleframe LO02 - Coat Closet"
+      ],
+      "Trọng số TP": 1,
+      "Product Type": [
+        "Layout"
+      ],
+      "Task QC": "1/2",
+      "TP thực tế": 12.17,
+      "Task type": "Main",
+      "Task fix": "0/2",
+      "Sprint": null,
+      "Task Status": "Done",
+      "Episode": [
+        {
+          "type": "select",
+          "select": null
+        }
+      ],
+      "Assignee": [
+        {
+          "id": "591f230f-efcf-478e-9dc0-6529bf787f1f",
+          "name": "Thanh Nguyễn ",
+          "email": "thanhnt@sangygroup.com"
+        }
+      ],
+      "UTNL": [
+        2
+      ],
+      "Product": [
+        "2f6ccb0e-ac88-8034-bcb2-c0914aad8ecf"
+      ],
+      "Created time": null,
+      "Task main": "1/2",
+      "Loại cảnh": [
+        "D"
+      ],
+      "Tasks": "Styleframe LO02 - Coat Closet QC Approved 1"
+    },
+    "_title": "Styleframe LO02 - Coat Closet QC Approved 1",
+    "database_name": "[OTH] Tasks",
+    "project_name": "[OTH] Tasks",
+    "database_id": "2f6ccb0e-ac88-803a-a0b0-edccc8397943"
+  },
+  {
+    "id": "2fbccb0e-ac88-8118-9c15-e2fb0861c6ca",
+    "created_time": "2026-02-02T02:30:00.000Z",
+    "last_edited_time": "2026-02-09T07:48:00.000Z",
+    "properties": {
+      "NLTT": null,
+      "Point Status": [
+        "Confirmed"
+      ],
+      "Product Point": [
+        14
+      ],
+      "Ngày làm": {
+        "start": "2026-01-30",
+        "end": null
+      },
+      "Product Status": [
+        "QC Approved"
+      ],
+      "Required by": [
+        "Internal"
+      ],
+      "Product (1)": [
+        "Styleframe LO02 - Coat Closet"
+      ],
+      "Trọng số TP": 0.15,
+      "Product Type": [
+        "Layout"
+      ],
+      "Task QC": "1/2",
+      "TP thực tế": 1.83,
+      "Task type": "QC",
+      "Task fix": "0/2",
+      "Sprint": null,
+      "Task Status": "Done QC",
+      "Episode": [
+        {
+          "type": "select",
+          "select": null
+        }
+      ],
+      "Assignee": [
+        {
+          "id": "2b47d5ac-bd39-4aad-8e95-23ea4ab9b925",
+          "name": "Hoàng Hà",
+          "email": "hoanghh@sangygroup.com"
+        }
+      ],
+      "UTNL": [
+        2
+      ],
+      "Product": [
+        "2f6ccb0e-ac88-8034-bcb2-c0914aad8ecf"
+      ],
+      "Created time": null,
+      "Task main": "1/2",
+      "Loại cảnh": [
+        "D"
+      ],
+      "Tasks": "Styleframe LO02 - Coat Closet ver1"
+    },
+    "_title": "Styleframe LO02 - Coat Closet ver1",
+    "database_name": "[OTH] Tasks",
+    "project_name": "[OTH] Tasks",
+    "database_id": "2f6ccb0e-ac88-803a-a0b0-edccc8397943"
+  },
+  {
+    "id": "2fbccb0e-ac88-8190-a4c6-c73f198301c5",
+    "created_time": "2026-02-02T02:30:00.000Z",
+    "last_edited_time": "2026-02-09T07:26:00.000Z",
+    "properties": {
+      "NLTT": null,
+      "Point Status": [
+        "Confirmed"
+      ],
+      "Product Point": [
+        25
+      ],
+      "Ngày làm": {
+        "start": "2026-01-30",
+        "end": null
+      },
+      "Product Status": [
+        "QC Approved"
+      ],
+      "Required by": [
+        "Internal"
+      ],
+      "Product (1)": [
+        "Styleframe LO01 - living room"
+      ],
+      "Trọng số TP": 0.15,
+      "Product Type": [
+        "Layout"
+      ],
+      "Task QC": "1/2",
+      "TP thực tế": 3.26,
+      "Task type": "QC",
+      "Task fix": "0/2",
+      "Sprint": null,
+      "Task Status": "Done QC",
+      "Episode": [
+        {
+          "type": "select",
+          "select": null
+        }
+      ],
+      "Assignee": [
+        {
+          "id": "2b47d5ac-bd39-4aad-8e95-23ea4ab9b925",
+          "name": "Hoàng Hà",
+          "email": "hoanghh@sangygroup.com"
+        }
+      ],
+      "UTNL": [
+        4
+      ],
+      "Product": [
+        "2f6ccb0e-ac88-8074-9fe1-ee5b8c7a7171"
+      ],
+      "Created time": null,
+      "Task main": "1/2",
+      "Loại cảnh": [
+        "C"
+      ],
+      "Tasks": "Styleframe LO01 - living room ver1"
+    },
+    "_title": "Styleframe LO01 - living room ver1",
+    "database_name": "[OTH] Tasks",
+    "project_name": "[OTH] Tasks",
+    "database_id": "2f6ccb0e-ac88-803a-a0b0-edccc8397943"
+  },
+  {
+    "id": "302ccb0e-ac88-8049-b504-ec3edbac6579",
+    "created_time": "2026-02-09T03:33:00.000Z",
+    "last_edited_time": "2026-02-24T02:42:00.000Z",
+    "properties": {
+      "NLTT": null,
+      "Point Status": [
+        "Unconfirmed"
+      ],
+      "Product Point": [
+        1
+      ],
+      "Ngày làm": {
+        "start": "2026-02-09",
+        "end": null
+      },
+      "Product Status": [
+        "Pending Review"
+      ],
+      "Required by": [
+        "External"
+      ],
+      "Product (1)": [
+        "FIX CLIENT Styleframe BG01 - living room"
+      ],
+      "Trọng số TP": 1,
+      "Product Type": [
+        "Background"
+      ],
+      "Task QC": "0/2",
+      "TP thực tế": 1,
+      "Task type": "Main",
+      "Task fix": "0/2",
+      "Sprint": null,
+      "Task Status": "Done",
+      "Episode": [
+        {
+          "type": "select",
+          "select": null
+        }
+      ],
+      "Assignee": [
+        {
+          "id": "591f230f-efcf-478e-9dc0-6529bf787f1f",
+          "name": "Thanh Nguyễn ",
+          "email": "thanhnt@sangygroup.com"
+        }
+      ],
+      "UTNL": [
+        0.25
+      ],
+      "Product": [
+        "302ccb0e-ac88-809d-9938-c459f80681e4"
+      ],
+      "Created time": null,
+      "Task main": "1/2",
+      "Loại cảnh": [
+        "F"
+      ],
+      "Tasks": "FIX CLIENT Styleframe BG01 - living room Need Fix Client 1"
+    },
+    "_title": "FIX CLIENT Styleframe BG01 - living room Need Fix Client 1",
+    "database_name": "[OTH] Tasks",
+    "project_name": "[OTH] Tasks",
+    "database_id": "2f6ccb0e-ac88-803a-a0b0-edccc8397943"
+  },
+  {
+    "id": "302ccb0e-ac88-8089-9f79-d48627576248",
+    "created_time": "2026-02-09T07:49:00.000Z",
+    "last_edited_time": "2026-02-26T07:44:00.000Z",
+    "properties": {
+      "NLTT": null,
+      "Point Status": [
+        "Confirmed",
+        "Unconfirmed"
+      ],
+      "Product Point": [
+        25,
+        5
+      ],
+      "Ngày làm": {
+        "start": "2026-02-09",
+        "end": null
+      },
+      "Product Status": [
+        "QC Approved",
+        "Pending Review"
+      ],
+      "Required by": [
+        "Internal",
+        "External"
+      ],
+      "Product (1)": [
+        "Styleframe BG01 - living room",
+        "FIX CLIENT Styleframe BG01 - living room V2"
+      ],
+      "Trọng số TP": 1,
+      "Product Type": [
+        "Background",
+        "Background"
+      ],
+      "Task QC": "1/2,2/4",
+      "TP thực tế": 21.74,
+      "Task type": "Main",
+      "Task fix": "0/2,0/4",
+      "Sprint": null,
+      "Task Status": "Done",
+      "Episode": [
+        {
+          "type": "select",
+          "select": null
+        },
+        {
+          "type": "select",
+          "select": null
+        }
+      ],
+      "Assignee": [
+        {
+          "id": "591f230f-efcf-478e-9dc0-6529bf787f1f",
+          "name": "Thanh Nguyễn ",
+          "email": "thanhnt@sangygroup.com"
+        }
+      ],
+      "UTNL": [
+        3.5,
+        3.5
+      ],
+      "Product": [
+        "2f7ccb0e-ac88-8012-931c-e6fa82e2afb9",
+        "311ccb0e-ac88-8033-8f10-ec2c8f4fb156"
+      ],
+      "Created time": null,
+      "Task main": "1/2,1/4",
+      "Loại cảnh": [
+        "C",
+        "E"
+      ],
+      "Tasks": "Styleframe BG01 - living room QC Approved 1"
+    },
+    "_title": "Styleframe BG01 - living room QC Approved 1",
+    "database_name": "[OTH] Tasks",
+    "project_name": "[OTH] Tasks",
+    "database_id": "2f6ccb0e-ac88-803a-a0b0-edccc8397943"
+  },
+  {
+    "id": "302ccb0e-ac88-80f2-bc2e-e862462f3157",
+    "created_time": "2026-02-09T03:33:00.000Z",
+    "last_edited_time": "2026-02-24T02:42:00.000Z",
+    "properties": {
+      "NLTT": null,
+      "Point Status": [
+        "Unconfirmed"
+      ],
+      "Product Point": [
+        5
+      ],
+      "Ngày làm": {
+        "start": "2026-02-09",
+        "end": null
+      },
+      "Product Status": [
+        "Pending Review"
+      ],
+      "Required by": [
+        "External"
+      ],
+      "Product (1)": [
+        "FIX CLIENT Styleframe BG02 - Coat Closet "
+      ],
+      "Trọng số TP": 1,
+      "Product Type": [
+        "Background"
+      ],
+      "Task QC": "0/2",
+      "TP thực tế": 5,
+      "Task type": "Main",
+      "Task fix": "0/2",
+      "Sprint": null,
+      "Task Status": "Done",
+      "Episode": [
+        {
+          "type": "select",
+          "select": null
+        }
+      ],
+      "Assignee": [
+        {
+          "id": "591f230f-efcf-478e-9dc0-6529bf787f1f",
+          "name": "Thanh Nguyễn ",
+          "email": "thanhnt@sangygroup.com"
+        }
+      ],
+      "UTNL": [
+        0.25
+      ],
+      "Product": [
+        "302ccb0e-ac88-80fb-bb24-f73b1a76573e"
+      ],
+      "Created time": null,
+      "Task main": "1/2",
+      "Loại cảnh": [
+        "E"
+      ],
+      "Tasks": "FIX CLIENT Styleframe BG02 - Coat Closet  Need Fix Client 1"
+    },
+    "_title": "FIX CLIENT Styleframe BG02 - Coat Closet  Need Fix Client 1",
+    "database_name": "[OTH] Tasks",
+    "project_name": "[OTH] Tasks",
+    "database_id": "2f6ccb0e-ac88-803a-a0b0-edccc8397943"
+  },
+  {
+    "id": "302ccb0e-ac88-80f9-a36a-f70a8a81c400",
+    "created_time": "2026-02-09T07:49:00.000Z",
+    "last_edited_time": "2026-02-26T07:44:00.000Z",
+    "properties": {
+      "NLTT": null,
+      "Point Status": [
+        "Confirmed"
+      ],
+      "Product Point": [
+        14
+      ],
+      "Ngày làm": {
+        "start": "2026-02-09",
+        "end": null
+      },
+      "Product Status": [
+        "QC Approved"
+      ],
+      "Required by": [
+        "Internal"
+      ],
+      "Product (1)": [
+        "Styleframe BG02 - Coat Closet"
+      ],
+      "Trọng số TP": 1,
+      "Product Type": [
+        "Background"
+      ],
+      "Task QC": "1/2",
+      "TP thực tế": 12.17,
+      "Task type": "Main",
+      "Task fix": "0/2",
+      "Sprint": null,
+      "Task Status": "Done",
+      "Episode": [
+        {
+          "type": "select",
+          "select": null
+        }
+      ],
+      "Assignee": [
+        {
+          "id": "591f230f-efcf-478e-9dc0-6529bf787f1f",
+          "name": "Thanh Nguyễn ",
+          "email": "thanhnt@sangygroup.com"
+        }
+      ],
+      "UTNL": [
+        1.5
+      ],
+      "Product": [
+        "2f7ccb0e-ac88-8071-9ae2-e3553e375fe7"
+      ],
+      "Created time": null,
+      "Task main": "1/2",
+      "Loại cảnh": [
+        "D"
+      ],
+      "Tasks": "Styleframe BG02 - Coat Closet QC Approved 1"
+    },
+    "_title": "Styleframe BG02 - Coat Closet QC Approved 1",
+    "database_name": "[OTH] Tasks",
+    "project_name": "[OTH] Tasks",
+    "database_id": "2f6ccb0e-ac88-803a-a0b0-edccc8397943"
+  },
+  {
+    "id": "302ccb0e-ac88-8192-a139-de06e8a94857",
+    "created_time": "2026-02-09T03:30:00.000Z",
+    "last_edited_time": "2026-02-09T07:27:00.000Z",
+    "properties": {
+      "NLTT": null,
+      "Point Status": [
+        "Confirmed"
+      ],
+      "Product Point": [
+        14
+      ],
+      "Ngày làm": {
+        "start": "2026-02-02",
+        "end": null
+      },
+      "Product Status": [
+        "QC Approved"
+      ],
+      "Required by": [
+        "Internal"
+      ],
+      "Product (1)": [
+        "Styleframe BG02 - Coat Closet"
+      ],
+      "Trọng số TP": 0.15,
+      "Product Type": [
+        "Background"
+      ],
+      "Task QC": "1/2",
+      "TP thực tế": 1.83,
+      "Task type": "QC",
+      "Task fix": "0/2",
+      "Sprint": null,
+      "Task Status": "Done QC",
+      "Episode": [
+        {
+          "type": "select",
+          "select": null
+        }
+      ],
+      "Assignee": [
+        {
+          "id": "2b47d5ac-bd39-4aad-8e95-23ea4ab9b925",
+          "name": "Hoàng Hà",
+          "email": "hoanghh@sangygroup.com"
+        }
+      ],
+      "UTNL": [
+        1.5
+      ],
+      "Product": [
+        "2f7ccb0e-ac88-8071-9ae2-e3553e375fe7"
+      ],
+      "Created time": null,
+      "Task main": "1/2",
+      "Loại cảnh": [
+        "D"
+      ],
+      "Tasks": "Styleframe BG02 - Coat Closet ver1"
+    },
+    "_title": "Styleframe BG02 - Coat Closet ver1",
+    "database_name": "[OTH] Tasks",
+    "project_name": "[OTH] Tasks",
+    "database_id": "2f6ccb0e-ac88-803a-a0b0-edccc8397943"
+  },
+  {
+    "id": "302ccb0e-ac88-81c2-ba8a-dc914ce03c63",
+    "created_time": "2026-02-09T03:30:00.000Z",
+    "last_edited_time": "2026-02-09T07:27:00.000Z",
+    "properties": {
+      "NLTT": null,
+      "Point Status": [
+        "Confirmed",
+        "Unconfirmed"
+      ],
+      "Product Point": [
+        25,
+        5
+      ],
+      "Ngày làm": {
+        "start": "2026-02-02",
+        "end": null
+      },
+      "Product Status": [
+        "QC Approved",
+        "Pending Review"
+      ],
+      "Required by": [
+        "Internal",
+        "External"
+      ],
+      "Product (1)": [
+        "Styleframe BG01 - living room",
+        "FIX CLIENT Styleframe BG01 - living room V2"
+      ],
+      "Trọng số TP": 0.15,
+      "Product Type": [
+        "Background",
+        "Background"
+      ],
+      "Task QC": "1/2,2/4",
+      "TP thực tế": 3.26,
+      "Task type": "QC",
+      "Task fix": "0/2,0/4",
+      "Sprint": null,
+      "Task Status": "Done QC",
+      "Episode": [
+        {
+          "type": "select",
+          "select": null
+        },
+        {
+          "type": "select",
+          "select": null
+        }
+      ],
+      "Assignee": [
+        {
+          "id": "2b47d5ac-bd39-4aad-8e95-23ea4ab9b925",
+          "name": "Hoàng Hà",
+          "email": "hoanghh@sangygroup.com"
+        }
+      ],
+      "UTNL": [
+        3.5,
+        3.5
+      ],
+      "Product": [
+        "2f7ccb0e-ac88-8012-931c-e6fa82e2afb9",
+        "311ccb0e-ac88-8033-8f10-ec2c8f4fb156"
+      ],
+      "Created time": null,
+      "Task main": "1/2,1/4",
+      "Loại cảnh": [
+        "C",
+        "E"
+      ],
+      "Tasks": "Styleframe BG01 - living room ver1"
+    },
+    "_title": "Styleframe BG01 - living room ver1",
+    "database_name": "[OTH] Tasks",
+    "project_name": "[OTH] Tasks",
+    "database_id": "2f6ccb0e-ac88-803a-a0b0-edccc8397943"
+  },
+  {
+    "id": "306ccb0e-ac88-8041-9d87-c21d69503e36",
+    "created_time": "2026-02-13T02:27:00.000Z",
+    "last_edited_time": "2026-02-26T07:42:00.000Z",
+    "properties": {
+      "NLTT": null,
+      "Point Status": [
+        "Unconfirmed"
+      ],
+      "Product Point": [
+        1
+      ],
+      "Ngày làm": {
+        "start": "2026-02-13",
+        "end": null
+      },
+      "Product Status": [
+        "Pending Review"
+      ],
+      "Required by": [
+        "External"
+      ],
+      "Product (1)": [
+        "FIX CLIENT Styleframe BG01 - living room"
+      ],
+      "Trọng số TP": 0.3,
+      "Product Type": [
+        "Background"
+      ],
+      "Task QC": "0/2",
+      "TP thực tế": 0,
+      "Task type": "Fix",
+      "Task fix": "0/2",
+      "Sprint": null,
+      "Task Status": "Done",
+      "Episode": [
+        {
+          "type": "select",
+          "select": null
+        }
+      ],
+      "Assignee": [
+        {
+          "id": "591f230f-efcf-478e-9dc0-6529bf787f1f",
+          "name": "Thanh Nguyễn ",
+          "email": "thanhnt@sangygroup.com"
+        }
+      ],
+      "UTNL": [
+        0.25
+      ],
+      "Product": [
+        "302ccb0e-ac88-809d-9938-c459f80681e4"
+      ],
+      "Created time": null,
+      "Task main": "1/2",
+      "Loại cảnh": [
+        "F"
+      ],
+      "Tasks": "FIX CLIENT Styleframe BG01 - living room Need Fix Client 1"
+    },
+    "_title": "FIX CLIENT Styleframe BG01 - living room Need Fix Client 1",
+    "database_name": "[OTH] Tasks",
+    "project_name": "[OTH] Tasks",
+    "database_id": "2f6ccb0e-ac88-803a-a0b0-edccc8397943"
+  },
+  {
+    "id": "306ccb0e-ac88-8090-b87c-c893dff9df54",
+    "created_time": "2026-02-13T02:28:00.000Z",
+    "last_edited_time": "2026-02-26T07:42:00.000Z",
+    "properties": {
+      "NLTT": null,
+      "Point Status": [
+        "Unconfirmed"
+      ],
+      "Product Point": [
+        5
+      ],
+      "Ngày làm": {
+        "start": "2026-02-13",
+        "end": null
+      },
+      "Product Status": [
+        "Pending Review"
+      ],
+      "Required by": [
+        "External"
+      ],
+      "Product (1)": [
+        "FIX CLIENT Styleframe BG02 - Coat Closet "
+      ],
+      "Trọng số TP": 0.3,
+      "Product Type": [
+        "Background"
+      ],
+      "Task QC": "0/2",
+      "TP thực tế": 0,
+      "Task type": "Fix",
+      "Task fix": "0/2",
+      "Sprint": null,
+      "Task Status": "Done",
+      "Episode": [
+        {
+          "type": "select",
+          "select": null
+        }
+      ],
+      "Assignee": [
+        {
+          "id": "591f230f-efcf-478e-9dc0-6529bf787f1f",
+          "name": "Thanh Nguyễn ",
+          "email": "thanhnt@sangygroup.com"
+        }
+      ],
+      "UTNL": [
+        0.25
+      ],
+      "Product": [
+        "302ccb0e-ac88-80fb-bb24-f73b1a76573e"
+      ],
+      "Created time": null,
+      "Task main": "1/2",
+      "Loại cảnh": [
+        "E"
+      ],
+      "Tasks": "FIX CLIENT Styleframe BG02 - Coat Closet  Need Fix Client 1"
+    },
+    "_title": "FIX CLIENT Styleframe BG02 - Coat Closet  Need Fix Client 1",
+    "database_name": "[OTH] Tasks",
+    "project_name": "[OTH] Tasks",
+    "database_id": "2f6ccb0e-ac88-803a-a0b0-edccc8397943"
+  },
+  {
+    "id": "306ccb0e-ac88-80a1-b2cb-fff3e1cc839e",
+    "created_time": "2026-02-13T02:29:00.000Z",
+    "last_edited_time": "2026-02-26T07:44:00.000Z",
+    "properties": {
+      "NLTT": null,
+      "Point Status": [
+        "Confirmed"
+      ],
+      "Product Point": [
+        1
+      ],
+      "Ngày làm": {
+        "start": "2026-02-13",
+        "end": null
+      },
+      "Product Status": [
+        "Client Approved"
+      ],
+      "Required by": [
+        "External"
+      ],
+      "Product (1)": [
+        "Prop 11 fix client"
+      ],
+      "Trọng số TP": 0.3,
+      "Product Type": [
+        "Prop"
+      ],
+      "Task QC": "1/2",
+      "TP thực tế": 0,
+      "Task type": "Fix",
+      "Task fix": "0/2",
+      "Sprint": null,
+      "Task Status": "Done",
+      "Episode": [
+        {
+          "type": "select",
+          "select": null
+        }
+      ],
+      "Assignee": [
+        {
+          "id": "591f230f-efcf-478e-9dc0-6529bf787f1f",
+          "name": "Thanh Nguyễn ",
+          "email": "thanhnt@sangygroup.com"
+        }
+      ],
+      "UTNL": [],
+      "Product": [
+        "306ccb0e-ac88-80c6-a7d5-d12155903769"
+      ],
+      "Created time": null,
+      "Task main": "0/2",
+      "Loại cảnh": [
+        "F"
+      ],
+      "Tasks": "Prop 11 fix client Not started 1"
+    },
+    "_title": "Prop 11 fix client Not started 1",
+    "database_name": "[OTH] Tasks",
+    "project_name": "[OTH] Tasks",
+    "database_id": "2f6ccb0e-ac88-803a-a0b0-edccc8397943"
+  },
+  {
+    "id": "306ccb0e-ac88-80c8-b601-cc5fc153dc8e",
+    "created_time": "2026-02-13T02:29:00.000Z",
+    "last_edited_time": "2026-02-26T07:44:00.000Z",
+    "properties": {
+      "NLTT": null,
+      "Point Status": [
+        "Confirmed"
+      ],
+      "Product Point": [
+        1
+      ],
+      "Ngày làm": {
+        "start": "2026-02-13",
+        "end": null
+      },
+      "Product Status": [
+        "Client Approved"
+      ],
+      "Required by": [
+        "External"
+      ],
+      "Product (1)": [
+        "Prop 10 fix client"
+      ],
+      "Trọng số TP": 0.3,
+      "Product Type": [
+        "Prop"
+      ],
+      "Task QC": "1/2",
+      "TP thực tế": 0,
+      "Task type": "Fix",
+      "Task fix": "0/2",
+      "Sprint": null,
+      "Task Status": "Done",
+      "Episode": [
+        {
+          "type": "select",
+          "select": null
+        }
+      ],
+      "Assignee": [
+        {
+          "id": "591f230f-efcf-478e-9dc0-6529bf787f1f",
+          "name": "Thanh Nguyễn ",
+          "email": "thanhnt@sangygroup.com"
+        }
+      ],
+      "UTNL": [],
+      "Product": [
+        "306ccb0e-ac88-800d-9524-e2aac683c412"
+      ],
+      "Created time": null,
+      "Task main": "0/2",
+      "Loại cảnh": [
+        "F"
+      ],
+      "Tasks": "Prop 10 fix client Not started 1"
+    },
+    "_title": "Prop 10 fix client Not started 1",
+    "database_name": "[OTH] Tasks",
+    "project_name": "[OTH] Tasks",
+    "database_id": "2f6ccb0e-ac88-803a-a0b0-edccc8397943"
+  },
+  {
+    "id": "306ccb0e-ac88-80cb-b812-c277b62202d8",
+    "created_time": "2026-02-13T02:29:00.000Z",
+    "last_edited_time": "2026-02-26T07:43:00.000Z",
+    "properties": {
+      "NLTT": null,
+      "Point Status": [
+        "Confirmed"
+      ],
+      "Product Point": [
+        1
+      ],
+      "Ngày làm": {
+        "start": "2026-02-13",
+        "end": null
+      },
+      "Product Status": [
+        "Client Approved"
+      ],
+      "Required by": [
+        "External"
+      ],
+      "Product (1)": [
+        "Prop 8 fix client"
+      ],
+      "Trọng số TP": 0.3,
+      "Product Type": [
+        "Prop"
+      ],
+      "Task QC": "1/2",
+      "TP thực tế": 0,
+      "Task type": "Fix",
+      "Task fix": "0/2",
+      "Sprint": null,
+      "Task Status": "Done",
+      "Episode": [
+        {
+          "type": "select",
+          "select": null
+        }
+      ],
+      "Assignee": [
+        {
+          "id": "591f230f-efcf-478e-9dc0-6529bf787f1f",
+          "name": "Thanh Nguyễn ",
+          "email": "thanhnt@sangygroup.com"
+        }
+      ],
+      "UTNL": [],
+      "Product": [
+        "306ccb0e-ac88-80da-9611-c3e3760ff4f1"
+      ],
+      "Created time": null,
+      "Task main": "0/2",
+      "Loại cảnh": [
+        "F"
+      ],
+      "Tasks": "Prop 8 fix client Not started 1"
+    },
+    "_title": "Prop 8 fix client Not started 1",
+    "database_name": "[OTH] Tasks",
+    "project_name": "[OTH] Tasks",
+    "database_id": "2f6ccb0e-ac88-803a-a0b0-edccc8397943"
+  },
+  {
+    "id": "306ccb0e-ac88-8108-b5ae-ef0d1239b20d",
+    "created_time": "2026-02-13T09:02:00.000Z",
+    "last_edited_time": "2026-02-13T09:03:00.000Z",
+    "properties": {
+      "NLTT": null,
+      "Point Status": [
+        "Confirmed"
+      ],
+      "Product Point": [
+        1
+      ],
+      "Ngày làm": null,
+      "Product Status": [
+        "Client Approved"
+      ],
+      "Required by": [
+        "External"
+      ],
+      "Product (1)": [
+        "Prop 11 fix client"
+      ],
+      "Trọng số TP": 0.15,
+      "Product Type": [
+        "Prop"
+      ],
+      "Task QC": "1/2",
+      "TP thực tế": 1,
+      "Task type": "QC",
+      "Task fix": "0/2",
+      "Sprint": null,
+      "Task Status": "Done QC",
+      "Episode": [
+        {
+          "type": "select",
+          "select": null
+        }
+      ],
+      "Assignee": [
+        {
+          "id": "2b47d5ac-bd39-4aad-8e95-23ea4ab9b925",
+          "name": "Hoàng Hà",
+          "email": "hoanghh@sangygroup.com"
+        }
+      ],
+      "UTNL": [],
+      "Product": [
+        "306ccb0e-ac88-80c6-a7d5-d12155903769"
+      ],
+      "Created time": null,
+      "Task main": "0/2",
+      "Loại cảnh": [
+        "F"
+      ],
+      "Tasks": "Prop 11 fix client ver1"
+    },
+    "_title": "Prop 11 fix client ver1",
+    "database_name": "[OTH] Tasks",
+    "project_name": "[OTH] Tasks",
+    "database_id": "2f6ccb0e-ac88-803a-a0b0-edccc8397943"
+  },
+  {
+    "id": "306ccb0e-ac88-8165-8d16-e86c35a8c36d",
+    "created_time": "2026-02-13T09:02:00.000Z",
+    "last_edited_time": "2026-02-13T09:02:00.000Z",
+    "properties": {
+      "NLTT": null,
+      "Point Status": [
+        "Confirmed"
+      ],
+      "Product Point": [
+        1
+      ],
+      "Ngày làm": null,
+      "Product Status": [
+        "Client Approved"
+      ],
+      "Required by": [
+        "External"
+      ],
+      "Product (1)": [
+        "Prop 10 fix client"
+      ],
+      "Trọng số TP": 0.15,
+      "Product Type": [
+        "Prop"
+      ],
+      "Task QC": "1/2",
+      "TP thực tế": 1,
+      "Task type": "QC",
+      "Task fix": "0/2",
+      "Sprint": null,
+      "Task Status": "Done QC",
+      "Episode": [
+        {
+          "type": "select",
+          "select": null
+        }
+      ],
+      "Assignee": [
+        {
+          "id": "2b47d5ac-bd39-4aad-8e95-23ea4ab9b925",
+          "name": "Hoàng Hà",
+          "email": "hoanghh@sangygroup.com"
+        }
+      ],
+      "UTNL": [],
+      "Product": [
+        "306ccb0e-ac88-800d-9524-e2aac683c412"
+      ],
+      "Created time": null,
+      "Task main": "0/2",
+      "Loại cảnh": [
+        "F"
+      ],
+      "Tasks": "Prop 10 fix client ver1"
+    },
+    "_title": "Prop 10 fix client ver1",
+    "database_name": "[OTH] Tasks",
+    "project_name": "[OTH] Tasks",
+    "database_id": "2f6ccb0e-ac88-803a-a0b0-edccc8397943"
+  },
+  {
+    "id": "306ccb0e-ac88-81c4-a2ac-d009a5e2b27e",
+    "created_time": "2026-02-13T09:02:00.000Z",
+    "last_edited_time": "2026-02-13T09:03:00.000Z",
+    "properties": {
+      "NLTT": null,
+      "Point Status": [
+        "Confirmed"
+      ],
+      "Product Point": [
+        1
+      ],
+      "Ngày làm": null,
+      "Product Status": [
+        "Client Approved"
+      ],
+      "Required by": [
+        "External"
+      ],
+      "Product (1)": [
+        "Prop 8 fix client"
+      ],
+      "Trọng số TP": 0.15,
+      "Product Type": [
+        "Prop"
+      ],
+      "Task QC": "1/2",
+      "TP thực tế": 1,
+      "Task type": "QC",
+      "Task fix": "0/2",
+      "Sprint": null,
+      "Task Status": "Done QC",
+      "Episode": [
+        {
+          "type": "select",
+          "select": null
+        }
+      ],
+      "Assignee": [
+        {
+          "id": "2b47d5ac-bd39-4aad-8e95-23ea4ab9b925",
+          "name": "Hoàng Hà",
+          "email": "hoanghh@sangygroup.com"
+        }
+      ],
+      "UTNL": [],
+      "Product": [
+        "306ccb0e-ac88-80da-9611-c3e3760ff4f1"
+      ],
+      "Created time": null,
+      "Task main": "0/2",
+      "Loại cảnh": [
+        "F"
+      ],
+      "Tasks": "Prop 8 fix client ver1"
+    },
+    "_title": "Prop 8 fix client ver1",
+    "database_name": "[OTH] Tasks",
+    "project_name": "[OTH] Tasks",
+    "database_id": "2f6ccb0e-ac88-803a-a0b0-edccc8397943"
+  },
+  {
+    "id": "310ccb0e-ac88-8000-8721-d93e51666853",
+    "created_time": "2026-02-23T02:52:00.000Z",
+    "last_edited_time": "2026-02-26T07:43:00.000Z",
+    "properties": {
+      "NLTT": null,
+      "Point Status": [
+        "Confirmed"
+      ],
+      "Product Point": [
+        1
+      ],
+      "Ngày làm": {
+        "start": "2026-02-23",
+        "end": null
+      },
+      "Product Status": [
+        "Client Approved"
+      ],
+      "Required by": [
+        "Internal"
+      ],
+      "Product (1)": [
+        "Prop 5"
+      ],
+      "Trọng số TP": 1,
+      "Product Type": [
+        "Prop"
+      ],
+      "Task QC": "0/2",
+      "TP thực tế": 0.5,
+      "Task type": "Main",
+      "Task fix": "0/2",
+      "Sprint": null,
+      "Task Status": "Done",
+      "Episode": [
+        {
+          "type": "select",
+          "select": null
+        }
+      ],
+      "Assignee": [
+        {
+          "id": "591f230f-efcf-478e-9dc0-6529bf787f1f",
+          "name": "Thanh Nguyễn ",
+          "email": "thanhnt@sangygroup.com"
+        }
+      ],
+      "UTNL": [],
+      "Product": [
+        "2f7ccb0e-ac88-80fb-8eed-f4fa437b47f6"
+      ],
+      "Created time": null,
+      "Task main": "2/2",
+      "Loại cảnh": [
+        "F"
+      ],
+      "Tasks": "Prop 5 Client Approved 1"
+    },
+    "_title": "Prop 5 Client Approved 1",
+    "database_name": "[OTH] Tasks",
+    "project_name": "[OTH] Tasks",
+    "database_id": "2f6ccb0e-ac88-803a-a0b0-edccc8397943"
+  },
+  {
+    "id": "310ccb0e-ac88-8018-be50-d867c400662e",
+    "created_time": "2026-02-23T02:52:00.000Z",
+    "last_edited_time": "2026-02-26T07:43:00.000Z",
+    "properties": {
+      "NLTT": null,
+      "Point Status": [
+        "Confirmed"
+      ],
+      "Product Point": [
+        5
+      ],
+      "Ngày làm": {
+        "start": "2026-02-23",
+        "end": null
+      },
+      "Product Status": [
+        "Client Approved"
+      ],
+      "Required by": [
+        "Internal"
+      ],
+      "Product (1)": [
+        "Prop 2"
+      ],
+      "Trọng số TP": 1,
+      "Product Type": [
+        "Prop"
+      ],
+      "Task QC": "0/1",
+      "TP thực tế": 5,
+      "Task type": "Main",
+      "Task fix": "0/1",
+      "Sprint": null,
+      "Task Status": "Done",
+      "Episode": [
+        {
+          "type": "select",
+          "select": null
+        }
+      ],
+      "Assignee": [
+        {
+          "id": "591f230f-efcf-478e-9dc0-6529bf787f1f",
+          "name": "Thanh Nguyễn ",
+          "email": "thanhnt@sangygroup.com"
+        }
+      ],
+      "UTNL": [],
+      "Product": [
+        "2f7ccb0e-ac88-80c4-834a-fda6c1060cca"
+      ],
+      "Created time": null,
+      "Task main": "1/1",
+      "Loại cảnh": [
+        "E"
+      ],
+      "Tasks": "Prop 2 Client Approved 1"
+    },
+    "_title": "Prop 2 Client Approved 1",
+    "database_name": "[OTH] Tasks",
+    "project_name": "[OTH] Tasks",
+    "database_id": "2f6ccb0e-ac88-803a-a0b0-edccc8397943"
+  },
+  {
+    "id": "310ccb0e-ac88-8027-86bc-e1c34ebdc3d8",
+    "created_time": "2026-02-23T02:53:00.000Z",
+    "last_edited_time": "2026-02-26T07:43:00.000Z",
+    "properties": {
+      "NLTT": null,
+      "Point Status": [
+        "Confirmed"
+      ],
+      "Product Point": [
+        1
+      ],
+      "Ngày làm": {
+        "start": "2026-02-23",
+        "end": null
+      },
+      "Product Status": [
+        "Client Approved"
+      ],
+      "Required by": [
+        "Internal"
+      ],
+      "Product (1)": [
+        "Prop 7"
+      ],
+      "Trọng số TP": 1,
+      "Product Type": [
+        "Prop"
+      ],
+      "Task QC": "0/1",
+      "TP thực tế": 1,
+      "Task type": "Main",
+      "Task fix": "0/1",
+      "Sprint": null,
+      "Task Status": "Done",
+      "Episode": [
+        {
+          "type": "select",
+          "select": null
+        }
+      ],
+      "Assignee": [
+        {
+          "id": "591f230f-efcf-478e-9dc0-6529bf787f1f",
+          "name": "Thanh Nguyễn ",
+          "email": "thanhnt@sangygroup.com"
+        }
+      ],
+      "UTNL": [],
+      "Product": [
+        "2f7ccb0e-ac88-801e-adb3-fc65bed474b9"
+      ],
+      "Created time": null,
+      "Task main": "1/1",
+      "Loại cảnh": [
+        "F"
+      ],
+      "Tasks": "Prop 7 Client Approved 1"
+    },
+    "_title": "Prop 7 Client Approved 1",
+    "database_name": "[OTH] Tasks",
+    "project_name": "[OTH] Tasks",
+    "database_id": "2f6ccb0e-ac88-803a-a0b0-edccc8397943"
+  },
+  {
+    "id": "310ccb0e-ac88-8038-a421-ca016d9d4178",
+    "created_time": "2026-02-23T02:52:00.000Z",
+    "last_edited_time": "2026-02-26T07:43:00.000Z",
+    "properties": {
+      "NLTT": null,
+      "Point Status": [
+        "Confirmed"
+      ],
+      "Product Point": [
+        1
+      ],
+      "Ngày làm": {
+        "start": "2026-02-23",
+        "end": null
+      },
+      "Product Status": [
+        "Client Approved"
+      ],
+      "Required by": [
+        "Internal"
+      ],
+      "Product (1)": [
+        "Prop 6"
+      ],
+      "Trọng số TP": 1,
+      "Product Type": [
+        "Prop"
+      ],
+      "Task QC": "0/1",
+      "TP thực tế": 1,
+      "Task type": "Main",
+      "Task fix": "0/1",
+      "Sprint": null,
+      "Task Status": "Done",
+      "Episode": [
+        {
+          "type": "select",
+          "select": null
+        }
+      ],
+      "Assignee": [
+        {
+          "id": "591f230f-efcf-478e-9dc0-6529bf787f1f",
+          "name": "Thanh Nguyễn ",
+          "email": "thanhnt@sangygroup.com"
+        }
+      ],
+      "UTNL": [],
+      "Product": [
+        "2f7ccb0e-ac88-809d-a87d-c22777743c84"
+      ],
+      "Created time": null,
+      "Task main": "1/1",
+      "Loại cảnh": [
+        "F"
+      ],
+      "Tasks": "Prop 6 Client Approved 1"
+    },
+    "_title": "Prop 6 Client Approved 1",
+    "database_name": "[OTH] Tasks",
+    "project_name": "[OTH] Tasks",
+    "database_id": "2f6ccb0e-ac88-803a-a0b0-edccc8397943"
+  },
+  {
+    "id": "310ccb0e-ac88-803c-997a-f69eb72b73ec",
+    "created_time": "2026-02-23T02:52:00.000Z",
+    "last_edited_time": "2026-02-26T07:43:00.000Z",
+    "properties": {
+      "NLTT": null,
+      "Point Status": [
+        "Confirmed"
+      ],
+      "Product Point": [
+        1
+      ],
+      "Ngày làm": {
+        "start": "2026-02-23",
+        "end": null
+      },
+      "Product Status": [
+        "Client Approved"
+      ],
+      "Required by": [
+        "Internal"
+      ],
+      "Product (1)": [
+        "Prop 5"
+      ],
+      "Trọng số TP": 1,
+      "Product Type": [
+        "Prop"
+      ],
+      "Task QC": "0/2",
+      "TP thực tế": 0.5,
+      "Task type": "Main",
+      "Task fix": "0/2",
+      "Sprint": null,
+      "Task Status": "Done",
+      "Episode": [
+        {
+          "type": "select",
+          "select": null
+        }
+      ],
+      "Assignee": [
+        {
+          "id": "591f230f-efcf-478e-9dc0-6529bf787f1f",
+          "name": "Thanh Nguyễn ",
+          "email": "thanhnt@sangygroup.com"
+        }
+      ],
+      "UTNL": [],
+      "Product": [
+        "2f7ccb0e-ac88-80fb-8eed-f4fa437b47f6"
+      ],
+      "Created time": null,
+      "Task main": "2/2",
+      "Loại cảnh": [
+        "F"
+      ],
+      "Tasks": "Prop 5 Client Approved 1"
+    },
+    "_title": "Prop 5 Client Approved 1",
+    "database_name": "[OTH] Tasks",
+    "project_name": "[OTH] Tasks",
+    "database_id": "2f6ccb0e-ac88-803a-a0b0-edccc8397943"
+  },
+  {
+    "id": "310ccb0e-ac88-8042-85b6-fbd2c187ee96",
+    "created_time": "2026-02-23T02:52:00.000Z",
+    "last_edited_time": "2026-02-26T07:43:00.000Z",
+    "properties": {
+      "NLTT": null,
+      "Point Status": [
+        "Confirmed"
+      ],
+      "Product Point": [
+        5
+      ],
+      "Ngày làm": {
+        "start": "2026-02-23",
+        "end": null
+      },
+      "Product Status": [
+        "Client Approved"
+      ],
+      "Required by": [
+        "Internal"
+      ],
+      "Product (1)": [
+        "Prop 1"
+      ],
+      "Trọng số TP": 1,
+      "Product Type": [
+        "Prop"
+      ],
+      "Task QC": "0/1",
+      "TP thực tế": 5,
+      "Task type": "Main",
+      "Task fix": "0/1",
+      "Sprint": null,
+      "Task Status": "Done",
+      "Episode": [
+        {
+          "type": "select",
+          "select": null
+        }
+      ],
+      "Assignee": [
+        {
+          "id": "591f230f-efcf-478e-9dc0-6529bf787f1f",
+          "name": "Thanh Nguyễn ",
+          "email": "thanhnt@sangygroup.com"
+        }
+      ],
+      "UTNL": [],
+      "Product": [
+        "2f7ccb0e-ac88-8088-83a2-fa815ba093d8"
+      ],
+      "Created time": null,
+      "Task main": "1/1",
+      "Loại cảnh": [
+        "E"
+      ],
+      "Tasks": "Prop 1 Client Approved 1"
+    },
+    "_title": "Prop 1 Client Approved 1",
+    "database_name": "[OTH] Tasks",
+    "project_name": "[OTH] Tasks",
+    "database_id": "2f6ccb0e-ac88-803a-a0b0-edccc8397943"
+  },
+  {
+    "id": "310ccb0e-ac88-8061-8bf2-c6709748017a",
+    "created_time": "2026-02-23T02:56:00.000Z",
+    "last_edited_time": "2026-02-26T07:44:00.000Z",
+    "properties": {
+      "NLTT": null,
+      "Point Status": [
+        "Confirmed"
+      ],
+      "Product Point": [
+        5
+      ],
+      "Ngày làm": {
+        "start": "2026-02-23",
+        "end": null
+      },
+      "Product Status": [
+        "Client Approved"
+      ],
+      "Required by": [
+        "Internal"
+      ],
+      "Product (1)": [
+        "Prop 11"
+      ],
+      "Trọng số TP": 1,
+      "Product Type": [
+        "Prop"
+      ],
+      "Task QC": "0/1",
+      "TP thực tế": 5,
+      "Task type": "Main",
+      "Task fix": "0/1",
+      "Sprint": null,
+      "Task Status": "Done",
+      "Episode": [
+        {
+          "type": "select",
+          "select": null
+        }
+      ],
+      "Assignee": [
+        {
+          "id": "591f230f-efcf-478e-9dc0-6529bf787f1f",
+          "name": "Thanh Nguyễn ",
+          "email": "thanhnt@sangygroup.com"
+        }
+      ],
+      "UTNL": [],
+      "Product": [
+        "2f7ccb0e-ac88-807c-a4d5-f2bf7366d39d"
+      ],
+      "Created time": null,
+      "Task main": "1/1",
+      "Loại cảnh": [
+        "E"
+      ],
+      "Tasks": "Prop 11 Pending Review 1"
+    },
+    "_title": "Prop 11 Pending Review 1",
+    "database_name": "[OTH] Tasks",
+    "project_name": "[OTH] Tasks",
+    "database_id": "2f6ccb0e-ac88-803a-a0b0-edccc8397943"
+  },
+  {
+    "id": "310ccb0e-ac88-8093-934e-c7fc9fc8f648",
+    "created_time": "2026-02-23T02:52:00.000Z",
+    "last_edited_time": "2026-02-26T07:43:00.000Z",
+    "properties": {
+      "NLTT": null,
+      "Point Status": [
+        "Confirmed"
+      ],
+      "Product Point": [
+        1
+      ],
+      "Ngày làm": {
+        "start": "2026-02-23",
+        "end": null
+      },
+      "Product Status": [
+        "Client Approved"
+      ],
+      "Required by": [
+        "Internal"
+      ],
+      "Product (1)": [
+        "Prop 4"
+      ],
+      "Trọng số TP": 1,
+      "Product Type": [
+        "Prop"
+      ],
+      "Task QC": "0/1",
+      "TP thực tế": 1,
+      "Task type": "Main",
+      "Task fix": "0/1",
+      "Sprint": null,
+      "Task Status": "Done",
+      "Episode": [
+        {
+          "type": "select",
+          "select": null
+        }
+      ],
+      "Assignee": [
+        {
+          "id": "591f230f-efcf-478e-9dc0-6529bf787f1f",
+          "name": "Thanh Nguyễn ",
+          "email": "thanhnt@sangygroup.com"
+        }
+      ],
+      "UTNL": [],
+      "Product": [
+        "2f7ccb0e-ac88-80a1-8aa5-d05af28390c3"
+      ],
+      "Created time": null,
+      "Task main": "1/1",
+      "Loại cảnh": [
+        "F"
+      ],
+      "Tasks": "Prop 4 Client Approved 1"
+    },
+    "_title": "Prop 4 Client Approved 1",
+    "database_name": "[OTH] Tasks",
+    "project_name": "[OTH] Tasks",
+    "database_id": "2f6ccb0e-ac88-803a-a0b0-edccc8397943"
+  },
+  {
+    "id": "310ccb0e-ac88-8095-8b1f-ccb711a7e116",
+    "created_time": "2026-02-23T02:53:00.000Z",
+    "last_edited_time": "2026-02-26T07:44:00.000Z",
+    "properties": {
+      "NLTT": null,
+      "Point Status": [
+        "Confirmed"
+      ],
+      "Product Point": [
+        5
+      ],
+      "Ngày làm": {
+        "start": "2026-02-23",
+        "end": null
+      },
+      "Product Status": [
+        "Client Approved"
+      ],
+      "Required by": [
+        "Internal"
+      ],
+      "Product (1)": [
+        "Prop 9"
+      ],
+      "Trọng số TP": 1,
+      "Product Type": [
+        "Prop"
+      ],
+      "Task QC": "0/1",
+      "TP thực tế": 5,
+      "Task type": "Main",
+      "Task fix": "0/1",
+      "Sprint": null,
+      "Task Status": "Done",
+      "Episode": [
+        {
+          "type": "select",
+          "select": null
+        }
+      ],
+      "Assignee": [
+        {
+          "id": "591f230f-efcf-478e-9dc0-6529bf787f1f",
+          "name": "Thanh Nguyễn ",
+          "email": "thanhnt@sangygroup.com"
+        }
+      ],
+      "UTNL": [],
+      "Product": [
+        "2f7ccb0e-ac88-80a0-b490-eb8be6d70bb1"
+      ],
+      "Created time": null,
+      "Task main": "1/1",
+      "Loại cảnh": [
+        "E"
+      ],
+      "Tasks": "Prop 9 Client Approved 1"
+    },
+    "_title": "Prop 9 Client Approved 1",
+    "database_name": "[OTH] Tasks",
+    "project_name": "[OTH] Tasks",
+    "database_id": "2f6ccb0e-ac88-803a-a0b0-edccc8397943"
+  },
+  {
+    "id": "310ccb0e-ac88-80bc-90b3-edd6a6613b94",
+    "created_time": "2026-02-23T02:55:00.000Z",
+    "last_edited_time": "2026-02-26T07:43:00.000Z",
+    "properties": {
+      "NLTT": null,
+      "Point Status": [
+        "Confirmed"
+      ],
+      "Product Point": [
+        1
+      ],
+      "Ngày làm": {
+        "start": "2026-02-23",
+        "end": null
+      },
+      "Product Status": [
+        "Client Approved"
+      ],
+      "Required by": [
+        "Internal"
+      ],
+      "Product (1)": [
+        "Prop 8"
+      ],
+      "Trọng số TP": 1,
+      "Product Type": [
+        "Prop"
+      ],
+      "Task QC": "0/1",
+      "TP thực tế": 1,
+      "Task type": "Main",
+      "Task fix": "0/1",
+      "Sprint": null,
+      "Task Status": "Done",
+      "Episode": [
+        {
+          "type": "select",
+          "select": null
+        }
+      ],
+      "Assignee": [
+        {
+          "id": "591f230f-efcf-478e-9dc0-6529bf787f1f",
+          "name": "Thanh Nguyễn ",
+          "email": "thanhnt@sangygroup.com"
+        }
+      ],
+      "UTNL": [],
+      "Product": [
+        "2f7ccb0e-ac88-8036-a79d-eb127f9588c7"
+      ],
+      "Created time": null,
+      "Task main": "1/1",
+      "Loại cảnh": [
+        "F"
+      ],
+      "Tasks": "Prop 8 Pending Review 1"
+    },
+    "_title": "Prop 8 Pending Review 1",
+    "database_name": "[OTH] Tasks",
+    "project_name": "[OTH] Tasks",
+    "database_id": "2f6ccb0e-ac88-803a-a0b0-edccc8397943"
+  },
+  {
+    "id": "310ccb0e-ac88-80fd-a03d-fa7f3fb598c7",
+    "created_time": "2026-02-23T02:56:00.000Z",
+    "last_edited_time": "2026-02-26T07:44:00.000Z",
+    "properties": {
+      "NLTT": null,
+      "Point Status": [
+        "Confirmed"
+      ],
+      "Product Point": [
+        1
+      ],
+      "Ngày làm": {
+        "start": "2026-02-23",
+        "end": null
+      },
+      "Product Status": [
+        "Client Approved"
+      ],
+      "Required by": [
+        "Internal"
+      ],
+      "Product (1)": [
+        "Prop 10"
+      ],
+      "Trọng số TP": 1,
+      "Product Type": [
+        "Prop"
+      ],
+      "Task QC": "0/1",
+      "TP thực tế": 1,
+      "Task type": "Main",
+      "Task fix": "0/1",
+      "Sprint": null,
+      "Task Status": "Done",
+      "Episode": [
+        {
+          "type": "select",
+          "select": null
+        }
+      ],
+      "Assignee": [
+        {
+          "id": "591f230f-efcf-478e-9dc0-6529bf787f1f",
+          "name": "Thanh Nguyễn ",
+          "email": "thanhnt@sangygroup.com"
+        }
+      ],
+      "UTNL": [],
+      "Product": [
+        "2f7ccb0e-ac88-806c-91ea-cc8676efab03"
+      ],
+      "Created time": null,
+      "Task main": "1/1",
+      "Loại cảnh": [
+        "F"
+      ],
+      "Tasks": "Prop 10 Pending Review 1"
+    },
+    "_title": "Prop 10 Pending Review 1",
+    "database_name": "[OTH] Tasks",
+    "project_name": "[OTH] Tasks",
+    "database_id": "2f6ccb0e-ac88-803a-a0b0-edccc8397943"
+  },
+  {
+    "id": "311ccb0e-ac88-805c-b68b-e576ac783349",
+    "created_time": "2026-02-24T02:42:00.000Z",
+    "last_edited_time": "2026-02-26T07:42:00.000Z",
+    "properties": {
+      "NLTT": null,
+      "Point Status": [
+        "Unconfirmed"
+      ],
+      "Product Point": [
+        5
+      ],
+      "Ngày làm": {
+        "start": "2026-02-02",
+        "end": null
+      },
+      "Product Status": [
+        "Pending Review"
+      ],
+      "Required by": [
+        "External"
+      ],
+      "Product (1)": [
+        "FIX CLIENT Styleframe BG01 - living room V2"
+      ],
+      "Trọng số TP": 0.3,
+      "Product Type": [
+        "Background"
+      ],
+      "Task QC": "2/4",
+      "TP thực tế": 0,
+      "Task type": "Fix",
+      "Task fix": "0/4",
+      "Sprint": null,
+      "Task Status": "Done",
+      "Episode": [
+        {
+          "type": "select",
+          "select": null
+        }
+      ],
+      "Assignee": [
+        {
+          "id": "591f230f-efcf-478e-9dc0-6529bf787f1f",
+          "name": "Thanh Nguyễn ",
+          "email": "thanhnt@sangygroup.com"
+        }
+      ],
+      "UTNL": [
+        3.5
+      ],
+      "Product": [
+        "311ccb0e-ac88-8033-8f10-ec2c8f4fb156"
+      ],
+      "Created time": null,
+      "Task main": "1/4",
+      "Loại cảnh": [
+        "E"
+      ],
+      "Tasks": "FIX CLIENT Styleframe BG01 - living room V2 Not started 1"
+    },
+    "_title": "FIX CLIENT Styleframe BG01 - living room V2 Not started 1",
+    "database_name": "[OTH] Tasks",
+    "project_name": "[OTH] Tasks",
+    "database_id": "2f6ccb0e-ac88-803a-a0b0-edccc8397943"
+  },
+  {
+    "id": "311ccb0e-ac88-8106-a966-f15b600e9e5f",
+    "created_time": "2026-02-24T03:17:00.000Z",
+    "last_edited_time": "2026-02-26T07:06:00.000Z",
+    "properties": {
+      "NLTT": null,
+      "Point Status": [
+        "Unconfirmed"
+      ],
+      "Product Point": [
+        1
+      ],
+      "Ngày làm": {
+        "start": "2026-02-23",
+        "end": null
+      },
+      "Product Status": [
+        "QC Approved"
+      ],
+      "Required by": [
+        {
+          "type": "select",
+          "select": null
+        }
+      ],
+      "Product (1)": [
+        "Họp dự án"
+      ],
+      "Trọng số TP": 1,
+      "Product Type": [
+        {
+          "type": "select",
+          "select": null
+        }
+      ],
+      "Task QC": "0/1",
+      "TP thực tế": 1,
+      "Task type": "Main",
+      "Task fix": "0/1",
+      "Sprint": null,
+      "Task Status": "Done QC",
+      "Episode": [
+        {
+          "type": "select",
+          "select": null
+        }
+      ],
+      "Assignee": [
+        {
+          "id": "591f230f-efcf-478e-9dc0-6529bf787f1f",
+          "name": "Thanh Nguyễn ",
+          "email": "thanhnt@sangygroup.com"
+        }
+      ],
+      "UTNL": [],
+      "Product": [
+        "311ccb0e-ac88-804c-890c-d858d92e30f4"
+      ],
+      "Created time": null,
+      "Task main": "1/1",
+      "Loại cảnh": [
+        "F"
+      ],
+      "Tasks": "Họp dự án ver1"
+    },
+    "_title": "Họp dự án ver1",
+    "database_name": "[OTH] Tasks",
+    "project_name": "[OTH] Tasks",
+    "database_id": "2f6ccb0e-ac88-803a-a0b0-edccc8397943"
+  },
+  {
+    "id": "311ccb0e-ac88-819c-a971-d725196c30f6",
+    "created_time": "2026-02-24T03:21:00.000Z",
+    "last_edited_time": "2026-02-26T07:43:00.000Z",
+    "properties": {
+      "NLTT": null,
+      "Point Status": [
+        "Unconfirmed"
+      ],
+      "Product Point": [
+        5
+      ],
+      "Ngày làm": {
+        "start": "2026-02-24",
+        "end": null
+      },
+      "Product Status": [
+        "QC Approved"
+      ],
+      "Required by": [
+        {
+          "type": "select",
+          "select": null
+        }
+      ],
+      "Product (1)": [
+        "Lead - chấm PP LO BG"
+      ],
+      "Trọng số TP": 1,
+      "Product Type": [
+        {
+          "type": "select",
+          "select": null
+        }
+      ],
+      "Task QC": "0/1",
+      "TP thực tế": 5,
+      "Task type": "Main",
+      "Task fix": "0/1",
+      "Sprint": null,
+      "Task Status": "Done QC",
+      "Episode": [
+        {
+          "type": "select",
+          "select": null
+        }
+      ],
+      "Assignee": [
+        {
+          "id": "591f230f-efcf-478e-9dc0-6529bf787f1f",
+          "name": "Thanh Nguyễn ",
+          "email": "thanhnt@sangygroup.com"
+        }
+      ],
+      "UTNL": [],
+      "Product": [
+        "311ccb0e-ac88-80f5-9176-cbf4994dd7d7"
+      ],
+      "Created time": null,
+      "Task main": "1/1",
+      "Loại cảnh": [
+        "E"
+      ],
+      "Tasks": "Lead - chấm PP LO BG ver1"
+    },
+    "_title": "Lead - chấm PP LO BG ver1",
+    "database_name": "[OTH] Tasks",
+    "project_name": "[OTH] Tasks",
+    "database_id": "2f6ccb0e-ac88-803a-a0b0-edccc8397943"
+  },
+  {
+    "id": "311ccb0e-ac88-81be-8004-d48c08420db5",
+    "created_time": "2026-02-24T02:40:00.000Z",
+    "last_edited_time": "2026-02-24T02:40:00.000Z",
+    "properties": {
+      "NLTT": null,
+      "Point Status": [
+        "Unconfirmed"
+      ],
+      "Product Point": [
+        5
+      ],
+      "Ngày làm": null,
+      "Product Status": [
+        "Pending Review"
+      ],
+      "Required by": [
+        "External"
+      ],
+      "Product (1)": [
+        "FIX CLIENT Styleframe BG01 - living room V2"
+      ],
+      "Trọng số TP": 0.15,
+      "Product Type": [
+        "Background"
+      ],
+      "Task QC": "2/4",
+      "TP thực tế": 0.58,
+      "Task type": "QC",
+      "Task fix": "0/4",
+      "Sprint": null,
+      "Task Status": "Done QC",
+      "Episode": [
+        {
+          "type": "select",
+          "select": null
+        }
+      ],
+      "Assignee": [
+        {
+          "id": "38ad2754-5cc0-4675-ba8c-bab49ef690d9",
+          "name": "Trinh Ngụy",
+          "email": "production@deedeestudio.net"
+        }
+      ],
+      "UTNL": [
+        3.5
+      ],
+      "Product": [
+        "311ccb0e-ac88-8033-8f10-ec2c8f4fb156"
+      ],
+      "Created time": null,
+      "Task main": "1/4",
+      "Loại cảnh": [
+        "E"
+      ],
+      "Tasks": "FIX CLIENT Styleframe BG01 - living room V2 ver1"
+    },
+    "_title": "FIX CLIENT Styleframe BG01 - living room V2 ver1",
+    "database_name": "[OTH] Tasks",
+    "project_name": "[OTH] Tasks",
+    "database_id": "2f6ccb0e-ac88-803a-a0b0-edccc8397943"
+  },
+  {
+    "id": "311ccb0e-ac88-81fd-9d67-f2a0a7054d84",
+    "created_time": "2026-02-24T05:20:00.000Z",
+    "last_edited_time": "2026-02-24T05:20:00.000Z",
+    "properties": {
+      "NLTT": null,
+      "Point Status": [
+        "Unconfirmed"
+      ],
+      "Product Point": [
+        5
+      ],
+      "Ngày làm": null,
+      "Product Status": [
+        "QC Approved"
+      ],
+      "Required by": [
+        {
+          "type": "select",
+          "select": null
+        }
+      ],
+      "Product (1)": [
+        "Họp dự án"
+      ],
+      "Trọng số TP": 0.15,
+      "Product Type": [
+        {
+          "type": "select",
+          "select": null
+        }
+      ],
+      "Task QC": "1/1",
+      "TP thực tế": 5,
+      "Task type": "QC",
+      "Task fix": "0/1",
+      "Sprint": null,
+      "Task Status": "Done QC",
+      "Episode": [
+        {
+          "type": "select",
+          "select": null
+        }
+      ],
+      "Assignee": [
+        {
+          "id": "38ad2754-5cc0-4675-ba8c-bab49ef690d9",
+          "name": "Trinh Ngụy",
+          "email": "production@deedeestudio.net"
+        }
+      ],
+      "UTNL": [],
+      "Product": [
+        "311ccb0e-ac88-8017-af39-f20b79b162f3"
+      ],
+      "Created time": null,
+      "Task main": "0/1",
+      "Loại cảnh": [
+        "E"
+      ],
+      "Tasks": "Họp dự án ver1"
+    },
+    "_title": "Họp dự án ver1",
+    "database_name": "[OTH] Tasks",
+    "project_name": "[OTH] Tasks",
+    "database_id": "2f6ccb0e-ac88-803a-a0b0-edccc8397943"
+  },
+  {
+    "id": "312ccb0e-ac88-80aa-aaca-eca8f022e864",
+    "created_time": "2026-02-25T10:38:00.000Z",
+    "last_edited_time": "2026-02-25T10:38:00.000Z",
+    "properties": {
+      "NLTT": null,
+      "Point Status": [
+        "Unconfirmed"
+      ],
+      "Product Point": [
+        0
+      ],
+      "Ngày làm": {
+        "start": "2026-02-25",
+        "end": null
+      },
+      "Product Status": [
+        "QC Approved"
+      ],
+      "Required by": [
+        {
+          "type": "select",
+          "select": null
+        }
+      ],
+      "Product (1)": [
+        "Chọn những cảnh cần SP"
+      ],
+      "Trọng số TP": 1,
+      "Product Type": [
+        "Lead"
+      ],
+      "Task QC": "1/2",
+      "TP thực tế": 0,
+      "Task type": "Main",
+      "Task fix": "0/2",
+      "Sprint": null,
+      "Task Status": "Done",
+      "Episode": [
+        "Tiền Kỳ"
+      ],
+      "Assignee": [
+        {
+          "id": "6fac67e4-7a58-401b-a896-68b5dadd539c",
+          "name": "Linh Nguyễn",
+          "email": "linhnt@sangygroup.com"
+        }
+      ],
+      "UTNL": [],
+      "Product": [
+        "312ccb0e-ac88-808d-9a8a-f9b3461c1914"
+      ],
+      "Created time": null,
+      "Task main": "1/2",
+      "Loại cảnh": [
+        {
+          "type": "select",
+          "select": null
+        }
+      ],
+      "Tasks": "Chọn những cảnh cần SP Not started 1"
+    },
+    "_title": "Chọn những cảnh cần SP Not started 1",
+    "database_name": "[OTH] Tasks",
+    "project_name": "[OTH] Tasks",
+    "database_id": "2f6ccb0e-ac88-803a-a0b0-edccc8397943"
+  },
+  {
+    "id": "312ccb0e-ac88-81ca-95e8-e7e6013525b8",
+    "created_time": "2026-02-25T05:35:00.000Z",
+    "last_edited_time": "2026-02-25T05:35:00.000Z",
+    "properties": {
+      "NLTT": null,
+      "Point Status": [
+        "Unconfirmed"
+      ],
+      "Product Point": [
+        50
+      ],
+      "Ngày làm": {
+        "start": "2026-02-25T12:35:00.000+07:00",
+        "end": null
+      },
+      "Product Status": [
+        "Completed"
+      ],
+      "Required by": [
+        {
+          "type": "select",
+          "select": null
+        }
+      ],
+      "Product (1)": [
+        "Họp dự án"
+      ],
+      "Trọng số TP": 1,
+      "Product Type": [
+        "Họp dự án"
+      ],
+      "Task QC": "0/1",
+      "TP thực tế": 50,
+      "Task type": "Main",
+      "Task fix": "0/1",
+      "Sprint": null,
+      "Task Status": "Done others",
+      "Episode": [
+        {
+          "type": "select",
+          "select": null
+        }
+      ],
+      "Assignee": [
+        {
+          "id": "38ad2754-5cc0-4675-ba8c-bab49ef690d9",
+          "name": "Trinh Ngụy",
+          "email": "production@deedeestudio.net"
+        }
+      ],
+      "UTNL": [],
+      "Product": [
+        "312ccb0e-ac88-80cd-a1c2-f840a1e10b90"
+      ],
+      "Created time": null,
+      "Task main": "1/1",
+      "Loại cảnh": [
+        "A"
+      ],
+      "Tasks": "Họp dự án"
+    },
+    "_title": "Họp dự án",
+    "database_name": "[OTH] Tasks",
+    "project_name": "[OTH] Tasks",
+    "database_id": "2f6ccb0e-ac88-803a-a0b0-edccc8397943"
+  },
+  {
+    "id": "313ccb0e-ac88-8044-9091-ef740c2b639a",
+    "created_time": "2026-02-26T02:11:00.000Z",
+    "last_edited_time": "2026-02-27T10:26:00.000Z",
+    "properties": {
+      "NLTT": null,
+      "Point Status": [
+        "Unconfirmed"
+      ],
+      "Product Point": [
+        0
+      ],
+      "Ngày làm": {
+        "start": "2026-02-26",
+        "end": "2026-02-27"
+      },
+      "Product Status": [
+        "Pending Review"
+      ],
+      "Required by": [
+        {
+          "type": "select",
+          "select": null
+        }
+      ],
+      "Product (1)": [
+        "Làm Mô Tả Cảnh"
+      ],
+      "Trọng số TP": 1,
+      "Product Type": [
+        "Lead"
+      ],
+      "Task QC": "0/1",
+      "TP thực tế": 0,
+      "Task type": "Main",
+      "Task fix": "0/1",
+      "Sprint": null,
+      "Task Status": "Done",
+      "Episode": [
+        "Tiền Kỳ"
+      ],
+      "Assignee": [
+        {
+          "id": "6fac67e4-7a58-401b-a896-68b5dadd539c",
+          "name": "Linh Nguyễn",
+          "email": "linhnt@sangygroup.com"
+        }
+      ],
+      "UTNL": [],
+      "Product": [
+        "312ccb0e-ac88-80af-978c-c77493927249"
+      ],
+      "Created time": null,
+      "Task main": "1/1",
+      "Loại cảnh": [
+        {
+          "type": "select",
+          "select": null
+        }
+      ],
+      "Tasks": "Làm Mô Tả Cảnh Not started 1"
+    },
+    "_title": "Làm Mô Tả Cảnh Not started 1",
+    "database_name": "[OTH] Tasks",
+    "project_name": "[OTH] Tasks",
+    "database_id": "2f6ccb0e-ac88-803a-a0b0-edccc8397943"
+  },
+  {
+    "id": "313ccb0e-ac88-8095-9216-eb3f40d9d88f",
+    "created_time": "2026-02-26T08:50:00.000Z",
+    "last_edited_time": "2026-02-27T10:26:00.000Z",
+    "properties": {
+      "NLTT": null,
+      "Point Status": [
+        "Unconfirmed"
+      ],
+      "Product Point": [
+        0
+      ],
+      "Ngày làm": {
+        "start": "2026-02-26",
+        "end": "2026-02-27"
+      },
+      "Product Status": [
+        "Pending Review"
+      ],
+      "Required by": [
+        {
+          "type": "select",
+          "select": null
+        }
+      ],
+      "Product (1)": [
+        "Làm Animation Brief (tham khảo của các season trước)"
+      ],
+      "Trọng số TP": 1,
+      "Product Type": [
+        "Lead"
+      ],
+      "Task QC": "0/1",
+      "TP thực tế": 0,
+      "Task type": "Main",
+      "Task fix": "0/1",
+      "Sprint": null,
+      "Task Status": "Done",
+      "Episode": [
+        "Tiền Kỳ"
+      ],
+      "Assignee": [
+        {
+          "id": "6fac67e4-7a58-401b-a896-68b5dadd539c",
+          "name": "Linh Nguyễn",
+          "email": "linhnt@sangygroup.com"
+        }
+      ],
+      "UTNL": [],
+      "Product": [
+        "312ccb0e-ac88-80f9-a772-e31ba51be8c2"
+      ],
+      "Created time": null,
+      "Task main": "1/1",
+      "Loại cảnh": [
+        {
+          "type": "select",
+          "select": null
+        }
+      ],
+      "Tasks": "Làm Animation Brief (tham khảo của các season trước) In progress 1"
+    },
+    "_title": "Làm Animation Brief (tham khảo của các season trước) In progress 1",
+    "database_name": "[OTH] Tasks",
+    "project_name": "[OTH] Tasks",
+    "database_id": "2f6ccb0e-ac88-803a-a0b0-edccc8397943"
+  },
+  {
+    "id": "314ccb0e-ac88-811c-a161-ec3a5666e3dc",
+    "created_time": "2026-02-27T02:36:00.000Z",
+    "last_edited_time": "2026-02-27T02:36:00.000Z",
+    "properties": {
+      "NLTT": null,
+      "Point Status": [
+        "Unconfirmed"
+      ],
+      "Product Point": [
+        0
+      ],
+      "Ngày làm": null,
+      "Product Status": [
+        "QC Approved"
+      ],
+      "Required by": [
+        {
+          "type": "select",
+          "select": null
+        }
+      ],
+      "Product (1)": [
+        "SP 03"
+      ],
+      "Trọng số TP": 0.15,
+      "Product Type": [
+        "Special pose"
+      ],
+      "Task QC": "1/1",
+      "TP thực tế": 0,
+      "Task type": "QC",
+      "Task fix": "0/1",
+      "Sprint": null,
+      "Task Status": "Done QC",
+      "Episode": [
+        {
+          "type": "select",
+          "select": null
+        }
+      ],
+      "Assignee": [
+        {
+          "id": "2b47d5ac-bd39-4aad-8e95-23ea4ab9b925",
+          "name": "Hoàng Hà",
+          "email": "hoanghh@sangygroup.com"
+        }
+      ],
+      "UTNL": [],
+      "Product": [
+        "312ccb0e-ac88-807e-b036-edd384fd3495"
+      ],
+      "Created time": null,
+      "Task main": "0/1",
+      "Loại cảnh": [
+        {
+          "type": "select",
+          "select": null
+        }
+      ],
+      "Tasks": "SP 03 ver1"
+    },
+    "_title": "SP 03 ver1",
+    "database_name": "[OTH] Tasks",
+    "project_name": "[OTH] Tasks",
+    "database_id": "2f6ccb0e-ac88-803a-a0b0-edccc8397943"
+  },
+  {
+    "id": "314ccb0e-ac88-8181-b900-f1fdc3acee3d",
+    "created_time": "2026-02-27T09:00:00.000Z",
+    "last_edited_time": "2026-02-27T09:00:00.000Z",
+    "properties": {
+      "NLTT": null,
+      "Point Status": [
+        "Unconfirmed"
+      ],
+      "Product Point": [
+        0
+      ],
+      "Ngày làm": null,
+      "Product Status": [
+        "QC Approved"
+      ],
+      "Required by": [
+        {
+          "type": "select",
+          "select": null
+        }
+      ],
+      "Product (1)": [
+        "SP 10"
+      ],
+      "Trọng số TP": 0.15,
+      "Product Type": [
+        "Special pose"
+      ],
+      "Task QC": "1/1",
+      "TP thực tế": 0,
+      "Task type": "QC",
+      "Task fix": "0/1",
+      "Sprint": null,
+      "Task Status": "Done QC",
+      "Episode": [
+        {
+          "type": "select",
+          "select": null
+        }
+      ],
+      "Assignee": [
+        {
+          "id": "2b47d5ac-bd39-4aad-8e95-23ea4ab9b925",
+          "name": "Hoàng Hà",
+          "email": "hoanghh@sangygroup.com"
+        }
+      ],
+      "UTNL": [],
+      "Product": [
+        "312ccb0e-ac88-805a-9d5e-ca278bb7af71"
+      ],
+      "Created time": null,
+      "Task main": "0/1",
+      "Loại cảnh": [
+        {
+          "type": "select",
+          "select": null
+        }
+      ],
+      "Tasks": "SP 10 ver1"
+    },
+    "_title": "SP 10 ver1",
+    "database_name": "[OTH] Tasks",
+    "project_name": "[OTH] Tasks",
+    "database_id": "2f6ccb0e-ac88-803a-a0b0-edccc8397943"
+  },
+  {
+    "id": "314ccb0e-ac88-8189-93ae-d471de76e9e0",
+    "created_time": "2026-02-27T03:45:00.000Z",
+    "last_edited_time": "2026-02-27T03:45:00.000Z",
+    "properties": {
+      "NLTT": null,
+      "Point Status": [
+        "Unconfirmed"
+      ],
+      "Product Point": [
+        0
+      ],
+      "Ngày làm": null,
+      "Product Status": [
+        "QC Approved"
+      ],
+      "Required by": [
+        {
+          "type": "select",
+          "select": null
+        }
+      ],
+      "Product (1)": [
+        "SP 07"
+      ],
+      "Trọng số TP": 0.15,
+      "Product Type": [
+        "Special pose"
+      ],
+      "Task QC": "1/1",
+      "TP thực tế": 0,
+      "Task type": "QC",
+      "Task fix": "0/1",
+      "Sprint": null,
+      "Task Status": "Done QC",
+      "Episode": [
+        {
+          "type": "select",
+          "select": null
+        }
+      ],
+      "Assignee": [
+        {
+          "id": "2b47d5ac-bd39-4aad-8e95-23ea4ab9b925",
+          "name": "Hoàng Hà",
+          "email": "hoanghh@sangygroup.com"
+        }
+      ],
+      "UTNL": [],
+      "Product": [
+        "312ccb0e-ac88-80e4-a137-e402e9d9d108"
+      ],
+      "Created time": null,
+      "Task main": "0/1",
+      "Loại cảnh": [
+        {
+          "type": "select",
+          "select": null
+        }
+      ],
+      "Tasks": "SP 07 ver1"
+    },
+    "_title": "SP 07 ver1",
+    "database_name": "[OTH] Tasks",
+    "project_name": "[OTH] Tasks",
+    "database_id": "2f6ccb0e-ac88-803a-a0b0-edccc8397943"
+  },
+  {
+    "id": "314ccb0e-ac88-819a-b4f6-e0be100b1fe1",
+    "created_time": "2026-02-27T09:21:00.000Z",
+    "last_edited_time": "2026-02-27T09:21:00.000Z",
+    "properties": {
+      "NLTT": null,
+      "Point Status": [
+        "Unconfirmed"
+      ],
+      "Product Point": [
+        0
+      ],
+      "Ngày làm": null,
+      "Product Status": [
+        "QC Approved"
+      ],
+      "Required by": [
+        {
+          "type": "select",
+          "select": null
+        }
+      ],
+      "Product (1)": [
+        "SP 11"
+      ],
+      "Trọng số TP": 0.15,
+      "Product Type": [
+        "Special pose"
+      ],
+      "Task QC": "1/1",
+      "TP thực tế": 0,
+      "Task type": "QC",
+      "Task fix": "0/1",
+      "Sprint": null,
+      "Task Status": "Done QC",
+      "Episode": [
+        {
+          "type": "select",
+          "select": null
+        }
+      ],
+      "Assignee": [
+        {
+          "id": "2b47d5ac-bd39-4aad-8e95-23ea4ab9b925",
+          "name": "Hoàng Hà",
+          "email": "hoanghh@sangygroup.com"
+        }
+      ],
+      "UTNL": [],
+      "Product": [
+        "312ccb0e-ac88-8085-855c-ccd64ec71b6d"
+      ],
+      "Created time": null,
+      "Task main": "0/1",
+      "Loại cảnh": [
+        {
+          "type": "select",
+          "select": null
+        }
+      ],
+      "Tasks": "SP 11 ver1"
+    },
+    "_title": "SP 11 ver1",
+    "database_name": "[OTH] Tasks",
+    "project_name": "[OTH] Tasks",
+    "database_id": "2f6ccb0e-ac88-803a-a0b0-edccc8397943"
+  },
+  {
+    "id": "314ccb0e-ac88-81ba-a155-ebcf2b9f671d",
+    "created_time": "2026-02-27T09:48:00.000Z",
+    "last_edited_time": "2026-02-27T09:48:00.000Z",
+    "properties": {
+      "NLTT": null,
+      "Point Status": [
+        "Unconfirmed"
+      ],
+      "Product Point": [
+        0
+      ],
+      "Ngày làm": null,
+      "Product Status": [
+        "QC Approved"
+      ],
+      "Required by": [
+        {
+          "type": "select",
+          "select": null
+        }
+      ],
+      "Product (1)": [
+        "SP 13"
+      ],
+      "Trọng số TP": 0.15,
+      "Product Type": [
+        "Special pose"
+      ],
+      "Task QC": "1/1",
+      "TP thực tế": 0,
+      "Task type": "QC",
+      "Task fix": "0/1",
+      "Sprint": null,
+      "Task Status": "Done QC",
+      "Episode": [
+        {
+          "type": "select",
+          "select": null
+        }
+      ],
+      "Assignee": [
+        {
+          "id": "2b47d5ac-bd39-4aad-8e95-23ea4ab9b925",
+          "name": "Hoàng Hà",
+          "email": "hoanghh@sangygroup.com"
+        }
+      ],
+      "UTNL": [],
+      "Product": [
+        "312ccb0e-ac88-801e-9242-ccc78b84207a"
+      ],
+      "Created time": null,
+      "Task main": "0/1",
+      "Loại cảnh": [
+        {
+          "type": "select",
+          "select": null
+        }
+      ],
+      "Tasks": "SP 13 ver1"
+    },
+    "_title": "SP 13 ver1",
+    "database_name": "[OTH] Tasks",
+    "project_name": "[OTH] Tasks",
+    "database_id": "2f6ccb0e-ac88-803a-a0b0-edccc8397943"
+  },
+  {
+    "id": "314ccb0e-ac88-81cc-b2e0-f69894a14ace",
+    "created_time": "2026-02-27T07:58:00.000Z",
+    "last_edited_time": "2026-02-27T07:58:00.000Z",
+    "properties": {
+      "NLTT": null,
+      "Point Status": [
+        "Unconfirmed"
+      ],
+      "Product Point": [
+        0
+      ],
+      "Ngày làm": null,
+      "Product Status": [
+        "QC Approved"
+      ],
+      "Required by": [
+        {
+          "type": "select",
+          "select": null
+        }
+      ],
+      "Product (1)": [
+        "SP 08"
+      ],
+      "Trọng số TP": 0.15,
+      "Product Type": [
+        "Special pose"
+      ],
+      "Task QC": "1/1",
+      "TP thực tế": 0,
+      "Task type": "QC",
+      "Task fix": "0/1",
+      "Sprint": null,
+      "Task Status": "Done QC",
+      "Episode": [
+        {
+          "type": "select",
+          "select": null
+        }
+      ],
+      "Assignee": [
+        {
+          "id": "2b47d5ac-bd39-4aad-8e95-23ea4ab9b925",
+          "name": "Hoàng Hà",
+          "email": "hoanghh@sangygroup.com"
+        }
+      ],
+      "UTNL": [],
+      "Product": [
+        "312ccb0e-ac88-80fa-b8bd-ec83c41ea605"
+      ],
+      "Created time": null,
+      "Task main": "0/1",
+      "Loại cảnh": [
+        {
+          "type": "select",
+          "select": null
+        }
+      ],
+      "Tasks": "SP 08 ver1"
+    },
+    "_title": "SP 08 ver1",
+    "database_name": "[OTH] Tasks",
+    "project_name": "[OTH] Tasks",
+    "database_id": "2f6ccb0e-ac88-803a-a0b0-edccc8397943"
+  },
+  {
+    "id": "317ccb0e-ac88-801b-bce2-eda627c6e3b2",
+    "created_time": "2026-03-02T09:57:00.000Z",
+    "last_edited_time": "2026-03-02T09:57:00.000Z",
+    "properties": {
+      "NLTT": null,
+      "Point Status": [
+        "Unconfirmed"
+      ],
+      "Product Point": [
+        0
+      ],
+      "Ngày làm": {
+        "start": "2026-03-02",
+        "end": null
+      },
+      "Product Status": [
+        "Pending Review"
+      ],
+      "Required by": [
+        {
+          "type": "select",
+          "select": null
+        }
+      ],
+      "Product (1)": [
+        "Kiểm tra xem đủ data input cho team chưa"
+      ],
+      "Trọng số TP": 1,
+      "Product Type": [
+        "Lead"
+      ],
+      "Task QC": "0/1",
+      "TP thực tế": 0,
+      "Task type": "Main",
+      "Task fix": "0/1",
+      "Sprint": null,
+      "Task Status": "Done",
+      "Episode": [
+        "Tiền Kỳ"
+      ],
+      "Assignee": [
+        {
+          "id": "6fac67e4-7a58-401b-a896-68b5dadd539c",
+          "name": "Linh Nguyễn",
+          "email": "linhnt@sangygroup.com"
+        }
+      ],
+      "UTNL": [],
+      "Product": [
+        "312ccb0e-ac88-806d-b0fb-fef1b29c8a7c"
+      ],
+      "Created time": null,
+      "Task main": "1/1",
+      "Loại cảnh": [
+        {
+          "type": "select",
+          "select": null
+        }
+      ],
+      "Tasks": "Kiểm tra xem đủ data input cho team chưa Not started 1"
+    },
+    "_title": "Kiểm tra xem đủ data input cho team chưa Not started 1",
+    "database_name": "[OTH] Tasks",
+    "project_name": "[OTH] Tasks",
+    "database_id": "2f6ccb0e-ac88-803a-a0b0-edccc8397943"
+  },
+  {
+    "id": "317ccb0e-ac88-8042-aa40-ee0beafe36e4",
+    "created_time": "2026-03-02T07:33:00.000Z",
+    "last_edited_time": "2026-03-02T07:33:00.000Z",
+    "properties": {
+      "NLTT": null,
+      "Point Status": [
+        "Unconfirmed"
+      ],
+      "Product Point": [
+        0
+      ],
+      "Ngày làm": {
+        "start": "2026-03-02",
+        "end": null
+      },
+      "Product Status": [
+        "Pending Review"
+      ],
+      "Required by": [
+        {
+          "type": "select",
+          "select": null
+        }
+      ],
+      "Product (1)": [
+        "Chấm Phân Loại Cảnh "
+      ],
+      "Trọng số TP": 1,
+      "Product Type": [
+        "Lead"
+      ],
+      "Task QC": "0/1",
+      "TP thực tế": 0,
+      "Task type": "Main",
+      "Task fix": "0/1",
+      "Sprint": null,
+      "Task Status": "Done",
+      "Episode": [
+        "Tiền Kỳ"
+      ],
+      "Assignee": [
+        {
+          "id": "6fac67e4-7a58-401b-a896-68b5dadd539c",
+          "name": "Linh Nguyễn",
+          "email": "linhnt@sangygroup.com"
+        }
+      ],
+      "UTNL": [],
+      "Product": [
+        "312ccb0e-ac88-8039-956c-c5b95c4a496f"
+      ],
+      "Created time": null,
+      "Task main": "1/1",
+      "Loại cảnh": [
+        {
+          "type": "select",
+          "select": null
+        }
+      ],
+      "Tasks": "Chấm Phân Loại Cảnh  Pending Review 1"
+    },
+    "_title": "Chấm Phân Loại Cảnh  Pending Review 1",
+    "database_name": "[OTH] Tasks",
+    "project_name": "[OTH] Tasks",
+    "database_id": "2f6ccb0e-ac88-803a-a0b0-edccc8397943"
+  },
+  {
+    "id": "317ccb0e-ac88-8110-8b1f-f4ff3569be34",
+    "created_time": "2026-03-02T07:31:00.000Z",
+    "last_edited_time": "2026-03-02T07:31:00.000Z",
+    "properties": {
+      "NLTT": null,
+      "Point Status": [
+        "Unconfirmed"
+      ],
+      "Product Point": [
+        0
+      ],
+      "Ngày làm": null,
+      "Product Status": [
+        "QC Approved"
+      ],
+      "Required by": [
+        {
+          "type": "select",
+          "select": null
+        }
+      ],
+      "Product (1)": [
+        "Vẽ SP"
+      ],
+      "Trọng số TP": 0.15,
+      "Product Type": [
+        "Lead"
+      ],
+      "Task QC": "1/1",
+      "TP thực tế": 0,
+      "Task type": "QC",
+      "Task fix": "0/1",
+      "Sprint": null,
+      "Task Status": "Done QC",
+      "Episode": [
+        "Tiền Kỳ"
+      ],
+      "Assignee": [
+        {
+          "id": "800e396f-b978-41ef-8557-655d376d2603",
+          "name": "Minh Anh Nguyen Pham",
+          "email": "anhnpm@sangygroup.com"
+        }
+      ],
+      "UTNL": [],
+      "Product": [
+        "312ccb0e-ac88-80a5-80ca-e451a6856df5"
+      ],
+      "Created time": null,
+      "Task main": "0/1",
+      "Loại cảnh": [
+        {
+          "type": "select",
+          "select": null
+        }
+      ],
+      "Tasks": "Vẽ SP ver1"
+    },
+    "_title": "Vẽ SP ver1",
+    "database_name": "[OTH] Tasks",
+    "project_name": "[OTH] Tasks",
+    "database_id": "2f6ccb0e-ac88-803a-a0b0-edccc8397943"
+  },
+  {
+    "id": "317ccb0e-ac88-81a7-8cc9-e8acf5ea7515",
+    "created_time": "2026-03-02T03:55:00.000Z",
+    "last_edited_time": "2026-03-02T03:55:00.000Z",
+    "properties": {
+      "NLTT": null,
+      "Point Status": [
+        "Unconfirmed"
+      ],
+      "Product Point": [
+        0
+      ],
+      "Ngày làm": null,
+      "Product Status": [
+        "QC Approved"
+      ],
+      "Required by": [
+        {
+          "type": "select",
+          "select": null
+        }
+      ],
+      "Product (1)": [
+        "SP 19"
+      ],
+      "Trọng số TP": 0.15,
+      "Product Type": [
+        "Special pose"
+      ],
+      "Task QC": "1/1",
+      "TP thực tế": 0,
+      "Task type": "QC",
+      "Task fix": "0/1",
+      "Sprint": null,
+      "Task Status": "Done QC",
+      "Episode": [
+        {
+          "type": "select",
+          "select": null
+        }
+      ],
+      "Assignee": [
+        {
+          "id": "2b47d5ac-bd39-4aad-8e95-23ea4ab9b925",
+          "name": "Hoàng Hà",
+          "email": "hoanghh@sangygroup.com"
+        }
+      ],
+      "UTNL": [],
+      "Product": [
+        "312ccb0e-ac88-80c1-9371-f124ff6bd5fe"
+      ],
+      "Created time": null,
+      "Task main": "0/1",
+      "Loại cảnh": [
+        {
+          "type": "select",
+          "select": null
+        }
+      ],
+      "Tasks": "SP 19 ver1"
+    },
+    "_title": "SP 19 ver1",
+    "database_name": "[OTH] Tasks",
+    "project_name": "[OTH] Tasks",
+    "database_id": "2f6ccb0e-ac88-803a-a0b0-edccc8397943"
+  },
+  {
+    "id": "317ccb0e-ac88-81a8-853b-def52a3eef4c",
+    "created_time": "2026-03-02T07:36:00.000Z",
+    "last_edited_time": "2026-03-02T07:36:00.000Z",
+    "properties": {
+      "NLTT": null,
+      "Point Status": [
+        "Unconfirmed"
+      ],
+      "Product Point": [
+        0
+      ],
+      "Ngày làm": null,
+      "Product Status": [
+        "QC Approved"
+      ],
+      "Required by": [
+        {
+          "type": "select",
+          "select": null
+        }
+      ],
+      "Product (1)": [
+        "Chọn những cảnh cần SP"
+      ],
+      "Trọng số TP": 0.15,
+      "Product Type": [
+        "Lead"
+      ],
+      "Task QC": "1/2",
+      "TP thực tế": 0,
+      "Task type": "QC",
+      "Task fix": "0/2",
+      "Sprint": null,
+      "Task Status": "Done QC",
+      "Episode": [
+        "Tiền Kỳ"
+      ],
+      "Assignee": [
+        {
+          "id": "800e396f-b978-41ef-8557-655d376d2603",
+          "name": "Minh Anh Nguyen Pham",
+          "email": "anhnpm@sangygroup.com"
+        }
+      ],
+      "UTNL": [],
+      "Product": [
+        "312ccb0e-ac88-808d-9a8a-f9b3461c1914"
+      ],
+      "Created time": null,
+      "Task main": "1/2",
+      "Loại cảnh": [
+        {
+          "type": "select",
+          "select": null
+        }
+      ],
+      "Tasks": "Chọn những cảnh cần SP ver1"
+    },
+    "_title": "Chọn những cảnh cần SP ver1",
+    "database_name": "[OTH] Tasks",
+    "project_name": "[OTH] Tasks",
+    "database_id": "2f6ccb0e-ac88-803a-a0b0-edccc8397943"
+  },
+  {
+    "id": "325ccb0e-ac88-8132-9e1c-eb4193014fdd",
+    "created_time": "2026-03-16T09:42:00.000Z",
+    "last_edited_time": "2026-03-16T09:42:00.000Z",
+    "properties": {
+      "NLTT": null,
+      "Point Status": [
+        "Unconfirmed"
+      ],
+      "Product Point": [
+        1
+      ],
+      "Ngày làm": {
+        "start": "2026-03-16T16:42:00.000+07:00",
+        "end": null
+      },
+      "Product Status": [
+        "Completed"
+      ],
+      "Required by": [
+        {
+          "type": "select",
+          "select": null
+        }
+      ],
+      "Product (1)": [
+        "Phát sinh chuyên môn - merge 10 file"
+      ],
+      "Trọng số TP": 1,
+      "Product Type": [
+        "Phát sinh chuyên môn"
+      ],
+      "Task QC": "0/1",
+      "TP thực tế": 1,
+      "Task type": "Main",
+      "Task fix": "0/1",
+      "Sprint": null,
+      "Task Status": "Done others",
+      "Episode": [
+        {
+          "type": "select",
+          "select": null
+        }
+      ],
+      "Assignee": [
+        {
+          "id": "38ad2754-5cc0-4675-ba8c-bab49ef690d9",
+          "name": "Trinh Ngụy",
+          "email": "production@deedeestudio.net"
+        }
+      ],
+      "UTNL": [],
+      "Product": [
+        "325ccb0e-ac88-80e5-986a-ed8052d8cc16"
+      ],
+      "Created time": null,
+      "Task main": "1/1",
+      "Loại cảnh": [
+        "F"
+      ],
+      "Tasks": "Phát sinh chuyên môn - merge 10 file"
+    },
+    "_title": "Phát sinh chuyên môn - merge 10 file",
+    "database_name": "[OTH] Tasks",
+    "project_name": "[OTH] Tasks",
+    "database_id": "2f6ccb0e-ac88-803a-a0b0-edccc8397943"
+  },
+  {
+    "id": "325ccb0e-ac88-8152-b12a-f8d0dc4cc7a9",
+    "created_time": "2026-03-16T10:12:00.000Z",
+    "last_edited_time": "2026-03-16T10:12:00.000Z",
+    "properties": {
+      "NLTT": null,
+      "Point Status": [
+        "Unconfirmed"
+      ],
+      "Product Point": [
+        1
+      ],
+      "Ngày làm": {
+        "start": "2026-03-16T17:12:00.000+07:00",
+        "end": null
+      },
+      "Product Status": [
+        "Completed"
+      ],
+      "Required by": [
+        {
+          "type": "select",
+          "select": null
+        }
+      ],
+      "Product (1)": [
+        "Phát sinh chuyên môn - merge 10 lo"
+      ],
+      "Trọng số TP": 1,
+      "Product Type": [
+        "Phát sinh chuyên môn"
+      ],
+      "Task QC": "0/1",
+      "TP thực tế": 1,
+      "Task type": "Main",
+      "Task fix": "0/1",
+      "Sprint": null,
+      "Task Status": "Done others",
+      "Episode": [
+        {
+          "type": "select",
+          "select": null
+        }
+      ],
+      "Assignee": [
+        {
+          "id": "38ad2754-5cc0-4675-ba8c-bab49ef690d9",
+          "name": "Trinh Ngụy",
+          "email": "production@deedeestudio.net"
+        }
+      ],
+      "UTNL": [],
+      "Product": [
+        "325ccb0e-ac88-8012-98a9-db7b90610251"
+      ],
+      "Created time": null,
+      "Task main": "1/1",
+      "Loại cảnh": [
+        "F"
+      ],
+      "Tasks": "Phát sinh chuyên môn - merge 10 lo"
+    },
+    "_title": "Phát sinh chuyên môn - merge 10 lo",
+    "database_name": "[OTH] Tasks",
+    "project_name": "[OTH] Tasks",
+    "database_id": "2f6ccb0e-ac88-803a-a0b0-edccc8397943"
+  },
+  {
+    "id": "326ccb0e-ac88-8196-b4d2-d029421d338a",
+    "created_time": "2026-03-17T09:52:00.000Z",
+    "last_edited_time": "2026-03-17T09:52:00.000Z",
+    "properties": {
+      "NLTT": null,
+      "Point Status": [
+        "Unconfirmed"
+      ],
+      "Product Point": [
+        0
+      ],
+      "Ngày làm": {
+        "start": "2026-03-17T16:52:00.000+07:00",
+        "end": null
+      },
+      "Product Status": [
+        "Completed"
+      ],
+      "Required by": [
+        {
+          "type": "select",
+          "select": null
+        }
+      ],
+      "Product (1)": [
+        "Họp dự án"
+      ],
+      "Trọng số TP": 1,
+      "Product Type": [
+        "Họp dự án"
+      ],
+      "Task QC": "0/1",
+      "TP thực tế": 0,
+      "Task type": "Main",
+      "Task fix": "0/1",
+      "Sprint": null,
+      "Task Status": "Done others",
+      "Episode": [
+        {
+          "type": "select",
+          "select": null
+        }
+      ],
+      "Assignee": [
+        {
+          "id": "c2266065-7d98-480f-82f3-6308d5402577",
+          "name": "Giang Bùi",
+          "email": "giangbt@sangygroup.com"
+        }
+      ],
+      "UTNL": [],
+      "Product": [
+        "326ccb0e-ac88-8012-8b69-c0d6d1e58e55"
+      ],
+      "Created time": null,
+      "Task main": "1/1",
+      "Loại cảnh": [
+        {
+          "type": "select",
+          "select": null
+        }
+      ],
+      "Tasks": "Họp dự án"
+    },
+    "_title": "Họp dự án",
+    "database_name": "[OTH] Tasks",
+    "project_name": "[OTH] Tasks",
+    "database_id": "2f6ccb0e-ac88-803a-a0b0-edccc8397943"
+  },
+  {
+    "id": "326ccb0e-ac88-81f9-a555-f865b2961522",
+    "created_time": "2026-03-17T09:52:00.000Z",
+    "last_edited_time": "2026-03-17T09:52:00.000Z",
+    "properties": {
+      "NLTT": null,
+      "Point Status": [
+        "Unconfirmed"
+      ],
+      "Product Point": [
+        0
+      ],
+      "Ngày làm": {
+        "start": "2026-03-17T16:52:00.000+07:00",
+        "end": null
+      },
+      "Product Status": [
+        "Completed"
+      ],
+      "Required by": [
+        {
+          "type": "select",
+          "select": null
+        }
+      ],
+      "Product (1)": [
+        "Phát sinh chuyên môn"
+      ],
+      "Trọng số TP": 1,
+      "Product Type": [
+        "Phát sinh chuyên môn"
+      ],
+      "Task QC": "0/1",
+      "TP thực tế": 0,
+      "Task type": "Main",
+      "Task fix": "0/1",
+      "Sprint": null,
+      "Task Status": "Done others",
+      "Episode": [
+        {
+          "type": "select",
+          "select": null
+        }
+      ],
+      "Assignee": [
+        {
+          "id": "c2266065-7d98-480f-82f3-6308d5402577",
+          "name": "Giang Bùi",
+          "email": "giangbt@sangygroup.com"
+        }
+      ],
+      "UTNL": [],
+      "Product": [
+        "326ccb0e-ac88-8079-865d-d1c5950e3187"
+      ],
+      "Created time": null,
+      "Task main": "1/1",
+      "Loại cảnh": [
+        {
+          "type": "select",
+          "select": null
+        }
+      ],
+      "Tasks": "Phát sinh chuyên môn"
+    },
+    "_title": "Phát sinh chuyên môn",
+    "database_name": "[OTH] Tasks",
+    "project_name": "[OTH] Tasks",
+    "database_id": "2f6ccb0e-ac88-803a-a0b0-edccc8397943"
+  },
+  {
+    "id": "328ccb0e-ac88-8192-8b59-c01fe9883112",
+    "created_time": "2026-03-19T10:53:00.000Z",
+    "last_edited_time": "2026-03-19T10:53:00.000Z",
+    "properties": {
+      "NLTT": 0.125,
+      "Point Status": [
+        "Unconfirmed"
+      ],
+      "Product Point": [
+        1
+      ],
+      "Ngày làm": {
+        "start": "2026-03-19T17:53:00.000+07:00",
+        "end": null
+      },
+      "Product Status": [
+        "Completed"
+      ],
+      "Required by": [
+        {
+          "type": "select",
+          "select": null
+        }
+      ],
+      "Product (1)": [
+        "Họp dự án"
+      ],
+      "Trọng số TP": 1,
+      "Product Type": [
+        "Họp dự án"
+      ],
+      "Task QC": "0/1",
+      "TP thực tế": 1,
+      "Task type": "Main",
+      "Task fix": "0/1",
+      "Sprint": null,
+      "Task Status": "Done others",
+      "Episode": [
+        {
+          "type": "select",
+          "select": null
+        }
+      ],
+      "Assignee": [
+        {
+          "id": "1bd1e5a6-31bf-4224-8ed4-9189e60c0787",
+          "name": "Linh Hoàng",
+          "email": "linhhv@sangygroup.com"
+        }
+      ],
+      "UTNL": [],
+      "Product": [
+        "328ccb0e-ac88-804c-b976-c3664ac1aea8"
+      ],
+      "Created time": null,
+      "Task main": "1/1",
+      "Loại cảnh": [
+        "F"
+      ],
+      "Tasks": "Họp dự án"
+    },
+    "_title": "Họp dự án",
+    "database_name": "[OTH] Tasks",
+    "project_name": "[OTH] Tasks",
+    "database_id": "2f6ccb0e-ac88-803a-a0b0-edccc8397943"
+  },
+  {
+    "id": "328ccb0e-ac88-81a6-afc4-e0f3f529d222",
+    "created_time": "2026-03-19T09:02:00.000Z",
+    "last_edited_time": "2026-03-19T09:02:00.000Z",
+    "properties": {
+      "NLTT": null,
+      "Point Status": [
+        "Unconfirmed"
+      ],
+      "Product Point": [
+        0
+      ],
+      "Ngày làm": {
+        "start": "2026-03-19T16:02:00.000+07:00",
+        "end": null
+      },
+      "Product Status": [
+        "Completed"
+      ],
+      "Required by": [
+        {
+          "type": "select",
+          "select": null
+        }
+      ],
+      "Product (1)": [
+        "Họp dự án"
+      ],
+      "Trọng số TP": 1,
+      "Product Type": [
+        "Họp dự án"
+      ],
+      "Task QC": "0/1",
+      "TP thực tế": 0,
+      "Task type": "Main",
+      "Task fix": "0/1",
+      "Sprint": null,
+      "Task Status": "Done others",
+      "Episode": [
+        {
+          "type": "select",
+          "select": null
+        }
+      ],
+      "Assignee": [
+        {
+          "id": "cc7a67f2-ff5b-4e07-8876-5573006123b1",
+          "name": "Huy Đỗ",
+          "email": "huydq@sangygroup.com"
+        }
+      ],
+      "UTNL": [],
+      "Product": [
+        "328ccb0e-ac88-80bb-b13c-ffb8a1695fe9"
+      ],
+      "Created time": null,
+      "Task main": "1/1",
+      "Loại cảnh": [
+        {
+          "type": "select",
+          "select": null
+        }
+      ],
+      "Tasks": "Họp dự án"
+    },
+    "_title": "Họp dự án",
+    "database_name": "[OTH] Tasks",
+    "project_name": "[OTH] Tasks",
+    "database_id": "2f6ccb0e-ac88-803a-a0b0-edccc8397943"
+  },
+  {
+    "id": "328ccb0e-ac88-81b8-b2b0-f6c24b736789",
+    "created_time": "2026-03-19T10:56:00.000Z",
+    "last_edited_time": "2026-03-19T10:56:00.000Z",
+    "properties": {
+      "NLTT": null,
+      "Point Status": null,
+      "Product Point": null,
+      "Ngày làm": {
+        "start": "2026-03-19T17:56:00.000+07:00",
+        "end": null
+      },
+      "Product Status": null,
+      "Required by": null,
+      "Product (1)": null,
+      "Trọng số TP": 1,
+      "Product Type": null,
+      "Task QC": null,
+      "TP thực tế": 0,
+      "Task type": "Main",
+      "Task fix": null,
+      "Sprint": null,
+      "Task Status": "Done others",
+      "Episode": null,
+      "Assignee": [
+        {
+          "id": "800e396f-b978-41ef-8557-655d376d2603",
+          "name": "Minh Anh Nguyen Pham",
+          "email": "anhnpm@sangygroup.com"
+        }
+      ],
+      "UTNL": null,
+      "Product": [],
+      "Created time": null,
+      "Task main": null,
+      "Loại cảnh": null,
+      "Tasks": "Phát sinh chuyên môn"
+    },
+    "_title": "Phát sinh chuyên môn",
+    "database_name": "[OTH] Tasks",
+    "project_name": "[OTH] Tasks",
+    "database_id": "2f6ccb0e-ac88-803a-a0b0-edccc8397943"
+  },
+  {
+    "id": "328ccb0e-ac88-81f6-96a7-fdef1a9dca9d",
+    "created_time": "2026-03-19T10:53:00.000Z",
+    "last_edited_time": "2026-03-19T10:54:00.000Z",
+    "properties": {
+      "NLTT": 0.375,
+      "Point Status": [
+        "Unconfirmed"
+      ],
+      "Product Point": [
+        5
+      ],
+      "Ngày làm": {
+        "start": "2026-03-19T17:53:00.000+07:00",
+        "end": null
+      },
+      "Product Status": [
+        "Completed"
+      ],
+      "Required by": [
+        {
+          "type": "select",
+          "select": null
+        }
+      ],
+      "Product (1)": [
+        "Scan Data"
+      ],
+      "Trọng số TP": 1,
+      "Product Type": [
+        "Phát sinh chuyên môn"
+      ],
+      "Task QC": "0/1",
+      "TP thực tế": 5,
+      "Task type": "Main",
+      "Task fix": "0/1",
+      "Sprint": null,
+      "Task Status": "Done others",
+      "Episode": [
+        {
+          "type": "select",
+          "select": null
+        }
+      ],
+      "Assignee": [
+        {
+          "id": "1bd1e5a6-31bf-4224-8ed4-9189e60c0787",
+          "name": "Linh Hoàng",
+          "email": "linhhv@sangygroup.com"
+        }
+      ],
+      "UTNL": [],
+      "Product": [
+        "328ccb0e-ac88-80ec-819e-f1dad0997bee"
+      ],
+      "Created time": null,
+      "Task main": "1/1",
+      "Loại cảnh": [
+        "E"
+      ],
+      "Tasks": "Scan Data"
+    },
+    "_title": "Scan Data",
+    "database_name": "[OTH] Tasks",
+    "project_name": "[OTH] Tasks",
+    "database_id": "2f6ccb0e-ac88-803a-a0b0-edccc8397943"
+  }
+]

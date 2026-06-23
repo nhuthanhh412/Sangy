@@ -1,0 +1,11 @@
+{
+    "name": "notion-dashboard",
+    "version": "1.0.0",
+    "engines": {
+        "node": ">=18.0.0"
+    },
+    "scripts": {
+        "start": "cd backend && npm start",
+        "build": "cd backend && npm install"
+    }
+}

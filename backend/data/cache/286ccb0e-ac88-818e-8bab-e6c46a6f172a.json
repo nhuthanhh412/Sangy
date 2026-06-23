@@ -1,0 +1,532 @@
+[
+  {
+    "id": "286ccb0e-ac88-8011-9631-e6e9feb36ca3",
+    "created_time": "2025-10-08T09:55:00.000Z",
+    "last_edited_time": "2026-01-30T03:50:00.000Z",
+    "properties": {
+      "Ưu tiên": null,
+      "Episode": null,
+      "Task count ": 1,
+      "Total Fixed": 0,
+      "Required by": null,
+      "Owner": [
+        {
+          "id": "2b47d5ac-bd39-4aad-8e95-23ea4ab9b925",
+          "name": "Hoàng Hà",
+          "email": "hoanghh@sangygroup.com"
+        }
+      ],
+      "Loại cảnh": "D",
+      "Status": "Not started",
+      "Tasks ": [
+        "286ccb0e-ac88-80c4-a63c-d593a1a2270b"
+      ],
+      "Task Create": null,
+      "Task count + 1": 2,
+      "Min": 1,
+      "UTNL": null,
+      "Total Main": 1,
+      "Point Status": "Unconfirmed",
+      "Product point": 14,
+      "DO": null,
+      "Resource": null,
+      "Check task done": "Not started",
+      "Max": 2,
+      "Due Date": null,
+      "Combo": null,
+      "Product type": "STB",
+      "Total QC": 0,
+      "Product": "Storyboard 11"
+    },
+    "_title": "Storyboard 11",
+    "database_name": "[LEGO ZOOM] PRODUCT",
+    "project_name": "[LEGO ZOOM]",
+    "database_id": "286ccb0e-ac88-818e-8bab-e6c46a6f172a"
+  },
+  {
+    "id": "286ccb0e-ac88-8015-91ca-c0ad630e58f4",
+    "created_time": "2025-10-08T09:54:00.000Z",
+    "last_edited_time": "2025-10-08T09:58:00.000Z",
+    "properties": {
+      "Ưu tiên": null,
+      "Episode": null,
+      "Task count ": 1,
+      "Total Fixed": 0,
+      "Required by": null,
+      "Owner": [
+        {
+          "id": "2b47d5ac-bd39-4aad-8e95-23ea4ab9b925",
+          "name": "Hoàng Hà",
+          "email": "hoanghh@sangygroup.com"
+        }
+      ],
+      "Loại cảnh": "D",
+      "Status": "Not started",
+      "Tasks ": [
+        "286ccb0e-ac88-80c4-a63c-d593a1a2270b"
+      ],
+      "Task Create": null,
+      "Task count + 1": 2,
+      "Min": 1,
+      "UTNL": null,
+      "Total Main": 1,
+      "Point Status": "Unconfirmed",
+      "Product point": 14,
+      "DO": null,
+      "Resource": null,
+      "Check task done": "Not started",
+      "Max": 2,
+      "Due Date": null,
+      "Combo": null,
+      "Product type": "STB",
+      "Total QC": 0,
+      "Product": "Storyboard 05"
+    },
+    "_title": "Storyboard 05",
+    "database_name": "[LEGO ZOOM] PRODUCT",
+    "project_name": "[LEGO ZOOM]",
+    "database_id": "286ccb0e-ac88-818e-8bab-e6c46a6f172a"
+  },
+  {
+    "id": "286ccb0e-ac88-8020-b859-cb8c3c6e0adb",
+    "created_time": "2025-10-08T09:55:00.000Z",
+    "last_edited_time": "2026-01-30T03:45:00.000Z",
+    "properties": {
+      "Ưu tiên": null,
+      "Episode": null,
+      "Task count ": 1,
+      "Total Fixed": 0,
+      "Required by": null,
+      "Owner": [
+        {
+          "id": "2b47d5ac-bd39-4aad-8e95-23ea4ab9b925",
+          "name": "Hoàng Hà",
+          "email": "hoanghh@sangygroup.com"
+        }
+      ],
+      "Loại cảnh": "D",
+      "Status": "Not started",
+      "Tasks ": [
+        "286ccb0e-ac88-80c4-a63c-d593a1a2270b"
+      ],
+      "Task Create": null,
+      "Task count + 1": 2,
+      "Min": 1,
+      "UTNL": null,
+      "Total Main": 1,
+      "Point Status": "Unconfirmed",
+      "Product point": 14,
+      "DO": null,
+      "Resource": null,
+      "Check task done": "Not started",
+      "Max": 2,
+      "Due Date": null,
+      "Combo": null,
+      "Product type": "STB",
+      "Total QC": 0,
+      "Product": "Storyboard 10"
+    },
+    "_title": "Storyboard 10",
+    "database_name": "[LEGO ZOOM] PRODUCT",
+    "project_name": "[LEGO ZOOM]",
+    "database_id": "286ccb0e-ac88-818e-8bab-e6c46a6f172a"
+  },
+  {
+    "id": "286ccb0e-ac88-8023-8126-dc503066ee19",
+    "created_time": "2025-10-08T09:55:00.000Z",
+    "last_edited_time": "2026-01-30T03:45:00.000Z",
+    "properties": {
+      "Ưu tiên": null,
+      "Episode": null,
+      "Task count ": 1,
+      "Total Fixed": 0,
+      "Required by": null,
+      "Owner": [
+        {
+          "id": "2b47d5ac-bd39-4aad-8e95-23ea4ab9b925",
+          "name": "Hoàng Hà",
+          "email": "hoanghh@sangygroup.com"
+        }
+      ],
+      "Loại cảnh": "D",
+      "Status": "Not started",
+      "Tasks ": [
+        "286ccb0e-ac88-80c4-a63c-d593a1a2270b"
+      ],
+      "Task Create": null,
+      "Task count + 1": 2,
+      "Min": 1,
+      "UTNL": null,
+      "Total Main": 1,
+      "Point Status": "Unconfirmed",
+      "Product point": 14,
+      "DO": null,
+      "Resource": null,
+      "Check task done": "Not started",
+      "Max": 2,
+      "Due Date": null,
+      "Combo": null,
+      "Product type": "STB",
+      "Total QC": 0,
+      "Product": "Storyboard 09"
+    },
+    "_title": "Storyboard 09",
+    "database_name": "[LEGO ZOOM] PRODUCT",
+    "project_name": "[LEGO ZOOM]",
+    "database_id": "286ccb0e-ac88-818e-8bab-e6c46a6f172a"
+  },
+  {
+    "id": "286ccb0e-ac88-802d-bc44-eb79279a3eb1",
+    "created_time": "2025-10-08T09:55:00.000Z",
+    "last_edited_time": "2025-10-08T09:58:00.000Z",
+    "properties": {
+      "Ưu tiên": null,
+      "Episode": null,
+      "Task count ": 1,
+      "Total Fixed": 0,
+      "Required by": null,
+      "Owner": [
+        {
+          "id": "2b47d5ac-bd39-4aad-8e95-23ea4ab9b925",
+          "name": "Hoàng Hà",
+          "email": "hoanghh@sangygroup.com"
+        }
+      ],
+      "Loại cảnh": "D",
+      "Status": "Not started",
+      "Tasks ": [
+        "286ccb0e-ac88-80c4-a63c-d593a1a2270b"
+      ],
+      "Task Create": null,
+      "Task count + 1": 2,
+      "Min": 1,
+      "UTNL": null,
+      "Total Main": 1,
+      "Point Status": "Unconfirmed",
+      "Product point": 14,
+      "DO": null,
+      "Resource": null,
+      "Check task done": "Not started",
+      "Max": 2,
+      "Due Date": null,
+      "Combo": null,
+      "Product type": "STB",
+      "Total QC": 0,
+      "Product": "Storyboard 06"
+    },
+    "_title": "Storyboard 06",
+    "database_name": "[LEGO ZOOM] PRODUCT",
+    "project_name": "[LEGO ZOOM]",
+    "database_id": "286ccb0e-ac88-818e-8bab-e6c46a6f172a"
+  },
+  {
+    "id": "286ccb0e-ac88-8041-a268-caca47b14f96",
+    "created_time": "2025-10-08T09:54:00.000Z",
+    "last_edited_time": "2025-10-08T09:58:00.000Z",
+    "properties": {
+      "Ưu tiên": null,
+      "Episode": null,
+      "Task count ": 1,
+      "Total Fixed": 0,
+      "Required by": null,
+      "Owner": [
+        {
+          "id": "2b47d5ac-bd39-4aad-8e95-23ea4ab9b925",
+          "name": "Hoàng Hà",
+          "email": "hoanghh@sangygroup.com"
+        }
+      ],
+      "Loại cảnh": "D",
+      "Status": "In progress",
+      "Tasks ": [
+        "286ccb0e-ac88-80c4-a63c-d593a1a2270b"
+      ],
+      "Task Create": null,
+      "Task count + 1": 2,
+      "Min": 1,
+      "UTNL": null,
+      "Total Main": 1,
+      "Point Status": "Unconfirmed",
+      "Product point": 14,
+      "DO": null,
+      "Resource": null,
+      "Check task done": "Not started",
+      "Max": 2,
+      "Due Date": null,
+      "Combo": null,
+      "Product type": "STB",
+      "Total QC": 0,
+      "Product": "Storyboard 03"
+    },
+    "_title": "Storyboard 03",
+    "database_name": "[LEGO ZOOM] PRODUCT",
+    "project_name": "[LEGO ZOOM]",
+    "database_id": "286ccb0e-ac88-818e-8bab-e6c46a6f172a"
+  },
+  {
+    "id": "286ccb0e-ac88-806a-ab2e-f994f8909f19",
+    "created_time": "2025-10-08T09:54:00.000Z",
+    "last_edited_time": "2025-10-08T09:58:00.000Z",
+    "properties": {
+      "Ưu tiên": null,
+      "Episode": null,
+      "Task count ": 1,
+      "Total Fixed": 0,
+      "Required by": null,
+      "Owner": [
+        {
+          "id": "2b47d5ac-bd39-4aad-8e95-23ea4ab9b925",
+          "name": "Hoàng Hà",
+          "email": "hoanghh@sangygroup.com"
+        }
+      ],
+      "Loại cảnh": "D",
+      "Status": "Not started",
+      "Tasks ": [
+        "286ccb0e-ac88-80c4-a63c-d593a1a2270b"
+      ],
+      "Task Create": null,
+      "Task count + 1": 2,
+      "Min": 1,
+      "UTNL": null,
+      "Total Main": 1,
+      "Point Status": "Unconfirmed",
+      "Product point": 14,
+      "DO": null,
+      "Resource": null,
+      "Check task done": "Not started",
+      "Max": 2,
+      "Due Date": null,
+      "Combo": null,
+      "Product type": "STB",
+      "Total QC": 0,
+      "Product": "Storyboard 04"
+    },
+    "_title": "Storyboard 04",
+    "database_name": "[LEGO ZOOM] PRODUCT",
+    "project_name": "[LEGO ZOOM]",
+    "database_id": "286ccb0e-ac88-818e-8bab-e6c46a6f172a"
+  },
+  {
+    "id": "286ccb0e-ac88-8077-ad5e-c9b2b70ebe8d",
+    "created_time": "2025-10-08T09:54:00.000Z",
+    "last_edited_time": "2025-10-08T09:58:00.000Z",
+    "properties": {
+      "Ưu tiên": null,
+      "Episode": null,
+      "Task count ": 2,
+      "Total Fixed": 0,
+      "Required by": null,
+      "Owner": [
+        {
+          "id": "2b47d5ac-bd39-4aad-8e95-23ea4ab9b925",
+          "name": "Hoàng Hà",
+          "email": "hoanghh@sangygroup.com"
+        }
+      ],
+      "Loại cảnh": "D",
+      "Status": "Pending Review",
+      "Tasks ": [
+        "286ccb0e-ac88-80c4-a63c-d593a1a2270b",
+        "286ccb0e-ac88-80c4-acf6-e2be5e376d9a"
+      ],
+      "Task Create": null,
+      "Task count + 1": 3,
+      "Min": 1,
+      "UTNL": null,
+      "Total Main": 2,
+      "Point Status": "Unconfirmed",
+      "Product point": 14,
+      "DO": null,
+      "Resource": null,
+      "Check task done": "Not started,Not started",
+      "Max": 2,
+      "Due Date": null,
+      "Combo": null,
+      "Product type": "STB",
+      "Total QC": 0,
+      "Product": "Storyboard 02"
+    },
+    "_title": "Storyboard 02",
+    "database_name": "[LEGO ZOOM] PRODUCT",
+    "project_name": "[LEGO ZOOM]",
+    "database_id": "286ccb0e-ac88-818e-8bab-e6c46a6f172a"
+  },
+  {
+    "id": "286ccb0e-ac88-807f-aac6-c27761f1b473",
+    "created_time": "2025-10-08T09:55:00.000Z",
+    "last_edited_time": "2026-01-30T03:45:00.000Z",
+    "properties": {
+      "Ưu tiên": null,
+      "Episode": null,
+      "Task count ": 1,
+      "Total Fixed": 0,
+      "Required by": null,
+      "Owner": [
+        {
+          "id": "2b47d5ac-bd39-4aad-8e95-23ea4ab9b925",
+          "name": "Hoàng Hà",
+          "email": "hoanghh@sangygroup.com"
+        }
+      ],
+      "Loại cảnh": "D",
+      "Status": "Not started",
+      "Tasks ": [
+        "286ccb0e-ac88-80c4-a63c-d593a1a2270b"
+      ],
+      "Task Create": null,
+      "Task count + 1": 2,
+      "Min": 1,
+      "UTNL": null,
+      "Total Main": 1,
+      "Point Status": "Unconfirmed",
+      "Product point": 14,
+      "DO": null,
+      "Resource": null,
+      "Check task done": "Not started",
+      "Max": 2,
+      "Due Date": null,
+      "Combo": null,
+      "Product type": "STB",
+      "Total QC": 0,
+      "Product": "Storyboard 07"
+    },
+    "_title": "Storyboard 07",
+    "database_name": "[LEGO ZOOM] PRODUCT",
+    "project_name": "[LEGO ZOOM]",
+    "database_id": "286ccb0e-ac88-818e-8bab-e6c46a6f172a"
+  },
+  {
+    "id": "286ccb0e-ac88-80b4-8750-dec038843994",
+    "created_time": "2025-10-08T09:51:00.000Z",
+    "last_edited_time": "2025-10-08T09:58:00.000Z",
+    "properties": {
+      "Ưu tiên": null,
+      "Episode": null,
+      "Task count ": 2,
+      "Total Fixed": 1,
+      "Required by": null,
+      "Owner": [
+        {
+          "id": "2b47d5ac-bd39-4aad-8e95-23ea4ab9b925",
+          "name": "Hoàng Hà",
+          "email": "hoanghh@sangygroup.com"
+        }
+      ],
+      "Loại cảnh": "D",
+      "Status": "Pending Review",
+      "Tasks ": [
+        "286ccb0e-ac88-80c4-a63c-d593a1a2270b",
+        "286ccb0e-ac88-808f-a23f-ff875f65f3c7"
+      ],
+      "Task Create": null,
+      "Task count + 1": 3,
+      "Min": 1,
+      "UTNL": null,
+      "Total Main": 1,
+      "Point Status": "Unconfirmed",
+      "Product point": 14,
+      "DO": null,
+      "Resource": null,
+      "Check task done": "Not started,Not started",
+      "Max": 2,
+      "Due Date": null,
+      "Combo": null,
+      "Product type": "STB",
+      "Total QC": 0,
+      "Product": "Storyboard 01"
+    },
+    "_title": "Storyboard 01",
+    "database_name": "[LEGO ZOOM] PRODUCT",
+    "project_name": "[LEGO ZOOM]",
+    "database_id": "286ccb0e-ac88-818e-8bab-e6c46a6f172a"
+  },
+  {
+    "id": "286ccb0e-ac88-80b9-9925-c17e8ef154e1",
+    "created_time": "2025-10-08T09:55:00.000Z",
+    "last_edited_time": "2026-01-30T03:45:00.000Z",
+    "properties": {
+      "Ưu tiên": null,
+      "Episode": null,
+      "Task count ": 1,
+      "Total Fixed": 0,
+      "Required by": null,
+      "Owner": [
+        {
+          "id": "2b47d5ac-bd39-4aad-8e95-23ea4ab9b925",
+          "name": "Hoàng Hà",
+          "email": "hoanghh@sangygroup.com"
+        }
+      ],
+      "Loại cảnh": "D",
+      "Status": "Not started",
+      "Tasks ": [
+        "286ccb0e-ac88-80c4-a63c-d593a1a2270b"
+      ],
+      "Task Create": null,
+      "Task count + 1": 2,
+      "Min": 1,
+      "UTNL": null,
+      "Total Main": 1,
+      "Point Status": "Unconfirmed",
+      "Product point": 14,
+      "DO": null,
+      "Resource": null,
+      "Check task done": "Not started",
+      "Max": 2,
+      "Due Date": null,
+      "Combo": null,
+      "Product type": "STB",
+      "Total QC": 0,
+      "Product": "Storyboard 08"
+    },
+    "_title": "Storyboard 08",
+    "database_name": "[LEGO ZOOM] PRODUCT",
+    "project_name": "[LEGO ZOOM]",
+    "database_id": "286ccb0e-ac88-818e-8bab-e6c46a6f172a"
+  },
+  {
+    "id": "286ccb0e-ac88-80ef-83ae-da53931a787c",
+    "created_time": "2025-10-08T09:55:00.000Z",
+    "last_edited_time": "2026-01-30T03:50:00.000Z",
+    "properties": {
+      "Ưu tiên": null,
+      "Episode": null,
+      "Task count ": 1,
+      "Total Fixed": 0,
+      "Required by": null,
+      "Owner": [
+        {
+          "id": "2b47d5ac-bd39-4aad-8e95-23ea4ab9b925",
+          "name": "Hoàng Hà",
+          "email": "hoanghh@sangygroup.com"
+        }
+      ],
+      "Loại cảnh": "D",
+      "Status": "Not started",
+      "Tasks ": [
+        "286ccb0e-ac88-80c4-a63c-d593a1a2270b"
+      ],
+      "Task Create": null,
+      "Task count + 1": 2,
+      "Min": 1,
+      "UTNL": null,
+      "Total Main": 1,
+      "Point Status": "Unconfirmed",
+      "Product point": 14,
+      "DO": null,
+      "Resource": null,
+      "Check task done": "Not started",
+      "Max": 2,
+      "Due Date": null,
+      "Combo": null,
+      "Product type": "STB",
+      "Total QC": 0,
+      "Product": "Storyboard 12"
+    },
+    "_title": "Storyboard 12",
+    "database_name": "[LEGO ZOOM] PRODUCT",
+    "project_name": "[LEGO ZOOM]",
+    "database_id": "286ccb0e-ac88-818e-8bab-e6c46a6f172a"
+  }
+]

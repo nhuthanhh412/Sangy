@@ -1,0 +1,32 @@
+[
+  {
+    "id": "27eccb0e-ac88-81f5-a770-db6339d40f4d",
+    "created_time": "2025-09-30T09:57:00.000Z",
+    "last_edited_time": "2025-09-30T09:57:00.000Z",
+    "properties": {
+      "Task in Sprint": [],
+      "Formula": 9,
+      "Sprint name": "Sprint 1",
+      "Dates": {
+        "start": "2025-10-01",
+        "end": "2025-10-10"
+      },
+      "Sprint ID": null,
+      "Tasks": [
+        "28cccb0e-ac88-8093-8a18-fd813ee5c483",
+        "292ccb0e-ac88-806a-ade9-d62369ff08b1",
+        "294ccb0e-ac88-8008-8875-da181dfb9694",
+        "295ccb0e-ac88-8032-8f8b-fab19aaba97e",
+        "2f1ccb0e-ac88-80da-950a-d180a9b9e4c2",
+        "2f1ccb0e-ac88-80b9-9aab-c5abfc11d19a"
+      ],
+      "Total tasks": 6,
+      "Completed tasks": 0,
+      "Sprint status": "Current"
+    },
+    "_title": "Sprint 1",
+    "database_name": "[Harben] Sprints",
+    "project_name": "[Harben] Sprints",
+    "database_id": "27eccb0e-ac88-8174-8f61-d4d8092ddd64"
+  }
+]

@@ -1,0 +1,59 @@
+[
+  {
+    "id": "2efccb0e-ac88-8062-9735-dedb99f921fd",
+    "created_time": "2026-01-21T07:50:00.000Z",
+    "last_edited_time": "2026-01-21T07:50:00.000Z",
+    "properties": {
+      "Sprint name": "Sprint 1",
+      "Dates": {
+        "start": "2026-01-19",
+        "end": "2026-02-01"
+      },
+      "Sprint ID": null,
+      "Tasks": [],
+      "Total tasks": 0,
+      "Completed tasks": null,
+      "Sprint status": "Current"
+    },
+    "_title": "Sprint 1",
+    "database_name": "[LEG] Sprints",
+    "project_name": "[LEG] Sprints",
+    "database_id": "2efccb0e-ac88-80dd-b257-d8979c59c2dd"
+  },
+  {
+    "id": "2efccb0e-ac88-8082-8100-cbaff31d90c3",
+    "created_time": "2026-01-21T07:50:00.000Z",
+    "last_edited_time": "2026-01-21T07:50:00.000Z",
+    "properties": {
+      "Sprint name": "Sprint 3",
+      "Dates": null,
+      "Sprint ID": null,
+      "Tasks": [],
+      "Total tasks": 0,
+      "Completed tasks": null,
+      "Sprint status": "Future"
+    },
+    "_title": "Sprint 3",
+    "database_name": "[LEG] Sprints",
+    "project_name": "[LEG] Sprints",
+    "database_id": "2efccb0e-ac88-80dd-b257-d8979c59c2dd"
+  },
+  {
+    "id": "2efccb0e-ac88-80b9-aac1-e4fd738b884f",
+    "created_time": "2026-01-21T07:50:00.000Z",
+    "last_edited_time": "2026-01-21T07:50:00.000Z",
+    "properties": {
+      "Sprint name": "Sprint 2",
+      "Dates": null,
+      "Sprint ID": null,
+      "Tasks": [],
+      "Total tasks": 0,
+      "Completed tasks": null,
+      "Sprint status": "Next"
+    },
+    "_title": "Sprint 2",
+    "database_name": "[LEG] Sprints",
+    "project_name": "[LEG] Sprints",
+    "database_id": "2efccb0e-ac88-80dd-b257-d8979c59c2dd"
+  }
+]

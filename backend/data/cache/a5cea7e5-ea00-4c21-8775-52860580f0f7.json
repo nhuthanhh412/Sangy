@@ -1,0 +1,1644 @@
+[
+  {
+    "id": "04235a21-bf98-4951-9963-93e983291735",
+    "created_time": "2024-05-08T06:37:00.000Z",
+    "last_edited_time": "2024-05-24T08:14:00.000Z",
+    "properties": {
+      "Team": null,
+      "Last edited time": null,
+      "Phân loại": "Background",
+      "🔹 [DeeDee_2024] VF3 báo cáo ": [],
+      "Task Status": "Client Approved",
+      "Deadlines": null,
+      "🏓 [DeeDee_2024] VF3 QC Space ": [
+        "4b417cb4-1284-4dbf-9795-ddfa57a319bf"
+      ],
+      "Sequences": "",
+      "Ước tính nỗ lực": null,
+      "Scenes": "20",
+      "Last edited by": null,
+      "Ước tính khả thi": null,
+      "Số frame": null,
+      "Nhân sự": [
+        {
+          "id": "591f230f-efcf-478e-9dc0-6529bf787f1f",
+          "name": "Thanh Nguyễn ",
+          "email": "thanhnt@sangygroup.com"
+        }
+      ],
+      "Tasks": "Background 20"
+    },
+    "_title": "Background 20",
+    "database_name": "[DeeDee_2024] VF3 Database",
+    "project_name": "[DeeDee_2024] VF3 Database",
+    "database_id": "a5cea7e5-ea00-4c21-8775-52860580f0f7"
+  },
+  {
+    "id": "04fc8af7-341f-4750-80ad-b03bea68ffa2",
+    "created_time": "2024-05-08T06:37:00.000Z",
+    "last_edited_time": "2024-05-24T08:14:00.000Z",
+    "properties": {
+      "Team": null,
+      "Last edited time": null,
+      "Phân loại": "Background",
+      "🔹 [DeeDee_2024] VF3 báo cáo ": [],
+      "Task Status": "Client Approved",
+      "Deadlines": null,
+      "🏓 [DeeDee_2024] VF3 QC Space ": [
+        "69d2f122-077b-43c8-8c64-2244aefe185a"
+      ],
+      "Sequences": "",
+      "Ước tính nỗ lực": null,
+      "Scenes": "17",
+      "Last edited by": null,
+      "Ước tính khả thi": null,
+      "Số frame": null,
+      "Nhân sự": [
+        {
+          "id": "3a81bdc9-11ff-4574-af89-d7fcdb3025ae",
+          "name": "Unknown User",
+          "email": null
+        }
+      ],
+      "Tasks": "Background 17"
+    },
+    "_title": "Background 17",
+    "database_name": "[DeeDee_2024] VF3 Database",
+    "project_name": "[DeeDee_2024] VF3 Database",
+    "database_id": "a5cea7e5-ea00-4c21-8775-52860580f0f7"
+  },
+  {
+    "id": "06828d22-0992-4318-afd4-da8c947bb8e3",
+    "created_time": "2024-05-08T03:55:00.000Z",
+    "last_edited_time": "2024-05-08T04:38:00.000Z",
+    "properties": {
+      "Team": null,
+      "Last edited time": null,
+      "Phân loại": "Layout",
+      "🔹 [DeeDee_2024] VF3 báo cáo ": [],
+      "Task Status": "QC Approved",
+      "Deadlines": null,
+      "🏓 [DeeDee_2024] VF3 QC Space ": [
+        "f08c6744-5119-4b3f-ba58-637c8ea44409"
+      ],
+      "Sequences": "",
+      "Ước tính nỗ lực": null,
+      "Scenes": "06",
+      "Last edited by": null,
+      "Ước tính khả thi": null,
+      "Số frame": null,
+      "Nhân sự": [
+        {
+          "id": "92fdc82b-f21d-47ae-8a9d-f273f293b140",
+          "name": "Unknown User",
+          "email": null
+        }
+      ],
+      "Tasks": "Layout 06"
+    },
+    "_title": "Layout 06",
+    "database_name": "[DeeDee_2024] VF3 Database",
+    "project_name": "[DeeDee_2024] VF3 Database",
+    "database_id": "a5cea7e5-ea00-4c21-8775-52860580f0f7"
+  },
+  {
+    "id": "1722fec9-ac28-43c8-b976-f476b38add7b",
+    "created_time": "2024-05-08T06:37:00.000Z",
+    "last_edited_time": "2024-05-24T08:14:00.000Z",
+    "properties": {
+      "Team": null,
+      "Last edited time": null,
+      "Phân loại": "Background",
+      "🔹 [DeeDee_2024] VF3 báo cáo ": [],
+      "Task Status": "Client Approved",
+      "Deadlines": null,
+      "🏓 [DeeDee_2024] VF3 QC Space ": [
+        "95bc386d-e65b-4269-9d96-2c4eb78dc690"
+      ],
+      "Sequences": "",
+      "Ước tính nỗ lực": null,
+      "Scenes": "07",
+      "Last edited by": null,
+      "Ước tính khả thi": null,
+      "Số frame": null,
+      "Nhân sự": [
+        {
+          "id": "c2266065-7d98-480f-82f3-6308d5402577",
+          "name": "Giang Bùi",
+          "email": "giangbt@sangygroup.com"
+        }
+      ],
+      "Tasks": "Background 07"
+    },
+    "_title": "Background 07",
+    "database_name": "[DeeDee_2024] VF3 Database",
+    "project_name": "[DeeDee_2024] VF3 Database",
+    "database_id": "a5cea7e5-ea00-4c21-8775-52860580f0f7"
+  },
+  {
+    "id": "1db2ec2a-431d-4cf1-b133-c260233ebd48",
+    "created_time": "2024-05-24T08:14:00.000Z",
+    "last_edited_time": "2024-05-27T03:04:00.000Z",
+    "properties": {
+      "Team": null,
+      "Last edited time": null,
+      "Phân loại": "Background",
+      "🔹 [DeeDee_2024] VF3 báo cáo ": [],
+      "Task Status": "Need Fix",
+      "Deadlines": null,
+      "🏓 [DeeDee_2024] VF3 QC Space ": [],
+      "Sequences": "",
+      "Ước tính nỗ lực": null,
+      "Scenes": "03",
+      "Last edited by": null,
+      "Ước tính khả thi": null,
+      "Số frame": null,
+      "Nhân sự": [
+        {
+          "id": "92fdc82b-f21d-47ae-8a9d-f273f293b140",
+          "name": "Unknown User",
+          "email": null
+        }
+      ],
+      "Tasks": "Baguio City (Lion Head)"
+    },
+    "_title": "Baguio City (Lion Head)",
+    "database_name": "[DeeDee_2024] VF3 Database",
+    "project_name": "[DeeDee_2024] VF3 Database",
+    "database_id": "a5cea7e5-ea00-4c21-8775-52860580f0f7"
+  },
+  {
+    "id": "294c9f9a-0ee8-4756-bd9b-d7524a6d6f33",
+    "created_time": "2024-05-08T06:37:00.000Z",
+    "last_edited_time": "2024-05-24T08:14:00.000Z",
+    "properties": {
+      "Team": null,
+      "Last edited time": null,
+      "Phân loại": "Background",
+      "🔹 [DeeDee_2024] VF3 báo cáo ": [],
+      "Task Status": "Client Approved",
+      "Deadlines": null,
+      "🏓 [DeeDee_2024] VF3 QC Space ": [
+        "c213d483-d292-4f01-8d3c-9fdd582dbc15"
+      ],
+      "Sequences": "",
+      "Ước tính nỗ lực": null,
+      "Scenes": "02",
+      "Last edited by": null,
+      "Ước tính khả thi": null,
+      "Số frame": null,
+      "Nhân sự": [],
+      "Tasks": "Background 02"
+    },
+    "_title": "Background 02",
+    "database_name": "[DeeDee_2024] VF3 Database",
+    "project_name": "[DeeDee_2024] VF3 Database",
+    "database_id": "a5cea7e5-ea00-4c21-8775-52860580f0f7"
+  },
+  {
+    "id": "2e196575-1eab-458e-ab9f-f89e54372374",
+    "created_time": "2024-05-08T03:48:00.000Z",
+    "last_edited_time": "2024-05-08T04:37:00.000Z",
+    "properties": {
+      "Team": null,
+      "Last edited time": null,
+      "Phân loại": "Layout",
+      "🔹 [DeeDee_2024] VF3 báo cáo ": [],
+      "Task Status": "QC Approved",
+      "Deadlines": null,
+      "🏓 [DeeDee_2024] VF3 QC Space ": [
+        "0bfeb993-a73d-453a-b754-2cdeff4c1893"
+      ],
+      "Sequences": "",
+      "Ước tính nỗ lực": null,
+      "Scenes": "04",
+      "Last edited by": null,
+      "Ước tính khả thi": null,
+      "Số frame": null,
+      "Nhân sự": [
+        {
+          "id": "9010bd5f-0286-4e69-8749-7e1f89524836",
+          "name": "Unknown User",
+          "email": null
+        }
+      ],
+      "Tasks": "Layout 04"
+    },
+    "_title": "Layout 04",
+    "database_name": "[DeeDee_2024] VF3 Database",
+    "project_name": "[DeeDee_2024] VF3 Database",
+    "database_id": "a5cea7e5-ea00-4c21-8775-52860580f0f7"
+  },
+  {
+    "id": "3705712b-f1b4-49a0-8e09-451828dda874",
+    "created_time": "2024-05-24T08:15:00.000Z",
+    "last_edited_time": "2024-05-27T04:06:00.000Z",
+    "properties": {
+      "Team": null,
+      "Last edited time": null,
+      "Phân loại": "Background",
+      "🔹 [DeeDee_2024] VF3 báo cáo ": [],
+      "Task Status": "QC Approved",
+      "Deadlines": null,
+      "🏓 [DeeDee_2024] VF3 QC Space ": [],
+      "Sequences": "",
+      "Ước tính nỗ lực": null,
+      "Scenes": "04",
+      "Last edited by": null,
+      "Ước tính khả thi": null,
+      "Số frame": null,
+      "Nhân sự": [
+        {
+          "id": "ef94d237-bbac-4f3a-852f-c653473d8b70",
+          "name": "Unknown User",
+          "email": null
+        }
+      ],
+      "Tasks": "Batad Rice Terraces"
+    },
+    "_title": "Batad Rice Terraces",
+    "database_name": "[DeeDee_2024] VF3 Database",
+    "project_name": "[DeeDee_2024] VF3 Database",
+    "database_id": "a5cea7e5-ea00-4c21-8775-52860580f0f7"
+  },
+  {
+    "id": "37c40e8d-b1c1-42e9-b415-17a824ffc238",
+    "created_time": "2024-05-08T03:55:00.000Z",
+    "last_edited_time": "2024-05-09T07:17:00.000Z",
+    "properties": {
+      "Team": null,
+      "Last edited time": null,
+      "Phân loại": "Layout",
+      "🔹 [DeeDee_2024] VF3 báo cáo ": [],
+      "Task Status": "Need Fix",
+      "Deadlines": null,
+      "🏓 [DeeDee_2024] VF3 QC Space ": [
+        "95bc386d-e65b-4269-9d96-2c4eb78dc690"
+      ],
+      "Sequences": "",
+      "Ước tính nỗ lực": null,
+      "Scenes": "07",
+      "Last edited by": null,
+      "Ước tính khả thi": null,
+      "Số frame": null,
+      "Nhân sự": [
+        {
+          "id": "92fdc82b-f21d-47ae-8a9d-f273f293b140",
+          "name": "Unknown User",
+          "email": null
+        }
+      ],
+      "Tasks": "Layout 07"
+    },
+    "_title": "Layout 07",
+    "database_name": "[DeeDee_2024] VF3 Database",
+    "project_name": "[DeeDee_2024] VF3 Database",
+    "database_id": "a5cea7e5-ea00-4c21-8775-52860580f0f7"
+  },
+  {
+    "id": "3a425dd2-f922-45a4-b21e-0233080c5a9e",
+    "created_time": "2024-05-08T03:55:00.000Z",
+    "last_edited_time": "2024-05-08T04:01:00.000Z",
+    "properties": {
+      "Team": null,
+      "Last edited time": null,
+      "Phân loại": "Layout",
+      "🔹 [DeeDee_2024] VF3 báo cáo ": [],
+      "Task Status": null,
+      "Deadlines": null,
+      "🏓 [DeeDee_2024] VF3 QC Space ": [
+        "474eb7c1-8e70-4769-a7f9-bee8f5bc1bf0"
+      ],
+      "Sequences": "",
+      "Ước tính nỗ lực": null,
+      "Scenes": "16",
+      "Last edited by": null,
+      "Ước tính khả thi": null,
+      "Số frame": null,
+      "Nhân sự": [
+        {
+          "id": "9010bd5f-0286-4e69-8749-7e1f89524836",
+          "name": "Unknown User",
+          "email": null
+        }
+      ],
+      "Tasks": "Layout 16"
+    },
+    "_title": "Layout 16",
+    "database_name": "[DeeDee_2024] VF3 Database",
+    "project_name": "[DeeDee_2024] VF3 Database",
+    "database_id": "a5cea7e5-ea00-4c21-8775-52860580f0f7"
+  },
+  {
+    "id": "3af18df4-c58d-4151-bf57-6a4f2c06a282",
+    "created_time": "2024-05-08T06:37:00.000Z",
+    "last_edited_time": "2024-05-24T08:14:00.000Z",
+    "properties": {
+      "Team": null,
+      "Last edited time": null,
+      "Phân loại": "Background",
+      "🔹 [DeeDee_2024] VF3 báo cáo ": [],
+      "Task Status": "Client Approved",
+      "Deadlines": null,
+      "🏓 [DeeDee_2024] VF3 QC Space ": [
+        "a4f9e268-4051-4aa0-bca9-4a34d2c9c5a2"
+      ],
+      "Sequences": "",
+      "Ước tính nỗ lực": null,
+      "Scenes": "14",
+      "Last edited by": null,
+      "Ước tính khả thi": null,
+      "Số frame": null,
+      "Nhân sự": [
+        {
+          "id": "92fdc82b-f21d-47ae-8a9d-f273f293b140",
+          "name": "Unknown User",
+          "email": null
+        }
+      ],
+      "Tasks": "Background 14"
+    },
+    "_title": "Background 14",
+    "database_name": "[DeeDee_2024] VF3 Database",
+    "project_name": "[DeeDee_2024] VF3 Database",
+    "database_id": "a5cea7e5-ea00-4c21-8775-52860580f0f7"
+  },
+  {
+    "id": "430723ba-bbfd-4f22-bf0e-cb4407dd975a",
+    "created_time": "2024-05-08T03:55:00.000Z",
+    "last_edited_time": "2024-05-09T07:01:00.000Z",
+    "properties": {
+      "Team": null,
+      "Last edited time": null,
+      "Phân loại": "Layout",
+      "🔹 [DeeDee_2024] VF3 báo cáo ": [],
+      "Task Status": "Need Fix",
+      "Deadlines": null,
+      "🏓 [DeeDee_2024] VF3 QC Space ": [
+        "c2dec230-76ea-4bd8-84ea-83e0615a6690"
+      ],
+      "Sequences": "",
+      "Ước tính nỗ lực": null,
+      "Scenes": "08",
+      "Last edited by": null,
+      "Ước tính khả thi": null,
+      "Số frame": null,
+      "Nhân sự": [
+        {
+          "id": "92fdc82b-f21d-47ae-8a9d-f273f293b140",
+          "name": "Unknown User",
+          "email": null
+        }
+      ],
+      "Tasks": "Layout 08"
+    },
+    "_title": "Layout 08",
+    "database_name": "[DeeDee_2024] VF3 Database",
+    "project_name": "[DeeDee_2024] VF3 Database",
+    "database_id": "a5cea7e5-ea00-4c21-8775-52860580f0f7"
+  },
+  {
+    "id": "4a40af22-ba92-4a7a-b28d-62566ee1bed2",
+    "created_time": "2024-05-08T03:55:00.000Z",
+    "last_edited_time": "2024-05-08T04:01:00.000Z",
+    "properties": {
+      "Team": null,
+      "Last edited time": null,
+      "Phân loại": "Layout",
+      "🔹 [DeeDee_2024] VF3 báo cáo ": [],
+      "Task Status": null,
+      "Deadlines": null,
+      "🏓 [DeeDee_2024] VF3 QC Space ": [
+        "712954a7-fa51-4cfa-8bab-6fe221873acd"
+      ],
+      "Sequences": "",
+      "Ước tính nỗ lực": null,
+      "Scenes": "10",
+      "Last edited by": null,
+      "Ước tính khả thi": null,
+      "Số frame": null,
+      "Nhân sự": [
+        {
+          "id": "9010bd5f-0286-4e69-8749-7e1f89524836",
+          "name": "Unknown User",
+          "email": null
+        }
+      ],
+      "Tasks": "Layout 10"
+    },
+    "_title": "Layout 10",
+    "database_name": "[DeeDee_2024] VF3 Database",
+    "project_name": "[DeeDee_2024] VF3 Database",
+    "database_id": "a5cea7e5-ea00-4c21-8775-52860580f0f7"
+  },
+  {
+    "id": "520cbb57-0273-4259-88f6-7167b329d1c8",
+    "created_time": "2024-05-08T06:37:00.000Z",
+    "last_edited_time": "2024-05-24T08:14:00.000Z",
+    "properties": {
+      "Team": null,
+      "Last edited time": null,
+      "Phân loại": "Background",
+      "🔹 [DeeDee_2024] VF3 báo cáo ": [],
+      "Task Status": "Client Approved",
+      "Deadlines": null,
+      "🏓 [DeeDee_2024] VF3 QC Space ": [
+        "67a1c5cd-8266-4cea-83a0-e673a5a31df8"
+      ],
+      "Sequences": "",
+      "Ước tính nỗ lực": null,
+      "Scenes": "13",
+      "Last edited by": null,
+      "Ước tính khả thi": null,
+      "Số frame": null,
+      "Nhân sự": [
+        {
+          "id": "ce62dd6e-6b4c-4d26-a9c9-929205c03462",
+          "name": "Unknown User",
+          "email": null
+        }
+      ],
+      "Tasks": "Background 13"
+    },
+    "_title": "Background 13",
+    "database_name": "[DeeDee_2024] VF3 Database",
+    "project_name": "[DeeDee_2024] VF3 Database",
+    "database_id": "a5cea7e5-ea00-4c21-8775-52860580f0f7"
+  },
+  {
+    "id": "5635d8f6-7cc5-4173-af35-d423fd547e69",
+    "created_time": "2024-05-24T08:14:00.000Z",
+    "last_edited_time": "2024-05-27T05:44:00.000Z",
+    "properties": {
+      "Team": null,
+      "Last edited time": null,
+      "Phân loại": "Background",
+      "🔹 [DeeDee_2024] VF3 báo cáo ": [],
+      "Task Status": "Pending Review",
+      "Deadlines": null,
+      "🏓 [DeeDee_2024] VF3 QC Space ": [],
+      "Sequences": "",
+      "Ước tính nỗ lực": null,
+      "Scenes": "02",
+      "Last edited by": null,
+      "Ước tính khả thi": null,
+      "Số frame": null,
+      "Nhân sự": [
+        {
+          "id": "bc74d92f-163f-4054-9ff2-f321efce1a63",
+          "name": "Unknown User",
+          "email": null
+        }
+      ],
+      "Tasks": "Manila Cathedral\n"
+    },
+    "_title": "Manila Cathedral\n",
+    "database_name": "[DeeDee_2024] VF3 Database",
+    "project_name": "[DeeDee_2024] VF3 Database",
+    "database_id": "a5cea7e5-ea00-4c21-8775-52860580f0f7"
+  },
+  {
+    "id": "5912dddc-9bbf-4efa-914f-ed7d42503eac",
+    "created_time": "2024-05-08T06:37:00.000Z",
+    "last_edited_time": "2024-05-24T08:14:00.000Z",
+    "properties": {
+      "Team": null,
+      "Last edited time": null,
+      "Phân loại": "Background",
+      "🔹 [DeeDee_2024] VF3 báo cáo ": [],
+      "Task Status": "Client Approved",
+      "Deadlines": null,
+      "🏓 [DeeDee_2024] VF3 QC Space ": [
+        "c2dec230-76ea-4bd8-84ea-83e0615a6690"
+      ],
+      "Sequences": "",
+      "Ước tính nỗ lực": null,
+      "Scenes": "08",
+      "Last edited by": null,
+      "Ước tính khả thi": null,
+      "Số frame": null,
+      "Nhân sự": [
+        {
+          "id": "cbb9d8bc-8f0d-4ac6-ae13-d1df5638df05",
+          "name": "Unknown User",
+          "email": null
+        }
+      ],
+      "Tasks": "Background 08"
+    },
+    "_title": "Background 08",
+    "database_name": "[DeeDee_2024] VF3 Database",
+    "project_name": "[DeeDee_2024] VF3 Database",
+    "database_id": "a5cea7e5-ea00-4c21-8775-52860580f0f7"
+  },
+  {
+    "id": "6a4a6c1d-2944-4c86-8e30-775d4ba1918e",
+    "created_time": "2024-05-08T03:55:00.000Z",
+    "last_edited_time": "2024-05-08T04:01:00.000Z",
+    "properties": {
+      "Team": null,
+      "Last edited time": null,
+      "Phân loại": "Layout",
+      "🔹 [DeeDee_2024] VF3 báo cáo ": [],
+      "Task Status": null,
+      "Deadlines": null,
+      "🏓 [DeeDee_2024] VF3 QC Space ": [
+        "e821b283-8fb6-4b06-85da-2caa2e28880f"
+      ],
+      "Sequences": "",
+      "Ước tính nỗ lực": null,
+      "Scenes": "11",
+      "Last edited by": null,
+      "Ước tính khả thi": null,
+      "Số frame": null,
+      "Nhân sự": [
+        {
+          "id": "9010bd5f-0286-4e69-8749-7e1f89524836",
+          "name": "Unknown User",
+          "email": null
+        }
+      ],
+      "Tasks": "Layout 11"
+    },
+    "_title": "Layout 11",
+    "database_name": "[DeeDee_2024] VF3 Database",
+    "project_name": "[DeeDee_2024] VF3 Database",
+    "database_id": "a5cea7e5-ea00-4c21-8775-52860580f0f7"
+  },
+  {
+    "id": "6adc0aca-60ac-48c1-98de-c731d62867b0",
+    "created_time": "2024-05-08T06:37:00.000Z",
+    "last_edited_time": "2024-05-24T08:14:00.000Z",
+    "properties": {
+      "Team": null,
+      "Last edited time": null,
+      "Phân loại": "Background",
+      "🔹 [DeeDee_2024] VF3 báo cáo ": [],
+      "Task Status": "Client Approved",
+      "Deadlines": null,
+      "🏓 [DeeDee_2024] VF3 QC Space ": [
+        "cc649440-247b-499a-b254-f67cd7df2fce"
+      ],
+      "Sequences": "",
+      "Ước tính nỗ lực": null,
+      "Scenes": "05",
+      "Last edited by": null,
+      "Ước tính khả thi": null,
+      "Số frame": null,
+      "Nhân sự": [
+        {
+          "id": "591f230f-efcf-478e-9dc0-6529bf787f1f",
+          "name": "Thanh Nguyễn ",
+          "email": "thanhnt@sangygroup.com"
+        }
+      ],
+      "Tasks": "Background 05"
+    },
+    "_title": "Background 05",
+    "database_name": "[DeeDee_2024] VF3 Database",
+    "project_name": "[DeeDee_2024] VF3 Database",
+    "database_id": "a5cea7e5-ea00-4c21-8775-52860580f0f7"
+  },
+  {
+    "id": "6ed494af-605b-4f26-ad7b-00ebad0ebd8c",
+    "created_time": "2024-05-24T08:17:00.000Z",
+    "last_edited_time": "2024-05-27T02:40:00.000Z",
+    "properties": {
+      "Team": null,
+      "Last edited time": null,
+      "Phân loại": "Background",
+      "🔹 [DeeDee_2024] VF3 báo cáo ": [],
+      "Task Status": "Need Fix",
+      "Deadlines": null,
+      "🏓 [DeeDee_2024] VF3 QC Space ": [],
+      "Sequences": "",
+      "Ước tính nỗ lực": null,
+      "Scenes": "09",
+      "Last edited by": null,
+      "Ước tính khả thi": null,
+      "Số frame": null,
+      "Nhân sự": [
+        {
+          "id": "cbb9d8bc-8f0d-4ac6-ae13-d1df5638df05",
+          "name": "Unknown User",
+          "email": null
+        }
+      ],
+      "Tasks": "Mayon Volcano"
+    },
+    "_title": "Mayon Volcano",
+    "database_name": "[DeeDee_2024] VF3 Database",
+    "project_name": "[DeeDee_2024] VF3 Database",
+    "database_id": "a5cea7e5-ea00-4c21-8775-52860580f0f7"
+  },
+  {
+    "id": "72cf7ff9-1bf9-447a-b729-aa97817e6b8a",
+    "created_time": "2024-05-08T06:37:00.000Z",
+    "last_edited_time": "2024-05-24T08:14:00.000Z",
+    "properties": {
+      "Team": null,
+      "Last edited time": null,
+      "Phân loại": "Background",
+      "🔹 [DeeDee_2024] VF3 báo cáo ": [],
+      "Task Status": "Client Approved",
+      "Deadlines": null,
+      "🏓 [DeeDee_2024] VF3 QC Space ": [
+        "853b828e-5033-41a0-a8d7-36399cea7f8f"
+      ],
+      "Sequences": "",
+      "Ước tính nỗ lực": null,
+      "Scenes": "19",
+      "Last edited by": null,
+      "Ước tính khả thi": null,
+      "Số frame": null,
+      "Nhân sự": [
+        {
+          "id": "92fdc82b-f21d-47ae-8a9d-f273f293b140",
+          "name": "Unknown User",
+          "email": null
+        }
+      ],
+      "Tasks": "Background 19"
+    },
+    "_title": "Background 19",
+    "database_name": "[DeeDee_2024] VF3 Database",
+    "project_name": "[DeeDee_2024] VF3 Database",
+    "database_id": "a5cea7e5-ea00-4c21-8775-52860580f0f7"
+  },
+  {
+    "id": "74320269-a156-469c-9ba2-06f943a7e50d",
+    "created_time": "2024-05-08T03:47:00.000Z",
+    "last_edited_time": "2024-05-09T02:08:00.000Z",
+    "properties": {
+      "Team": null,
+      "Last edited time": null,
+      "Phân loại": "Layout",
+      "🔹 [DeeDee_2024] VF3 báo cáo ": [],
+      "Task Status": "QC Approved",
+      "Deadlines": null,
+      "🏓 [DeeDee_2024] VF3 QC Space ": [
+        "94aef9b6-e393-47b2-86a8-a7b9bbafda07"
+      ],
+      "Sequences": "",
+      "Ước tính nỗ lực": null,
+      "Scenes": "03",
+      "Last edited by": null,
+      "Ước tính khả thi": null,
+      "Số frame": null,
+      "Nhân sự": [
+        {
+          "id": "92fdc82b-f21d-47ae-8a9d-f273f293b140",
+          "name": "Unknown User",
+          "email": null
+        }
+      ],
+      "Tasks": "Layout 03"
+    },
+    "_title": "Layout 03",
+    "database_name": "[DeeDee_2024] VF3 Database",
+    "project_name": "[DeeDee_2024] VF3 Database",
+    "database_id": "a5cea7e5-ea00-4c21-8775-52860580f0f7"
+  },
+  {
+    "id": "74f4e627-4179-4b9a-861e-87aec10fbf4a",
+    "created_time": "2024-05-24T08:17:00.000Z",
+    "last_edited_time": "2024-05-27T10:17:00.000Z",
+    "properties": {
+      "Team": null,
+      "Last edited time": null,
+      "Phân loại": "Background",
+      "🔹 [DeeDee_2024] VF3 báo cáo ": [],
+      "Task Status": "Pending Review",
+      "Deadlines": null,
+      "🏓 [DeeDee_2024] VF3 QC Space ": [],
+      "Sequences": "",
+      "Ước tính nỗ lực": null,
+      "Scenes": "07",
+      "Last edited by": null,
+      "Ước tính khả thi": null,
+      "Số frame": null,
+      "Nhân sự": [
+        {
+          "id": "375ed7c6-3d8d-4adc-82fd-beb97a7f0921",
+          "name": "Hòa Nguyễn",
+          "email": "hoant@sangygroup.com"
+        }
+      ],
+      "Tasks": "Taoist Temple"
+    },
+    "_title": "Taoist Temple",
+    "database_name": "[DeeDee_2024] VF3 Database",
+    "project_name": "[DeeDee_2024] VF3 Database",
+    "database_id": "a5cea7e5-ea00-4c21-8775-52860580f0f7"
+  },
+  {
+    "id": "75584f1b-2bbb-4341-b128-dcc661b88224",
+    "created_time": "2024-05-08T03:55:00.000Z",
+    "last_edited_time": "2024-05-08T04:01:00.000Z",
+    "properties": {
+      "Team": null,
+      "Last edited time": null,
+      "Phân loại": "Layout",
+      "🔹 [DeeDee_2024] VF3 báo cáo ": [],
+      "Task Status": null,
+      "Deadlines": null,
+      "🏓 [DeeDee_2024] VF3 QC Space ": [
+        "89ca09d1-0498-46a9-b6d0-f70022f84db4"
+      ],
+      "Sequences": "",
+      "Ước tính nỗ lực": null,
+      "Scenes": "15",
+      "Last edited by": null,
+      "Ước tính khả thi": null,
+      "Số frame": null,
+      "Nhân sự": [
+        {
+          "id": "9010bd5f-0286-4e69-8749-7e1f89524836",
+          "name": "Unknown User",
+          "email": null
+        }
+      ],
+      "Tasks": "Layout 15"
+    },
+    "_title": "Layout 15",
+    "database_name": "[DeeDee_2024] VF3 Database",
+    "project_name": "[DeeDee_2024] VF3 Database",
+    "database_id": "a5cea7e5-ea00-4c21-8775-52860580f0f7"
+  },
+  {
+    "id": "7684d686-c569-4444-ba19-2fc23662bdfa",
+    "created_time": "2024-05-08T03:46:00.000Z",
+    "last_edited_time": "2024-05-08T04:33:00.000Z",
+    "properties": {
+      "Team": null,
+      "Last edited time": null,
+      "Phân loại": "Layout",
+      "🔹 [DeeDee_2024] VF3 báo cáo ": [],
+      "Task Status": "QC Approved",
+      "Deadlines": null,
+      "🏓 [DeeDee_2024] VF3 QC Space ": [
+        "44d227ce-9347-4f53-bf81-aeebc7c790a9"
+      ],
+      "Sequences": "",
+      "Ước tính nỗ lực": null,
+      "Scenes": "01",
+      "Last edited by": null,
+      "Ước tính khả thi": null,
+      "Số frame": null,
+      "Nhân sự": [
+        {
+          "id": "92fdc82b-f21d-47ae-8a9d-f273f293b140",
+          "name": "Unknown User",
+          "email": null
+        }
+      ],
+      "Tasks": "Layout 01"
+    },
+    "_title": "Layout 01",
+    "database_name": "[DeeDee_2024] VF3 Database",
+    "project_name": "[DeeDee_2024] VF3 Database",
+    "database_id": "a5cea7e5-ea00-4c21-8775-52860580f0f7"
+  },
+  {
+    "id": "7763cded-d438-47c4-aec0-fa5f06c42f5b",
+    "created_time": "2024-05-08T03:55:00.000Z",
+    "last_edited_time": "2024-05-08T04:01:00.000Z",
+    "properties": {
+      "Team": null,
+      "Last edited time": null,
+      "Phân loại": "Layout",
+      "🔹 [DeeDee_2024] VF3 báo cáo ": [],
+      "Task Status": null,
+      "Deadlines": null,
+      "🏓 [DeeDee_2024] VF3 QC Space ": [
+        "69d2f122-077b-43c8-8c64-2244aefe185a"
+      ],
+      "Sequences": "",
+      "Ước tính nỗ lực": null,
+      "Scenes": "17",
+      "Last edited by": null,
+      "Ước tính khả thi": null,
+      "Số frame": null,
+      "Nhân sự": [
+        {
+          "id": "9010bd5f-0286-4e69-8749-7e1f89524836",
+          "name": "Unknown User",
+          "email": null
+        }
+      ],
+      "Tasks": "Layout 17"
+    },
+    "_title": "Layout 17",
+    "database_name": "[DeeDee_2024] VF3 Database",
+    "project_name": "[DeeDee_2024] VF3 Database",
+    "database_id": "a5cea7e5-ea00-4c21-8775-52860580f0f7"
+  },
+  {
+    "id": "77f4a866-a2d6-4cbe-891f-bc566ea94c89",
+    "created_time": "2024-05-08T03:47:00.000Z",
+    "last_edited_time": "2024-05-08T04:37:00.000Z",
+    "properties": {
+      "Team": null,
+      "Last edited time": null,
+      "Phân loại": "Layout",
+      "🔹 [DeeDee_2024] VF3 báo cáo ": [],
+      "Task Status": "On Hold",
+      "Deadlines": null,
+      "🏓 [DeeDee_2024] VF3 QC Space ": [
+        "c213d483-d292-4f01-8d3c-9fdd582dbc15"
+      ],
+      "Sequences": "",
+      "Ước tính nỗ lực": null,
+      "Scenes": "02",
+      "Last edited by": null,
+      "Ước tính khả thi": null,
+      "Số frame": null,
+      "Nhân sự": [
+        {
+          "id": "92fdc82b-f21d-47ae-8a9d-f273f293b140",
+          "name": "Unknown User",
+          "email": null
+        }
+      ],
+      "Tasks": "Layout 02"
+    },
+    "_title": "Layout 02",
+    "database_name": "[DeeDee_2024] VF3 Database",
+    "project_name": "[DeeDee_2024] VF3 Database",
+    "database_id": "a5cea7e5-ea00-4c21-8775-52860580f0f7"
+  },
+  {
+    "id": "7a9c81a1-2455-417d-bfd3-65b2ca4264e7",
+    "created_time": "2024-05-08T03:55:00.000Z",
+    "last_edited_time": "2024-05-09T02:12:00.000Z",
+    "properties": {
+      "Team": null,
+      "Last edited time": null,
+      "Phân loại": "Layout",
+      "🔹 [DeeDee_2024] VF3 báo cáo ": [],
+      "Task Status": "QC Approved",
+      "Deadlines": null,
+      "🏓 [DeeDee_2024] VF3 QC Space ": [
+        "659fcec6-9c1a-4154-a429-88c8dc66c9c7"
+      ],
+      "Sequences": "",
+      "Ước tính nỗ lực": null,
+      "Scenes": "18",
+      "Last edited by": null,
+      "Ước tính khả thi": null,
+      "Số frame": null,
+      "Nhân sự": [
+        {
+          "id": "92fdc82b-f21d-47ae-8a9d-f273f293b140",
+          "name": "Unknown User",
+          "email": null
+        }
+      ],
+      "Tasks": "Layout 18"
+    },
+    "_title": "Layout 18",
+    "database_name": "[DeeDee_2024] VF3 Database",
+    "project_name": "[DeeDee_2024] VF3 Database",
+    "database_id": "a5cea7e5-ea00-4c21-8775-52860580f0f7"
+  },
+  {
+    "id": "7b9a915e-3a87-4d60-9e56-4a57fcac241e",
+    "created_time": "2024-05-08T03:55:00.000Z",
+    "last_edited_time": "2024-05-09T02:09:00.000Z",
+    "properties": {
+      "Team": null,
+      "Last edited time": null,
+      "Phân loại": "Layout",
+      "🔹 [DeeDee_2024] VF3 báo cáo ": [],
+      "Task Status": "Omitted",
+      "Deadlines": null,
+      "🏓 [DeeDee_2024] VF3 QC Space ": [
+        "4b417cb4-1284-4dbf-9795-ddfa57a319bf"
+      ],
+      "Sequences": "",
+      "Ước tính nỗ lực": null,
+      "Scenes": "20",
+      "Last edited by": null,
+      "Ước tính khả thi": null,
+      "Số frame": null,
+      "Nhân sự": [
+        {
+          "id": "92fdc82b-f21d-47ae-8a9d-f273f293b140",
+          "name": "Unknown User",
+          "email": null
+        }
+      ],
+      "Tasks": "Layout 20"
+    },
+    "_title": "Layout 20",
+    "database_name": "[DeeDee_2024] VF3 Database",
+    "project_name": "[DeeDee_2024] VF3 Database",
+    "database_id": "a5cea7e5-ea00-4c21-8775-52860580f0f7"
+  },
+  {
+    "id": "7c01ae8a-1df9-447d-9051-15def89d9875",
+    "created_time": "2024-05-08T06:37:00.000Z",
+    "last_edited_time": "2024-05-24T08:14:00.000Z",
+    "properties": {
+      "Team": null,
+      "Last edited time": null,
+      "Phân loại": "Background",
+      "🔹 [DeeDee_2024] VF3 báo cáo ": [],
+      "Task Status": "Client Approved",
+      "Deadlines": null,
+      "🏓 [DeeDee_2024] VF3 QC Space ": [
+        "f08c6744-5119-4b3f-ba58-637c8ea44409"
+      ],
+      "Sequences": "",
+      "Ước tính nỗ lực": null,
+      "Scenes": "06",
+      "Last edited by": null,
+      "Ước tính khả thi": null,
+      "Số frame": null,
+      "Nhân sự": [
+        {
+          "id": "bc74d92f-163f-4054-9ff2-f321efce1a63",
+          "name": "Unknown User",
+          "email": null
+        }
+      ],
+      "Tasks": "Background 06"
+    },
+    "_title": "Background 06",
+    "database_name": "[DeeDee_2024] VF3 Database",
+    "project_name": "[DeeDee_2024] VF3 Database",
+    "database_id": "a5cea7e5-ea00-4c21-8775-52860580f0f7"
+  },
+  {
+    "id": "83bcbdf8-2837-4de7-a0c0-73adad76be30",
+    "created_time": "2024-05-08T06:37:00.000Z",
+    "last_edited_time": "2024-05-24T08:14:00.000Z",
+    "properties": {
+      "Team": null,
+      "Last edited time": null,
+      "Phân loại": "Background",
+      "🔹 [DeeDee_2024] VF3 báo cáo ": [],
+      "Task Status": "Client Approved",
+      "Deadlines": null,
+      "🏓 [DeeDee_2024] VF3 QC Space ": [
+        "e821b283-8fb6-4b06-85da-2caa2e28880f"
+      ],
+      "Sequences": "",
+      "Ước tính nỗ lực": null,
+      "Scenes": "11",
+      "Last edited by": null,
+      "Ước tính khả thi": null,
+      "Số frame": null,
+      "Nhân sự": [
+        {
+          "id": "3a81bdc9-11ff-4574-af89-d7fcdb3025ae",
+          "name": "Unknown User",
+          "email": null
+        }
+      ],
+      "Tasks": "Background 11"
+    },
+    "_title": "Background 11",
+    "database_name": "[DeeDee_2024] VF3 Database",
+    "project_name": "[DeeDee_2024] VF3 Database",
+    "database_id": "a5cea7e5-ea00-4c21-8775-52860580f0f7"
+  },
+  {
+    "id": "8431aa73-05dd-4843-8711-e17144a0a0b9",
+    "created_time": "2024-05-08T03:55:00.000Z",
+    "last_edited_time": "2024-05-08T04:01:00.000Z",
+    "properties": {
+      "Team": null,
+      "Last edited time": null,
+      "Phân loại": "Layout",
+      "🔹 [DeeDee_2024] VF3 báo cáo ": [],
+      "Task Status": null,
+      "Deadlines": null,
+      "🏓 [DeeDee_2024] VF3 QC Space ": [
+        "dd98dd96-ca97-4cf4-a181-1632d3ac0b5c"
+      ],
+      "Sequences": "",
+      "Ước tính nỗ lực": null,
+      "Scenes": "12",
+      "Last edited by": null,
+      "Ước tính khả thi": null,
+      "Số frame": null,
+      "Nhân sự": [
+        {
+          "id": "9010bd5f-0286-4e69-8749-7e1f89524836",
+          "name": "Unknown User",
+          "email": null
+        }
+      ],
+      "Tasks": "Layout 12"
+    },
+    "_title": "Layout 12",
+    "database_name": "[DeeDee_2024] VF3 Database",
+    "project_name": "[DeeDee_2024] VF3 Database",
+    "database_id": "a5cea7e5-ea00-4c21-8775-52860580f0f7"
+  },
+  {
+    "id": "9012fc54-8729-4144-81d0-f8cf64ec042b",
+    "created_time": "2024-05-08T03:55:00.000Z",
+    "last_edited_time": "2024-05-09T02:12:00.000Z",
+    "properties": {
+      "Team": null,
+      "Last edited time": null,
+      "Phân loại": "Layout",
+      "🔹 [DeeDee_2024] VF3 báo cáo ": [],
+      "Task Status": "QC Approved",
+      "Deadlines": null,
+      "🏓 [DeeDee_2024] VF3 QC Space ": [
+        "853b828e-5033-41a0-a8d7-36399cea7f8f"
+      ],
+      "Sequences": "",
+      "Ước tính nỗ lực": null,
+      "Scenes": "19",
+      "Last edited by": null,
+      "Ước tính khả thi": null,
+      "Số frame": null,
+      "Nhân sự": [
+        {
+          "id": "92fdc82b-f21d-47ae-8a9d-f273f293b140",
+          "name": "Unknown User",
+          "email": null
+        }
+      ],
+      "Tasks": "Layout 19"
+    },
+    "_title": "Layout 19",
+    "database_name": "[DeeDee_2024] VF3 Database",
+    "project_name": "[DeeDee_2024] VF3 Database",
+    "database_id": "a5cea7e5-ea00-4c21-8775-52860580f0f7"
+  },
+  {
+    "id": "969ab75e-ae6c-4677-88a6-0d48cdae5a38",
+    "created_time": "2024-05-08T03:55:00.000Z",
+    "last_edited_time": "2024-05-08T04:37:00.000Z",
+    "properties": {
+      "Team": null,
+      "Last edited time": null,
+      "Phân loại": "Layout",
+      "🔹 [DeeDee_2024] VF3 báo cáo ": [],
+      "Task Status": "QC Approved",
+      "Deadlines": null,
+      "🏓 [DeeDee_2024] VF3 QC Space ": [
+        "cc649440-247b-499a-b254-f67cd7df2fce"
+      ],
+      "Sequences": "",
+      "Ước tính nỗ lực": null,
+      "Scenes": "05",
+      "Last edited by": null,
+      "Ước tính khả thi": null,
+      "Số frame": null,
+      "Nhân sự": [
+        {
+          "id": "92fdc82b-f21d-47ae-8a9d-f273f293b140",
+          "name": "Unknown User",
+          "email": null
+        }
+      ],
+      "Tasks": "Layout 05"
+    },
+    "_title": "Layout 05",
+    "database_name": "[DeeDee_2024] VF3 Database",
+    "project_name": "[DeeDee_2024] VF3 Database",
+    "database_id": "a5cea7e5-ea00-4c21-8775-52860580f0f7"
+  },
+  {
+    "id": "9c1062b2-d491-4055-a075-9377a432ef6f",
+    "created_time": "2024-05-24T08:17:00.000Z",
+    "last_edited_time": "2024-05-27T01:43:00.000Z",
+    "properties": {
+      "Team": null,
+      "Last edited time": null,
+      "Phân loại": "Background",
+      "🔹 [DeeDee_2024] VF3 báo cáo ": [],
+      "Task Status": "Not Started",
+      "Deadlines": null,
+      "🏓 [DeeDee_2024] VF3 QC Space ": [],
+      "Sequences": "",
+      "Ước tính nỗ lực": null,
+      "Scenes": "08",
+      "Last edited by": null,
+      "Ước tính khả thi": null,
+      "Số frame": null,
+      "Nhân sự": [
+        {
+          "id": "9010bd5f-0286-4e69-8749-7e1f89524836",
+          "name": "Unknown User",
+          "email": null
+        }
+      ],
+      "Tasks": "Taal Volcano"
+    },
+    "_title": "Taal Volcano",
+    "database_name": "[DeeDee_2024] VF3 Database",
+    "project_name": "[DeeDee_2024] VF3 Database",
+    "database_id": "a5cea7e5-ea00-4c21-8775-52860580f0f7"
+  },
+  {
+    "id": "a2df225c-9bca-4191-aa31-86451c82b9a7",
+    "created_time": "2024-05-08T06:37:00.000Z",
+    "last_edited_time": "2024-05-24T08:14:00.000Z",
+    "properties": {
+      "Team": null,
+      "Last edited time": null,
+      "Phân loại": "Background",
+      "🔹 [DeeDee_2024] VF3 báo cáo ": [],
+      "Task Status": "Client Approved",
+      "Deadlines": null,
+      "🏓 [DeeDee_2024] VF3 QC Space ": [
+        "94aef9b6-e393-47b2-86a8-a7b9bbafda07"
+      ],
+      "Sequences": "",
+      "Ước tính nỗ lực": null,
+      "Scenes": "03",
+      "Last edited by": null,
+      "Ước tính khả thi": null,
+      "Số frame": null,
+      "Nhân sự": [
+        {
+          "id": "ce62dd6e-6b4c-4d26-a9c9-929205c03462",
+          "name": "Unknown User",
+          "email": null
+        }
+      ],
+      "Tasks": "Background 03"
+    },
+    "_title": "Background 03",
+    "database_name": "[DeeDee_2024] VF3 Database",
+    "project_name": "[DeeDee_2024] VF3 Database",
+    "database_id": "a5cea7e5-ea00-4c21-8775-52860580f0f7"
+  },
+  {
+    "id": "a4c63365-e27b-485e-9efe-10860067ca3d",
+    "created_time": "2024-05-08T06:37:00.000Z",
+    "last_edited_time": "2024-05-24T08:14:00.000Z",
+    "properties": {
+      "Team": null,
+      "Last edited time": null,
+      "Phân loại": "Background",
+      "🔹 [DeeDee_2024] VF3 báo cáo ": [],
+      "Task Status": "Client Approved",
+      "Deadlines": null,
+      "🏓 [DeeDee_2024] VF3 QC Space ": [
+        "c30fea4f-b8bc-4892-925d-9427ffddba94"
+      ],
+      "Sequences": "",
+      "Ước tính nỗ lực": null,
+      "Scenes": "09",
+      "Last edited by": null,
+      "Ước tính khả thi": null,
+      "Số frame": null,
+      "Nhân sự": [
+        {
+          "id": "591f230f-efcf-478e-9dc0-6529bf787f1f",
+          "name": "Thanh Nguyễn ",
+          "email": "thanhnt@sangygroup.com"
+        }
+      ],
+      "Tasks": "Background 09"
+    },
+    "_title": "Background 09",
+    "database_name": "[DeeDee_2024] VF3 Database",
+    "project_name": "[DeeDee_2024] VF3 Database",
+    "database_id": "a5cea7e5-ea00-4c21-8775-52860580f0f7"
+  },
+  {
+    "id": "a89f8660-d805-4ac6-960f-088d9a0ceed4",
+    "created_time": "2024-05-08T06:37:00.000Z",
+    "last_edited_time": "2024-05-24T08:14:00.000Z",
+    "properties": {
+      "Team": null,
+      "Last edited time": null,
+      "Phân loại": "Background",
+      "🔹 [DeeDee_2024] VF3 báo cáo ": [],
+      "Task Status": "Client Approved",
+      "Deadlines": null,
+      "🏓 [DeeDee_2024] VF3 QC Space ": [
+        "712954a7-fa51-4cfa-8bab-6fe221873acd"
+      ],
+      "Sequences": "",
+      "Ước tính nỗ lực": null,
+      "Scenes": "10",
+      "Last edited by": null,
+      "Ước tính khả thi": null,
+      "Số frame": null,
+      "Nhân sự": [
+        {
+          "id": "cbb9d8bc-8f0d-4ac6-ae13-d1df5638df05",
+          "name": "Unknown User",
+          "email": null
+        }
+      ],
+      "Tasks": "Background 10"
+    },
+    "_title": "Background 10",
+    "database_name": "[DeeDee_2024] VF3 Database",
+    "project_name": "[DeeDee_2024] VF3 Database",
+    "database_id": "a5cea7e5-ea00-4c21-8775-52860580f0f7"
+  },
+  {
+    "id": "a999e290-1275-4d8e-b2a1-faa731d16168",
+    "created_time": "2024-05-24T08:16:00.000Z",
+    "last_edited_time": "2024-05-27T04:06:00.000Z",
+    "properties": {
+      "Team": null,
+      "Last edited time": null,
+      "Phân loại": "Background",
+      "🔹 [DeeDee_2024] VF3 báo cáo ": [],
+      "Task Status": "QC Approved",
+      "Deadlines": null,
+      "🏓 [DeeDee_2024] VF3 QC Space ": [],
+      "Sequences": "",
+      "Ước tính nỗ lực": null,
+      "Scenes": "05",
+      "Last edited by": null,
+      "Ước tính khả thi": null,
+      "Số frame": null,
+      "Nhân sự": [
+        {
+          "id": "ef94d237-bbac-4f3a-852f-c653473d8b70",
+          "name": "Unknown User",
+          "email": null
+        }
+      ],
+      "Tasks": "National Museum of Fine Arts"
+    },
+    "_title": "National Museum of Fine Arts",
+    "database_name": "[DeeDee_2024] VF3 Database",
+    "project_name": "[DeeDee_2024] VF3 Database",
+    "database_id": "a5cea7e5-ea00-4c21-8775-52860580f0f7"
+  },
+  {
+    "id": "aabe100d-aa2c-48ce-8363-39e6622c10db",
+    "created_time": "2024-05-08T06:37:00.000Z",
+    "last_edited_time": "2024-05-24T08:14:00.000Z",
+    "properties": {
+      "Team": null,
+      "Last edited time": null,
+      "Phân loại": "Background",
+      "🔹 [DeeDee_2024] VF3 báo cáo ": [],
+      "Task Status": "Client Approved",
+      "Deadlines": null,
+      "🏓 [DeeDee_2024] VF3 QC Space ": [
+        "659fcec6-9c1a-4154-a429-88c8dc66c9c7"
+      ],
+      "Sequences": "",
+      "Ước tính nỗ lực": null,
+      "Scenes": "18",
+      "Last edited by": null,
+      "Ước tính khả thi": null,
+      "Số frame": null,
+      "Nhân sự": [
+        {
+          "id": "92fdc82b-f21d-47ae-8a9d-f273f293b140",
+          "name": "Unknown User",
+          "email": null
+        }
+      ],
+      "Tasks": "Background 18"
+    },
+    "_title": "Background 18",
+    "database_name": "[DeeDee_2024] VF3 Database",
+    "project_name": "[DeeDee_2024] VF3 Database",
+    "database_id": "a5cea7e5-ea00-4c21-8775-52860580f0f7"
+  },
+  {
+    "id": "afe4bd4d-aac8-4fab-9609-dcbbd26f153e",
+    "created_time": "2024-05-08T03:55:00.000Z",
+    "last_edited_time": "2024-05-08T04:01:00.000Z",
+    "properties": {
+      "Team": null,
+      "Last edited time": null,
+      "Phân loại": "Layout",
+      "🔹 [DeeDee_2024] VF3 báo cáo ": [],
+      "Task Status": null,
+      "Deadlines": null,
+      "🏓 [DeeDee_2024] VF3 QC Space ": [
+        "c30fea4f-b8bc-4892-925d-9427ffddba94"
+      ],
+      "Sequences": "",
+      "Ước tính nỗ lực": null,
+      "Scenes": "09",
+      "Last edited by": null,
+      "Ước tính khả thi": null,
+      "Số frame": null,
+      "Nhân sự": [
+        {
+          "id": "9010bd5f-0286-4e69-8749-7e1f89524836",
+          "name": "Unknown User",
+          "email": null
+        }
+      ],
+      "Tasks": "Layout 09"
+    },
+    "_title": "Layout 09",
+    "database_name": "[DeeDee_2024] VF3 Database",
+    "project_name": "[DeeDee_2024] VF3 Database",
+    "database_id": "a5cea7e5-ea00-4c21-8775-52860580f0f7"
+  },
+  {
+    "id": "ba9e66c8-9123-4cec-b652-3a40eef76e28",
+    "created_time": "2024-05-24T08:14:00.000Z",
+    "last_edited_time": "2024-05-27T08:35:00.000Z",
+    "properties": {
+      "Team": null,
+      "Last edited time": null,
+      "Phân loại": "Background",
+      "🔹 [DeeDee_2024] VF3 báo cáo ": [],
+      "Task Status": "QC Approved",
+      "Deadlines": null,
+      "🏓 [DeeDee_2024] VF3 QC Space ": [],
+      "Sequences": "",
+      "Ước tính nỗ lực": null,
+      "Scenes": "01",
+      "Last edited by": null,
+      "Ước tính khả thi": null,
+      "Số frame": null,
+      "Nhân sự": [
+        {
+          "id": "ce62dd6e-6b4c-4d26-a9c9-929205c03462",
+          "name": "Unknown User",
+          "email": null
+        }
+      ],
+      "Tasks": "Manila Bay\n"
+    },
+    "_title": "Manila Bay\n",
+    "database_name": "[DeeDee_2024] VF3 Database",
+    "project_name": "[DeeDee_2024] VF3 Database",
+    "database_id": "a5cea7e5-ea00-4c21-8775-52860580f0f7"
+  },
+  {
+    "id": "c564ad90-5a1c-4170-bb10-ddfcba435597",
+    "created_time": "2024-05-08T06:37:00.000Z",
+    "last_edited_time": "2024-05-24T08:14:00.000Z",
+    "properties": {
+      "Team": null,
+      "Last edited time": null,
+      "Phân loại": "Background",
+      "🔹 [DeeDee_2024] VF3 báo cáo ": [],
+      "Task Status": "Client Approved",
+      "Deadlines": null,
+      "🏓 [DeeDee_2024] VF3 QC Space ": [
+        "dd98dd96-ca97-4cf4-a181-1632d3ac0b5c"
+      ],
+      "Sequences": "",
+      "Ước tính nỗ lực": null,
+      "Scenes": "12",
+      "Last edited by": null,
+      "Ước tính khả thi": null,
+      "Số frame": null,
+      "Nhân sự": [
+        {
+          "id": "ef94d237-bbac-4f3a-852f-c653473d8b70",
+          "name": "Unknown User",
+          "email": null
+        }
+      ],
+      "Tasks": "Background 12"
+    },
+    "_title": "Background 12",
+    "database_name": "[DeeDee_2024] VF3 Database",
+    "project_name": "[DeeDee_2024] VF3 Database",
+    "database_id": "a5cea7e5-ea00-4c21-8775-52860580f0f7"
+  },
+  {
+    "id": "da8d333d-8210-4234-af97-bfe451e8da37",
+    "created_time": "2024-05-08T06:37:00.000Z",
+    "last_edited_time": "2024-05-24T08:14:00.000Z",
+    "properties": {
+      "Team": null,
+      "Last edited time": null,
+      "Phân loại": "Background",
+      "🔹 [DeeDee_2024] VF3 báo cáo ": [],
+      "Task Status": "Client Approved",
+      "Deadlines": null,
+      "🏓 [DeeDee_2024] VF3 QC Space ": [
+        "44d227ce-9347-4f53-bf81-aeebc7c790a9"
+      ],
+      "Sequences": "",
+      "Ước tính nỗ lực": null,
+      "Scenes": "01",
+      "Last edited by": null,
+      "Ước tính khả thi": null,
+      "Số frame": null,
+      "Nhân sự": [
+        {
+          "id": "ef94d237-bbac-4f3a-852f-c653473d8b70",
+          "name": "Unknown User",
+          "email": null
+        }
+      ],
+      "Tasks": "Background 01"
+    },
+    "_title": "Background 01",
+    "database_name": "[DeeDee_2024] VF3 Database",
+    "project_name": "[DeeDee_2024] VF3 Database",
+    "database_id": "a5cea7e5-ea00-4c21-8775-52860580f0f7"
+  },
+  {
+    "id": "de1301e5-df49-40ee-a29b-aabd83005cfd",
+    "created_time": "2024-05-24T08:16:00.000Z",
+    "last_edited_time": "2024-05-27T04:52:00.000Z",
+    "properties": {
+      "Team": null,
+      "Last edited time": null,
+      "Phân loại": "Background",
+      "🔹 [DeeDee_2024] VF3 báo cáo ": [],
+      "Task Status": "Pending Review",
+      "Deadlines": null,
+      "🏓 [DeeDee_2024] VF3 QC Space ": [],
+      "Sequences": "",
+      "Ước tính nỗ lực": null,
+      "Scenes": "06",
+      "Last edited by": null,
+      "Ước tính khả thi": null,
+      "Số frame": null,
+      "Nhân sự": [
+        {
+          "id": "591f230f-efcf-478e-9dc0-6529bf787f1f",
+          "name": "Thanh Nguyễn ",
+          "email": "thanhnt@sangygroup.com"
+        }
+      ],
+      "Tasks": "Calle Crisolgo"
+    },
+    "_title": "Calle Crisolgo",
+    "database_name": "[DeeDee_2024] VF3 Database",
+    "project_name": "[DeeDee_2024] VF3 Database",
+    "database_id": "a5cea7e5-ea00-4c21-8775-52860580f0f7"
+  },
+  {
+    "id": "e2f6f5c8-3f9b-4a21-9f5e-b778668ae146",
+    "created_time": "2024-05-08T06:37:00.000Z",
+    "last_edited_time": "2024-05-24T08:14:00.000Z",
+    "properties": {
+      "Team": null,
+      "Last edited time": null,
+      "Phân loại": "Background",
+      "🔹 [DeeDee_2024] VF3 báo cáo ": [],
+      "Task Status": "Client Approved",
+      "Deadlines": null,
+      "🏓 [DeeDee_2024] VF3 QC Space ": [
+        "0bfeb993-a73d-453a-b754-2cdeff4c1893"
+      ],
+      "Sequences": "",
+      "Ước tính nỗ lực": null,
+      "Scenes": "04",
+      "Last edited by": null,
+      "Ước tính khả thi": null,
+      "Số frame": null,
+      "Nhân sự": [
+        {
+          "id": "9010bd5f-0286-4e69-8749-7e1f89524836",
+          "name": "Unknown User",
+          "email": null
+        }
+      ],
+      "Tasks": "Background 04"
+    },
+    "_title": "Background 04",
+    "database_name": "[DeeDee_2024] VF3 Database",
+    "project_name": "[DeeDee_2024] VF3 Database",
+    "database_id": "a5cea7e5-ea00-4c21-8775-52860580f0f7"
+  },
+  {
+    "id": "e35fe1ad-4ed2-40cc-80cb-164651e6cdbd",
+    "created_time": "2024-05-08T06:37:00.000Z",
+    "last_edited_time": "2024-05-24T08:14:00.000Z",
+    "properties": {
+      "Team": null,
+      "Last edited time": null,
+      "Phân loại": "Background",
+      "🔹 [DeeDee_2024] VF3 báo cáo ": [],
+      "Task Status": "Client Approved",
+      "Deadlines": null,
+      "🏓 [DeeDee_2024] VF3 QC Space ": [
+        "89ca09d1-0498-46a9-b6d0-f70022f84db4"
+      ],
+      "Sequences": "",
+      "Ước tính nỗ lực": null,
+      "Scenes": "15",
+      "Last edited by": null,
+      "Ước tính khả thi": null,
+      "Số frame": null,
+      "Nhân sự": [
+        {
+          "id": "bc74d92f-163f-4054-9ff2-f321efce1a63",
+          "name": "Unknown User",
+          "email": null
+        }
+      ],
+      "Tasks": "Background 15"
+    },
+    "_title": "Background 15",
+    "database_name": "[DeeDee_2024] VF3 Database",
+    "project_name": "[DeeDee_2024] VF3 Database",
+    "database_id": "a5cea7e5-ea00-4c21-8775-52860580f0f7"
+  },
+  {
+    "id": "f5cbc9b7-2dba-4ed9-a56b-a798ec7baa4d",
+    "created_time": "2024-05-08T03:55:00.000Z",
+    "last_edited_time": "2024-05-08T04:01:00.000Z",
+    "properties": {
+      "Team": null,
+      "Last edited time": null,
+      "Phân loại": "Layout",
+      "🔹 [DeeDee_2024] VF3 báo cáo ": [],
+      "Task Status": null,
+      "Deadlines": null,
+      "🏓 [DeeDee_2024] VF3 QC Space ": [
+        "67a1c5cd-8266-4cea-83a0-e673a5a31df8"
+      ],
+      "Sequences": "",
+      "Ước tính nỗ lực": null,
+      "Scenes": "13",
+      "Last edited by": null,
+      "Ước tính khả thi": null,
+      "Số frame": null,
+      "Nhân sự": [
+        {
+          "id": "9010bd5f-0286-4e69-8749-7e1f89524836",
+          "name": "Unknown User",
+          "email": null
+        }
+      ],
+      "Tasks": "Layout 13"
+    },
+    "_title": "Layout 13",
+    "database_name": "[DeeDee_2024] VF3 Database",
+    "project_name": "[DeeDee_2024] VF3 Database",
+    "database_id": "a5cea7e5-ea00-4c21-8775-52860580f0f7"
+  },
+  {
+    "id": "f8d87b71-c159-42eb-825a-af81921cbe4d",
+    "created_time": "2024-05-08T06:37:00.000Z",
+    "last_edited_time": "2024-05-24T08:14:00.000Z",
+    "properties": {
+      "Team": null,
+      "Last edited time": null,
+      "Phân loại": "Background",
+      "🔹 [DeeDee_2024] VF3 báo cáo ": [],
+      "Task Status": "Client Approved",
+      "Deadlines": null,
+      "🏓 [DeeDee_2024] VF3 QC Space ": [
+        "474eb7c1-8e70-4769-a7f9-bee8f5bc1bf0"
+      ],
+      "Sequences": "",
+      "Ước tính nỗ lực": null,
+      "Scenes": "16",
+      "Last edited by": null,
+      "Ước tính khả thi": null,
+      "Số frame": null,
+      "Nhân sự": [
+        {
+          "id": "c2266065-7d98-480f-82f3-6308d5402577",
+          "name": "Giang Bùi",
+          "email": "giangbt@sangygroup.com"
+        }
+      ],
+      "Tasks": "Background 16"
+    },
+    "_title": "Background 16",
+    "database_name": "[DeeDee_2024] VF3 Database",
+    "project_name": "[DeeDee_2024] VF3 Database",
+    "database_id": "a5cea7e5-ea00-4c21-8775-52860580f0f7"
+  },
+  {
+    "id": "fa19d2ae-6c34-49c8-ace0-b98893f203f1",
+    "created_time": "2024-05-08T03:55:00.000Z",
+    "last_edited_time": "2024-05-08T04:01:00.000Z",
+    "properties": {
+      "Team": null,
+      "Last edited time": null,
+      "Phân loại": "Layout",
+      "🔹 [DeeDee_2024] VF3 báo cáo ": [],
+      "Task Status": null,
+      "Deadlines": null,
+      "🏓 [DeeDee_2024] VF3 QC Space ": [
+        "a4f9e268-4051-4aa0-bca9-4a34d2c9c5a2"
+      ],
+      "Sequences": "",
+      "Ước tính nỗ lực": null,
+      "Scenes": "14",
+      "Last edited by": null,
+      "Ước tính khả thi": null,
+      "Số frame": null,
+      "Nhân sự": [
+        {
+          "id": "9010bd5f-0286-4e69-8749-7e1f89524836",
+          "name": "Unknown User",
+          "email": null
+        }
+      ],
+      "Tasks": "Layout 14"
+    },
+    "_title": "Layout 14",
+    "database_name": "[DeeDee_2024] VF3 Database",
+    "project_name": "[DeeDee_2024] VF3 Database",
+    "database_id": "a5cea7e5-ea00-4c21-8775-52860580f0f7"
+  }
+]

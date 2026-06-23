@@ -1,0 +1,425 @@
+[
+  {
+    "id": "018c5238-5a51-44b9-8c00-b53b17c2ad07",
+    "created_time": "2024-05-31T08:37:00.000Z",
+    "last_edited_time": "2024-06-18T09:19:00.000Z",
+    "properties": {
+      "102": "Not started",
+      "103": "Not started",
+      "105": "Done",
+      "PIC": [
+        "Khuê"
+      ],
+      "Nội dung nhiệm vụ ": "Scan sự thay đổi feedback",
+      "Note": "",
+      "Đầu việc": "Khi có thay đổi data input"
+    },
+    "_title": "Khi có thay đổi data input",
+    "database_name": "OMG_PHÂN CHIA CÔNG VIỆC ANIM",
+    "project_name": "OMG_PHÂN CHIA CÔNG VIỆC ANIM",
+    "database_id": "e0e1edd3-5c5f-4f18-8a2a-5268979adc94"
+  },
+  {
+    "id": "076c748b-56a2-4b4d-9d0b-f15e857d2818",
+    "created_time": "2024-06-18T09:19:00.000Z",
+    "last_edited_time": "2024-06-18T09:19:00.000Z",
+    "properties": {
+      "102": "Not started",
+      "103": "Not started",
+      "105": "In progress",
+      "PIC": [
+        "Theo producer phụ trách team"
+      ],
+      "Nội dung nhiệm vụ ": "SKCT Lead",
+      "Note": "",
+      "Đầu việc": ""
+    },
+    "_title": "",
+    "database_name": "OMG_PHÂN CHIA CÔNG VIỆC ANIM",
+    "project_name": "OMG_PHÂN CHIA CÔNG VIỆC ANIM",
+    "database_id": "e0e1edd3-5c5f-4f18-8a2a-5268979adc94"
+  },
+  {
+    "id": "175d9dbd-a47a-43fa-b273-a1af0c2b780e",
+    "created_time": "2024-05-31T08:30:00.000Z",
+    "last_edited_time": "2024-06-18T09:18:00.000Z",
+    "properties": {
+      "102": "Not started",
+      "103": "Not started",
+      "105": "In progress",
+      "PIC": [
+        "Theo producer phụ trách team"
+      ],
+      "Nội dung nhiệm vụ ": "Chat với khách các câu hỏi của team",
+      "Note": "",
+      "Đầu việc": ""
+    },
+    "_title": "",
+    "database_name": "OMG_PHÂN CHIA CÔNG VIỆC ANIM",
+    "project_name": "OMG_PHÂN CHIA CÔNG VIỆC ANIM",
+    "database_id": "e0e1edd3-5c5f-4f18-8a2a-5268979adc94"
+  },
+  {
+    "id": "1d872111-8737-4a12-b15f-5d2bc2f64ff1",
+    "created_time": "2024-05-31T08:34:00.000Z",
+    "last_edited_time": "2024-06-11T07:20:00.000Z",
+    "properties": {
+      "102": "Not started",
+      "103": "Not started",
+      "105": "Done",
+      "PIC": [
+        "Khuê"
+      ],
+      "Nội dung nhiệm vụ ": "Brief tập",
+      "Note": "",
+      "Đầu việc": ""
+    },
+    "_title": "",
+    "database_name": "OMG_PHÂN CHIA CÔNG VIỆC ANIM",
+    "project_name": "OMG_PHÂN CHIA CÔNG VIỆC ANIM",
+    "database_id": "e0e1edd3-5c5f-4f18-8a2a-5268979adc94"
+  },
+  {
+    "id": "28fe8b45-e0a2-49df-b5fa-26709c3ea808",
+    "created_time": "2024-05-31T08:30:00.000Z",
+    "last_edited_time": "2024-06-18T09:18:00.000Z",
+    "properties": {
+      "102": "Not started",
+      "103": "Not started",
+      "105": "Done",
+      "PIC": [
+        "Khuê"
+      ],
+      "Nội dung nhiệm vụ ": "Set up template SKCT cho cả dự án (bao gồm đầu ra cho buổi họp và nội dung sẽ trao đổi) ",
+      "Note": "",
+      "Đầu việc": ""
+    },
+    "_title": "",
+    "database_name": "OMG_PHÂN CHIA CÔNG VIỆC ANIM",
+    "project_name": "OMG_PHÂN CHIA CÔNG VIỆC ANIM",
+    "database_id": "e0e1edd3-5c5f-4f18-8a2a-5268979adc94"
+  },
+  {
+    "id": "3117a8b2-db10-45a1-8a9d-40a121079372",
+    "created_time": "2024-05-31T08:44:00.000Z",
+    "last_edited_time": "2024-06-18T09:17:00.000Z",
+    "properties": {
+      "102": "Not started",
+      "103": "Not started",
+      "105": "In progress",
+      "PIC": [
+        "Khuê"
+      ],
+      "Nội dung nhiệm vụ ": "Dựng file với editor\nCheck specs của file\nKiểm tra tiến độ fle (so với timeline của khách) ",
+      "Note": "",
+      "Đầu việc": ""
+    },
+    "_title": "",
+    "database_name": "OMG_PHÂN CHIA CÔNG VIỆC ANIM",
+    "project_name": "OMG_PHÂN CHIA CÔNG VIỆC ANIM",
+    "database_id": "e0e1edd3-5c5f-4f18-8a2a-5268979adc94"
+  },
+  {
+    "id": "312ac082-c5c7-4cdc-ba19-e993eff158a1",
+    "created_time": "2024-05-31T08:34:00.000Z",
+    "last_edited_time": "2024-06-11T07:20:00.000Z",
+    "properties": {
+      "102": "Not started",
+      "103": "Not started",
+      "105": "Done",
+      "PIC": [
+        "Khuê"
+      ],
+      "Nội dung nhiệm vụ ": "Brief series",
+      "Note": "",
+      "Đầu việc": ""
+    },
+    "_title": "",
+    "database_name": "OMG_PHÂN CHIA CÔNG VIỆC ANIM",
+    "project_name": "OMG_PHÂN CHIA CÔNG VIỆC ANIM",
+    "database_id": "e0e1edd3-5c5f-4f18-8a2a-5268979adc94"
+  },
+  {
+    "id": "3409553c-1988-4fc9-900f-ce6277a1091a",
+    "created_time": "2024-05-31T08:30:00.000Z",
+    "last_edited_time": "2024-06-11T07:20:00.000Z",
+    "properties": {
+      "102": "Not started",
+      "103": "Not started",
+      "105": "Done",
+      "PIC": [
+        "Theo producer phụ trách team"
+      ],
+      "Nội dung nhiệm vụ ": "Set up và thông báo lịch QC/deliver",
+      "Note": "",
+      "Đầu việc": ""
+    },
+    "_title": "",
+    "database_name": "OMG_PHÂN CHIA CÔNG VIỆC ANIM",
+    "project_name": "OMG_PHÂN CHIA CÔNG VIỆC ANIM",
+    "database_id": "e0e1edd3-5c5f-4f18-8a2a-5268979adc94"
+  },
+  {
+    "id": "3ae419a5-af4a-4ca8-b1bf-919d5777b884",
+    "created_time": "2024-05-31T08:30:00.000Z",
+    "last_edited_time": "2024-06-18T09:19:00.000Z",
+    "properties": {
+      "102": "In progress",
+      "103": "Done",
+      "105": "Done",
+      "PIC": [
+        "Khuê"
+      ],
+      "Nội dung nhiệm vụ ": "Check data từng tập, báo editor tạo animatic cut ",
+      "Note": "",
+      "Đầu việc": "Planning "
+    },
+    "_title": "Planning ",
+    "database_name": "OMG_PHÂN CHIA CÔNG VIỆC ANIM",
+    "project_name": "OMG_PHÂN CHIA CÔNG VIỆC ANIM",
+    "database_id": "e0e1edd3-5c5f-4f18-8a2a-5268979adc94"
+  },
+  {
+    "id": "4819bc28-b4d8-4d23-a888-8cac247a241c",
+    "created_time": "2024-05-31T08:53:00.000Z",
+    "last_edited_time": "2024-06-18T09:17:00.000Z",
+    "properties": {
+      "102": "Not started",
+      "103": "Done",
+      "105": "In progress",
+      "PIC": [
+        "Khuê"
+      ],
+      "Nội dung nhiệm vụ ": "Prep data SP",
+      "Note": "",
+      "Đầu việc": ""
+    },
+    "_title": "",
+    "database_name": "OMG_PHÂN CHIA CÔNG VIỆC ANIM",
+    "project_name": "OMG_PHÂN CHIA CÔNG VIỆC ANIM",
+    "database_id": "e0e1edd3-5c5f-4f18-8a2a-5268979adc94"
+  },
+  {
+    "id": "52468699-14df-4086-bb09-29ae98ec3515",
+    "created_time": "2024-05-31T08:30:00.000Z",
+    "last_edited_time": "2024-06-18T09:17:00.000Z",
+    "properties": {
+      "102": "Not started",
+      "103": "Not started",
+      "105": "In progress",
+      "PIC": [
+        "Theo producer phụ trách team"
+      ],
+      "Nội dung nhiệm vụ ": "Download from Aspera, upload to X",
+      "Note": "",
+      "Đầu việc": ""
+    },
+    "_title": "",
+    "database_name": "OMG_PHÂN CHIA CÔNG VIỆC ANIM",
+    "project_name": "OMG_PHÂN CHIA CÔNG VIỆC ANIM",
+    "database_id": "e0e1edd3-5c5f-4f18-8a2a-5268979adc94"
+  },
+  {
+    "id": "631486f2-9d6d-498e-ad04-374e80648175",
+    "created_time": "2024-05-31T08:30:00.000Z",
+    "last_edited_time": "2024-05-31T08:39:00.000Z",
+    "properties": {
+      "102": "Not started",
+      "103": "Not started",
+      "105": "Not started",
+      "PIC": [
+        "Khuê",
+        "Trinh"
+      ],
+      "Nội dung nhiệm vụ ": "Request họp nếu như có vấn đề lớn ảnh hưởng đến timeline client",
+      "Note": "",
+      "Đầu việc": "CLIENT "
+    },
+    "_title": "CLIENT ",
+    "database_name": "OMG_PHÂN CHIA CÔNG VIỆC ANIM",
+    "project_name": "OMG_PHÂN CHIA CÔNG VIỆC ANIM",
+    "database_id": "e0e1edd3-5c5f-4f18-8a2a-5268979adc94"
+  },
+  {
+    "id": "6d6ffdeb-89dd-4f33-bebd-ebfff3b81e47",
+    "created_time": "2024-06-01T03:20:00.000Z",
+    "last_edited_time": "2024-06-18T09:19:00.000Z",
+    "properties": {
+      "102": "Not started",
+      "103": "Not started",
+      "105": "Done",
+      "PIC": [
+        "Khuê"
+      ],
+      "Nội dung nhiệm vụ ": "Check assets tương ứng\nKhách gửi lại asset per scene hoặc mình gửi khách để đối chiếu",
+      "Note": "",
+      "Đầu việc": ""
+    },
+    "_title": "",
+    "database_name": "OMG_PHÂN CHIA CÔNG VIỆC ANIM",
+    "project_name": "OMG_PHÂN CHIA CÔNG VIỆC ANIM",
+    "database_id": "e0e1edd3-5c5f-4f18-8a2a-5268979adc94"
+  },
+  {
+    "id": "7181f50e-0e35-4e1a-8960-92758b33b15d",
+    "created_time": "2024-05-31T08:35:00.000Z",
+    "last_edited_time": "2024-06-18T09:17:00.000Z",
+    "properties": {
+      "102": "Done",
+      "103": "Done",
+      "105": "Done",
+      "PIC": [
+        "Khuê"
+      ],
+      "Nội dung nhiệm vụ ": "Brief nội dung từng tập",
+      "Note": "",
+      "Đầu việc": ""
+    },
+    "_title": "",
+    "database_name": "OMG_PHÂN CHIA CÔNG VIỆC ANIM",
+    "project_name": "OMG_PHÂN CHIA CÔNG VIỆC ANIM",
+    "database_id": "e0e1edd3-5c5f-4f18-8a2a-5268979adc94"
+  },
+  {
+    "id": "74d2fb73-d38a-4d4d-a0e0-ccc468703716",
+    "created_time": "2024-05-31T08:35:00.000Z",
+    "last_edited_time": "2024-06-18T09:29:00.000Z",
+    "properties": {
+      "102": "In progress",
+      "103": "In progress",
+      "105": "Done",
+      "PIC": [
+        "Khuê"
+      ],
+      "Nội dung nhiệm vụ ": "Prep data Rig",
+      "Note": "",
+      "Đầu việc": ""
+    },
+    "_title": "",
+    "database_name": "OMG_PHÂN CHIA CÔNG VIỆC ANIM",
+    "project_name": "OMG_PHÂN CHIA CÔNG VIỆC ANIM",
+    "database_id": "e0e1edd3-5c5f-4f18-8a2a-5268979adc94"
+  },
+  {
+    "id": "8d3b4b36-c33c-451f-a0b7-b277f223cb54",
+    "created_time": "2024-05-31T08:30:00.000Z",
+    "last_edited_time": "2024-05-31T08:48:00.000Z",
+    "properties": {
+      "102": "Not started",
+      "103": "Not started",
+      "105": "Not started",
+      "PIC": [
+        "Khuê",
+        "Minh Anh",
+        "Trinh"
+      ],
+      "Nội dung nhiệm vụ ": "SKCT chung: Các team họp chung để tổng hợp các vấn đề gặp phải trong quá trình chạy sprint vừa rồi. Thực hiện sau mỗi tập phim được hoàn thành.",
+      "Note": "",
+      "Đầu việc": "SKCT "
+    },
+    "_title": "SKCT ",
+    "database_name": "OMG_PHÂN CHIA CÔNG VIỆC ANIM",
+    "project_name": "OMG_PHÂN CHIA CÔNG VIỆC ANIM",
+    "database_id": "e0e1edd3-5c5f-4f18-8a2a-5268979adc94"
+  },
+  {
+    "id": "a0dd31ea-15e2-475f-87e5-7c4935c00c58",
+    "created_time": "2024-05-31T08:38:00.000Z",
+    "last_edited_time": "2024-06-18T09:17:00.000Z",
+    "properties": {
+      "102": "Not started",
+      "103": "In progress",
+      "105": "Done",
+      "PIC": [
+        "Theo producer phụ trách team"
+      ],
+      "Nội dung nhiệm vụ ": "Import backlog to Notion",
+      "Note": "",
+      "Đầu việc": ""
+    },
+    "_title": "",
+    "database_name": "OMG_PHÂN CHIA CÔNG VIỆC ANIM",
+    "project_name": "OMG_PHÂN CHIA CÔNG VIỆC ANIM",
+    "database_id": "e0e1edd3-5c5f-4f18-8a2a-5268979adc94"
+  },
+  {
+    "id": "c7e7d3ff-6d6c-455f-bfdc-ffb78df40dc8",
+    "created_time": "2024-05-31T08:46:00.000Z",
+    "last_edited_time": "2024-06-18T09:17:00.000Z",
+    "properties": {
+      "102": "Done",
+      "103": "Done",
+      "105": "Done",
+      "PIC": [
+        "Theo producer phụ trách team"
+      ],
+      "Nội dung nhiệm vụ ": "Set up cấu trúc folder trên X",
+      "Note": "",
+      "Đầu việc": ""
+    },
+    "_title": "",
+    "database_name": "OMG_PHÂN CHIA CÔNG VIỆC ANIM",
+    "project_name": "OMG_PHÂN CHIA CÔNG VIỆC ANIM",
+    "database_id": "e0e1edd3-5c5f-4f18-8a2a-5268979adc94"
+  },
+  {
+    "id": "e136f945-fceb-44c5-bfc7-f55204981921",
+    "created_time": "2024-05-31T08:30:00.000Z",
+    "last_edited_time": "2024-06-18T09:18:00.000Z",
+    "properties": {
+      "102": "Not started",
+      "103": "Not started",
+      "105": "Done",
+      "PIC": [
+        "Theo producer phụ trách team"
+      ],
+      "Nội dung nhiệm vụ ": "Mini SKCT: thực hiện sau mỗi sprint, producer họp và tổng hợp vấn đề trong sprint với team",
+      "Note": "",
+      "Đầu việc": ""
+    },
+    "_title": "",
+    "database_name": "OMG_PHÂN CHIA CÔNG VIỆC ANIM",
+    "project_name": "OMG_PHÂN CHIA CÔNG VIỆC ANIM",
+    "database_id": "e0e1edd3-5c5f-4f18-8a2a-5268979adc94"
+  },
+  {
+    "id": "e26d3225-3fd0-4d67-ad85-acc32a8cadff",
+    "created_time": "2024-05-31T08:30:00.000Z",
+    "last_edited_time": "2024-06-11T07:21:00.000Z",
+    "properties": {
+      "102": "Not started",
+      "103": "Not started",
+      "105": "In progress",
+      "PIC": [
+        "Theo producer phụ trách team"
+      ],
+      "Nội dung nhiệm vụ ": "Nhận và scan feedback client từng lượt gửi",
+      "Note": "",
+      "Đầu việc": "QC"
+    },
+    "_title": "QC",
+    "database_name": "OMG_PHÂN CHIA CÔNG VIỆC ANIM",
+    "project_name": "OMG_PHÂN CHIA CÔNG VIỆC ANIM",
+    "database_id": "e0e1edd3-5c5f-4f18-8a2a-5268979adc94"
+  },
+  {
+    "id": "fb077393-8bf0-41cd-8bc0-dfc9e02bc1ef",
+    "created_time": "2024-05-31T08:30:00.000Z",
+    "last_edited_time": "2024-06-10T07:17:00.000Z",
+    "properties": {
+      "102": "Not started",
+      "103": "Not started",
+      "105": "In progress",
+      "PIC": [
+        "Khuê"
+      ],
+      "Nội dung nhiệm vụ ": "Set up hệ thống report chung cả dự án producer (SM sprint nào tự điền data sprint đấy)",
+      "Note": "",
+      "Đầu việc": ""
+    },
+    "_title": "",
+    "database_name": "OMG_PHÂN CHIA CÔNG VIỆC ANIM",
+    "project_name": "OMG_PHÂN CHIA CÔNG VIỆC ANIM",
+    "database_id": "e0e1edd3-5c5f-4f18-8a2a-5268979adc94"
+  }
+]

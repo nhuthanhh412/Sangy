@@ -1,0 +1,354 @@
+[
+  {
+    "id": "286ccb0e-ac88-808f-a23f-ff875f65f3c7",
+    "created_time": "2025-10-08T09:57:00.000Z",
+    "last_edited_time": "2025-10-08T09:58:00.000Z",
+    "properties": {
+      "Required by": [
+        {
+          "type": "select",
+          "select": null
+        }
+      ],
+      "Product ": [
+        "286ccb0e-ac88-80b4-8750-dec038843994"
+      ],
+      "Task main": "1",
+      "UTNL": null,
+      "Task QC": "0/2",
+      "Run n8n": false,
+      "Point Status": null,
+      "TP giả định": 1.68,
+      "Trọng số TP": 0.3,
+      "Product Type": [
+        "STB"
+      ],
+      "[Dev] Total main": 0,
+      "Task type": "Fix",
+      "Product (1)": [
+        "Storyboard 01"
+      ],
+      "Product Status": [
+        "Pending Review"
+      ],
+      "Task Status": "Not started",
+      "Episode": [
+        {
+          "type": "select",
+          "select": null
+        }
+      ],
+      "Done Date": null,
+      "Product Point": [
+        14
+      ],
+      "TP giả định 2": 1.68,
+      "Assignee": [
+        {
+          "id": "2b47d5ac-bd39-4aad-8e95-23ea4ab9b925",
+          "name": "Hoàng Hà",
+          "email": "hoanghh@sangygroup.com"
+        }
+      ],
+      "NLTT": null,
+      "TP thực tế": 3.23,
+      "Task fix": "1/2",
+      "Loại cảnh": [
+        "D"
+      ],
+      "Created time": null,
+      "Tasks": "Storyboard 01 ver2",
+      "Sprint": []
+    },
+    "_title": "Storyboard 01 ver2",
+    "database_name": "[LEGO ZOOM] Tasks ",
+    "project_name": "[LEGO ZOOM] Tasks",
+    "database_id": "286ccb0e-ac88-811e-b6e5-c0b57e75ce06"
+  },
+  {
+    "id": "286ccb0e-ac88-80c4-a63c-d593a1a2270b",
+    "created_time": "2025-10-08T09:52:00.000Z",
+    "last_edited_time": "2025-10-08T09:52:00.000Z",
+    "properties": {
+      "Required by": [
+        {
+          "type": "select",
+          "select": null
+        },
+        {
+          "type": "select",
+          "select": null
+        },
+        {
+          "type": "select",
+          "select": null
+        },
+        {
+          "type": "select",
+          "select": null
+        },
+        {
+          "type": "select",
+          "select": null
+        },
+        {
+          "type": "select",
+          "select": null
+        },
+        {
+          "type": "select",
+          "select": null
+        },
+        {
+          "type": "select",
+          "select": null
+        },
+        {
+          "type": "select",
+          "select": null
+        },
+        {
+          "type": "select",
+          "select": null
+        },
+        {
+          "type": "select",
+          "select": null
+        },
+        {
+          "type": "select",
+          "select": null
+        }
+      ],
+      "Product ": [
+        "286ccb0e-ac88-80b4-8750-dec038843994",
+        "286ccb0e-ac88-8077-ad5e-c9b2b70ebe8d",
+        "286ccb0e-ac88-8041-a268-caca47b14f96",
+        "286ccb0e-ac88-806a-ab2e-f994f8909f19",
+        "286ccb0e-ac88-8015-91ca-c0ad630e58f4",
+        "286ccb0e-ac88-802d-bc44-eb79279a3eb1",
+        "286ccb0e-ac88-807f-aac6-c27761f1b473",
+        "286ccb0e-ac88-80b9-9925-c17e8ef154e1",
+        "286ccb0e-ac88-8023-8126-dc503066ee19",
+        "286ccb0e-ac88-8020-b859-cb8c3c6e0adb",
+        "286ccb0e-ac88-8011-9631-e6e9feb36ca3",
+        "286ccb0e-ac88-80ef-83ae-da53931a787c"
+      ],
+      "Task main": "1,2,1,1,1,1,1,1,1,1,1,1",
+      "UTNL": null,
+      "Task QC": "0/2,0/2,0/1,0/1,0/1,0/1,0/1,0/1,0/1,0/1,0/1,0/1",
+      "Run n8n": false,
+      "Point Status": null,
+      "TP giả định": 10.77,
+      "Trọng số TP": 1,
+      "Product Type": [
+        "STB",
+        "STB",
+        "STB",
+        "STB",
+        "STB",
+        "STB",
+        "STB",
+        "STB",
+        "STB",
+        "STB",
+        "STB",
+        "STB"
+      ],
+      "[Dev] Total main": 1,
+      "Task type": "Main",
+      "Product (1)": [
+        "Storyboard 01",
+        "Storyboard 02",
+        "Storyboard 03",
+        "Storyboard 04",
+        "Storyboard 05",
+        "Storyboard 06",
+        "Storyboard 07",
+        "Storyboard 08",
+        "Storyboard 09",
+        "Storyboard 10",
+        "Storyboard 11",
+        "Storyboard 12"
+      ],
+      "Product Status": [
+        "Pending Review",
+        "Pending Review",
+        "In progress",
+        "Not started",
+        "Not started",
+        "Not started",
+        "Not started",
+        "Not started",
+        "Not started",
+        "Not started",
+        "Not started",
+        "Not started"
+      ],
+      "Task Status": "Not started",
+      "Episode": [
+        {
+          "type": "select",
+          "select": null
+        },
+        {
+          "type": "select",
+          "select": null
+        },
+        {
+          "type": "select",
+          "select": null
+        },
+        {
+          "type": "select",
+          "select": null
+        },
+        {
+          "type": "select",
+          "select": null
+        },
+        {
+          "type": "select",
+          "select": null
+        },
+        {
+          "type": "select",
+          "select": null
+        },
+        {
+          "type": "select",
+          "select": null
+        },
+        {
+          "type": "select",
+          "select": null
+        },
+        {
+          "type": "select",
+          "select": null
+        },
+        {
+          "type": "select",
+          "select": null
+        },
+        {
+          "type": "select",
+          "select": null
+        }
+      ],
+      "Done Date": null,
+      "Product Point": [
+        14,
+        14,
+        14,
+        14,
+        14,
+        14,
+        14,
+        14,
+        14,
+        14,
+        14,
+        14
+      ],
+      "TP giả định 2": 5.6,
+      "Assignee": [
+        {
+          "id": "2b47d5ac-bd39-4aad-8e95-23ea4ab9b925",
+          "name": "Hoàng Hà",
+          "email": "hoanghh@sangygroup.com"
+        }
+      ],
+      "NLTT": null,
+      "TP thực tế": 10.77,
+      "Task fix": "1/2,0/2,0/1,0/1,0/1,0/1,0/1,0/1,0/1,0/1,0/1,0/1",
+      "Loại cảnh": [
+        "D",
+        "D",
+        "D",
+        "D",
+        "D",
+        "D",
+        "D",
+        "D",
+        "D",
+        "D",
+        "D",
+        "D"
+      ],
+      "Created time": null,
+      "Tasks": "Storyboard 01 ver1",
+      "Sprint": []
+    },
+    "_title": "Storyboard 01 ver1",
+    "database_name": "[LEGO ZOOM] Tasks ",
+    "project_name": "[LEGO ZOOM] Tasks",
+    "database_id": "286ccb0e-ac88-811e-b6e5-c0b57e75ce06"
+  },
+  {
+    "id": "286ccb0e-ac88-80c4-acf6-e2be5e376d9a",
+    "created_time": "2025-10-08T09:57:00.000Z",
+    "last_edited_time": "2025-10-08T09:58:00.000Z",
+    "properties": {
+      "Required by": [
+        {
+          "type": "select",
+          "select": null
+        }
+      ],
+      "Product ": [
+        "286ccb0e-ac88-8077-ad5e-c9b2b70ebe8d"
+      ],
+      "Task main": "2",
+      "UTNL": null,
+      "Task QC": "0/2",
+      "Run n8n": false,
+      "Point Status": null,
+      "TP giả định": 7,
+      "Trọng số TP": 1,
+      "Product Type": [
+        "STB"
+      ],
+      "[Dev] Total main": 1,
+      "Task type": "Main",
+      "Product (1)": [
+        "Storyboard 02"
+      ],
+      "Product Status": [
+        "Pending Review"
+      ],
+      "Task Status": "Not started",
+      "Episode": [
+        {
+          "type": "select",
+          "select": null
+        }
+      ],
+      "Done Date": null,
+      "Product Point": [
+        14
+      ],
+      "TP giả định 2": 5.6,
+      "Assignee": [
+        {
+          "id": "2b47d5ac-bd39-4aad-8e95-23ea4ab9b925",
+          "name": "Hoàng Hà",
+          "email": "hoanghh@sangygroup.com"
+        }
+      ],
+      "NLTT": null,
+      "TP thực tế": 7,
+      "Task fix": "0/2",
+      "Loại cảnh": [
+        "D"
+      ],
+      "Created time": null,
+      "Tasks": "Storyboard 02 ver2",
+      "Sprint": []
+    },
+    "_title": "Storyboard 02 ver2",
+    "database_name": "[LEGO ZOOM] Tasks ",
+    "project_name": "[LEGO ZOOM] Tasks",
+    "database_id": "286ccb0e-ac88-811e-b6e5-c0b57e75ce06"
+  }
+]
