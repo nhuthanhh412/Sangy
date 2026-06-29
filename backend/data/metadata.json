@@ -1,39 +1,39 @@
 {
-  "last_refresh": "2026-03-24T09:24:21.528Z",
+  "last_refresh": "2026-06-26T03:18:51.393Z",
   "sync_times": {
     "2d3ccb0e-ac88-811f-8f1a-d909410009bb": "2026-02-05T08:40:42.847Z",
     "2d3ccb0e-ac88-8107-be02-d58f52d5d1a1": "2026-02-05T08:40:42.855Z",
     "2d3ccb0e-ac88-81d3-ac8f-d616f8681d40": "2026-02-05T08:40:42.861Z",
     "2d3ccb0e-ac88-81a0-840a-e39e21e7432b": "2026-02-05T08:40:42.903Z",
-    "27eccb0e-ac88-81db-b9de-ff6ba89080fa": "2026-03-24T09:03:35.829Z",
-    "27eccb0e-ac88-8144-bd7b-e34f24852bb5": "2026-03-24T09:15:10.155Z",
-    "2edccb0e-ac88-815c-a6de-c98c5d033c02": "2026-03-24T07:37:58.924Z",
-    "28eccb0e-ac88-8199-b67f-f15f83806b09": "2026-03-12T02:07:35.648Z",
-    "2d3ccb0e-ac88-811c-bf2d-e8935fd8726b": "2026-03-12T02:37:31.963Z",
-    "28eccb0e-ac88-81fa-8346-c8611aceff52": "2026-03-24T08:51:14.631Z",
-    "2edccb0e-ac88-8155-b869-fae4181156f7": "2026-03-12T02:38:20.476Z",
-    "2d3ccb0e-ac88-8136-bb52-c12b9c6e3a1a": "2026-03-12T02:31:57.575Z",
-    "2d8ccb0e-ac88-8182-bd6c-c197ae37266c": "2026-03-12T02:38:10.769Z",
-    "2d8ccb0e-ac88-81ed-8466-f477910410bd": "2026-03-12T02:38:09.358Z",
+    "27eccb0e-ac88-81db-b9de-ff6ba89080fa": "2026-06-26T03:17:47.258Z",
+    "27eccb0e-ac88-8144-bd7b-e34f24852bb5": "2026-06-26T03:17:48.324Z",
+    "2edccb0e-ac88-815c-a6de-c98c5d033c02": "2026-06-26T03:18:39.066Z",
+    "28eccb0e-ac88-8199-b67f-f15f83806b09": "2026-06-26T03:17:41.532Z",
+    "2d3ccb0e-ac88-811c-bf2d-e8935fd8726b": "2026-06-26T03:18:06.776Z",
+    "28eccb0e-ac88-81fa-8346-c8611aceff52": "2026-06-26T03:17:40.470Z",
+    "2edccb0e-ac88-8155-b869-fae4181156f7": "2026-06-26T03:18:37.869Z",
+    "2d3ccb0e-ac88-8136-bb52-c12b9c6e3a1a": "2026-06-26T03:18:04.788Z",
+    "2d8ccb0e-ac88-8182-bd6c-c197ae37266c": "2026-06-26T03:18:32.040Z",
+    "2d8ccb0e-ac88-81ed-8466-f477910410bd": "2026-06-26T03:18:30.997Z",
     "32e4b218-7829-4f9d-b06d-bbe41ea33dae": "2026-02-12T08:29:10.879Z",
     "2c3ccb0e-ac88-8175-995b-f4fd1d065d51": "2026-03-12T02:37:57.842Z",
-    "28fccb0e-ac88-81f7-9773-d350b2f7eb6e": "2026-03-24T09:23:11.204Z",
-    "27eccb0e-ac88-812f-86a3-e539ed2dbed9": "2026-03-24T09:06:03.106Z",
-    "27eccb0e-ac88-810f-b045-d9eb02a14240": "2026-03-24T09:03:41.296Z",
-    "28fccb0e-ac88-81ac-a507-d67b8f5f9ead": "2026-03-24T09:24:06.491Z",
+    "28fccb0e-ac88-81f7-9773-d350b2f7eb6e": "2026-06-26T03:17:55.598Z",
+    "27eccb0e-ac88-812f-86a3-e539ed2dbed9": "2026-06-26T03:17:51.089Z",
+    "27eccb0e-ac88-810f-b045-d9eb02a14240": "2026-06-26T03:17:49.416Z",
+    "28fccb0e-ac88-81ac-a507-d67b8f5f9ead": "2026-06-26T03:17:57.896Z",
     "2e2ccb0e-ac88-8038-8d44-f79ff35ffcdb": "2026-02-12T08:29:04.824Z",
-    "2c5ccb0e-ac88-80ca-9717-d57e83ff43cf": "2026-03-12T02:37:50.067Z",
+    "2c5ccb0e-ac88-80ca-9717-d57e83ff43cf": "2026-06-26T03:18:15.002Z",
     "2eeccb0e-ac88-8029-8145-e81c643918f3": "2026-03-24T09:06:11.779Z",
-    "2daccb0e-ac88-8039-8976-d042d9b605a0": "2026-03-12T02:37:46.777Z",
-    "2a9ccb0e-ac88-80c6-8c3e-dc8a1e02a05c": "2026-03-24T09:24:16.584Z",
+    "2daccb0e-ac88-8039-8976-d042d9b605a0": "2026-06-26T03:18:12.298Z",
+    "2a9ccb0e-ac88-80c6-8c3e-dc8a1e02a05c": "2026-06-26T03:18:02.671Z",
     "2c0ccb0e-ac88-8162-9402-c4f9e9d27570": "2026-02-05T08:40:42.717Z",
     "286ccb0e-ac88-811e-b6e5-c0b57e75ce06": "2026-02-05T08:40:42.724Z",
-    "2d8ccb0e-ac88-80e8-9b7d-e3a4d9a984e1": "2026-03-12T02:37:45.629Z",
-    "2cbccb0e-ac88-80de-9137-f20e09653d80": "2026-03-24T09:24:10.506Z",
-    "2cbccb0e-ac88-8093-9c58-d969262d56f2": "2026-03-24T09:03:27.158Z",
-    "28eccb0e-ac88-81f6-b443-c7b21b00c14f": "2026-03-24T09:03:25.792Z",
+    "2d8ccb0e-ac88-80e8-9b7d-e3a4d9a984e1": "2026-06-26T03:18:11.268Z",
+    "2cbccb0e-ac88-80de-9137-f20e09653d80": "2026-06-26T03:18:00.097Z",
+    "2cbccb0e-ac88-8093-9c58-d969262d56f2": "2026-06-26T03:17:45.136Z",
+    "28eccb0e-ac88-81f6-b443-c7b21b00c14f": "2026-06-26T03:17:43.616Z",
     "2e9ccb0e-ac88-8074-8b9e-c153d36222a8": "2026-02-05T08:40:42.757Z",
-    "2c5ccb0e-ac88-8004-9a5a-d51f7d3d89dc": "2026-03-12T02:37:47.967Z",
+    "2c5ccb0e-ac88-8004-9a5a-d51f7d3d89dc": "2026-06-26T03:18:13.941Z",
     "286ccb0e-ac88-818e-8bab-e6c46a6f172a": "2026-02-05T08:40:42.769Z",
     "2dfccb0e-ac88-8121-8b2b-d49d7d560a8f": "2026-02-05T08:40:42.777Z",
     "27eccb0e-ac88-8102-a230-e33a87272f06": "2026-02-05T08:40:42.782Z",
@@ -44,18 +44,18 @@
     "2d4ccb0e-ac88-8037-b9e7-f60fa9babaae": "2026-02-05T08:40:42.817Z",
     "28fccb0e-ac88-800c-b144-fc0088b248a8": "2026-02-05T08:40:42.822Z",
     "28fccb0e-ac88-80ee-9682-d5c741353867": "2026-02-05T08:40:42.827Z",
-    "2aeccb0e-ac88-80e1-ad62-c2b3091b33ab": "2026-03-24T09:24:21.528Z",
+    "2aeccb0e-ac88-80e1-ad62-c2b3091b33ab": "2026-06-26T03:18:03.766Z",
     "254ccb0e-ac88-807a-999c-eb3c1d8863ba": "2026-02-05T08:40:42.840Z",
     "2dfccb0e-ac88-815b-9ded-d20c44a5334a": "2026-02-05T08:40:42.869Z",
     "2dfccb0e-ac88-818d-8bd7-ff00778eb245": "2026-02-12T08:29:01.672Z",
     "2dfccb0e-ac88-8120-9611-cb13421a4b4f": "2026-02-12T08:28:45.907Z",
     "2d4ccb0e-ac88-80be-b59d-d4fcb0ab9e12": "2026-02-05T08:40:43.414Z",
-    "2d8ccb0e-ac88-81cf-9933-c1d7f6551a3b": "2026-03-12T02:38:12.012Z",
-    "2d8ccb0e-ac88-815c-9c66-ef51fc15966e": "2026-03-12T02:38:14.865Z",
+    "2d8ccb0e-ac88-81cf-9933-c1d7f6551a3b": "2026-06-26T03:18:33.614Z",
+    "2d8ccb0e-ac88-815c-9c66-ef51fc15966e": "2026-06-26T03:18:35.798Z",
     "2d8ccb0e-ac88-80f1-b187-eb06e4075af3": "2026-02-05T08:40:43.489Z",
-    "2d8ccb0e-ac88-812e-a8b1-d773411fa9e2": "2026-03-12T02:37:53.578Z",
+    "2d8ccb0e-ac88-812e-a8b1-d773411fa9e2": "2026-06-26T03:18:25.624Z",
     "2aeccb0e-ac88-80cb-913d-e830ee3eee83": "2026-02-05T08:40:43.505Z",
-    "2d3ccb0e-ac88-81d2-9dcb-d15e30d0c556": "2026-03-12T02:37:34.517Z",
+    "2d3ccb0e-ac88-81d2-9dcb-d15e30d0c556": "2026-06-26T03:18:09.142Z",
     "2d3ccb0e-ac88-812a-af94-c2a37b2329ad": "2026-02-05T08:40:43.547Z",
     "2d3ccb0e-ac88-8157-be9e-e1495eae4dc8": "2026-02-05T08:40:43.557Z",
     "2d3ccb0e-ac88-81e4-a093-c9deecb2d82c": "2026-02-05T08:40:43.564Z",
@@ -63,25 +63,25 @@
     "2d3ccb0e-ac88-8100-9255-c6720197b031": "2026-02-05T08:40:43.619Z",
     "2d3ccb0e-ac88-8120-b071-f0542db1c952": "2026-02-05T08:40:43.626Z",
     "284ccb0e-ac88-807d-b0b7-ce27d57bb57e": "2026-02-06T03:54:56.357Z",
-    "2cbccb0e-ac88-802f-a641-dda482cd8891": "2026-03-24T09:03:29.345Z",
+    "2cbccb0e-ac88-802f-a641-dda482cd8891": "2026-06-26T03:17:46.174Z",
     "294ccb0e-ac88-8009-8b62-d24ffcea6b7b": "2026-02-12T04:52:01.907Z",
     "2cbccb0e-ac88-8017-83d0-d4dc99715452": "2026-03-12T02:38:03.461Z",
     "2cbccb0e-ac88-8018-b63f-d5d12f6255f8": "2026-03-12T02:38:02.361Z",
     "2cbccb0e-ac88-8017-ac5d-e57ea8c3fbee": "2026-02-05T08:40:43.738Z",
     "2cbccb0e-ac88-809d-b59f-f199db55c86e": "2026-02-05T08:40:43.749Z",
-    "2cbccb0e-ac88-8018-801e-ec0c30f2b713": "2026-03-24T09:06:09.038Z",
-    "2cbccb0e-ac88-8074-b24a-fcb8bc1dcee4": "2026-03-24T09:06:07.752Z",
+    "2cbccb0e-ac88-8018-801e-ec0c30f2b713": "2026-06-26T03:17:54.291Z",
+    "2cbccb0e-ac88-8074-b24a-fcb8bc1dcee4": "2026-06-26T03:17:53.269Z",
     "2c8ccb0e-ac88-80df-b2ab-e017eca1b726": "2026-02-05T08:40:43.805Z",
-    "2c5ccb0e-ac88-80ac-aa53-ca7229dfe3d6": "2026-03-12T02:37:51.335Z",
+    "2c5ccb0e-ac88-80ac-aa53-ca7229dfe3d6": "2026-06-26T03:18:16.668Z",
     "2c3ccb0e-ac88-81f5-8548-fe0b0c2423a7": "2026-03-12T02:37:56.584Z",
     "2c3ccb0e-ac88-81d1-a5cf-ddf9962b6f19": "2026-03-12T02:38:00.448Z",
     "2b6ccb0e-ac88-81da-b3e6-c5d787f426b4": "2026-02-05T08:40:43.871Z",
     "2b1ccb0e-ac88-8165-9468-c0f3762fb0e5": "2026-02-05T08:40:43.880Z",
     "27eccb0e-ac88-81d7-a2b1-e4efab96e346": "2026-02-05T08:40:43.888Z",
-    "27eccb0e-ac88-81f2-bc08-f2c7285eb765": "2026-03-24T09:06:05.828Z",
+    "27eccb0e-ac88-81f2-bc08-f2c7285eb765": "2026-06-26T03:17:52.189Z",
     "2a2ccb0e-ac88-8034-b21b-dba972ef0f52": "2026-02-05T08:40:43.926Z",
     "28eccb0e-ac88-80a2-8819-c4b607da9f09": "2026-02-05T08:40:43.934Z",
-    "28fccb0e-ac88-8131-9dfd-d391f4730bf9": "2026-03-24T09:24:08.802Z",
+    "28fccb0e-ac88-8131-9dfd-d391f4730bf9": "2026-06-26T03:17:58.932Z",
     "287ccb0e-ac88-807c-b793-e0ff4a7917d1": "2026-02-05T08:40:44.023Z",
     "287ccb0e-ac88-8085-944e-ccd8e4cb0f7d": "2026-02-05T08:40:44.085Z",
     "270ccb0e-ac88-8037-9d2f-e8fa8ef2dc50": "2026-02-05T08:40:44.101Z",
@@ -119,40 +119,45 @@
     "891d025c-01ce-477f-bed5-308ab6742372": "2026-02-05T08:40:44.675Z",
     "f874315a-d68b-4ef5-a8c0-5e2bf95cd58d": "2026-02-05T08:40:44.682Z",
     "1be1b792-dc03-4515-9874-0025e5ab7461": "2026-02-03T05:37:34.841Z",
-    "28fccb0e-ac88-813d-a92a-f913c8e96f8d": "2026-03-24T09:24:03.941Z",
-    "2efccb0e-ac88-80a3-9975-e92b915a7a55": "2026-03-12T02:38:06.838Z",
-    "2cbccb0e-ac88-805c-8959-e99cdd4ec9af": "2026-03-24T09:24:14.051Z",
-    "2efccb0e-ac88-806b-8175-f5005675b56a": "2026-03-12T02:38:04.929Z",
+    "28fccb0e-ac88-813d-a92a-f913c8e96f8d": "2026-06-26T03:17:56.772Z",
+    "2efccb0e-ac88-80a3-9975-e92b915a7a55": "2026-06-26T03:18:28.865Z",
+    "2cbccb0e-ac88-805c-8959-e99cdd4ec9af": "2026-06-26T03:18:01.584Z",
+    "2efccb0e-ac88-806b-8175-f5005675b56a": "2026-06-26T03:18:27.747Z",
     "286ccb0e-ac88-81ae-803a-fa963ed92da0": "2026-02-05T04:59:28.851Z",
-    "2d8ccb0e-ac88-80f1-be53-c360c1fd9430": "2026-03-12T02:37:43.496Z",
+    "2d8ccb0e-ac88-80f1-be53-c360c1fd9430": "2026-06-26T03:18:10.214Z",
     "2d3ccb0e-ac88-81bd-b33d-dfd435a7401e": "2026-02-05T04:59:32.425Z",
-    "2d3ccb0e-ac88-819a-af66-ee353d6e1b19": "2026-03-12T02:37:33.177Z",
-    "28eccb0e-ac88-81f2-bb62-f5fdc3e4ee61": "2026-03-24T09:03:24.567Z",
-    "2d8ccb0e-ac88-815e-b410-d6e734be08c5": "2026-03-12T02:38:18.376Z",
-    "2d8ccb0e-ac88-81bc-baed-cd2c4fb84309": "2026-03-12T02:37:55.318Z",
-    "2c5ccb0e-ac88-8065-a98d-e0c0a85f388d": "2026-03-12T02:37:52.421Z",
+    "2d3ccb0e-ac88-819a-af66-ee353d6e1b19": "2026-06-26T03:18:08.066Z",
+    "28eccb0e-ac88-81f2-bb62-f5fdc3e4ee61": "2026-06-26T03:17:42.565Z",
+    "2d8ccb0e-ac88-815e-b410-d6e734be08c5": "2026-06-26T03:18:36.830Z",
+    "2d8ccb0e-ac88-81bc-baed-cd2c4fb84309": "2026-06-26T03:18:26.657Z",
+    "2c5ccb0e-ac88-8065-a98d-e0c0a85f388d": "2026-06-26T03:18:17.736Z",
     "196ccb0e-ac88-8073-9950-e8eb9dcf2f2d": "2026-02-05T04:24:14.862Z",
-    "2efccb0e-ac88-80f2-a2e2-f9bdeabd279a": "2026-03-12T02:38:36.450Z",
-    "2edccb0e-ac88-81bf-8f23-cd9f779a52b9": "2026-03-12T02:38:29.169Z",
-    "2edccb0e-ac88-81d2-927e-d0fdf7f9e440": "2026-03-12T02:38:34.696Z",
-    "2edccb0e-ac88-814c-91e8-de4d7e2bd8ca": "2026-03-12T02:38:32.856Z",
-    "2edccb0e-ac88-815c-9879-c6b90d3bbb10": "2026-03-12T02:38:31.657Z",
-    "2d8ccb0e-ac88-81d9-9a22-e69ff5bb9085": "2026-03-12T02:38:13.271Z",
-    "2f6ccb0e-ac88-803a-a0b0-edccc8397943": "2026-03-24T07:37:46.744Z",
-    "2efccb0e-ac88-80dd-b257-d8979c59c2dd": "2026-03-12T02:38:08.029Z",
-    "2f6ccb0e-ac88-80ee-820b-fda54d75d7cf": "2026-03-24T07:37:23.493Z",
-    "2f6ccb0e-ac88-80b2-90ce-d27c8a0fc008": "2026-03-24T07:37:50.296Z",
+    "2efccb0e-ac88-80f2-a2e2-f9bdeabd279a": "2026-06-26T03:18:44.333Z",
+    "2edccb0e-ac88-81bf-8f23-cd9f779a52b9": "2026-06-26T03:18:40.142Z",
+    "2edccb0e-ac88-81d2-927e-d0fdf7f9e440": "2026-06-26T03:18:43.248Z",
+    "2edccb0e-ac88-814c-91e8-de4d7e2bd8ca": "2026-06-26T03:18:42.196Z",
+    "2edccb0e-ac88-815c-9879-c6b90d3bbb10": "2026-06-26T03:13:42.448Z",
+    "2d8ccb0e-ac88-81d9-9a22-e69ff5bb9085": "2026-06-26T03:18:34.714Z",
+    "2f6ccb0e-ac88-803a-a0b0-edccc8397943": "2026-06-26T03:18:19.875Z",
+    "2efccb0e-ac88-80dd-b257-d8979c59c2dd": "2026-06-26T03:18:29.933Z",
+    "2f6ccb0e-ac88-80ee-820b-fda54d75d7cf": "2026-06-26T03:18:18.836Z",
+    "2f6ccb0e-ac88-80b2-90ce-d27c8a0fc008": "2026-06-26T03:18:20.955Z",
     "2c3ccb0e-ac88-8105-ad23-f099fe486bf2": "2026-03-12T02:37:58.993Z",
-    "302ccb0e-ac88-8177-8ae3-cefc1eeadc70": "2026-03-24T08:50:16.206Z",
-    "302ccb0e-ac88-8149-a55e-e3a7987e1a78": "2026-03-24T08:50:51.102Z",
-    "302ccb0e-ac88-81a8-9472-d293015d91ba": "2026-03-24T08:50:53.730Z",
-    "302ccb0e-ac88-818a-a728-f3e9914aac12": "2026-03-24T08:50:55.000Z",
-    "302ccb0e-ac88-81f0-813e-f8c0ddc3270d": "2026-03-24T08:51:00.202Z",
-    "302ccb0e-ac88-8160-a6f3-f30ecd3dcc66": "2026-03-24T08:51:01.444Z",
-    "318ccb0e-ac88-802a-af65-dc9c20726f4e": "2026-03-24T07:28:58.995Z",
-    "2f6ccb0e-ac88-8091-9fd3-d24fd452ad5c": "2026-03-24T07:37:55.669Z",
-    "312ccb0e-ac88-80e6-8e0e-faf9b9ff961b": "2026-03-24T07:38:50.953Z",
-    "312ccb0e-ac88-8002-9c33-f19b15ae683d": "2026-03-24T07:40:59.695Z"
+    "302ccb0e-ac88-8177-8ae3-cefc1eeadc70": "2026-06-26T03:17:33.967Z",
+    "302ccb0e-ac88-8149-a55e-e3a7987e1a78": "2026-06-26T03:17:35.140Z",
+    "302ccb0e-ac88-81a8-9472-d293015d91ba": "2026-06-26T03:17:36.235Z",
+    "302ccb0e-ac88-818a-a728-f3e9914aac12": "2026-06-26T03:17:37.262Z",
+    "302ccb0e-ac88-81f0-813e-f8c0ddc3270d": "2026-06-26T03:17:38.314Z",
+    "302ccb0e-ac88-8160-a6f3-f30ecd3dcc66": "2026-06-26T03:17:39.344Z",
+    "318ccb0e-ac88-802a-af65-dc9c20726f4e": "2026-06-26T03:18:46.434Z",
+    "2f6ccb0e-ac88-8091-9fd3-d24fd452ad5c": "2026-06-26T03:18:22.350Z",
+    "312ccb0e-ac88-80e6-8e0e-faf9b9ff961b": "2026-06-26T03:18:23.482Z",
+    "312ccb0e-ac88-8002-9c33-f19b15ae683d": "2026-06-26T03:18:24.544Z",
+    "318ccb0e-ac88-80fa-8e13-f81cfb6ac2aa": "2026-06-26T03:18:45.400Z",
+    "32eccb0e-ac88-80de-81b9-f020e9b477d4": "2026-06-26T03:18:47.930Z",
+    "32eccb0e-ac88-80a6-ba18-e54f74ac7e26": "2026-06-26T03:18:49.198Z",
+    "33eccb0e-ac88-80b9-94db-c63246ca2e9c": "2026-06-26T03:18:50.298Z",
+    "33eccb0e-ac88-801e-8a48-c9bf7365e0aa": "2026-06-26T03:18:51.393Z"
   },
   "monthly_stats": {
     "2026-01-01_2026-01-31": {
@@ -249,6 +254,14 @@
       "actual_days": {}
     },
     "2026-03-01_2026-03-31": {
+      "standard_days": 23,
+      "actual_days": {}
+    },
+    "2026-06-01_2026-06-30": {
+      "standard_days": 23,
+      "actual_days": {}
+    },
+    "2026-05-01_2026-05-31": {
       "standard_days": 23,
       "actual_days": {}
     }
@@ -410,104 +423,109 @@
     "318ccb0e-ac88-802a-af65-dc9c20726f4e": "[XAV_ko QC] Tasks (1)",
     "2f6ccb0e-ac88-8091-9fd3-d24fd452ad5c": "[OTH] Issuelog",
     "312ccb0e-ac88-80e6-8e0e-faf9b9ff961b": "[OTH_ko QC] Product (1)",
-    "312ccb0e-ac88-8002-9c33-f19b15ae683d": "[OTH_ko QC] Tasks (1)"
+    "312ccb0e-ac88-8002-9c33-f19b15ae683d": "[OTH_ko QC] Tasks (1)",
+    "318ccb0e-ac88-80fa-8e13-f81cfb6ac2aa": "[XAV_ko QC] Product (1)",
+    "32eccb0e-ac88-80de-81b9-f020e9b477d4": "[LHMN] Product",
+    "32eccb0e-ac88-80a6-ba18-e54f74ac7e26": "[LHMN] Tasks",
+    "33eccb0e-ac88-80b9-94db-c63246ca2e9c": "[LHMN] NHÂN VẬT",
+    "33eccb0e-ac88-801e-8a48-c9bf7365e0aa": "Untitled Database"
   },
   "sync_audit": {
     "28fccb0e-ac88-81f7-9773-d350b2f7eb6e": {
       "mode": "full_sync",
-      "total": 5842,
-      "new": 5842,
+      "total": 2,
+      "new": 2,
       "updated": 0,
       "deleted": 0,
-      "updated_at": "2026-03-24T09:23:11.248Z"
+      "updated_at": "2026-06-26T02:19:09.581Z"
     },
     "28fccb0e-ac88-813d-a92a-f913c8e96f8d": {
-      "mode": "incremental_upsert",
-      "total": 6752,
-      "new": 124,
+      "mode": "full_sync",
+      "total": 1,
+      "new": 1,
       "updated": 0,
       "deleted": 0,
-      "updated_at": "2026-03-24T09:24:03.943Z"
+      "updated_at": "2026-06-26T02:19:13.693Z"
     },
     "28fccb0e-ac88-81ac-a507-d67b8f5f9ead": {
       "mode": "full_sync",
-      "total": 16,
-      "new": 16,
+      "total": 0,
+      "new": 0,
       "updated": 0,
       "deleted": 0,
-      "updated_at": "2026-03-24T09:24:06.493Z"
+      "updated_at": "2026-06-26T02:19:14.803Z"
     },
     "28fccb0e-ac88-8131-9dfd-d391f4730bf9": {
       "mode": "full_sync",
-      "total": 3,
-      "new": 3,
+      "total": 1,
+      "new": 1,
       "updated": 0,
       "deleted": 0,
-      "updated_at": "2026-03-24T09:24:08.804Z"
+      "updated_at": "2026-06-26T02:19:15.951Z"
     },
     "2cbccb0e-ac88-80de-9137-f20e09653d80": {
       "mode": "full_sync",
-      "total": 25,
-      "new": 25,
+      "total": 0,
+      "new": 0,
       "updated": 0,
       "deleted": 0,
-      "updated_at": "2026-03-24T09:24:10.508Z"
+      "updated_at": "2026-06-26T02:19:17.587Z"
     },
     "2a9ccb0e-ac88-80c6-8c3e-dc8a1e02a05c": {
       "mode": "full_sync",
-      "total": 8,
-      "new": 8,
+      "total": 0,
+      "new": 0,
       "updated": 0,
       "deleted": 0,
-      "updated_at": "2026-03-24T09:24:16.586Z"
+      "updated_at": "2026-06-26T02:19:19.793Z"
     },
     "2aeccb0e-ac88-80e1-ad62-c2b3091b33ab": {
       "mode": "full_sync",
-      "total": 10,
-      "new": 10,
+      "total": 0,
+      "new": 0,
       "updated": 0,
       "deleted": 0,
-      "updated_at": "2026-03-24T09:24:21.530Z"
+      "updated_at": "2026-06-26T02:19:20.927Z"
     },
     "27eccb0e-ac88-810f-b045-d9eb02a14240": {
       "mode": "full_sync",
-      "total": 895,
-      "new": 895,
+      "total": 886,
+      "new": 886,
       "updated": 0,
-      "deleted": 0,
-      "updated_at": "2026-03-24T08:37:27.256Z"
+      "deleted": 275,
+      "updated_at": "2026-06-26T02:18:30.414Z"
     },
     "27eccb0e-ac88-812f-86a3-e539ed2dbed9": {
-      "mode": "full_sync",
-      "total": 338,
-      "new": 338,
-      "updated": 0,
+      "mode": "incremental_upsert",
+      "total": 337,
+      "new": 0,
+      "updated": 1,
       "deleted": 0,
-      "updated_at": "2026-03-24T09:06:03.111Z"
+      "updated_at": "2026-06-26T03:17:51.093Z"
     },
     "27eccb0e-ac88-81f2-bc08-f2c7285eb765": {
       "mode": "full_sync",
-      "total": 4,
-      "new": 4,
+      "total": 9,
+      "new": 9,
       "updated": 0,
-      "deleted": 0,
-      "updated_at": "2026-03-24T08:38:30.189Z"
+      "deleted": 2,
+      "updated_at": "2026-06-26T02:18:55.422Z"
     },
     "2cbccb0e-ac88-8074-b24a-fcb8bc1dcee4": {
       "mode": "full_sync",
-      "total": 50,
-      "new": 50,
+      "total": 0,
+      "new": 0,
       "updated": 0,
       "deleted": 0,
-      "updated_at": "2026-03-24T08:38:32.975Z"
+      "updated_at": "2026-06-26T02:18:56.516Z"
     },
     "2cbccb0e-ac88-8018-801e-ec0c30f2b713": {
       "mode": "full_sync",
-      "total": 20,
-      "new": 20,
+      "total": 0,
+      "new": 0,
       "updated": 0,
       "deleted": 0,
-      "updated_at": "2026-03-24T08:38:35.030Z"
+      "updated_at": "2026-06-26T02:18:57.649Z"
     },
     "2eeccb0e-ac88-8029-8145-e81c643918f3": {
       "mode": "full_sync",
@@ -518,68 +536,68 @@
       "updated_at": "2026-03-24T08:38:43.450Z"
     },
     "27eccb0e-ac88-81db-b9de-ff6ba89080fa": {
-      "mode": "incremental_upsert",
-      "total": 1409,
-      "new": 0,
-      "updated": 30,
-      "deleted": 0,
-      "updated_at": "2026-03-24T09:03:35.831Z"
+      "mode": "full_sync",
+      "total": 55,
+      "new": 55,
+      "updated": 0,
+      "deleted": 36,
+      "updated_at": "2026-06-26T02:18:00.919Z"
     },
     "28eccb0e-ac88-81fa-8346-c8611aceff52": {
-      "mode": "incremental_upsert",
-      "total": 1073,
-      "new": 0,
-      "updated": 90,
+      "mode": "full_sync",
+      "total": 1,
+      "new": 1,
+      "updated": 0,
       "deleted": 0,
-      "updated_at": "2026-03-24T08:51:14.635Z"
+      "updated_at": "2026-06-26T02:17:47.171Z"
     },
     "28eccb0e-ac88-81f6-b443-c7b21b00c14f": {
       "mode": "full_sync",
-      "total": 18,
-      "new": 18,
+      "total": 0,
+      "new": 0,
       "updated": 0,
       "deleted": 0,
-      "updated_at": "2026-03-24T07:35:06.322Z"
+      "updated_at": "2026-06-26T02:17:51.356Z"
     },
     "2cbccb0e-ac88-8093-9c58-d969262d56f2": {
       "mode": "full_sync",
-      "total": 12,
-      "new": 12,
+      "total": 0,
+      "new": 0,
       "updated": 0,
       "deleted": 0,
-      "updated_at": "2026-03-24T07:35:08.056Z"
+      "updated_at": "2026-06-26T02:17:52.453Z"
     },
     "2cbccb0e-ac88-802f-a641-dda482cd8891": {
       "mode": "full_sync",
-      "total": 10,
-      "new": 10,
+      "total": 0,
+      "new": 0,
       "updated": 0,
       "deleted": 0,
-      "updated_at": "2026-03-24T07:35:10.423Z"
+      "updated_at": "2026-06-26T02:17:53.667Z"
     },
     "27eccb0e-ac88-8144-bd7b-e34f24852bb5": {
-      "mode": "incremental_upsert",
-      "total": 4042,
-      "new": 0,
-      "updated": 1,
-      "deleted": 0,
-      "updated_at": "2026-03-24T09:15:10.156Z"
+      "mode": "full_sync",
+      "total": 33,
+      "new": 33,
+      "updated": 0,
+      "deleted": 77,
+      "updated_at": "2026-06-26T02:18:05.461Z"
     },
     "28eccb0e-ac88-8199-b67f-f15f83806b09": {
-      "mode": "incremental_upsert",
-      "total": 2836,
+      "mode": "full_sync",
+      "total": 0,
       "new": 0,
-      "updated": 59,
+      "updated": 0,
       "deleted": 0,
-      "updated_at": "2026-03-12T02:07:35.650Z"
+      "updated_at": "2026-06-26T02:17:48.282Z"
     },
     "2d3ccb0e-ac88-8136-bb52-c12b9c6e3a1a": {
       "mode": "full_sync",
-      "total": 594,
-      "new": 594,
+      "total": 0,
+      "new": 0,
       "updated": 0,
       "deleted": 0,
-      "updated_at": "2026-03-12T00:43:44.854Z"
+      "updated_at": "2026-06-26T02:19:23.926Z"
     },
     "2cbccb0e-ac88-805c-8959-e99cdd4ec9af": {
       "mode": "full_sync",
@@ -587,7 +605,7 @@
       "new": 0,
       "updated": 0,
       "deleted": 0,
-      "updated_at": "2026-03-24T09:24:14.053Z"
+      "updated_at": "2026-06-26T02:19:18.680Z"
     },
     "28eccb0e-ac88-81f2-bb62-f5fdc3e4ee61": {
       "mode": "full_sync",
@@ -595,47 +613,47 @@
       "new": 0,
       "updated": 0,
       "deleted": 0,
-      "updated_at": "2026-03-24T07:34:59.820Z"
+      "updated_at": "2026-06-26T02:17:50.258Z"
     },
     "2f6ccb0e-ac88-803a-a0b0-edccc8397943": {
       "mode": "full_sync",
-      "total": 58,
-      "new": 58,
+      "total": 0,
+      "new": 0,
       "updated": 0,
       "deleted": 0,
-      "updated_at": "2026-03-24T07:37:46.747Z"
+      "updated_at": "2026-06-26T02:19:38.955Z"
     },
     "2d8ccb0e-ac88-8182-bd6c-c197ae37266c": {
       "mode": "full_sync",
-      "total": 225,
-      "new": 225,
+      "total": 0,
+      "new": 0,
       "updated": 0,
       "deleted": 0,
-      "updated_at": "2026-03-12T00:45:55.741Z"
+      "updated_at": "2026-06-26T02:19:53.004Z"
     },
     "2c5ccb0e-ac88-80ca-9717-d57e83ff43cf": {
       "mode": "full_sync",
-      "total": 35,
-      "new": 35,
+      "total": 0,
+      "new": 0,
       "updated": 0,
       "deleted": 0,
-      "updated_at": "2026-03-12T00:44:06.990Z"
+      "updated_at": "2026-06-26T02:19:32.871Z"
     },
     "2edccb0e-ac88-815c-a6de-c98c5d033c02": {
       "mode": "full_sync",
-      "total": 347,
-      "new": 347,
+      "total": 0,
+      "new": 0,
       "updated": 0,
       "deleted": 0,
-      "updated_at": "2026-03-24T07:37:58.929Z"
+      "updated_at": "2026-06-26T02:19:59.940Z"
     },
     "2d3ccb0e-ac88-811c-bf2d-e8935fd8726b": {
       "mode": "full_sync",
-      "total": 1602,
-      "new": 1602,
+      "total": 0,
+      "new": 0,
       "updated": 0,
       "deleted": 0,
-      "updated_at": "2026-03-12T02:37:31.977Z"
+      "updated_at": "2026-06-26T02:19:25.080Z"
     },
     "2d3ccb0e-ac88-819a-af66-ee353d6e1b19": {
       "mode": "full_sync",
@@ -643,15 +661,15 @@
       "new": 0,
       "updated": 0,
       "deleted": 0,
-      "updated_at": "2026-03-12T00:43:51.387Z"
+      "updated_at": "2026-06-26T02:19:26.174Z"
     },
     "2d3ccb0e-ac88-81d2-9dcb-d15e30d0c556": {
       "mode": "full_sync",
-      "total": 6,
-      "new": 6,
+      "total": 0,
+      "new": 0,
       "updated": 0,
       "deleted": 0,
-      "updated_at": "2026-03-12T00:43:52.848Z"
+      "updated_at": "2026-06-26T02:19:27.307Z"
     },
     "2d8ccb0e-ac88-80f1-be53-c360c1fd9430": {
       "mode": "full_sync",
@@ -659,39 +677,39 @@
       "new": 0,
       "updated": 0,
       "deleted": 0,
-      "updated_at": "2026-03-12T00:43:53.952Z"
+      "updated_at": "2026-06-26T02:19:28.409Z"
     },
     "2d8ccb0e-ac88-80e8-9b7d-e3a4d9a984e1": {
       "mode": "full_sync",
-      "total": 24,
-      "new": 24,
+      "total": 0,
+      "new": 0,
       "updated": 0,
       "deleted": 0,
-      "updated_at": "2026-03-12T00:43:56.985Z"
+      "updated_at": "2026-06-26T02:19:29.567Z"
     },
     "2daccb0e-ac88-8039-8976-d042d9b605a0": {
       "mode": "full_sync",
-      "total": 6,
-      "new": 6,
+      "total": 0,
+      "new": 0,
       "updated": 0,
       "deleted": 0,
-      "updated_at": "2026-03-12T00:43:58.490Z"
+      "updated_at": "2026-06-26T02:19:30.659Z"
     },
     "2c5ccb0e-ac88-8004-9a5a-d51f7d3d89dc": {
       "mode": "full_sync",
-      "total": 35,
-      "new": 35,
+      "total": 0,
+      "new": 0,
       "updated": 0,
       "deleted": 0,
-      "updated_at": "2026-03-12T00:44:00.581Z"
+      "updated_at": "2026-06-26T02:19:31.773Z"
     },
     "2c5ccb0e-ac88-80ac-aa53-ca7229dfe3d6": {
       "mode": "full_sync",
-      "total": 1,
-      "new": 1,
+      "total": 0,
+      "new": 0,
       "updated": 0,
       "deleted": 0,
-      "updated_at": "2026-03-12T00:44:09.395Z"
+      "updated_at": "2026-06-26T02:19:34.010Z"
     },
     "2c5ccb0e-ac88-8065-a98d-e0c0a85f388d": {
       "mode": "full_sync",
@@ -699,15 +717,15 @@
       "new": 0,
       "updated": 0,
       "deleted": 0,
-      "updated_at": "2026-03-12T00:44:10.479Z"
+      "updated_at": "2026-06-26T02:19:36.149Z"
     },
     "2d8ccb0e-ac88-812e-a8b1-d773411fa9e2": {
       "mode": "full_sync",
-      "total": 13,
-      "new": 13,
+      "total": 0,
+      "new": 0,
       "updated": 0,
       "deleted": 0,
-      "updated_at": "2026-03-12T00:44:12.459Z"
+      "updated_at": "2026-06-26T02:19:45.588Z"
     },
     "2d8ccb0e-ac88-81bc-baed-cd2c4fb84309": {
       "mode": "full_sync",
@@ -715,7 +733,7 @@
       "new": 0,
       "updated": 0,
       "deleted": 0,
-      "updated_at": "2026-03-12T00:44:14.247Z"
+      "updated_at": "2026-06-26T02:19:47.012Z"
     },
     "2c3ccb0e-ac88-81f5-8548-fe0b0c2423a7": {
       "mode": "full_sync",
@@ -767,43 +785,43 @@
     },
     "2efccb0e-ac88-806b-8175-f5005675b56a": {
       "mode": "full_sync",
-      "total": 23,
-      "new": 23,
+      "total": 0,
+      "new": 0,
       "updated": 0,
       "deleted": 0,
-      "updated_at": "2026-03-12T00:44:59.757Z"
+      "updated_at": "2026-06-26T02:19:48.316Z"
     },
     "2efccb0e-ac88-80a3-9975-e92b915a7a55": {
       "mode": "full_sync",
-      "total": 4,
-      "new": 4,
+      "total": 0,
+      "new": 0,
       "updated": 0,
       "deleted": 0,
-      "updated_at": "2026-03-12T00:45:09.030Z"
+      "updated_at": "2026-06-26T02:19:49.389Z"
     },
     "2efccb0e-ac88-80dd-b257-d8979c59c2dd": {
       "mode": "full_sync",
-      "total": 3,
-      "new": 3,
+      "total": 0,
+      "new": 0,
       "updated": 0,
       "deleted": 0,
-      "updated_at": "2026-03-12T00:45:10.267Z"
+      "updated_at": "2026-06-26T02:19:50.794Z"
     },
     "2d8ccb0e-ac88-81ed-8466-f477910410bd": {
       "mode": "full_sync",
-      "total": 146,
-      "new": 146,
+      "total": 0,
+      "new": 0,
       "updated": 0,
       "deleted": 0,
-      "updated_at": "2026-03-12T00:45:19.761Z"
+      "updated_at": "2026-06-26T02:19:51.943Z"
     },
     "2d8ccb0e-ac88-81cf-9933-c1d7f6551a3b": {
       "mode": "full_sync",
-      "total": 5,
-      "new": 5,
+      "total": 0,
+      "new": 0,
       "updated": 0,
       "deleted": 0,
-      "updated_at": "2026-03-12T00:45:57.258Z"
+      "updated_at": "2026-06-26T02:19:54.210Z"
     },
     "2d8ccb0e-ac88-81d9-9a22-e69ff5bb9085": {
       "mode": "full_sync",
@@ -811,15 +829,15 @@
       "new": 0,
       "updated": 0,
       "deleted": 0,
-      "updated_at": "2026-03-12T00:46:00.000Z"
+      "updated_at": "2026-06-26T02:19:55.576Z"
     },
     "2d8ccb0e-ac88-815c-9c66-ef51fc15966e": {
       "mode": "full_sync",
-      "total": 13,
-      "new": 13,
+      "total": 0,
+      "new": 0,
       "updated": 0,
       "deleted": 0,
-      "updated_at": "2026-03-12T00:46:04.253Z"
+      "updated_at": "2026-06-26T02:19:56.680Z"
     },
     "2d8ccb0e-ac88-815e-b410-d6e734be08c5": {
       "mode": "full_sync",
@@ -827,23 +845,23 @@
       "new": 0,
       "updated": 0,
       "deleted": 0,
-      "updated_at": "2026-03-12T00:46:05.384Z"
+      "updated_at": "2026-06-26T02:19:57.807Z"
     },
     "2edccb0e-ac88-8155-b869-fae4181156f7": {
       "mode": "full_sync",
-      "total": 318,
-      "new": 318,
+      "total": 0,
+      "new": 0,
       "updated": 0,
       "deleted": 0,
-      "updated_at": "2026-03-12T00:46:37.400Z"
+      "updated_at": "2026-06-26T02:19:58.860Z"
     },
     "2edccb0e-ac88-81bf-8f23-cd9f779a52b9": {
       "mode": "full_sync",
-      "total": 1,
-      "new": 1,
+      "total": 0,
+      "new": 0,
       "updated": 0,
       "deleted": 0,
-      "updated_at": "2026-03-12T00:48:05.480Z"
+      "updated_at": "2026-06-26T02:20:01.762Z"
     },
     "2edccb0e-ac88-815c-9879-c6b90d3bbb10": {
       "mode": "full_sync",
@@ -851,15 +869,15 @@
       "new": 0,
       "updated": 0,
       "deleted": 0,
-      "updated_at": "2026-03-12T00:48:07.347Z"
+      "updated_at": "2026-06-26T02:20:02.858Z"
     },
     "2edccb0e-ac88-814c-91e8-de4d7e2bd8ca": {
       "mode": "full_sync",
-      "total": 13,
-      "new": 13,
+      "total": 0,
+      "new": 0,
       "updated": 0,
       "deleted": 0,
-      "updated_at": "2026-03-12T00:48:09.768Z"
+      "updated_at": "2026-06-26T02:20:03.996Z"
     },
     "2edccb0e-ac88-81d2-927e-d0fdf7f9e440": {
       "mode": "full_sync",
@@ -867,55 +885,55 @@
       "new": 0,
       "updated": 0,
       "deleted": 0,
-      "updated_at": "2026-03-12T00:48:10.828Z"
+      "updated_at": "2026-06-26T02:20:05.113Z"
     },
     "2efccb0e-ac88-80f2-a2e2-f9bdeabd279a": {
       "mode": "full_sync",
-      "total": 50,
-      "new": 50,
+      "total": 0,
+      "new": 0,
       "updated": 0,
       "deleted": 0,
-      "updated_at": "2026-03-12T00:48:14.319Z"
+      "updated_at": "2026-06-26T02:20:06.844Z"
     },
     "2f6ccb0e-ac88-80ee-820b-fda54d75d7cf": {
       "mode": "full_sync",
-      "total": 451,
-      "new": 451,
+      "total": 0,
+      "new": 0,
       "updated": 0,
       "deleted": 0,
-      "updated_at": "2026-03-24T07:37:23.497Z"
+      "updated_at": "2026-06-26T02:19:37.814Z"
     },
     "2f6ccb0e-ac88-80b2-90ce-d27c8a0fc008": {
       "mode": "full_sync",
-      "total": 1,
-      "new": 1,
+      "total": 0,
+      "new": 0,
       "updated": 0,
-      "deleted": 2,
-      "updated_at": "2026-03-24T07:37:50.298Z"
+      "deleted": 0,
+      "updated_at": "2026-06-26T02:19:40.122Z"
     },
     "302ccb0e-ac88-8177-8ae3-cefc1eeadc70": {
-      "mode": "incremental_upsert",
-      "total": 60,
+      "mode": "full_sync",
+      "total": 0,
       "new": 0,
-      "updated": 26,
+      "updated": 0,
       "deleted": 0,
-      "updated_at": "2026-03-24T08:50:16.208Z"
+      "updated_at": "2026-06-26T02:17:39.367Z"
     },
     "302ccb0e-ac88-8149-a55e-e3a7987e1a78": {
-      "mode": "incremental_upsert",
-      "total": 83,
+      "mode": "full_sync",
+      "total": 0,
       "new": 0,
-      "updated": 82,
+      "updated": 0,
       "deleted": 0,
-      "updated_at": "2026-03-24T08:50:51.104Z"
+      "updated_at": "2026-06-26T02:17:41.076Z"
     },
     "302ccb0e-ac88-81a8-9472-d293015d91ba": {
       "mode": "full_sync",
-      "total": 1,
-      "new": 1,
+      "total": 0,
+      "new": 0,
       "updated": 0,
       "deleted": 0,
-      "updated_at": "2026-03-24T07:20:48.987Z"
+      "updated_at": "2026-06-26T02:17:42.220Z"
     },
     "302ccb0e-ac88-818a-a728-f3e9914aac12": {
       "mode": "full_sync",
@@ -923,15 +941,15 @@
       "new": 0,
       "updated": 0,
       "deleted": 0,
-      "updated_at": "2026-03-24T07:20:48.990Z"
+      "updated_at": "2026-06-26T02:17:43.665Z"
     },
     "302ccb0e-ac88-81f0-813e-f8c0ddc3270d": {
       "mode": "full_sync",
-      "total": 13,
-      "new": 13,
+      "total": 0,
+      "new": 0,
       "updated": 0,
       "deleted": 0,
-      "updated_at": "2026-03-24T07:20:48.994Z"
+      "updated_at": "2026-06-26T02:17:44.809Z"
     },
     "302ccb0e-ac88-8160-a6f3-f30ecd3dcc66": {
       "mode": "full_sync",
@@ -939,15 +957,15 @@
       "new": 0,
       "updated": 0,
       "deleted": 0,
-      "updated_at": "2026-03-24T07:20:48.997Z"
+      "updated_at": "2026-06-26T02:17:45.930Z"
     },
     "318ccb0e-ac88-802a-af65-dc9c20726f4e": {
       "mode": "full_sync",
-      "total": 112,
-      "new": 112,
+      "total": 0,
+      "new": 0,
       "updated": 0,
       "deleted": 0,
-      "updated_at": "2026-03-24T07:28:58.999Z"
+      "updated_at": "2026-06-26T02:20:09.049Z"
     },
     "2f6ccb0e-ac88-8091-9fd3-d24fd452ad5c": {
       "mode": "full_sync",
@@ -955,96 +973,141 @@
       "new": 0,
       "updated": 0,
       "deleted": 0,
-      "updated_at": "2026-03-24T07:37:55.671Z"
+      "updated_at": "2026-06-26T02:19:41.229Z"
     },
     "312ccb0e-ac88-80e6-8e0e-faf9b9ff961b": {
       "mode": "full_sync",
-      "total": 308,
-      "new": 308,
+      "total": 0,
+      "new": 0,
       "updated": 0,
-      "deleted": 0,
-      "updated_at": "2026-03-24T07:38:50.957Z"
+      "deleted": 1,
+      "updated_at": "2026-06-26T02:19:43.099Z"
     },
     "312ccb0e-ac88-8002-9c33-f19b15ae683d": {
       "mode": "full_sync",
-      "total": 141,
-      "new": 141,
+      "total": 0,
+      "new": 0,
+      "updated": 0,
+      "deleted": 7,
+      "updated_at": "2026-06-26T02:19:44.535Z"
+    },
+    "318ccb0e-ac88-80fa-8e13-f81cfb6ac2aa": {
+      "mode": "full_sync",
+      "total": 0,
+      "new": 0,
       "updated": 0,
       "deleted": 0,
-      "updated_at": "2026-03-24T07:40:59.698Z"
+      "updated_at": "2026-06-26T02:20:07.957Z"
+    },
+    "32eccb0e-ac88-80de-81b9-f020e9b477d4": {
+      "mode": "incremental_upsert",
+      "total": 210,
+      "new": 0,
+      "updated": 31,
+      "deleted": 0,
+      "updated_at": "2026-06-26T03:18:47.935Z"
+    },
+    "32eccb0e-ac88-80a6-ba18-e54f74ac7e26": {
+      "mode": "incremental_upsert",
+      "total": 175,
+      "new": 0,
+      "updated": 5,
+      "deleted": 0,
+      "updated_at": "2026-06-26T03:18:49.202Z"
+    },
+    "33eccb0e-ac88-80b9-94db-c63246ca2e9c": {
+      "mode": "full_sync",
+      "total": 0,
+      "new": 0,
+      "updated": 0,
+      "deleted": 0,
+      "updated_at": "2026-06-26T02:20:26.195Z"
+    },
+    "33eccb0e-ac88-801e-8a48-c9bf7365e0aa": {
+      "mode": "full_sync",
+      "total": 0,
+      "new": 0,
+      "updated": 0,
+      "deleted": 0,
+      "updated_at": "2026-06-26T02:20:27.315Z"
     }
   },
   "full_sync_times": {
-    "28eccb0e-ac88-81fa-8346-c8611aceff52": "2026-03-24T07:28:48.539Z",
-    "2cbccb0e-ac88-805c-8959-e99cdd4ec9af": "2026-03-24T09:24:14.052Z",
-    "28eccb0e-ac88-8199-b67f-f15f83806b09": "2026-03-12T01:34:26.045Z",
-    "28eccb0e-ac88-81f2-bb62-f5fdc3e4ee61": "2026-03-24T07:34:59.819Z",
-    "28eccb0e-ac88-81f6-b443-c7b21b00c14f": "2026-03-24T07:35:06.321Z",
-    "2cbccb0e-ac88-8093-9c58-d969262d56f2": "2026-03-24T07:35:08.055Z",
-    "2cbccb0e-ac88-802f-a641-dda482cd8891": "2026-03-24T07:35:10.422Z",
-    "27eccb0e-ac88-81db-b9de-ff6ba89080fa": "2026-03-24T07:38:45.097Z",
-    "2f6ccb0e-ac88-803a-a0b0-edccc8397943": "2026-03-24T07:37:46.745Z",
-    "2d8ccb0e-ac88-8182-bd6c-c197ae37266c": "2026-03-12T00:45:55.738Z",
-    "27eccb0e-ac88-8144-bd7b-e34f24852bb5": "2026-03-24T08:27:01.678Z",
-    "27eccb0e-ac88-810f-b045-d9eb02a14240": "2026-03-24T08:37:27.247Z",
-    "27eccb0e-ac88-812f-86a3-e539ed2dbed9": "2026-03-24T09:06:03.107Z",
-    "27eccb0e-ac88-81f2-bc08-f2c7285eb765": "2026-03-24T08:38:30.188Z",
-    "2cbccb0e-ac88-8074-b24a-fcb8bc1dcee4": "2026-03-24T08:38:32.974Z",
-    "2cbccb0e-ac88-8018-801e-ec0c30f2b713": "2026-03-24T08:38:35.029Z",
+    "28eccb0e-ac88-81fa-8346-c8611aceff52": "2026-06-26T02:17:47.161Z",
+    "2cbccb0e-ac88-805c-8959-e99cdd4ec9af": "2026-06-26T02:19:18.676Z",
+    "28eccb0e-ac88-8199-b67f-f15f83806b09": "2026-06-26T02:17:48.278Z",
+    "28eccb0e-ac88-81f2-bb62-f5fdc3e4ee61": "2026-06-26T02:17:50.251Z",
+    "28eccb0e-ac88-81f6-b443-c7b21b00c14f": "2026-06-26T02:17:51.352Z",
+    "2cbccb0e-ac88-8093-9c58-d969262d56f2": "2026-06-26T02:17:52.448Z",
+    "2cbccb0e-ac88-802f-a641-dda482cd8891": "2026-06-26T02:17:53.662Z",
+    "27eccb0e-ac88-81db-b9de-ff6ba89080fa": "2026-06-26T02:18:00.914Z",
+    "2f6ccb0e-ac88-803a-a0b0-edccc8397943": "2026-06-26T02:19:38.949Z",
+    "2d8ccb0e-ac88-8182-bd6c-c197ae37266c": "2026-06-26T02:19:53.000Z",
+    "27eccb0e-ac88-8144-bd7b-e34f24852bb5": "2026-06-26T02:18:05.453Z",
+    "27eccb0e-ac88-810f-b045-d9eb02a14240": "2026-06-26T02:18:30.394Z",
+    "27eccb0e-ac88-812f-86a3-e539ed2dbed9": "2026-06-26T02:18:52.677Z",
+    "27eccb0e-ac88-81f2-bc08-f2c7285eb765": "2026-06-26T02:18:55.417Z",
+    "2cbccb0e-ac88-8074-b24a-fcb8bc1dcee4": "2026-06-26T02:18:56.514Z",
+    "2cbccb0e-ac88-8018-801e-ec0c30f2b713": "2026-06-26T02:18:57.645Z",
     "2eeccb0e-ac88-8029-8145-e81c643918f3": "2026-03-24T08:38:43.449Z",
-    "28fccb0e-ac88-81f7-9773-d350b2f7eb6e": "2026-03-24T09:23:11.205Z",
-    "2c5ccb0e-ac88-80ca-9717-d57e83ff43cf": "2026-03-12T00:44:06.989Z",
-    "2edccb0e-ac88-815c-a6de-c98c5d033c02": "2026-03-24T07:37:58.925Z",
-    "28fccb0e-ac88-813d-a92a-f913c8e96f8d": "2026-03-24T07:28:56.223Z",
-    "28fccb0e-ac88-81ac-a507-d67b8f5f9ead": "2026-03-24T09:24:06.492Z",
-    "28fccb0e-ac88-8131-9dfd-d391f4730bf9": "2026-03-24T09:24:08.803Z",
-    "2cbccb0e-ac88-80de-9137-f20e09653d80": "2026-03-24T09:24:10.507Z",
-    "2a9ccb0e-ac88-80c6-8c3e-dc8a1e02a05c": "2026-03-24T09:24:16.584Z",
-    "2aeccb0e-ac88-80e1-ad62-c2b3091b33ab": "2026-03-24T09:24:21.528Z",
-    "2d3ccb0e-ac88-8136-bb52-c12b9c6e3a1a": "2026-03-12T00:43:44.848Z",
-    "2d3ccb0e-ac88-811c-bf2d-e8935fd8726b": "2026-03-12T02:37:31.964Z",
-    "2d3ccb0e-ac88-819a-af66-ee353d6e1b19": "2026-03-12T00:43:51.387Z",
-    "2d3ccb0e-ac88-81d2-9dcb-d15e30d0c556": "2026-03-12T00:43:52.847Z",
-    "2d8ccb0e-ac88-80f1-be53-c360c1fd9430": "2026-03-12T00:43:53.951Z",
-    "2d8ccb0e-ac88-80e8-9b7d-e3a4d9a984e1": "2026-03-12T00:43:56.984Z",
-    "2daccb0e-ac88-8039-8976-d042d9b605a0": "2026-03-12T00:43:58.489Z",
-    "2c5ccb0e-ac88-8004-9a5a-d51f7d3d89dc": "2026-03-12T00:44:00.579Z",
-    "2c5ccb0e-ac88-80ac-aa53-ca7229dfe3d6": "2026-03-12T00:44:09.394Z",
-    "2c5ccb0e-ac88-8065-a98d-e0c0a85f388d": "2026-03-12T00:44:10.478Z",
-    "2d8ccb0e-ac88-812e-a8b1-d773411fa9e2": "2026-03-12T00:44:12.458Z",
-    "2d8ccb0e-ac88-81bc-baed-cd2c4fb84309": "2026-03-12T00:44:14.247Z",
+    "28fccb0e-ac88-81f7-9773-d350b2f7eb6e": "2026-06-26T02:19:09.572Z",
+    "2c5ccb0e-ac88-80ca-9717-d57e83ff43cf": "2026-06-26T02:19:32.867Z",
+    "2edccb0e-ac88-815c-a6de-c98c5d033c02": "2026-06-26T02:19:59.937Z",
+    "28fccb0e-ac88-813d-a92a-f913c8e96f8d": "2026-06-26T02:19:13.685Z",
+    "28fccb0e-ac88-81ac-a507-d67b8f5f9ead": "2026-06-26T02:19:14.797Z",
+    "28fccb0e-ac88-8131-9dfd-d391f4730bf9": "2026-06-26T02:19:15.949Z",
+    "2cbccb0e-ac88-80de-9137-f20e09653d80": "2026-06-26T02:19:17.583Z",
+    "2a9ccb0e-ac88-80c6-8c3e-dc8a1e02a05c": "2026-06-26T02:19:19.787Z",
+    "2aeccb0e-ac88-80e1-ad62-c2b3091b33ab": "2026-06-26T02:19:20.922Z",
+    "2d3ccb0e-ac88-8136-bb52-c12b9c6e3a1a": "2026-06-26T02:19:23.918Z",
+    "2d3ccb0e-ac88-811c-bf2d-e8935fd8726b": "2026-06-26T02:19:25.071Z",
+    "2d3ccb0e-ac88-819a-af66-ee353d6e1b19": "2026-06-26T02:19:26.171Z",
+    "2d3ccb0e-ac88-81d2-9dcb-d15e30d0c556": "2026-06-26T02:19:27.300Z",
+    "2d8ccb0e-ac88-80f1-be53-c360c1fd9430": "2026-06-26T02:19:28.405Z",
+    "2d8ccb0e-ac88-80e8-9b7d-e3a4d9a984e1": "2026-06-26T02:19:29.562Z",
+    "2daccb0e-ac88-8039-8976-d042d9b605a0": "2026-06-26T02:19:30.653Z",
+    "2c5ccb0e-ac88-8004-9a5a-d51f7d3d89dc": "2026-06-26T02:19:31.767Z",
+    "2c5ccb0e-ac88-80ac-aa53-ca7229dfe3d6": "2026-06-26T02:19:34.005Z",
+    "2c5ccb0e-ac88-8065-a98d-e0c0a85f388d": "2026-06-26T02:19:36.142Z",
+    "2d8ccb0e-ac88-812e-a8b1-d773411fa9e2": "2026-06-26T02:19:45.584Z",
+    "2d8ccb0e-ac88-81bc-baed-cd2c4fb84309": "2026-06-26T02:19:47.009Z",
     "2c3ccb0e-ac88-81f5-8548-fe0b0c2423a7": "2026-03-12T00:44:17.662Z",
     "2c3ccb0e-ac88-8175-995b-f4fd1d065d51": "2026-03-12T00:44:46.871Z",
     "2c3ccb0e-ac88-8105-ad23-f099fe486bf2": "2026-03-12T00:44:48.899Z",
     "2c3ccb0e-ac88-81d1-a5cf-ddf9962b6f19": "2026-03-12T00:44:50.161Z",
     "2cbccb0e-ac88-8018-b63f-d5d12f6255f8": "2026-03-12T00:44:51.593Z",
     "2cbccb0e-ac88-8017-83d0-d4dc99715452": "2026-03-12T00:44:52.785Z",
-    "2efccb0e-ac88-806b-8175-f5005675b56a": "2026-03-12T00:44:59.756Z",
-    "2efccb0e-ac88-80a3-9975-e92b915a7a55": "2026-03-12T00:45:09.030Z",
-    "2efccb0e-ac88-80dd-b257-d8979c59c2dd": "2026-03-12T00:45:10.266Z",
-    "2d8ccb0e-ac88-81ed-8466-f477910410bd": "2026-03-12T00:45:19.759Z",
-    "2d8ccb0e-ac88-81cf-9933-c1d7f6551a3b": "2026-03-12T00:45:57.258Z",
-    "2d8ccb0e-ac88-81d9-9a22-e69ff5bb9085": "2026-03-12T00:45:59.999Z",
-    "2d8ccb0e-ac88-815c-9c66-ef51fc15966e": "2026-03-12T00:46:04.252Z",
-    "2d8ccb0e-ac88-815e-b410-d6e734be08c5": "2026-03-12T00:46:05.384Z",
-    "2edccb0e-ac88-8155-b869-fae4181156f7": "2026-03-12T00:46:37.396Z",
-    "2edccb0e-ac88-81bf-8f23-cd9f779a52b9": "2026-03-12T00:48:05.479Z",
-    "2edccb0e-ac88-815c-9879-c6b90d3bbb10": "2026-03-12T00:48:07.346Z",
-    "2edccb0e-ac88-814c-91e8-de4d7e2bd8ca": "2026-03-12T00:48:09.767Z",
-    "2edccb0e-ac88-81d2-927e-d0fdf7f9e440": "2026-03-12T00:48:10.827Z",
-    "2efccb0e-ac88-80f2-a2e2-f9bdeabd279a": "2026-03-12T00:48:14.318Z",
-    "2f6ccb0e-ac88-80ee-820b-fda54d75d7cf": "2026-03-24T07:37:23.494Z",
-    "2f6ccb0e-ac88-80b2-90ce-d27c8a0fc008": "2026-03-24T07:37:50.297Z",
-    "302ccb0e-ac88-8177-8ae3-cefc1eeadc70": "2026-03-24T07:20:48.975Z",
-    "302ccb0e-ac88-8149-a55e-e3a7987e1a78": "2026-03-24T07:20:48.981Z",
-    "302ccb0e-ac88-81a8-9472-d293015d91ba": "2026-03-24T07:20:48.986Z",
-    "302ccb0e-ac88-818a-a728-f3e9914aac12": "2026-03-24T07:20:48.989Z",
-    "302ccb0e-ac88-81f0-813e-f8c0ddc3270d": "2026-03-24T07:20:48.993Z",
-    "302ccb0e-ac88-8160-a6f3-f30ecd3dcc66": "2026-03-24T07:20:48.996Z",
-    "318ccb0e-ac88-802a-af65-dc9c20726f4e": "2026-03-24T07:28:58.997Z",
-    "2f6ccb0e-ac88-8091-9fd3-d24fd452ad5c": "2026-03-24T07:37:55.670Z",
-    "312ccb0e-ac88-80e6-8e0e-faf9b9ff961b": "2026-03-24T07:38:50.954Z",
-    "312ccb0e-ac88-8002-9c33-f19b15ae683d": "2026-03-24T07:40:59.696Z"
+    "2efccb0e-ac88-806b-8175-f5005675b56a": "2026-06-26T02:19:48.315Z",
+    "2efccb0e-ac88-80a3-9975-e92b915a7a55": "2026-06-26T02:19:49.385Z",
+    "2efccb0e-ac88-80dd-b257-d8979c59c2dd": "2026-06-26T02:19:50.792Z",
+    "2d8ccb0e-ac88-81ed-8466-f477910410bd": "2026-06-26T02:19:51.939Z",
+    "2d8ccb0e-ac88-81cf-9933-c1d7f6551a3b": "2026-06-26T02:19:54.207Z",
+    "2d8ccb0e-ac88-81d9-9a22-e69ff5bb9085": "2026-06-26T02:19:55.573Z",
+    "2d8ccb0e-ac88-815c-9c66-ef51fc15966e": "2026-06-26T02:19:56.676Z",
+    "2d8ccb0e-ac88-815e-b410-d6e734be08c5": "2026-06-26T02:19:57.799Z",
+    "2edccb0e-ac88-8155-b869-fae4181156f7": "2026-06-26T02:19:58.857Z",
+    "2edccb0e-ac88-81bf-8f23-cd9f779a52b9": "2026-06-26T02:20:01.759Z",
+    "2edccb0e-ac88-815c-9879-c6b90d3bbb10": "2026-06-26T02:20:02.857Z",
+    "2edccb0e-ac88-814c-91e8-de4d7e2bd8ca": "2026-06-26T02:20:03.991Z",
+    "2edccb0e-ac88-81d2-927e-d0fdf7f9e440": "2026-06-26T02:20:05.108Z",
+    "2efccb0e-ac88-80f2-a2e2-f9bdeabd279a": "2026-06-26T02:20:06.837Z",
+    "2f6ccb0e-ac88-80ee-820b-fda54d75d7cf": "2026-06-26T02:19:37.813Z",
+    "2f6ccb0e-ac88-80b2-90ce-d27c8a0fc008": "2026-06-26T02:19:40.114Z",
+    "302ccb0e-ac88-8177-8ae3-cefc1eeadc70": "2026-06-26T02:17:39.333Z",
+    "302ccb0e-ac88-8149-a55e-e3a7987e1a78": "2026-06-26T02:17:41.068Z",
+    "302ccb0e-ac88-81a8-9472-d293015d91ba": "2026-06-26T02:17:42.212Z",
+    "302ccb0e-ac88-818a-a728-f3e9914aac12": "2026-06-26T02:17:43.659Z",
+    "302ccb0e-ac88-81f0-813e-f8c0ddc3270d": "2026-06-26T02:17:44.803Z",
+    "302ccb0e-ac88-8160-a6f3-f30ecd3dcc66": "2026-06-26T02:17:45.924Z",
+    "318ccb0e-ac88-802a-af65-dc9c20726f4e": "2026-06-26T02:20:09.044Z",
+    "2f6ccb0e-ac88-8091-9fd3-d24fd452ad5c": "2026-06-26T02:19:41.221Z",
+    "312ccb0e-ac88-80e6-8e0e-faf9b9ff961b": "2026-06-26T02:19:43.093Z",
+    "312ccb0e-ac88-8002-9c33-f19b15ae683d": "2026-06-26T02:19:44.531Z",
+    "318ccb0e-ac88-80fa-8e13-f81cfb6ac2aa": "2026-06-26T02:20:07.949Z",
+    "32eccb0e-ac88-80de-81b9-f020e9b477d4": "2026-06-26T02:20:15.188Z",
+    "32eccb0e-ac88-80a6-ba18-e54f74ac7e26": "2026-06-26T02:20:25.069Z",
+    "33eccb0e-ac88-80b9-94db-c63246ca2e9c": "2026-06-26T02:20:26.188Z",
+    "33eccb0e-ac88-801e-8a48-c9bf7365e0aa": "2026-06-26T02:20:27.311Z"
   },
   "relation_name_cache": {
     "311ccb0e-ac88-80f5-9176-cbf4994dd7d7": "Lead - chấm PP LO BG",
@@ -1099,7 +1162,57 @@
     "31bccb0e-ac88-8031-acca-f55fc67147b6": "Background 02",
     "31fccb0e-ac88-80cb-9d55-c10d4ca6fd9b": "Keyframe 12",
     "31fccb0e-ac88-80a9-bd38-c3c3990cb14f": "Keyframe 18",
-    "31bccb0e-ac88-80e5-b2f4-dbd5e411ad0e": "Background 06A"
+    "31bccb0e-ac88-80e5-b2f4-dbd5e411ad0e": "Background 06A",
+    "365ccb0e-ac88-805e-b29c-d4bb6075d5c7": "Sequence 3 1",
+    "366ccb0e-ac88-804a-bc72-f5ee9780ad3e": "FIX_CLIENT XỬ NỮ NAM 1",
+    "365ccb0e-ac88-809e-8532-f913ac7fa0bf": "Sequence 12 1",
+    "368ccb0e-ac88-8071-b6cf-e3f144804093": "ve sticker cho event 1",
+    "366ccb0e-ac88-8011-ae53-eb9af965424c": "FIX SONG TỬ NAM 1 1",
+    "366ccb0e-ac88-8046-9076-c2195e729c8c": "SONG TỬ NAM 2 SET 2 1",
+    "351ccb0e-ac88-807d-9078-f6272554abf5": "FIX_COLOR | LINE 1.2.3 1",
+    "364ccb0e-ac88-80d5-9ac0-fe1a69f4494f": "SONG TỬ NỮ 2 SET 2 2",
+    "365ccb0e-ac88-809c-91e2-d0b4491538ae": "SONG TỬ NỮ 2 SET 2 3",
+    "366ccb0e-ac88-807f-9139-d3ca2e35928e": "SONG TỬ NAM 2 SET 2 2",
+    "356ccb0e-ac88-80ea-83d5-f5fa9c58658a": "FIX_Người đá 3",
+    "34bccb0e-ac88-800e-9e2e-eb81aabb44f8": "DO Sequence 1 ",
+    "34bccb0e-ac88-8087-89d9-e0cef4675fd1": "FIX_Người đá 1",
+    "357ccb0e-ac88-80bc-a560-c44568b98af0": "FIX_Người đá 5",
+    "350ccb0e-ac88-803b-a123-ce8022c30d8c": "FIX_Người đá 2",
+    "357ccb0e-ac88-80bb-910e-ef74f048c47e": "Sequence 23 1",
+    "365ccb0e-ac88-80d8-bbf7-f417b991648f": "Sequence 24 (p2) 1",
+    "349ccb0e-ac88-807d-9056-d4a550b81e99": "Sequence 13 1",
+    "35dccb0e-ac88-8060-bde3-c5ba479d4f32": "Sequence 24 (p1) 1",
+    "365ccb0e-ac88-806c-ad0a-dd3585196ae6": "Sequence 25 1",
+    "365ccb0e-ac88-80c4-a7b1-c0b2d9fda3a0": "Sequence 15 1",
+    "351ccb0e-ac88-806b-ac77-f341bf117c64": "Sequence 14 1",
+    "356ccb0e-ac88-8070-ac45-f39854555cd8": "Sequence 22 1",
+    "361ccb0e-ac88-8077-93ba-f2d583fdd25a": "XỬ NỮ NAM SET 2 1",
+    "365ccb0e-ac88-8066-ac7e-eb00109464ed": "Sequence 10 1",
+    "368ccb0e-ac88-805a-b757-d95988ad630e": "THIÊN YẾT NAM SET 2 1",
+    "368ccb0e-ac88-809e-89aa-d9854bb99613": "THIÊN BÌNH NAM SET 2 1",
+    "368ccb0e-ac88-804e-ab65-d52cdbee348c": "SƯ TỬ NỮ SET 2 1",
+    "364ccb0e-ac88-80a9-8aac-d1b53735f262": "SONG TỬ NỮ 1 SET 2 3",
+    "361ccb0e-ac88-8020-93c2-fafd4db78692": "SONG TỬ NỮ 1 SET 2 2",
+    "33cccb0e-ac88-80af-8264-db8604867012": "Đọc truyện 1",
+    "33cccb0e-ac88-804e-ada8-f46755b56d15": "Đọc truyện 1",
+    "367ccb0e-ac88-8054-a111-c835bd81a741": "KIM NGƯU NỮ SET 2 2",
+    "366ccb0e-ac88-80ff-9377-de7a43c23bc2": "SONG TỬ NAM 1 SET 2 1",
+    "365ccb0e-ac88-806b-bffa-ea36c90386c1": "SONG TỬ NỮ 1 SET 2 4",
+    "348ccb0e-ac88-80ba-89c1-eaabce6b93c5": "Scene 26 1",
+    "33cccb0e-ac88-8039-bd6e-e1893922e64c": "Đọc kịch bản 1",
+    "33cccb0e-ac88-8010-b7f1-fae901bedb96": "Đọc kịch bản 1",
+    "33cccb0e-ac88-80a5-ab29-c2c00db5e21b": "Đọc truyện 1",
+    "33cccb0e-ac88-801c-8f68-e492ab7e3ebb": "Đọc kịch bản 1",
+    "33dccb0e-ac88-8008-a1b2-d289d3ce23a0": "Scene 25 1",
+    "33eccb0e-ac88-804b-9827-d002cc544e7e": "Scene 7 1",
+    "342ccb0e-ac88-80d3-89e8-f4226361eb92": "Scene 8 1",
+    "33dccb0e-ac88-80be-ad03-ee41df0e4a52": "Scene 24 1",
+    "33cccb0e-ac88-80be-956a-cc3b93032ec7": "Scene 23 1",
+    "342ccb0e-ac88-8097-812f-dda392c88efc": "Scene 4 1",
+    "33eccb0e-ac88-800b-a524-db0a1728d959": "Scene 5 1",
+    "342ccb0e-ac88-8063-a991-f082912554e5": "Scene 2 1",
+    "342ccb0e-ac88-8035-9aff-c02c6483f8b4": "Scene 3 1",
+    "33eccb0e-ac88-80f9-8ed1-c3c6bad7b049": "Scene 6 1"
   },
   "mismatch_tracker": {
     "28eccb0e-ac88-81fa-8346-c8611aceff52": {

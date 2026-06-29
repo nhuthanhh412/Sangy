@@ -11,10 +11,9 @@ class AuthManager {
         const tokenConfigured = !!status.configured;
         const sessionAuthenticated = !!status.session_authenticated;
 
+        console.log(`[Auth] token_configured=${tokenConfigured}, session_authenticated=${sessionAuthenticated}`);
+
         if (tokenConfigured) {
-            // Auto-select all databases and go to dashboard
-            // await this.autoSelectAllDatabases(); // Disabled to reduce load. User selects via Sidebar.
-            console.log(`[Auth] token_configured=${tokenConfigured}, session_authenticated=${sessionAuthenticated}`);
             this.showDashboard();
         } else {
             this.showAuthScreen();
@@ -76,14 +75,24 @@ class AuthManager {
         document.getElementById('loading').classList.add('hidden');
         document.getElementById('auth-screen').classList.remove('hidden');
 
-        // Show message about token configuration
-        const authContainer = document.querySelector('.auth-container');
-        if (!authContainer.querySelector('.token-message')) {
-            const message = document.createElement('p');
-            message.className = 'token-message';
-            message.style.cssText = 'color: #f87171; margin-top: 1rem; font-size: 0.9rem;';
-            message.textContent = '⚠️ Notion Integration Token chưa được cấu hình. Vui lòng kiểm tra file .env';
-            authContainer.appendChild(message);
+        const statusContainer = document.getElementById('auth-status');
+        if (statusContainer) {
+            statusContainer.innerHTML = `
+                <div style="padding: 1rem; background: #dc2626; color: white; border-radius: 8px; text-align: center;">
+                    <svg style="display: inline; margin-right: 0.5rem;" width="20" height="20" viewBox="0 0 24 24" fill="none">
+                        <path d="M12 5v7" stroke="currentColor" stroke-width="2" stroke-linecap="round" />
+                        <path d="M12 14v2" stroke="currentColor" stroke-width="2" stroke-linecap="round" />
+                        <circle cx="12" cy="12" r="9" stroke="currentColor" stroke-width="2" />
+                    </svg>
+                    <strong>⚠️ Lỗi kết nối backend</strong>
+                    <p style="font-size: 0.9rem; margin-top: 0.5rem;">Backend không phản hồi. Vui lòng:</p>
+                    <ul style="text-align: left; display: inline-block; margin-top: 0.5rem;">
+                        <li>1. Kiểm tra backend đã khởi động: <code>cd backend && npm start</code></li>
+                        <li>2. Kiểm tra <code>backend/.env</code> có <code>NOTION_ACCESS_TOKEN</code></li>
+                        <li>3. Trang web chạy ở port 3000, backend cũng chạy port 3000</li>
+                    </ul>
+                </div>
+            `;
         }
     }
 
@@ -126,7 +135,10 @@ class AuthManager {
                 }
             }, 100);
             // Timeout after 10s
-            setTimeout(() => clearInterval(waitForApp), 10000);
+            setTimeout(() => {
+                clearInterval(waitForApp);
+                console.error('[Auth] DashboardApp failed to load within 10 seconds');
+            }, 10000);
         }
     }
 

@@ -2700,6 +2700,7 @@ class DashboardApp {
                 // Get standard days from input
                 const standardDays = parseFloat(stdDaysInput.value) || 23;
 
+                // Always force refresh to get latest data
                 const response = await fetch(`${API_BASE}/api/reports/productivity`, {
                     method: 'POST',
                     headers: { 'Content-Type': 'application/json' },
@@ -2708,7 +2709,7 @@ class DashboardApp {
                         endDate: endDate,
                         databaseIds: taskDbIds,
                         standardDays: standardDays,
-                        forceRefresh: options.forceRefresh === true
+                        forceRefresh: true
                     })
                 });
                 const result = await response.json();

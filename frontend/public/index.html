@@ -64,15 +64,7 @@
                 <h1>Notion Dashboard</h1>
                 <p class="tagline">Real-time Sprint Analytics</p>
             </div>
-            <div class="auth-status">
-                <span class="status-badge success">
-                    <svg width="16" height="16" viewBox="0 0 24 24" fill="none">
-                        <path d="M20 6L9 17l-5-5" stroke="currentColor" stroke-width="2" stroke-linecap="round"
-                            stroke-linejoin="round" />
-                    </svg>
-                    Notion Token đã cấu hình
-                </span>
-            </div>
+            <div class="auth-status" id="auth-status"></div>
             <button id="connect-notion-btn" class="btn-primary btn-large"
                 onclick="window.auth && window.auth.showSetup()">
                 <svg width="20" height="20" viewBox="0 0 24 24" fill="none">

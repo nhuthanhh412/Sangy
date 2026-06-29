@@ -1442,7 +1442,34 @@ function getQuotaFallbackReply(userMessage) {
 }
 
 export function setupRoutes(app, db, poller) {
-    const notionToken = process.env.NOTION_ACCESS_TOKEN || process.env.NOTION_TOKEN;
+    const isValidNotionToken = (token) => {
+        return typeof token === 'string'
+            && token.trim().length >= 40
+            && !/secret_xxx|replace_with|change-this/i.test(token);
+    };
+
+    const getStoredNotionToken = () => {
+        const rawToken = process.env.NOTION_ACCESS_TOKEN || process.env.NOTION_TOKEN || db.getConfig('access_token') || null;
+        return isValidNotionToken(rawToken) ? rawToken : null;
+    };
+
+    let notionToken = getStoredNotionToken();
+    let globalProjectsService = null;
+
+    const refreshNotionToken = () => {
+        const token = getStoredNotionToken();
+        if (token !== notionToken) {
+            notionToken = token;
+            globalProjectsService = null;
+        }
+        return notionToken;
+    };
+
+    const ensureNotionToken = () => {
+        notionToken = getStoredNotionToken();
+        return notionToken;
+    };
+
     const getChatRuntimeConfig = () => {
         const chatApiKey = process.env.AI_API_KEY || process.env.OPENAI_API_KEY || process.env.AL_API_KEY || '';
         const chatProvider = (process.env.AI_PROVIDER || (chatApiKey.startsWith('AIza') ? 'gemini' : 'openai')).toLowerCase();
@@ -1457,7 +1484,6 @@ export function setupRoutes(app, db, poller) {
             chatModel: process.env.AI_MODEL || (chatProvider === 'gemini' ? 'gemini-1.5-flash' : 'gpt-4o-mini')
         };
     };
-    let globalProjectsService = null;
     const rawWarmupInFlight = new Set();
     const syncJobsPath = path.join(__dirname, '..', '..', 'data', 'sync_jobs.json');
     const syncJobs = loadSyncJobs(syncJobsPath);
@@ -1472,9 +1498,10 @@ export function setupRoutes(app, db, poller) {
     };
 
     const getProjectsService = () => {
-        if (!notionToken) return null;
+        const token = refreshNotionToken();
+        if (!token) return null;
         if (!globalProjectsService) {
-            globalProjectsService = new ProjectsService(notionToken);
+            globalProjectsService = new ProjectsService(token);
         }
         return globalProjectsService;
     };
@@ -1485,7 +1512,9 @@ export function setupRoutes(app, db, poller) {
         if (databasesCache && (now - databasesCacheTime) < CACHE_TTL) {
             return databasesCache;
         }
-        const discovery = new DatabaseDiscovery(notionToken);
+        const token = ensureNotionToken();
+        if (!token) throw new Error('No Notion token configured');
+        const discovery = new DatabaseDiscovery(token);
         databasesCache = await discovery.discoverDatabases();
         databasesCacheTime = now;
         console.log(`[Cache] Refreshed databases cache: ${databasesCache.length} databases`);
@@ -1515,7 +1544,8 @@ export function setupRoutes(app, db, poller) {
         if (!databaseId || rawWarmupInFlight.has(databaseId)) {
             return false;
         }
-        if (!notionToken) {
+        const token = ensureNotionToken();
+        if (!token) {
             return false;
         }
 
@@ -1547,7 +1577,8 @@ export function setupRoutes(app, db, poller) {
 
     // ============ AUTH ROUTES ============
     app.get('/auth/status', (req, res) => {
-        const configured = !!notionToken;
+        const token = ensureNotionToken();
+        const configured = !!token;
         const sessionAuthenticated = !!req.session?.configured;
         res.json({
             authenticated: configured, // Backward compatible for current UI
@@ -1562,7 +1593,8 @@ export function setupRoutes(app, db, poller) {
     });
 
     app.post('/auth/setup', (req, res) => {
-        if (!notionToken) return res.status(401).json({ error: 'No Notion token configured' });
+        const token = ensureNotionToken();
+        if (!token) return res.status(401).json({ error: 'No Notion token configured' });
         req.session.configured = true;
         res.json({ success: true, session_authenticated: true });
     });
@@ -2033,9 +2065,10 @@ export function setupRoutes(app, db, poller) {
 
     // ============ DATABASE ROUTES ============
     app.get('/api/databases', async (req, res) => {
-        if (!notionToken) return res.status(401).json({ error: 'No Notion token configured' });
+        const token = ensureNotionToken();
+        if (!token) return res.status(401).json({ error: 'No Notion token configured' });
         try {
-            const discovery = new DatabaseDiscovery(notionToken);
+            const discovery = new DatabaseDiscovery(token);
             const databases = await discovery.discoverDatabases();
             res.json({ success: true, databases });
         } catch (error) {
@@ -2045,7 +2078,8 @@ export function setupRoutes(app, db, poller) {
     });
 
     app.post('/api/databases/select', async (req, res) => {
-        if (!notionToken) return res.status(401).json({ error: 'No Notion token configured' });
+        const token = ensureNotionToken();
+        if (!token) return res.status(401).json({ error: 'No Notion token configured' });
         const { database_ids } = req.body;
         if (!database_ids || !Array.isArray(database_ids)) {
             return res.status(400).json({ error: 'database_ids must be an array' });
@@ -2053,6 +2087,7 @@ export function setupRoutes(app, db, poller) {
         try {
             db.setConfig('selected_databases', database_ids);
             db.setConfig('access_token', notionToken);
+            notionToken = getStoredNotionToken();
             req.session.configured = true;
             console.log(`[API] ✅ Saved ${database_ids.length} selected databases`);
             res.json({ success: true, count: database_ids.length });
@@ -2072,9 +2107,10 @@ export function setupRoutes(app, db, poller) {
     });
 
     app.get('/api/databases/grouped', async (req, res) => {
-        if (!notionToken) return res.status(401).json({ error: 'No Notion token configured' });
+        const token = ensureNotionToken();
+        if (!token) return res.status(401).json({ error: 'No Notion token configured' });
         try {
-            const discovery = new DatabaseDiscovery(notionToken);
+            const discovery = new DatabaseDiscovery(token);
             const allDatabases = await discovery.discoverDatabases();
             const grouped = {};
             for (const db of allDatabases) {
@@ -2098,7 +2134,8 @@ export function setupRoutes(app, db, poller) {
 
     // Get hierarchical project tree from [Chung]Dự án
     app.get('/api/projects/tree', async (req, res) => {
-        if (!notionToken) return res.status(401).json({ error: 'No Notion token configured' });
+        const token = ensureNotionToken();
+        if (!token) return res.status(401).json({ error: 'No Notion token configured' });
         const projectsService = getProjectsService();
         if (!projectsService) return res.status(500).json({ error: 'Service not initialized' });
 
@@ -2116,7 +2153,8 @@ export function setupRoutes(app, db, poller) {
 
     // Get data for a specific child database
     app.get('/api/projects/database/:id', async (req, res) => {
-        if (!notionToken) return res.status(401).json({ error: 'No Notion token configured' });
+        const token = ensureNotionToken();
+        if (!token) return res.status(401).json({ error: 'No Notion token configured' });
 
         const { id } = req.params;
 
@@ -2129,7 +2167,7 @@ export function setupRoutes(app, db, poller) {
             }
 
             // Fetch fresh data using DataFetcher
-            const fetcher = new DataFetcher(notionToken);
+            const fetcher = new DataFetcher(token);
             const result = await fetcher.fetchAllData([id]);
             const data = result[id] || [];
 
@@ -2146,7 +2184,8 @@ export function setupRoutes(app, db, poller) {
 
     // Clear projects tree cache
     app.post('/api/projects/refresh', async (req, res) => {
-        if (!notionToken) return res.status(401).json({ error: 'No Notion token configured' });
+        const token = ensureNotionToken();
+        if (!token) return res.status(401).json({ error: 'No Notion token configured' });
 
         try {
             // Clear cache
@@ -2154,6 +2193,7 @@ export function setupRoutes(app, db, poller) {
             db.setConfig('projects_tree_active_time', null);
             db.setConfig('projects_tree_all', null);
             db.setConfig('projects_tree_all_time', null);
+            globalProjectsService = null;
 
             console.log('[API] Cleared projects tree cache');
             res.json({ success: true, message: 'Cache cleared' });
@@ -2405,37 +2445,40 @@ export function setupRoutes(app, db, poller) {
             const liveFallbacks = [];
             const dataOverrides = {};
 
-            // Check for static snapshot data
-            const snapshotPath = path.join(__dirname, '..', '..', '..', 'frontend', 'public', 'data', 'tasks_snapshot.json');
+            // Static snapshot support is disabled by default to ensure latest data.
+            const allowStaticSnapshot = String(process.env.PRODUCTIVITY_USE_STATIC_SNAPSHOT || 'false').toLowerCase() === 'true';
             let isSnapshotLoaded = false;
             let snapshotTime = null;
-            if (fs.existsSync(snapshotPath)) {
-                try {
-                    const snapshotRaw = fs.readFileSync(snapshotPath, 'utf8');
-                    const snapshotData = JSON.parse(snapshotRaw);
-                    console.log(`[Productivity] Loaded static snapshot with ${snapshotData.records?.length || 0} total records.`);
-                    
-                    if (Array.isArray(snapshotData.records)) {
-                        isSnapshotLoaded = true;
-                        snapshotTime = snapshotData._meta?.scanned_at || fs.statSync(snapshotPath).mtime.toISOString();
-                        const idSets = {}; // O(1) lookup map
-                        for (const record of snapshotData.records) {
-                            const dbId = record.database_id;
-                            if (!dataOverrides[dbId]) {
-                                const existingCache = db.getData(dbId) || [];
-                                dataOverrides[dbId] = [...existingCache];
-                                idSets[dbId] = new Set(existingCache.map(t => t.id));
-                            }
-                            
-                            // Check deduplication by id in O(1) time
-                            if (!idSets[dbId].has(record.id)) {
-                                dataOverrides[dbId].push(record);
-                                idSets[dbId].add(record.id);
+            if (allowStaticSnapshot) {
+                const snapshotPath = path.join(__dirname, '..', '..', '..', 'frontend', 'public', 'data', 'tasks_snapshot.json');
+                if (fs.existsSync(snapshotPath)) {
+                    try {
+                        const snapshotRaw = fs.readFileSync(snapshotPath, 'utf8');
+                        const snapshotData = JSON.parse(snapshotRaw);
+                        console.log(`[Productivity] Loaded static snapshot with ${snapshotData.records?.length || 0} total records.`);
+                        
+                        if (Array.isArray(snapshotData.records)) {
+                            isSnapshotLoaded = true;
+                            snapshotTime = snapshotData._meta?.scanned_at || fs.statSync(snapshotPath).mtime.toISOString();
+                            const idSets = {}; // O(1) lookup map
+                            for (const record of snapshotData.records) {
+                                const dbId = record.database_id;
+                                if (!dataOverrides[dbId]) {
+                                    const existingCache = db.getData(dbId) || [];
+                                    dataOverrides[dbId] = [...existingCache];
+                                    idSets[dbId] = new Set(existingCache.map(t => t.id));
+                                }
+                                
+                                // Check deduplication by id in O(1) time
+                                if (!idSets[dbId].has(record.id)) {
+                                    dataOverrides[dbId].push(record);
+                                    idSets[dbId].add(record.id);
+                                }
                             }
                         }
+                    } catch (e) {
+                        console.error('[Productivity] Error reading tasks_snapshot.json:', e.message);
                     }
-                } catch (e) {
-                    console.error('[Productivity] Error reading tasks_snapshot.json:', e.message);
                 }
             }
 
@@ -2537,9 +2580,11 @@ export function setupRoutes(app, db, poller) {
                 dataOverrides
             });
             const stats = prodService.getStats(startDate, endDate);
-            const dataSource = forceRefresh ? 'notion_api' : (isSnapshotLoaded ? 'snapshot' : (liveFallbacks.length > 0 ? 'mixed_live_cache' : 'local_cache'));
-            const freshnessStatus = forceRefresh ? 'fresh' : (isSnapshotLoaded ? 'snapshot' : (liveFallbacks.length > 0 ? 'mixed_live_cache' : 'cached'));
-            const syncedAt = isSnapshotLoaded ? snapshotTime : db.getLastUpdate();
+            
+            // Always use current time for synced_at to show latest generation time
+            const syncedAt = new Date().toISOString();
+            const dataSource = forceRefresh ? 'notion_api' : (liveFallbacks.length > 0 ? 'mixed_live_cache' : 'local_cache');
+            const freshnessStatus = forceRefresh ? 'fresh' : (liveFallbacks.length > 0 ? 'mixed_live_cache' : 'cached');
 
             res.json({
                 success: true,

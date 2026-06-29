@@ -117,8 +117,8 @@ class NotionDashboardServer {
      * This is a simplified version
      */
     getAccessToken() {
-        // For now, get from config (will be saved after OAuth)
-        return this.db.getConfig('access_token');
+        // Use configured access token from db first, but fall back to env vars for direct .env setup.
+        return this.db.getConfig('access_token') || process.env.NOTION_ACCESS_TOKEN || process.env.NOTION_TOKEN || null;
     }
 
     /**
