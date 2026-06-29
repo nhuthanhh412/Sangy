@@ -218,32 +218,32 @@ export class ProjectsService {
         ];
 
 
-        const targetProjects = projects.filter(p => {
-            const name = p.properties.Name?.title?.[0]?.plain_text || '';
-            const isPriority = PRIORITY_KEYWORDS.some(k => name.toLowerCase().includes(k.toLowerCase()));
-
-            if (priorityOnly) return isPriority;
-
-            const alreadyScanned = existingTree.some(ep => ep.id === p.id);
-            return !alreadyScanned;
-        });
-
-        console.log(`[Projects] Phase target: ${targetProjects.length} projects to scan (PriorityOnly: ${priorityOnly}).`);
-
         // 3. Scan & Map
         const newResults = [];
 
         // Load Whitelist Config for Hardcoded DBs
         const whitelistConfig = new Map();
+        const whitelistIds = new Set();
         try {
             const priorityPath = path.join(__dirname, '..', '..', 'data', 'priority_projects.json');
             if (fs.existsSync(priorityPath)) {
                 const data = JSON.parse(fs.readFileSync(priorityPath, 'utf8'));
                 data.projects?.forEach(p => {
                     if (p.id && p.databases) whitelistConfig.set(p.id, p.databases);
+                    if (p.id) whitelistIds.add(p.id);
                 });
             }
         } catch (e) { console.warn('[Projects] Failed to load whitelist config for mapping:', e.message); }
+
+        const targetProjects = projects.filter(p => {
+            const name = p.properties.Name?.title?.[0]?.plain_text || '';
+            const isPriority = PRIORITY_KEYWORDS.some(k => name.toLowerCase().includes(k.toLowerCase()));
+
+            if (priorityOnly) return isPriority || whitelistIds.has(p.id);
+
+            const alreadyScanned = existingTree.some(ep => ep.id === p.id);
+            return !alreadyScanned;
+        });
 
         for (let idx = 0; idx < targetProjects.length; idx++) {
             const project = targetProjects[idx];

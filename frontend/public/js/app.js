@@ -30,7 +30,7 @@ class DashboardApp {
         this.loadPersistedState();
 
         this.searchQuery = '';
-        this.isHiddenGroupOpen = false; // Mặc định đóng mục "Dự án khác"
+        this.isHiddenGroupOpen = true; // Mặc định mở mục "Dự án khác" (restore previous behavior)
         this.isHiddenProjectsOpen = false; // Mặc định đóng mục "Dự án đã ẩn"
         this.isHiddenDatabasesOpen = false; // Mặc định đóng mục "Database đã ẩn"
         this.databaseCounts = {}; // Store record counts
@@ -3490,7 +3490,8 @@ class DashboardApp {
         if (treeContainer) treeContainer.innerHTML = '<div class="loading-spinner">Loading projects...</div>';
 
         try {
-            const response = await fetch(`${API_BASE}/api/projects/tree?status=active`);
+            // Request full tree (include Done projects) so previously visible projects reappear
+            const response = await fetch(`${API_BASE}/api/projects/tree?status=all`);
             const data = await response.json();
 
             if (data.success) {
