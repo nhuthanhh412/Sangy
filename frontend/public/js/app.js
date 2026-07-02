@@ -3696,13 +3696,13 @@ class DashboardApp {
             // Visibility Icon
             const eyeIcon = isHiddenSection ? 'strikethrough-eye' : 'eye'; // Simplified icon logic
             const eyeTitle = isHiddenSection ? 'Hiện dự án' : 'Ẩn dự án';
-            const eyeAction = `event.stopPropagation(); app.toggleProjectVisibility('${safeProjectName.replace(/'/g, "\\\\'")}')`;
+            const eyeAction = `event.stopPropagation(); app.toggleProjectVisibility(${JSON.stringify(project.name)})`;
             // Note: toggleProjectVisibility logic handles boolean toggle.
 
             // Pin/Unpin Button
             const pinAction = isPinnedSection
-                ? `event.stopPropagation(); app.unpinProject('${project.id}', '${safeProjectName.replace(/'/g, "\\\\'")}')`
-                : `event.stopPropagation(); app.pinProject('${project.id}', '${safeProjectName.replace(/'/g, "\\\\'")}')`;
+                ? `event.stopPropagation(); app.unpinProject(${JSON.stringify(project.id)}, ${JSON.stringify(project.name)})`
+                : `event.stopPropagation(); app.pinProject(${JSON.stringify(project.id)}, ${JSON.stringify(project.name)})`;
             const pinTitle = isPinnedSection ? 'Bỏ ghim khỏi whitelist' : 'Ghim vào whitelist';
             const pinIcon = isPinnedSection ? '📌❌' : '📌';
 
@@ -3717,13 +3717,13 @@ class DashboardApp {
                         </div>
                         
                         <!-- Pin/Unpin Button -->
-                        <div class="pin-toggle" onclick="${pinAction}" title="${pinTitle}" 
+                        <div class="pin-toggle" onclick='${pinAction}' title="${pinTitle}" 
                              style="cursor:pointer;font-size:0.75rem;margin-right:4px;padding:2px 4px;border-radius:4px;background:${isPinnedSection ? '#fbbf2420' : '#3b82f620'};border:1px solid ${isPinnedSection ? '#fbbf2440' : '#3b82f640'};">
                             ${pinIcon}
                         </div>
                         
                         <!-- Toggle Project Visibility -->
-                         <div class="visibility-toggle" onclick="${eyeAction}" title="${eyeTitle}">
+                         <div class="visibility-toggle" onclick='${eyeAction}' title="${eyeTitle}">
                             ${isHiddenSection ? '🚫' : '👁'}
                          </div>
                     </div>
